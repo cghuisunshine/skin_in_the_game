@@ -1,0 +1,1194 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.080",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Prologue, Part 3 T he Ribs of the Incerto"
+   ]
+  },
+  {
+   "begin": "6.080",
+   "children": [],
+   "end": "14.840",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Seven pages per sitting, seven pages annum is the perfect rate - Rereaders need rereviewers"
+   ]
+  },
+  {
+   "begin": "14.840",
+   "children": [],
+   "end": "55.960",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Now that we've outlined the main ideas, let us see how this discussion fits the rest of the Incerto project. Just as Eve came out of Adam's ribs, so does each book of the Incerto emerge from the penultimate one's ribs. The Black Swan was an occasional discussion in Fooled by Randomness; the concept of convexity to random events, the theme of Antifragile, was adumbrated in The Black Swan; and, finally, Skin in the Game was a segment of Antifragile under the banner: Thou shalt not become antifragile at the expense of others. Simply, asymmetry in risk bearing leads to imbalances and, potentially, to systemic ruin."
+   ]
+  },
+  {
+   "begin": "55.960",
+   "children": [],
+   "end": "97.960",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "The Bob Rubin trade connects to my business as a trader (as we saw, when these people make money, they keep the profits; when they lose, someone else bears the costs while they do their Black Swan invocation). Its manifestations are so ubiquitous that it has been the backbone of every book of the Incerto. Whenever there is a mismatch between a bonus period (yearly) and the statistical occurrence of a blowup (every, say, ten years) the agent has an incentive to play the Bob Rubin risk-transfer game. Given the number of people trying to get on the money-making bus, there is a progressive accumulation of Black Swan risks in such systems. Then, boom, the systemic blowup happens."
+   ]
+  },
+  {
+   "begin": "97.960",
+   "children": [],
+   "end": "98.800",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "THE ROAD"
+   ]
+  },
+  {
+   "begin": "98.800",
+   "children": [],
+   "end": "153.560",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "We will be guided by what is most lively. The ethics side is straightforward, as part of the general Fat Tony-Isocrates asymmetry, and I have gone deeply into the matter thanks to a highly argumentative collaboration with the philosopher (and walking companion) Constantine Sandis. Tort law is equally straightforward, and I had thought it would occupy a large section of this volume, but it will thankfully be minimal. Why?"
+   ]
+  },
+  {
+   "begin": "153.560",
+   "children": [],
+   "end": "198.440",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Tort law is insipid to those who don't have the temperament that takes one to law school. For, prompted by the fearless Ralph Nader, a coffee table in my study accumulated close to twenty volumes on contract law and torts. But I found the topic so dull that it was a Herculean task for me to read more than seven lines per sitting (which is the reason God mercifully invented social media and Twitter fights): unlike science and mathematics, law, while being very rigorous, doesn't offer surprises. Law cannot be playful. The mere sight of these books reminds me of a lunch with a former member of the Federal Reserve Board, the kind of thing to which one should never be subjected more than once per lifetime. So I will dispatch the topic of torts in a few lines."
+   ]
+  },
+  {
+   "begin": "198.440",
+   "children": [],
+   "end": "219.320",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "As we intimated in the first paragraphs of the introduction, some nonsoporific topics (pagan theology, religious practices, complexity theory, ancient and medieval history, and, of course, probability and risk taking) match this author's naturalistic filter. Simply: if you can't put your soul into something, give it up and leave that stuff to someone else."
+   ]
+  },
+  {
+   "begin": "219.320",
+   "children": [],
+   "end": "278.400",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Talking about soul in the game, I had to overcome some shame as follows. In the Paris episode of Hammurabi at the Louvre, when I stood in front of the imposing basalt stele (in the room with Koreans with selfie sticks), I felt uneasy not being able to read the stuff and having to rely on experts. What experts? This would have been fine if it was a cultural journey, but here I am professionally writing a book going very deep into that stuff! It felt like cheating not knowing the ancient text the way it was read and recited at the time. In addition, one of my episodic hobbies is Semitic philology, so I had no excuse. So I have been distracted by an obsession to learn enough Akkadian in order to recite Hammurabi's law with Semitic phonetics, sort of having some soul in the game. It may have delayed the completion of this book, but, at least, when I mention Hammurabi, my conscience doesn't make me feel I am faking anything."
+   ]
+  },
+  {
+   "begin": "278.400",
+   "children": [],
+   "end": "281.920",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "AN ENHANCED DETECTOR"
+   ]
+  },
+  {
+   "begin": "281.920",
+   "children": [],
+   "end": "308.600",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "This book came after a deep - nonacademic - unplanned flirtation with mathematics. For after finishing Antifragile, I thought of retiring my pen for a while and settling into the comfortable life of a quarter university position, enjoying squid-ink pasta in bon vivant company, lifting weights with my blue-collar friends, and playing bridge in the afternoon, the kind of tranquil, worry-free life of the nineteenth-century gentry."
+   ]
+  },
+  {
+   "begin": "308.600",
+   "children": [],
+   "end": "381.520",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "What I didn't forecast is that my dream of a tranquil life lasted only a few weeks. For I exhibited no skills whatsoever in retirement activities such as contract bridge, chess, lotto, visits to the pyramids in Mexico, etc. I once, by happenstance, tried to solve a mathematical brain teaser, and it lead to five years of compulsive, time-invasive mathematical practice, with the obsessive bouts that plague people inhabited with problems. As usual with these things, I didn't do mathematics to solve a problem, just to satisfy a fixation. But I never expected the following effect. It made my bull***t detector so sensitive that listening to well-marketed nonsense (by verbalistic people, especially academics) had the same effect as being put in a room with instances of randomly occurring piercing and jarring sounds, the type that kill animals. I am never bothered by normal people; it is the bull***tter in the \"intellectual\" profession who bothers me. Seeing the psychologist Steven Pinker making pronouncements about things intellectual has a similar effect to encountering a drive-in Burger King while hiking in the middle of a national park."
+   ]
+  },
+  {
+   "begin": "381.520",
+   "children": [],
+   "end": "389.200",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "It is under such an oversensitive bull***t detector that I have been writing this book."
+   ]
+  },
+  {
+   "begin": "389.200",
+   "children": [],
+   "end": "392.360",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "THE BOOK REVIEWERS"
+   ]
+  },
+  {
+   "begin": "392.360",
+   "children": [],
+   "end": "438.480",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And since we are talking about books, I close this introductory section with that one thing I've learned from my time in that business. Many book reviewers are intellectually honest and straightforward people, but the industry has a fundamental conflict with the public, even while appointing itself as representative of the general class of readers. For instance, when it comes to books written by risk takers, the general public (and some, but very few, book editors) can detect what is interesting to them in a certain account, something those in the fake space of word production (in other words, nondoers) chronically fail to get - and they cannot understand what it is that they don't understand because they are not really part of active and transactional life."
+   ]
+  },
+  {
+   "begin": "438.480",
+   "children": [],
+   "end": "481.800",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Nor can book reviewers - by the very definition of their function - judge books that one rereads. For those familiar with the idea of nonlinear effects from Antifragile, learning is rooted in repetition and convexity, meaning that the reading of a single text twice is more profitable than reading two different things once, provided of course that said text has some depth of content. The convexity is implanted in Semitic vocabulary: mishnah, which in Hebrew refers to the pre-Talmudic compilation of oral tradition, means \"doubling\"; midrash itself may also be related to stamping and repeated grinding, and has a counterpart in the madrassa of the children of Ishmael."
+   ]
+  },
+  {
+   "begin": "481.800",
+   "children": [],
+   "end": "504.000",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Books should be organized the way the reader reads, or wants to read, and according to how deep the author wants to go into a topic, not to make life easy for the critics to write reviews. Book reviewers are bad middlemen; they are currently in the process of being disintermediated just like taxi companies (what some call Uberized)."
+   ]
+  },
+  {
+   "begin": "504.000",
+   "children": [],
+   "end": "566.520",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "How? There is, here again, a skin-in-the-game problem: a conflict of interest between professional reviewers who think they ought to decide how books should be written, and genuine readers who actually read books because they like to read books. For one, reviewers command an unchecked and arbitrary power over authors: someone has to have read the book to notice that a reviewer is full of baloney, so in the absence of skin in the game, reviewers such as Michiko Kakutani of TheNew York Times (now retired) or David Runciman, who writes for The Guardian, can go on forever without anyone knowing they are either fabricating or drunk (or, as I am certain, in the case of Kakutani, both). Book reviews are judged according to how plausible and well written they are, never in how they map to the book (unless of course the author makes them accountable for misrepresentations)."
+   ]
+  },
+  {
+   "begin": "566.520",
+   "children": [],
+   "end": "584.040",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Now, almost two decades after the first installment of the Incerto, I have established ways to interact directly with you, the reader."
+   ]
+  },
+  {
+   "begin": "584.040",
+   "children": [],
+   "end": "587.360",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "ORGANIZATION OF THE BOOK"
+   ]
+  },
+  {
+   "begin": "587.360",
+   "children": [],
+   "end": "592.320",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Book 1 was the introduction we just saw, with its three parts."
+   ]
+  },
+  {
+   "begin": "592.320",
+   "children": [],
+   "end": "612.920",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Book 2, \"A First Look at Agency,\" is a deeper exposition of symmetry and agency in risk sharing, bridging commercial conflict of interest with general ethics. It also introduces us briefly to the notion of scaling and the difference between individual and collective, hence the limitations of globalism and universalism."
+   ]
+  },
+  {
+   "begin": "612.920",
+   "children": [],
+   "end": "637.560",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Book 3, \"That Greatest Asymmetry,\" is about the minority rule by which a small segment of the population inflicts its preferences on the general population. The (short) appendix for Book 3 shows 1) how a collection of units doesn't behave like a sum of units, but something with a mind of its own, and 2) the consequences of much of something called social \"science.\""
+   ]
+  },
+  {
+   "begin": "637.560",
+   "children": [],
+   "end": "661.320",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Book 4, \"Wolves Among Dogs,\" deals with dependence and, let's call a spade a spade, slavery in modern life: why employees exist because they have much more to lose than contractors. It also shows how, even if you are independent and have f*** you money, you are vulnerable if people you care about can be targeted by evil corporations and groups."
+   ]
+  },
+  {
+   "begin": "661.320",
+   "children": [],
+   "end": "742.800",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Book 5, \"Being Alive Means Taking Certain Risks,\" shows in Chapter 5 how risk taking makes you look superficially less attractive, but vastly more convincing. It clarifies the difference between life as real life and life as imagined in an experience machine, how Jesus had to be man, not quite god, and how Donaldo won the election thanks to his imperfections. Chapter 6, \"The Intellectual Yet Idiot,\" presents the IYI who doesn't know that having skin in the game makes you understand the world (which includes bicycle riding) better than lectures. Chapter 7 explains the difference between inequality in risk and inequality in salary: you can be richer, but then you should be a real person and take some risk. It also presents a dynamic view of inequality, as opposed to the IYI static one. The most egregious contributor to inequality is the condition of a high-ranking civil servant or tenured academic, not that of an entrepreneur. Chapter 8 explains the Lindy effect, that expert of experts who can tell us why plumbers are experts, but not clinical psychologists, why The New Yorker commentators on experts are not themselves experts. The Lindy effect separates things that gain from time from those that are destroyed by it."
+   ]
+  },
+  {
+   "begin": "742.800",
+   "children": [],
+   "end": "823.600",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Book 6, \"Deeper into Agency,\" looks for consequential hidden asymmetries. Chapter 9 shows that, viewed from the standpoint of practice, the world is simpler and solid experts don't look like actors playing the part. The chapter presents BS detection heuristics. Chapter 10 shows how rich people are suckers who fall prey to people complicating their lifestyle to sell them something. Chapter 11 explains the difference between threats and real threats and shows how you can own an enemy by not killing him. Chapter 12 presents the agency problem of journalists: they will sacrifice truth and build a wrong narrative because of the necessity to please other journalists. Chapter 13 explains why virtue requires risk taking, not the reputational risk reduction of playing white knight on the Internet or writing a check to some nongovernmental organization (NGO) who might help destroy the world. Chapter 14 explains the agency problem of people in geopolitics, and historians who tend to report on wars rather than peace, leaving us with a deformed view of the past. History is also plagued with probabilistic confusions. If we got rid of \"peace\" experts, the world would be safer and many problems would be solved organically."
+   ]
+  },
+  {
+   "begin": "823.600",
+   "children": [],
+   "end": "845.720",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Book 7, \"Religion, Belief, and Skin in the Game,\" explains creeds in terms of skin in the game and revealed preferences: how atheists are functionally indistinguishable from Christians, though not Salafi Muslims. Avoid the verbalistic: \"religions\" are not quite religions: some are philosophies, others are just legal systems."
+   ]
+  },
+  {
+   "begin": "845.720",
+   "children": [],
+   "end": "893.960",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Book 8, \"Risk and Rationality,\" has the two central chapters, which I elected to leave for the end. There is no rigorous definition of rationality that is not related to skin in the game; it is all about actions, not verbs, thoughts, and tawk. Chapter 19, \"The Logic of Risk Taking,\" summarizes all my tenets about risk and exposes the errors concerning small-probability events. It also classifies risks in layers (from the individual to the collective) and manages to prove that courage and prudence are not in contradiction provided one is acting for the benefit of the collective. It explains ergodicity, which was left hanging. Finally, the chapter outlines what we call the precautionary principle."
+   ]
+  },
+  {
+   "begin": "893.960",
+   "children": [],
+   "end": "897.400",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Appendix: Asymmetries in Life and Things"
+   ]
+  },
+  {
+   "begin": "897.400",
+   "children": [],
+   "end": "909.840",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Table 2 \u2022 Asymmetries in Society Where we left off in Antifragile No Skin in the Game Skin in the Game Skin in the Game"
+   ]
+  },
+  {
+   "begin": "909.840",
+   "children": [],
+   "end": "912.480",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Book 2 A First Look at Agency"
+   ]
+  },
+  {
+   "begin": "912.480",
+   "children": [],
+   "end": "923.080",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Chapter 1 Why Each One Should Eat His Own Turtles: Equality in Uncertainty"
+   ]
+  },
+  {
+   "begin": "923.080",
+   "children": [],
+   "end": "935.920",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Taste of turtle - Where are the new customers? - Sharia and asymmetry - There are the Swiss, and other people - Rav Safra and the Swiss (but different Swiss)"
+   ]
+  },
+  {
+   "begin": "935.920",
+   "children": [],
+   "end": "943.080",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "You who caught the turtles better eat them, goes the ancient adage."
+   ]
+  },
+  {
+   "begin": "943.080",
+   "children": [],
+   "end": "1024.760",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "The origin of the expression is as follows. It was said that a group of fishermen caught a large number of turtles. After cooking them, they found out at the communal meal that these sea animals were much less edible than they thought: not many members of the group were willing to eat them. But Mercury happened to be passing by - Mercury was the most multitasking, sort of put-together god, as he was the boss of commerce, abundance, messengers, the underworld, as well as the patron of thieves and brigands and, not surprisingly, luck. The group invited him to join them and offered him the turtles to eat. Detecting that he was only invited to relieve them of the unwanted food, he forced them all to eat the turtles, thus establishing the principle that you need to eat what you feed others."
+   ]
+  },
+  {
+   "begin": "1024.760",
+   "children": [],
+   "end": "1031.680",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "A CUSTOMER IS BORN EVERY DAY"
+   ]
+  },
+  {
+   "begin": "1031.680",
+   "children": [],
+   "end": "1034.080",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "I have learned a lesson from my own naive experiences:"
+   ]
+  },
+  {
+   "begin": "1034.080",
+   "children": [],
+   "end": "1055.920",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Beware of the person who gives advice, telling you that a certain action on your part is \"good for you\" while it is also good for him, while the harm to you doesn't directly affect him."
+   ]
+  },
+  {
+   "begin": "1055.920",
+   "children": [],
+   "end": "1077.640",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Of course such advice is usually unsolicited. The asymmetry is when said advice applies to you but not to him - he may be selling you something, or trying to get you to marry his daughter or hire his son-in-law."
+   ]
+  },
+  {
+   "begin": "1077.640",
+   "children": [],
+   "end": "1160.880",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Years ago I received a letter from a lecture agent. His letter was clear; it had about ten questions of the type \"Do you have the time to field requests?,\" \"Can you handle the organization of the trip?\" The gist of it was that a lecture agent would make my life better and make room for the pursuit of knowledge or whatever else I was about (a deeper understanding of gardening, stamp collections, Mediterranean genetics, or squid-ink recipes) while the burden of the gritty would fall on someone else. And it wasn't any lecture agent: only he could do all these things; he reads books and can get in the mind of intellectuals (at the time I didn't feel insulted by being called an intellectual). As is typical with people who volunteer unsolicited advice, I smelled a rat: at no phase in the discussion did he refrain from letting me know that it was \"good for me.\""
+   ]
+  },
+  {
+   "begin": "1160.880",
+   "children": [],
+   "end": "1208.760",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "As a sucker, while I didn't buy into the argument, I ended up doing business with him, letting him handle a booking in the foreign country where he was based. Things went fine until, six years later, I received a letter from the tax authorities of that country. I immediately contacted him to wonder if similar U.S. citizens he had hired incurred such tax conflict, or if he had heard of similar situations. His reply was immediate and curt: \"I am not your tax attorney\" - volunteering no information as to whether other U.S. customers who hired him because it was \"good for them\" encountered such a problem."
+   ]
+  },
+  {
+   "begin": "1208.760",
+   "children": [],
+   "end": "1262.520",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Indeed, in the dozen or so cases I can pull from memory, it always turns out that what is presented as good for you is not really good for you but certainly good for the other party. As a trader, you learn to identify and deal with upright people, those who inform you that they have something to sell, by explaining that the transaction arises for their own benefit, with such questions as \"Do you have an ax?\" (meaning an inquiry whether you have a certain interest). Avoid at all costs those who call you to tout a certain product disguised with advice. In fact the story of the turtle is the archetype of the history of transactions between mortals."
+   ]
+  },
+  {
+   "begin": "1262.520",
+   "children": [],
+   "end": "1394.880",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "I worked once for a U.S. investment bank, one of the prestigious variety, called \"white shoe\" because the partners were members of hard-to-join golf clubs for proto-aristocrats where they played the game wearing white footwear. As with all such firms, an image of ethics and professionalism was cultivated, emphasized, and protected. But the job of the salespeople (actually, salesmen) on days when they wore black shoes was to \"unload\" inventory with which traders were \"stuffed,\" that is, securities they had in excess in their books and needed to get rid of to lower their risk profile. Selling to other dealers was out of the question as professional traders, typically non-golfers, would smell excess inventory and cause the price to drop. So they needed to sell to some client, on what is called the \"buy side.\" Some traders paid the sales force with (percentage) \"points,\" a variable compensation that increased with our eagerness to part with securities. Salesmen took clients out to dinner, bought them expensive wine (often, ostensibly the highest on the menu), and got a huge return on the thousands of dollars of restaurant bills by unloading the unwanted stuff on them. One expert salesman candidly explained to me: \"If I buy the client, someone working for the finance department of a municipality who buys his suits at some department store in New Jersey, a bottle of $2,000 wine, I own him for the next few months. I can get at least $100,000 profits out of him. Nothing in the mahket gives you such return.\""
+   ]
+  },
+  {
+   "begin": "1394.880",
+   "children": [],
+   "end": "1452.240",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Salesmen hawked how a given security would be perfect for the client's portfolio, how they were certain it would rise in price and how the client would suffer great regret if he missed \"such an opportunity\" - that type of discourse. Salespeople are experts in the art of psychological manipulation, making the client trade, often against his own interest, all the while being happy about it and loving them and their company. One of the top salesmen at the firm, a man with huge charisma who came to work in a chauffeured Rolls Royce, was once asked whether customers didn't get upset when they got the short end of the stick. \"Rip them off, don't tick them off\" was his answer. He also added, \"Remember that every day a new customer is born.\""
+   ]
+  },
+  {
+   "begin": "1452.240",
+   "children": [],
+   "end": "1457.520",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "As the Romans were fully aware, one lauds merrily the merchandise to get rid of it."
+   ]
+  },
+  {
+   "begin": "1457.520",
+   "children": [],
+   "end": "1459.280",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "THE PRICE OF CORN IN RHODES"
+   ]
+  },
+  {
+   "begin": "1459.280",
+   "children": [],
+   "end": "1481.600",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "So, \"giving advice\" as a sales pitch is fundamentally unethical - selling cannot be deemed advice. We can safely settle on that. You can give advice, or you can sell (by advertising the quality of the product), and the two need to be kept separate."
+   ]
+  },
+  {
+   "begin": "1481.600",
+   "children": [],
+   "end": "1494.000",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "But there is an associated problem in the course of the transactions: how much should the seller reveal to the buyer?"
+   ]
+  },
+  {
+   "begin": "1494.000",
+   "children": [],
+   "end": "1583.920",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "The question \"Is it ethical to sell something to someone knowing the price will eventually drop?\" is an ancient one - but its solution is no less straightforward. The debate goes back to a disagreement between two stoic philosophers, Diogenes of Babylon and his student Antipater of Tarsus, who took the higher moral ground on asymmetric information and seems to match the ethics endorsed by this author. Not a piece from both authors is extant, but we know quite a bit from secondary sources, or, in the case of Cicero, tertiary. The question was presented as follows, retailed by Cicero in De Officiis. Assume a man brought a large shipment of corn from Alexandria to Rhodes, at a time when corn was expensive in Rhodes because of shortage and famine. Suppose that he also knew that many boats had set sail from Alexandria on their way to Rhodes with similar merchandise. Does he have to inform the Rhodians? How can one act honorably or dishonorably in these circumstances?"
+   ]
+  },
+  {
+   "begin": "1583.920",
+   "children": [],
+   "end": "1632.880",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "We traders had a straightforward answer. Again, \"stuffing\" - selling quantities to people without informing them that there are large inventories waiting to be sold. An upright trader will not do that to other professional traders; it was a no-no. The penalty was ostracism. But it was sort of permissible to do it to the anonymous market and the faceless nontraders, or those we called \"the Swiss,\" some random suckers far away. There were people with whom we had a relational rapport, others with whom we had a transactional one. The two were separated by an ethical wall, much like the case with domestic animals that cannot be harmed, while rules on cruelty are lifted when it comes to cockroaches."
+   ]
+  },
+  {
+   "begin": "1632.880",
+   "children": [],
+   "end": "1646.080",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Diogenes held that the seller ought to disclose as much as civil law requires. As for Antipater, he believed that everything ought to be disclosed - beyond the law - so that there was nothing that the seller knew that the buyer didn't know."
+   ]
+  },
+  {
+   "begin": "1646.080",
+   "children": [],
+   "end": "1658.480",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Clearly Antipater's position is more robust - robust being invariant to time, place, situation, and color of the eyes of the participants. Take for now that"
+   ]
+  },
+  {
+   "begin": "1658.480",
+   "children": [],
+   "end": "1668.680",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "The ethical is always more robust than the legal. Over time, it is the legal that should converge to the ethical, never the reverse."
+   ]
+  },
+  {
+   "begin": "1668.680",
+   "children": [],
+   "end": "1669.520",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Hence:"
+   ]
+  },
+  {
+   "begin": "1669.520",
+   "children": [],
+   "end": "1672.200",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "Laws come and go; ethics stay."
+   ]
+  },
+  {
+   "begin": "1672.200",
+   "children": [],
+   "end": "1701.280",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "For the notion of \"law\" is ambiguous and highly jurisdiction dependent: in the U.S., civil law, thanks to consumer advocates and similar movements, integrates such disclosures, while other countries have different laws. This is particularly visible with securities laws, as there are \"front running\" regulations and those concerning insider information that make such disclosure mandatory in the U.S., though this wasn't so for a long time in Europe."
+   ]
+  },
+  {
+   "begin": "1701.280",
+   "children": [],
+   "end": "1716.360",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Indeed much of the work of investment banks in my day was to play on regulations, find loopholes in the laws. And, counterintuitively, the more regulations, the easier it was to make money."
+   ]
+  },
+  {
+   "begin": "1716.360",
+   "children": [],
+   "end": "1720.080",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "EQUALITY IN UNCERTAINTY"
+   ]
+  },
+  {
+   "begin": "1720.080",
+   "children": [],
+   "end": "1758.800",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "Which brings us to asymmetry, the core concept behind skin in the game. The question becomes: to what extent can people in a transaction have an informational differential between them? The ancient Mediterranean and, to some extent, the modern world, seem to have converged to Antipater's position. While we have \"buyer beware\" (caveat emptor) in the Anglo-Saxon West, the idea is rather new, and never general, often mitigated by lemon laws. (A \"lemon\" was originally a chronically defective car, say, my convertible Mini, in love with the garage, now generalized to apply to anything that moves)."
+   ]
+  },
+  {
+   "begin": "1758.800",
+   "children": [],
+   "end": "1803.360",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "So, to the question voiced by Cicero in the debate between the two ancient stoics, \"If a man knowingly offers for sale wine that is spoiling, ought he to tell his customers?,\" the world is getting closer to the position of transparency, not necessarily via regulations as much as thanks to tort laws, and one's ability to sue for harm in the event a seller deceives him or her. Recall that tort laws put some of the seller's skin back into the game - which is why they are reviled, hated by corporations. But tort laws have side effects - they should only be used in a nonnaive way, that is, in a way that cannot be gamed. As we will see in the discussion of the visit to the doctor, they will be gamed."
+   ]
+  },
+  {
+   "begin": "1803.360",
+   "children": [],
+   "end": "1879.040",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "Sharia, in particular the law regulating Islamic transactions and finance, is of interest to us insofar as it preserves some of the lost Mediterranean and Babylonian methods and practices - not to prop up the ego of Saudi princes. It exists at the intersection of Greco-Roman law (as reflected from people in Semitic territories' contact with the school of law of Berytus), Phoenician trading rules, Babylonian legislations, and Arab tribal commercial customs and, as such, it provides a repository of ancient Mediterranean and Semitic lore. I hence view Sharia as a museum of the history of ideas on symmetry in transactions. Sharia establishes the interdict of gharar, drastic enough to be totally banned in any form of transaction. It is an extremely sophisticated term in decision theory that does not exist in English; it means both uncertainty and deception - my personal take is that it means something beyond informational asymmetry between agents: inequality of uncertainty. Simply, as the aim is for both parties in a transaction to have the same uncertainty facing random outcomes, an asymmetry becomes equivalent to theft. Or more robustly:"
+   ]
+  },
+  {
+   "begin": "1879.040",
+   "children": [],
+   "end": "1886.800",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "No person in a transaction should have certainty about the outcome while the other one has uncertainty."
+   ]
+  },
+  {
+   "begin": "1886.800",
+   "children": [],
+   "end": "1932.640",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "Gharar, like every legalistic construct, will have its flaws; it remains weaker than Antipater's approach. If only one party in a transaction has certainty all the way through, it is a violation of Sharia. But if there is a weak form of asymmetry, say, someone has inside information which gives an edge in the markets, there is no gharar as there remains enough uncertainty for both parties, given that the price is in the future and only God knows the future. Selling a defective product (where there is certainty as to the defect), on the other hand, is illegal. So the knowledge by the seller of corn in Rhodes in my first example does not fall under gharar, while the second case, that of a defective liquid, would."
+   ]
+  },
+  {
+   "begin": "1932.640",
+   "children": [],
+   "end": "1944.920",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "As we see, the problem of asymmetry is so complicated that different schools give different ethical solutions, so let us look at the Talmudic approach."
+   ]
+  },
+  {
+   "begin": "1944.920",
+   "children": [],
+   "end": "1946.880",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "RAV SAFRA AND THE SWISS"
+   ]
+  },
+  {
+   "begin": "1946.880",
+   "children": [],
+   "end": "2006.920",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Jewish ethics on the matter is closer to Antipater than Diogenes in its aims at transparency. Not only should there be transparency concerning the merchandise, but perhaps there has to be transparency concerning what the seller has in mind, what he thinks deep down. The medieval rabbi Shlomo Yitzhaki (aka Salomon Isaacides), known as \"Rashi,\" relates the following story. Rav Safra, a third-century Babylonian scholar who was also an active trader, was offering some goods for sale. A buyer came as he was praying in silence, tried to purchase the merchandise at an initial price, and given that the rabbi did not reply, raised the price. But Rav Safra had no intention of selling at a higher price than the initial offer, and felt that he had to honor the initial intention. Now the question: Is Rav Safra obligated to sell at the initial price, or should he take the improved one?"
+   ]
+  },
+  {
+   "begin": "2006.920",
+   "children": [],
+   "end": "2077.960",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "Such total transparency is not absurd and not uncommon in what seems to be a cutthroat world of transactions, my former world of trading. I have frequently faced that problem as a trader and will side in favor of Rav Safra's action in the debate. Let us follow the logic. Recall the rapacity of salespeople earlier in the chapter. Sometimes I would offer something for sale for, say, $5, but communicated with the client through a salesperson, and the salesperson would come back with an \"improvement,\" of $5.10. Something never felt right about the extra ten cents. It was, simply, not a sustainable way of doing business. What if the customer subsequently discovered that my initial offer was $5? No compensation is worth the feeling of shame. The overcharge falls in the same category as the act of \"stuffing\" people with bad merchandise. Now, to apply this to Rav Safra's story, what if he sold to one client at the marked-up price, and to another one the exact same item for the initial price, and the two buyers happened to know one another? What if they were agents for the same customer?"
+   ]
+  },
+  {
+   "begin": "2077.960",
+   "children": [],
+   "end": "2088.640",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "It may not be ethically required, but the most effective, shame-free policy is maximal transparency, even transparency of intentions."
+   ]
+  },
+  {
+   "begin": "2088.640",
+   "children": [],
+   "end": "2123.240",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "However, the story doesn't tell us whether the purchaser was a \"Swiss,\" those outsiders our ethical rules don't apply to. I suspect that there would be a species for which our ethical rules would be relaxed or possibly lifted. Recall our discussion of Kant: theory is too theoretical for humans. The more confined our ethics, the less abstract, the better it works. Otherwise, as we will see with Elinor Ostrom's result later in this chapter, the system cannot function properly. And, before Ostrom, our old friend Friedrich Nietzsche got the point:"
+   ]
+  },
+  {
+   "begin": "2123.240",
+   "children": [],
+   "end": "2127.960",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Sympathy for all would be tyranny for thee, my good neighbor."
+   ]
+  },
+  {
+   "begin": "2127.960",
+   "children": [],
+   "end": "2137.360",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "Nietzsche, by the way, is the one person Fat Tony (upon hearing his quotes) said he would never debate."
+   ]
+  },
+  {
+   "begin": "2137.360",
+   "children": [],
+   "end": "2141.120",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "MEMBERS AND NON-MEMBERS"
+   ]
+  },
+  {
+   "begin": "2141.120",
+   "children": [],
+   "end": "2166.000",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "For the exclusion of the \"Swiss\" from our ethical realm is not trivial. Things don't \"scale\" and generalize, which is why I have trouble with intellectuals talking about abstract notions. A country is not a large city, a city is not a large family, and, sorry, the world is not a large village. There are scale transformations we will discuss here, and in the appendix of Book 3."
+   ]
+  },
+  {
+   "begin": "2166.000",
+   "children": [],
+   "end": "2197.200",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "When Athenians treat all opinions equally and discuss \"democracy,\" they only apply it to their citizens, not slaves or metics (the equivalent of green card or H-1B visa holders). Effectively, Theodosius's code deprived Roman citizens who married \"barbarians\" of their legal rights - hence ethical parity with others. They lost their club membership. As to Jewish ethics: it distinguishes between thick blood and thin blood: we are all brothers, but some are more brothers than others."
+   ]
+  },
+  {
+   "begin": "2197.200",
+   "children": [],
+   "end": "2245.280",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Free citizens, in ancient and post-classical societies, were traditionally part of clubs, with rules and member behavior similar to those in today's country clubs, with an inside and an outside. As club members know, the very purpose of a club is exclusion and size limitation. Spartans could hunt and kill Helots, those noncitizens with a status of slaves, for training, but they were otherwise equal to other Spartans and expected to die for the sake of Sparta. The large cities in the pre-Christian ancient world, particularly in the Levant and Asia Minor, were full of fraternities and clubs, open and (often) secret societies - there was even such a thing as funeral clubs, where members shared the costs, and participated in the ceremonials, of funerals."
+   ]
+  },
+  {
+   "begin": "2245.280",
+   "children": [],
+   "end": "2271.800",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "Today's Roma people (aka Gypsies) have tons of strict rules of behavior toward Gypsies, and others toward the unclean non-Gypsies called payos. And, as the anthropologist David Graeber has observed, even the investment bank Goldman Sachs, known for its aggressive cupidity, acts like a communist community from within, thanks to the partnership system of governance."
+   ]
+  },
+  {
+   "begin": "2271.800",
+   "children": [],
+   "end": "2336.680",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "So we exercise our ethical rules, but there is a limit - from scaling - beyond which the rules cease to apply. It is unfortunate, but the general kills the particular. The question we will reexamine later, after deeper discussion of complexity theory, is whether it is possible to be both ethical and universalist. In theory, yes, but, sadly, not in practice. For whenever the \"we\" becomes too large a club, things degrade, and each one starts fighting for his own interest. The abstract is way too abstract for us. This is the main reason I advocate political systems that start with the municipality, and work their way up (ironically, as in Switzerland, those \"Swiss\"), rather than the reverse, which has failed with larger states. Being somewhat tribal is not a bad thing - and we have to work in a fractal way in the organized harmonious relations between tribes, rather than merge all tribes in one large soup. In that sense, an American-style federalism is the ideal system."
+   ]
+  },
+  {
+   "begin": "2336.680",
+   "children": [],
+   "end": "2443.400",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "This scale transformation from the particular to the general is behind my skepticism about unfettered globalization and large centralized multiethnic states. The physicist and complexity researcher Yaneer Bar-Yam showed quite convincingly that \"better fences make better neighbors\" - something both \"policymakers\" and local governments fail to get about the Near East. Scaling matters, I will keep repeating until I get hoarse. Putting Shiites, Christians, and Sunnis in one pot and asking them to sing \"Kumbaya\" around the campfire while holding hands in the name of unity and fraternity of mankind has failed. (Interventionistas aren't yet aware that \"should\" is not a sufficiently empirically valid statement to \"build nations.\") Blaming people for being \"sectarian\" - instead of making the best of such a natural tendency - is one of the stupidities of interventionistas. Separate tribes for administrative purposes (as the Ottomans did), or just put some markers somewhere, and they suddenly become friendly to one another. The Levant has suffered (and keeps suffering) from Western (usually Anglo-Saxon) Arabists enamored with their subject, with no skin in the game in the place, who somehow have a vicious mission to destroy local indigenous cultures and languages, and separate the Levant from its Mediterranean roots."
+   ]
+  },
+  {
+   "begin": "2443.400",
+   "children": [],
+   "end": "2470.440",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "But we don't have to go very far to get the importance of scaling. You know instinctively that people get along better as neighbors than roommates."
+   ]
+  },
+  {
+   "begin": "2470.440",
+   "children": [],
+   "end": "2541.000",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "When you think about this, it is obvious, even trite, from the well-known behavior of crowds in the \"anonymity\" of big cities compared to groups in small villages. I spend some time in my ancestral village, where it feels like a family. People attend others' funerals (funeral clubs were mostly for large cities), help out, and care about the neighbor, even if they hate his dog. There is no way you can get the same cohesion in a larger city when the \"other\" is a theoretical entity, and our behavior toward him or her is governed by some general ethical rule, not someone in flesh and blood. We get it easily when seen that way, but fail to generalize that ethics is something fundamentally local."
+   ]
+  },
+  {
+   "begin": "2541.000",
+   "children": [],
+   "end": "2563.960",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "Now what's the reason? Modernity put it in our heads that there are two units: the individual and the universal collective - in that sense, skin in the game for you would be just for you, as a unit. In reality, my skin lies in a broader set of people, one that includes a family, a community, a tribe, a fraternity. But it cannot possibly be the universal."
+   ]
+  },
+  {
+   "begin": "2563.960",
+   "children": [],
+   "end": "2575.120",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "NON MIHI NON TIBI, SED NOBIS (NEITHER MINE NOR YOURS, BUT OURS)"
+   ]
+  },
+  {
+   "begin": "2575.120",
+   "children": [],
+   "end": "2622.320",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "Let us get into the gut of Ostrom's idea. The \"tragedy of the commons,\" as exposed by economists, is as follows - the commons being a collective property, say, a forest or fishing waters or your local public park. Collectively, farmers as a community prefer to avoid overgrazing, and fishermen overfishing - the entire resource becomes thus degraded. But every single individual farmer would personally gain from his own overgrazing or overfishing under, of course, the condition that others don't. And that is what plagues socialism: people's individual interests do not quite work well under collectivism. But it is a critical mistake to think that people can function only under a private property system."
+   ]
+  },
+  {
+   "begin": "2622.320",
+   "children": [],
+   "end": "2669.840",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "What Ostrom found empirically is that there exists a certain community size below which people act as collectivists, protecting the commons, as if the entire unit became rational. Such a commons cannot be too large. It is like a club. Groups behave differently at a different scale. This explains why the municipal is different from the national. It also explains how tribes operate: you are part of a specific group that is larger than the narrow you, but narrower than humanity in general. Critically, people share some things but not others within a specified group. And there is a protocol for dealing with the outside. Arab pastoral tribes have firm rules of hospitality toward nonhostile strangers who don't threaten their commons, but get violent when the stranger is a threat."
+   ]
+  },
+  {
+   "begin": "2669.840",
+   "children": [],
+   "end": "2681.760",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "The skin-in-the-game definition of a commons: a space in which you are treated by others the way you treat them, where everyone exercises the Silver Rule."
+   ]
+  },
+  {
+   "begin": "2681.760",
+   "children": [],
+   "end": "2697.960",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "The \"public good\" is something abstract, taken out of a textbook. We will see further in Chapter 19 that the \"individual\" is an ill-defined entity. \"Me\" is more likely to be a group than a single person."
+   ]
+  },
+  {
+   "begin": "2697.960",
+   "children": [],
+   "end": "2701.320",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "ARE YOU ON THE DIAGONAL?"
+   ]
+  },
+  {
+   "begin": "2701.320",
+   "children": [],
+   "end": "2708.960",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "A saying by the brothers Geoff and Vince Graham summarizes the ludicrousness of scale-free political universalism."
+   ]
+  },
+  {
+   "begin": "2708.960",
+   "children": [],
+   "end": "2712.040",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "I am, at the Fed level, libertarian;"
+   ]
+  },
+  {
+   "begin": "2712.040",
+   "children": [],
+   "end": "2714.320",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "at the state level, Republican;"
+   ]
+  },
+  {
+   "begin": "2714.320",
+   "children": [],
+   "end": "2716.560",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "at the local level, Democrat;"
+   ]
+  },
+  {
+   "begin": "2716.560",
+   "children": [],
+   "end": "2720.560",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "and at the family and friends level, a socialist."
+   ]
+  },
+  {
+   "begin": "2720.560",
+   "children": [],
+   "end": "2725.720",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "If that saying doesn't convince you of the fatuousness of left vs. right labels, nothing will."
+   ]
+  },
+  {
+   "begin": "2725.720",
+   "children": [],
+   "end": "2760.240",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "The Swiss are obsessive about governance - and indeed their political system is neither \"left\" nor \"right,\" but governance-based. The thoughtful mathematician Hans Gersbach once organized a workshop on skin in the game in Zurich on how to properly reward (and punish) politicians whose interests are not lined up with those of the people they represent. It struck me that if things worked well in Switzerland and other Germanic countries, it is not because of accountability so much as scaling, which makes them very prone to accountability: Germany is a federation."
+   ]
+  },
+  {
+   "begin": "2760.240",
+   "children": [],
+   "end": "2764.080",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Let us next generalize to risk sharing."
+   ]
+  },
+  {
+   "begin": "2764.080",
+   "children": [],
+   "end": "2769.760",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "ALL (LITERALLY) IN THE SAME BOAT"
+   ]
+  },
+  {
+   "begin": "2769.760",
+   "children": [],
+   "end": "2790.360",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "Greek is a language of precision; it has a word describing the opposite of risk transfer: risk sharing. Synkyndineo means \"taking risks together,\" which was a requirement in maritime transactions."
+   ]
+  },
+  {
+   "begin": "2790.360",
+   "children": [],
+   "end": "2809.360",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "The Acts of the Apostles describes a voyage of St. Paul on a cargo ship from Sidon to Crete to Malta. As they hit a storm: \"When they had eaten what they wanted they lightened the ship by throwing the corn overboard into the sea.\""
+   ]
+  },
+  {
+   "begin": "2809.360",
+   "children": [],
+   "end": "2846.480",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "Now while they jettisoned particular goods, all owners were to be proportioned the costs of the lost merchandise, not just the specific owners of the lost merchandise. For it turned out that they were following a practice that dates to at least 800 B.C., codified in Lex Rhodia, Rhodian Law, after the mercantile Aegean island of Rhodes; the code is no longer extant but has been cited since antiquity. It stipulates that the risks and costs for contingencies are to be incurred equally, with no concern for responsibility. Justinian's code summarizes it:"
+   ]
+  },
+  {
+   "begin": "2846.480",
+   "children": [],
+   "end": "2857.640",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "It is provided by the Rhodian Law that where merchandise is thrown overboard for the purpose of lightening a ship, what has been lost for the benefit of all must be made up by the contribution of all."
+   ]
+  },
+  {
+   "begin": "2857.640",
+   "children": [],
+   "end": "2868.560",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "And the same mechanism for risk sharing took place with caravans along desert routes. If merchandise was stolen or lost, all merchants had to split the costs, not just its owner."
+   ]
+  },
+  {
+   "begin": "2868.560",
+   "children": [],
+   "end": "2890.520",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "Synkyndineo has been translated into Latin by maestro classicist Armand D'Angour as compericlitor, hence, if it ever makes it into English, it should be compericlity, and its opposite, the Bob Rubin risk transfer, will be incompericlity. But I guess risk sharing will do in the meanwhile."
+   ]
+  },
+  {
+   "begin": "2890.520",
+   "children": [],
+   "end": "2894.520",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "Next, we discuss some distortions from the introduction of skin in the game."
+   ]
+  },
+  {
+   "begin": "2894.520",
+   "children": [],
+   "end": "2901.120",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "TALKING ONE'S BOOK"
+   ]
+  },
+  {
+   "begin": "2901.120",
+   "children": [],
+   "end": "2956.600",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "I went on television once to announce a newly published book and got stuck in the studio, drafted to become part of a roundtable with two journalists plus the anchor. The topic of the day was Microsoft, a company that was in existence at the time. Everyone, including the anchor, chipped in. My turn came: \"I own no Microsoft stock, I am short no Microsoft stock [i.e., would benefit from its decline], hence I can't talk about it.\" I repeated my dictum of Prologue 1: Don't tell me what you think, tell me what you have in your portfolio. There was immeasurable confusion in the faces: a journalist is typically not supposed to talk about stocks he owns - and, what is worse, is supposed to always, always make pronouncements about stuff he can barely find on a map. A journalist is meant to be an impartial \"judge,\" yet, unlike Sisamnes in the Judgment of Cambyses, there is no threat of a secondary use of his skin."
+   ]
+  },
+  {
+   "begin": "2956.600",
+   "children": [],
+   "end": "3029.080",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "There are two types of \"talking one's book.\" One consists of buying a stock because you like it, then commenting on it (and disclosing such ownership) - the most reliable advocate for a product is its user. Another is buying a stock so you can advertise the qualities of the company, then selling it, benefiting from the trumpeting - this is called market manipulation, and it is certainly a conflict of interest. We removed the skin in the game of journalists in order to prevent market manipulation, thinking that it would be a net gain to society. The arguments in this book are that the former (market manipulation) and conflicts of interest are more benign than impunity for bad advice. The main reason, we will see, is that in the absence of skin in the game, journalists will imitate, to be safe, the opinion of other journalists, thus creating monoculture and collective mirages."
+   ]
+  },
+  {
+   "begin": "3029.080",
+   "children": [],
+   "end": "3043.920",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "In general, skin in the game comes with conflict of interest. What I hope this book will do is show that the former is more important than the latter. There is no problem if people have a conflict of interest if it is congruous with downside risk for themselves."
+   ]
+  },
+  {
+   "begin": "3043.920",
+   "children": [],
+   "end": "3049.000",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "A SHORT VISIT TO THE DOCTOR'S OFFICE"
+   ]
+  },
+  {
+   "begin": "3049.000",
+   "children": [],
+   "end": "3087.000",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "The doctor doesn't have the Antaeus problem: medicine, while wrapping the garment of science around it, is fundamentally apprenticeship-based and, like engineering, grounded in experience, not just experimentation and theories. While economists say \"assume that\u2026\" and produce some weird theory, doctors have none of that. So there is skin in the game at many degrees, except perhaps not fully in the agency effect separating customer from provider. And attempts at putting skin in the game there have brought a certain class of adverse effects, in shifting uncertainty from the doctor to the patient."
+   ]
+  },
+  {
+   "begin": "3087.000",
+   "children": [],
+   "end": "3093.440",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "The legal system and regulatory measures are likely to put the skin of the doctor in the wrong game."
+   ]
+  },
+  {
+   "begin": "3093.440",
+   "children": [],
+   "end": "3148.760",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "How? The problem resides in the reliance on metrics. Every metric is gameable - the cholesterol lowering we mentioned in Prologue 1 is a metric-gaming technique taken to its limit. More realistically, say a cancer doctor or hospital is judged by the five-year survival rates of patients, and needs to face a variety of modalities for a new patient: what choice of treatment would they elect to do? There is a tradeoff between laser surgery (a precise surgical procedure) and radiation therapy, which is toxic to both patient and cancer. Statistically, laser surgery may have worse five-year outcomes than radiation therapy, but the latter tends to create second tumors in the longer run and offers comparatively reduced twenty-year disease-specific survival. Given that the window used for the calculation of patient survival is five years, not twenty, the incentive is to shoot for radiation."
+   ]
+  },
+  {
+   "begin": "3148.760",
+   "children": [],
+   "end": "3157.160",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "So the doctor is likely to be in the process of shifting uncertainty away from him or her by electing the second-best option."
+   ]
+  },
+  {
+   "begin": "3157.160",
+   "children": [],
+   "end": "3169.400",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "A doctor is pushed by the system to transfer risk from himself to you, and from the present into the future, or from the immediate future into a more distant future."
+   ]
+  },
+  {
+   "begin": "3169.400",
+   "children": [],
+   "end": "3192.480",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "You need to remember that, when you visit a medical office, you will be facing someone who, in spite of his authoritative demeanor, is in a fragile situation. He is not you, not a member of your family, so he has no direct emotional loss should your health experience a degradation. His objective is, naturally, to avoid a lawsuit, something that can prove disastrous to his career."
+   ]
+  },
+  {
+   "begin": "3192.480",
+   "children": [],
+   "end": "3278.400",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Some metrics can actually kill you. Now, say you happen to visit a cardiologist and turn out to be in the mild risk category, something that doesn't really raise your risk of a cardiovascular event, but precedes the stage of a possibly worrisome condition. (There is a strong nonlinearity: a person classified as prediabetic or prehypertensive is, in probability space, 90 percent closer to a normal person than to one with the condition.) But the doctor is pressured to treat you to protect himself. Should you drop dead a few weeks after the visit, a low probability event, the doctor can be sued for negligence, for not having prescribed the right medicine that is temporarily believed to be useful (as in the case of statins), but that we now know has been backed up by suspicious or incomplete studies. Deep down, he may know that statins are harmful, as they will lead to long-term side effects. But the pharmaceutical companies have managed to convince everyone that these unseen consequences are harmless, when the right precautionary approach is to consider the unseen as potentially harmful. In fact for most people except those that are very ill, the risks outweigh the benefits. Except that the long-term medical risks are hidden; they will play out in the long run, whereas the legal risk is immediate. This is no different from the Bob Rubin risk-transfer trade, of delaying risks and making them look invisible."
+   ]
+  },
+  {
+   "begin": "3278.400",
+   "children": [],
+   "end": "3314.840",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "Now can one make medicine less asymmetric? Not directly; the solution, as I have argued in Antifragile and more technically elsewhere, is for the patient to avoid treatment when he or she is mildly ill, but use medicine for the \"tail events,\" that is, for rarely encountered severe conditions. The problem is that the mildly ill represent a much larger pool of people than the severely ill - and are people who are expected to live longer and consume drugs for longer - hence pharmaceutical companies have an incentive to focus on them. (Dead people, I am told, stop taking drugs.)"
+   ]
+  },
+  {
+   "begin": "3314.840",
+   "children": [],
+   "end": "3335.280",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "In sum, both the doctor and the patient have skin in the game, though not perfectly, but administrators don't - and they seem to be the cause of the troubling malfunctioning of the system. Administrators everywhere on the planet, in all businesses and pursuits, and at all times in history, have been the plague."
+   ]
+  },
+  {
+   "begin": "3335.280",
+   "children": [],
+   "end": "3338.840",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "NEXT"
+   ]
+  },
+  {
+   "begin": "3338.840",
+   "children": [],
+   "end": "3362.880",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "This chapter introduced us to the agency problem and risk sharing, seen from both a commercial and an ethical viewpoint, assuming the two can be disentangled. We also introduced the problem of scale. Next, we will try to get deeper into the hidden asymmetries that make aggregates strange animals."
+   ]
+  }
+ ]
+}
