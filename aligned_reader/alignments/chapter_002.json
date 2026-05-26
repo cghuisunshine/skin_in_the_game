@@ -23,28 +23,68 @@
   {
    "begin": "21.280",
    "children": [],
-   "end": "25.320",
+   "end": "21.800",
    "id": "f000003",
    "language": "eng",
    "lines": [
-    "I. FROM HAMMURABI TO KANT"
+    "I."
    ]
   },
   {
-   "begin": "25.320",
+   "begin": "21.800",
    "children": [],
-   "end": "66.240",
+   "end": "25.360",
    "id": "f000004",
    "language": "eng",
    "lines": [
-    "Skin-in-the-game-style symmetry, until the recent intellectualization of life, had been implicitly considered the principal rule for organized society, even for any form of collective life in which one encounters or deals with others more than once. The rule had to even precede human settlement since it prevails in a sophisticated, very sophisticated, form in the animal kingdom. Or, to rephrase, it had to prevail there or life would have been extinct - risk transfer blows up systems. And the very idea of law, divine or otherwise, resides in fixing imbalances and remedying such asymmetries."
+    "FROM HAMMURABI TO KANT"
+   ]
+  },
+  {
+   "begin": "25.360",
+   "children": [],
+   "end": "40.960",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Skin-in-the-game-style symmetry, until the recent intellectualization of life, had been implicitly considered the principal rule for organized society, even for any form of collective life in which one encounters or deals with others more than once."
+   ]
+  },
+  {
+   "begin": "40.960",
+   "children": [],
+   "end": "49.280",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "The rule had to even precede human settlement since it prevails in a sophisticated, very sophisticated, form in the animal kingdom."
+   ]
+  },
+  {
+   "begin": "49.280",
+   "children": [],
+   "end": "57.200",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Or, to rephrase, it had to prevail there or life would have been extinct - risk transfer blows up systems."
+   ]
+  },
+  {
+   "begin": "57.200",
+   "children": [],
+   "end": "66.240",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "And the very idea of law, divine or otherwise, resides in fixing imbalances and remedying such asymmetries."
    ]
   },
   {
    "begin": "66.240",
    "children": [],
    "end": "75.040",
-   "id": "f000005",
+   "id": "f000009",
    "language": "eng",
    "lines": [
     "Let us briefly travel the road from Hammurabi to Kant, where the rule gets refined along with civilized life."
@@ -54,7 +94,7 @@
    "begin": "75.040",
    "children": [],
    "end": "77.960",
-   "id": "f000006",
+   "id": "f000010",
    "language": "eng",
    "lines": [
     "Hammurabi in Paris"
@@ -63,98 +103,308 @@
   {
    "begin": "77.960",
    "children": [],
-   "end": "119.760",
-   "id": "f000007",
+   "end": "91.480",
+   "id": "f000011",
    "language": "eng",
    "lines": [
-    "Hammurabi's law was posted on a basalt stele around 3,800 years ago in a central public place in Babylon, so every literate person could read it, or, rather, read it to others who couldn't read. It contains 282 laws and is deemed to be the first codification of our rule extant. The code has one central theme: it establishes symmetries between people in a transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks. Yes, the Bob Rubin trade is 3,800 years old, as old as civilization, and so are the rules to counter it."
+    "Hammurabi's law was posted on a basalt stele around 3,800 years ago in a central public place in Babylon, so every literate person could read it, or, rather, read it to others who couldn't read."
    ]
   },
   {
-   "begin": "119.760",
+   "begin": "91.480",
    "children": [],
-   "end": "143.320",
-   "id": "f000008",
+   "end": "98.400",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "What is a tail? Take for now that it is an extreme event of low frequency. It is called a \"tail\" because, in drawings of bell-curve style frequencies, it is located to the extreme left or right (being of low frequency), and for some reason beyond my immediate understanding, people started calling that a \"tail\" and the term stuck."
+    "It contains 282 laws and is deemed to be the first codification of our rule extant."
+   ]
+  },
+  {
+   "begin": "98.400",
+   "children": [],
+   "end": "109.720",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "The code has one central theme: it establishes symmetries between people in a transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks."
+   ]
+  },
+  {
+   "begin": "109.720",
+   "children": [],
+   "end": "119.720",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Yes, the Bob Rubin trade is 3,800 years old, as old as civilization, and so are the rules to counter it."
+   ]
+  },
+  {
+   "begin": "119.720",
+   "children": [],
+   "end": "121.280",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "What is a tail?"
+   ]
+  },
+  {
+   "begin": "121.280",
+   "children": [],
+   "end": "125.600",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Take for now that it is an extreme event of low frequency."
+   ]
+  },
+  {
+   "begin": "125.600",
+   "children": [],
+   "end": "143.320",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "It is called a \"tail\" because, in drawings of bell-curve style frequencies, it is located to the extreme left or right (being of low frequency), and for some reason beyond my immediate understanding, people started calling that a \"tail\" and the term stuck."
    ]
   },
   {
    "begin": "143.320",
    "children": [],
-   "end": "156.320",
-   "id": "f000009",
+   "end": "156.280",
+   "id": "f000018",
    "language": "eng",
    "lines": [
     "Hammurabi's best known injunction is as follows: \"If a builder builds a house and the house collapses and causes the death of the owner of the house - the builder shall be put to death.\""
    ]
   },
   {
-   "begin": "156.320",
+   "begin": "156.280",
    "children": [],
-   "end": "222.160",
-   "id": "f000010",
+   "end": "173.040",
+   "id": "f000019",
    "language": "eng",
    "lines": [
-    "For, as with financial traders, the best place to hide risks is \"in the corners,\" in burying vulnerabilities to rare events that only the architect (or the trader) can detect - the idea being to be far away in time and place when blowups happen. As one old alcoholic ruddy-faced English banker told me when I graduated from school, volunteering career advice: \"I give long-term loans only. When they mature I want to be long gone. And only reachable long distance.\" He worked for international banks and survived playing his trick by changing country every five years, and, from what I recall, he also changed wives every ten years and banks every twelve. But he didn't have to go hide very far or very deeply underground: nobody until very recently clawed back (that is, reclaimed) the past bonuses of bankers when something subsequently went wrong. And, not unexpectedly, it was the Swiss who started clawing back, in 2008."
+    "For, as with financial traders, the best place to hide risks is \"in the corners,\" in burying vulnerabilities to rare events that only the architect (or the trader) can detect - the idea being to be far away in time and place when blowups happen."
+   ]
+  },
+  {
+   "begin": "173.040",
+   "children": [],
+   "end": "183.040",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "As one old alcoholic ruddy-faced English banker told me when I graduated from school, volunteering career advice: \"I give long-term loans only."
+   ]
+  },
+  {
+   "begin": "183.040",
+   "children": [],
+   "end": "185.960",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "When they mature I want to be long gone."
+   ]
+  },
+  {
+   "begin": "185.960",
+   "children": [],
+   "end": "189.160",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "And only reachable long distance.\""
+   ]
+  },
+  {
+   "begin": "189.160",
+   "children": [],
+   "end": "201.560",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "He worked for international banks and survived playing his trick by changing country every five years, and, from what I recall, he also changed wives every ten years and banks every twelve."
+   ]
+  },
+  {
+   "begin": "201.560",
+   "children": [],
+   "end": "214.640",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "But he didn't have to go hide very far or very deeply underground: nobody until very recently clawed back (that is, reclaimed) the past bonuses of bankers when something subsequently went wrong."
+   ]
+  },
+  {
+   "begin": "214.640",
+   "children": [],
+   "end": "222.160",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "And, not unexpectedly, it was the Swiss who started clawing back, in 2008."
    ]
   },
   {
    "begin": "222.160",
    "children": [],
-   "end": "283.120",
-   "id": "f000011",
+   "end": "227.920",
+   "id": "f000026",
    "language": "eng",
    "lines": [
-    "The well-known lex talionis, \"an eye for one eye,\" comes from Hammurabi's rule. It is metaphorical, not literal: you don't have to actually remove an eye - hence the rule is much more flexible than it appears at first glance. For, in a famous Talmudic discussion (in Bava Kamma), a rabbi argues that if one followed the letter, the one-eyed would only pay half the punishment if he blinds a two-eyed person, and the blind would go scot-free. Or what if a small person kills a hero? Likewise, you do not need to amputate the leg of the reckless doctor who cut the wrong leg: the tort system, through courts, not regulation, thanks to the efforts of Ralph Nader, will impose some penalty, enough to protect consumers and citizens from powerful institutions. Clearly the legal system might produce some irritants (particularly with torts) and has its class of rent-seekers, but we are vastly better off complaining about lawyers than complaining about not having them."
+    "The well-known lex talionis, \"an eye for one eye,\" comes from Hammurabi's rule."
    ]
   },
   {
-   "begin": "283.120",
+   "begin": "227.920",
    "children": [],
-   "end": "305.720",
-   "id": "f000012",
+   "end": "236.880",
+   "id": "f000027",
    "language": "eng",
    "lines": [
-    "More practically, some economists have been trying to blame me for wanting to reverse the bankruptcy protection offered in modern times; some even accused me of wanting to bring back the guillotine for bankers. I am not that literal: it is just the matter of inflicting some penalty, just enough to make the Bob Rubin trade less attractive, and protect the public."
+    "It is metaphorical, not literal: you don't have to actually remove an eye - hence the rule is much more flexible than it appears at first glance."
+   ]
+  },
+  {
+   "begin": "236.880",
+   "children": [],
+   "end": "250.120",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "For, in a famous Talmudic discussion (in Bava Kamma), a rabbi argues that if one followed the letter, the one-eyed would only pay half the punishment if he blinds a two-eyed person, and the blind would go scot-free."
+   ]
+  },
+  {
+   "begin": "250.120",
+   "children": [],
+   "end": "253.080",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Or what if a small person kills a hero?"
+   ]
+  },
+  {
+   "begin": "253.080",
+   "children": [],
+   "end": "269.560",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Likewise, you do not need to amputate the leg of the reckless doctor who cut the wrong leg: the tort system, through courts, not regulation, thanks to the efforts of Ralph Nader, will impose some penalty, enough to protect consumers and citizens from powerful institutions."
+   ]
+  },
+  {
+   "begin": "269.560",
+   "children": [],
+   "end": "283.080",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Clearly the legal system might produce some irritants (particularly with torts) and has its class of rent-seekers, but we are vastly better off complaining about lawyers than complaining about not having them."
+   ]
+  },
+  {
+   "begin": "283.080",
+   "children": [],
+   "end": "294.960",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "More practically, some economists have been trying to blame me for wanting to reverse the bankruptcy protection offered in modern times; some even accused me of wanting to bring back the guillotine for bankers."
+   ]
+  },
+  {
+   "begin": "294.960",
+   "children": [],
+   "end": "305.720",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "I am not that literal: it is just the matter of inflicting some penalty, just enough to make the Bob Rubin trade less attractive, and protect the public."
    ]
   },
   {
    "begin": "305.720",
    "children": [],
-   "end": "328.720",
-   "id": "f000013",
+   "end": "317.640",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "Now, for some reason that escapes me, one of those strange things one finds only in France, Hammurabi's code, a stele in gray-black basalt, resides in the Louvre Museum in Paris. And the French, who normally know about a lot of things we don't know much about, don't seem to know about it; only Korean visitors with selfie sticks appear to have heard of the place."
+    "Now, for some reason that escapes me, one of those strange things one finds only in France, Hammurabi's code, a stele in gray-black basalt, resides in the Louvre Museum in Paris."
    ]
   },
   {
-   "begin": "328.720",
+   "begin": "317.640",
    "children": [],
-   "end": "384.080",
-   "id": "f000014",
+   "end": "328.760",
+   "id": "f000035",
    "language": "eng",
    "lines": [
-    "On my penultimate pilgrimage to the site, I happened to lecture French financiers in a conference room in the museum building about the ideas of this book, and the notion of skin in the game. I was speaking right after the man who, in spite of looks (and personality) quite similar to those found in Mesopotamian statues, epitomizes absence of skin in the game: former Federal Reserve governor Ben Bernanke. To my sorrow, when I publicly questioned the audience, using the irony of the situation, namely that almost four millennia ago we were sort of more sophisticated with these things, and that the monument was 300 feet from where I was lecturing, nobody in the room, in spite of the high culture of French financiers, figured out what I was talking about. Nobody was aware of Hammurabi beyond some player in Mesopotamian geopolitics, or suspected his connection to skin in the game and the accountability of bankers."
+    "And the French, who normally know about a lot of things we don't know much about, don't seem to know about it; only Korean visitors with selfie sticks appear to have heard of the place."
    ]
   },
   {
-   "begin": "384.080",
+   "begin": "328.760",
    "children": [],
-   "end": "396.440",
-   "id": "f000015",
+   "end": "339.920",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "On my penultimate pilgrimage to the site, I happened to lecture French financiers in a conference room in the museum building about the ideas of this book, and the notion of skin in the game."
+   ]
+  },
+  {
+   "begin": "339.920",
+   "children": [],
+   "end": "353.080",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "I was speaking right after the man who, in spite of looks (and personality) quite similar to those found in Mesopotamian statues, epitomizes absence of skin in the game: former Federal Reserve governor Ben Bernanke."
+   ]
+  },
+  {
+   "begin": "353.080",
+   "children": [],
+   "end": "374.800",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "To my sorrow, when I publicly questioned the audience, using the irony of the situation, namely that almost four millennia ago we were sort of more sophisticated with these things, and that the monument was 300 feet from where I was lecturing, nobody in the room, in spite of the high culture of French financiers, figured out what I was talking about."
+   ]
+  },
+  {
+   "begin": "374.800",
+   "children": [],
+   "end": "388.400",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Nobody was aware of Hammurabi beyond some player in Mesopotamian geopolitics, or suspected his connection to skin in the game and the accountability of bankers."
+   ]
+  },
+  {
+   "begin": "388.400",
+   "children": [],
+   "end": "398.480",
+   "id": "f000040",
    "language": "eng",
    "lines": [
     "Table 1 shows the progression of the rules of symmetry from Hammurabi onward, so let us climb the ladder."
    ]
   },
   {
-   "begin": "396.440",
+   "begin": "398.480",
    "children": [],
    "end": "410.680",
-   "id": "f000016",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "Table 1 \u2022 Evolution of Moral Symmetry From Taleb and Sandis, 2016 Hammurabi/Lex Talionis 15th Law of Holiness and Justi"
@@ -163,48 +413,198 @@
   {
    "begin": "410.680",
    "children": [],
-   "end": "415.680",
-   "id": "f000017",
+   "end": "415.640",
+   "id": "f000042",
    "language": "eng",
    "lines": [
     "Silver Beats Gold"
    ]
   },
   {
-   "begin": "415.680",
+   "begin": "415.640",
    "children": [],
-   "end": "438.880",
-   "id": "f000018",
+   "end": "418.920",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "We rapidly go through the rules to the right of Hammurabi. Leviticus is a sweetening of Hammurabi's rule. The Golden Rule wants you to Treat others the way you would like them to treat you. The more robust Silver Rule says Do not treat others the way you would not like them to treat you. More robust? How? Why is the Silver Rule more robust?"
+    "We rapidly go through the rules to the right of Hammurabi."
+   ]
+  },
+  {
+   "begin": "418.920",
+   "children": [],
+   "end": "423.720",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Leviticus is a sweetening of Hammurabi's rule."
+   ]
+  },
+  {
+   "begin": "423.720",
+   "children": [],
+   "end": "428.800",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "The Golden Rule wants you to Treat others the way you would like them to treat you."
+   ]
+  },
+  {
+   "begin": "428.800",
+   "children": [],
+   "end": "434.200",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "The more robust Silver Rule says Do not treat others the way you would not like them to treat you."
+   ]
+  },
+  {
+   "begin": "434.200",
+   "children": [],
+   "end": "435.760",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "More robust?"
+   ]
+  },
+  {
+   "begin": "435.760",
+   "children": [],
+   "end": "436.080",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "How?"
+   ]
+  },
+  {
+   "begin": "436.080",
+   "children": [],
+   "end": "438.880",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Why is the Silver Rule more robust?"
    ]
   },
   {
    "begin": "438.880",
    "children": [],
-   "end": "472.640",
-   "id": "f000019",
+   "end": "447.120",
+   "id": "f000050",
    "language": "eng",
    "lines": [
-    "First, it tells you to mind your own business and not decide what is \"good\" for others. We know with much more clarity what is bad than what is good. The Silver Rule can be seen as the Negative Golden Rule, and as I am shown by my Calabrese (and Calabrese-speaking) barber every three weeks, via negativa (acting by removing) is more powerful and less error-prone than via positiva (acting by addition)."
+    "First, it tells you to mind your own business and not decide what is \"good\" for others."
    ]
   },
   {
-   "begin": "472.640",
+   "begin": "447.120",
    "children": [],
-   "end": "529.640",
-   "id": "f000020",
+   "end": "451.840",
+   "id": "f000051",
    "language": "eng",
    "lines": [
-    "Now a word about the \"others\" in treat others. \"You\" can be singular or plural, hence it can designate an individual, a basketball team, or the Northeast Association of Calabrese-Speaking Barbers. Same with the \"others.\" The idea is fractal, in the sense that it works at all scales: humans, tribes, societies, groups of societies, countries, etc., assuming each one is a separate standalone unit and can deal with other counterparts as such. Just as individuals should treat others the way they would like to be treated (or avoid being mistreated), families as units should treat other families in the same way. And, something that makes the interventionistas of Prologue 1 even more distasteful, so should countries. For Isocrates, the wise Athenian orator, warned us as early as the fifth century B.C. that nations should treat other nations according to the Silver Rule. He wrote:"
+    "We know with much more clarity what is bad than what is good."
+   ]
+  },
+  {
+   "begin": "451.840",
+   "children": [],
+   "end": "472.600",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "The Silver Rule can be seen as the Negative Golden Rule, and as I am shown by my Calabrese (and Calabrese-speaking) barber every three weeks, via negativa (acting by removing) is more powerful and less error-prone than via positiva (acting by addition)."
+   ]
+  },
+  {
+   "begin": "472.600",
+   "children": [],
+   "end": "475.560",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Now a word about the \"others\" in treat others."
+   ]
+  },
+  {
+   "begin": "475.560",
+   "children": [],
+   "end": "485.120",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "\"You\" can be singular or plural, hence it can designate an individual, a basketball team, or the Northeast Association of Calabrese-Speaking Barbers."
+   ]
+  },
+  {
+   "begin": "485.120",
+   "children": [],
+   "end": "486.720",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "Same with the \"others.\""
+   ]
+  },
+  {
+   "begin": "486.720",
+   "children": [],
+   "end": "502.000",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "The idea is fractal, in the sense that it works at all scales: humans, tribes, societies, groups of societies, countries, etc., assuming each one is a separate standalone unit and can deal with other counterparts as such."
+   ]
+  },
+  {
+   "begin": "502.000",
+   "children": [],
+   "end": "511.640",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Just as individuals should treat others the way they would like to be treated (or avoid being mistreated), families as units should treat other families in the same way."
+   ]
+  },
+  {
+   "begin": "511.640",
+   "children": [],
+   "end": "517.960",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "And, something that makes the interventionistas of Prologue 1 even more distasteful, so should countries."
+   ]
+  },
+  {
+   "begin": "517.960",
+   "children": [],
+   "end": "529.160",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "For Isocrates, the wise Athenian orator, warned us as early as the fifth century B.C. that nations should treat other nations according to the Silver Rule."
+   ]
+  },
+  {
+   "begin": "529.160",
+   "children": [],
+   "end": "529.640",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "He wrote:"
    ]
   },
   {
    "begin": "529.640",
    "children": [],
    "end": "536.680",
-   "id": "f000021",
+   "id": "f000061",
    "language": "eng",
    "lines": [
     "\"Deal with weaker states as you think it appropriate for stronger states to deal with you.\""
@@ -213,168 +613,448 @@
   {
    "begin": "536.680",
    "children": [],
-   "end": "570.040",
-   "id": "f000022",
+   "end": "545.160",
+   "id": "f000062",
    "language": "eng",
    "lines": [
-    "Nobody embodies the notion of symmetry better than Isocrates, who lived more than a century and made significant contributions when he was in his nineties. He even managed a rare dynamic version of the Golden Rule: \"Conduct yourself toward your parents as you would have your children conduct themselves toward you.\" We had to wait for the great baseball coach Yogi Berra to get another such dynamic rule for symmetric relations: \"I go to other people's funerals so they come to mine.\""
+    "Nobody embodies the notion of symmetry better than Isocrates, who lived more than a century and made significant contributions when he was in his nineties."
    ]
   },
   {
-   "begin": "570.040",
+   "begin": "545.160",
    "children": [],
-   "end": "592.280",
-   "id": "f000023",
+   "end": "561.360",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "He even managed a rare dynamic version of the Golden Rule: \"Conduct yourself toward your parents as you would have your children conduct themselves toward you.\""
+   ]
+  },
+  {
+   "begin": "561.360",
+   "children": [],
+   "end": "578.760",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "We had to wait for the great baseball coach Yogi Berra to get another such dynamic rule for symmetric relations: \"I go to other people's funerals so they come to mine.\""
+   ]
+  },
+  {
+   "begin": "578.760",
+   "children": [],
+   "end": "597.800",
+   "id": "f000065",
    "language": "eng",
    "lines": [
     "More effective, of course, is the reverse direction, to treat one's children the way one wished to be treated by one's parents."
    ]
   },
   {
-   "begin": "592.280",
+   "begin": "597.800",
    "children": [],
-   "end": "645.640",
-   "id": "f000024",
+   "end": "617.440",
+   "id": "f000066",
    "language": "eng",
    "lines": [
-    "The very idea behind the First Amendment of the Constitution of the United States is to establish a silver rule-style symmetry: you can practice your freedom of religion so long as you allow me to practice mine; you have the right to contradict me so long as I have the right to contradict you. Effectively, there is no democracy without such an unconditional symmetry in the rights to express yourself, and the gravest threat is the slippery slope in the attempts to limit speech on grounds that some of it may hurt some people's feelings. Such restrictions do not necessarily come from the state itself, rather from the forceful establishment of an intellectual monoculture by an overactive thought police in the media and cultural life."
+    "The very idea behind the First Amendment of the Constitution of the United States is to establish a silver rule-style symmetry: you can practice your freedom of religion so long as you allow me to practice mine; you have the right to contradict me so long as I have the right to contradict you."
    ]
   },
   {
-   "begin": "645.640",
+   "begin": "617.440",
    "children": [],
-   "end": "649.640",
-   "id": "f000025",
+   "end": "631.280",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "Effectively, there is no democracy without such an unconditional symmetry in the rights to express yourself, and the gravest threat is the slippery slope in the attempts to limit speech on grounds that some of it may hurt some people's feelings."
+   ]
+  },
+  {
+   "begin": "631.280",
+   "children": [],
+   "end": "642.560",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Such restrictions do not necessarily come from the state itself, rather from the forceful establishment of an intellectual monoculture by an overactive thought police in the media and cultural life."
+   ]
+  },
+  {
+   "begin": "642.560",
+   "children": [],
+   "end": "647.560",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "Fuhgetaboud Universalism"
    ]
   },
   {
-   "begin": "649.640",
+   "begin": "647.560",
    "children": [],
-   "end": "702.760",
-   "id": "f000026",
+   "end": "659.040",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "By applying symmetry to relations between individual and collective, we get virtue, classical virtue, what is now called \"virtue ethics.\" But there is a next step: all the way to the right of Table 1 is Immanuel Kant's categorical imperative, which I summarize as: Behave as if your action can be generalized to the behavior of everyone in all places, under all conditions. The actual text is more challenging: \"Act only in accordance with that maxim through which you can at the same time will that it will become a universal law,\" Kant wrote in what is known as the first formulation. And \"act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end,\" in what is known as the second formulation."
+    "By applying symmetry to relations between individual and collective, we get virtue, classical virtue, what is now called \"virtue ethics.\""
+   ]
+  },
+  {
+   "begin": "659.040",
+   "children": [],
+   "end": "672.920",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "But there is a next step: all the way to the right of Table 1 is Immanuel Kant's categorical imperative, which I summarize as: Behave as if your action can be generalized to the behavior of everyone in all places, under all conditions."
+   ]
+  },
+  {
+   "begin": "672.920",
+   "children": [],
+   "end": "686.360",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "The actual text is more challenging: \"Act only in accordance with that maxim through which you can at the same time will that it will become a universal law,\" Kant wrote in what is known as the first formulation."
+   ]
+  },
+  {
+   "begin": "686.360",
+   "children": [],
+   "end": "702.760",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "And \"act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end,\" in what is known as the second formulation."
    ]
   },
   {
    "begin": "702.760",
    "children": [],
-   "end": "713.960",
-   "id": "f000027",
+   "end": "709.800",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "Formulation shmormulation, fughedaboud Kant as it gets too complicated and things that get complicated have a problem. So we will skip Kant's drastic approach for one main reason:"
+    "Formulation shmormulation, fughedaboud Kant as it gets too complicated and things that get complicated have a problem."
+   ]
+  },
+  {
+   "begin": "709.800",
+   "children": [],
+   "end": "713.960",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "So we will skip Kant's drastic approach for one main reason:"
    ]
   },
   {
    "begin": "713.960",
    "children": [],
-   "end": "719.800",
-   "id": "f000028",
+   "end": "718.240",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "Universal behavior is great on paper, disastrous in practice."
    ]
   },
   {
-   "begin": "719.800",
+   "begin": "718.240",
    "children": [],
-   "end": "758.200",
-   "id": "f000029",
+   "end": "720.200",
+   "id": "f000077",
    "language": "eng",
    "lines": [
-    "Why? As we will belabor ad nauseam in this book, we are local and practical animals, sensitive to scale. The small is not the large; the tangible is not the abstract; the emotional is not the logical. Just as we argued that micro works better than macro, it is best to avoid going to the very general when saying hello to your garage attendant. We should focus on our immediate environment; we need simple practical rules. Even worse: the general and the abstract tend to attract self-righteous psychopaths similar to the interventionistas of Part 1 of the Prologue."
+    "Why?"
+   ]
+  },
+  {
+   "begin": "720.200",
+   "children": [],
+   "end": "727.520",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "As we will belabor ad nauseam in this book, we are local and practical animals, sensitive to scale."
+   ]
+  },
+  {
+   "begin": "727.520",
+   "children": [],
+   "end": "733.840",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "The small is not the large; the tangible is not the abstract; the emotional is not the logical."
+   ]
+  },
+  {
+   "begin": "733.840",
+   "children": [],
+   "end": "742.040",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "Just as we argued that micro works better than macro, it is best to avoid going to the very general when saying hello to your garage attendant."
+   ]
+  },
+  {
+   "begin": "742.040",
+   "children": [],
+   "end": "748.000",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "We should focus on our immediate environment; we need simple practical rules."
+   ]
+  },
+  {
+   "begin": "748.000",
+   "children": [],
+   "end": "758.200",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "Even worse: the general and the abstract tend to attract self-righteous psychopaths similar to the interventionistas of Part 1 of the Prologue."
    ]
   },
   {
    "begin": "758.200",
    "children": [],
-   "end": "785.680",
-   "id": "f000030",
+   "end": "765.120",
+   "id": "f000083",
    "language": "eng",
    "lines": [
-    "In other words, Kant did not get the notion of scaling - yet many of us are victims of Kant's universalism. (As we saw, modernity likes the abstract over the particular; social justice warriors have been accused of \"treating people as categories, not individuals.\") Few, outside of religion, really got the notion of scaling before the great political thinker Elinor Ostrom, about whom a bit in Chapter 1."
+    "In other words, Kant did not get the notion of scaling - yet many of us are victims of Kant's universalism."
+   ]
+  },
+  {
+   "begin": "765.120",
+   "children": [],
+   "end": "775.080",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "(As we saw, modernity likes the abstract over the particular; social justice warriors have been accused of \"treating people as categories, not individuals.\")"
+   ]
+  },
+  {
+   "begin": "775.080",
+   "children": [],
+   "end": "785.680",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "Few, outside of religion, really got the notion of scaling before the great political thinker Elinor Ostrom, about whom a bit in Chapter 1."
    ]
   },
   {
    "begin": "785.680",
    "children": [],
-   "end": "808.320",
-   "id": "f000031",
+   "end": "795.760",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "In fact, the deep message of this book is the danger of universalism taken two or three steps too far - conflating the micro and the macro. Likewise the crux of the idea of The Black Swan was Platonification, missing central but hidden elements of a thing in the process of transforming it into an abstract construct, then causing a blowup."
+    "In fact, the deep message of this book is the danger of universalism taken two or three steps too far - conflating the micro and the macro."
    ]
   },
   {
-   "begin": "808.320",
+   "begin": "795.760",
    "children": [],
-   "end": "816.040",
-   "id": "f000032",
+   "end": "808.280",
+   "id": "f000087",
    "language": "eng",
    "lines": [
-    "II. FROM KANT TO FAT TONY"
+    "Likewise the crux of the idea of The Black Swan was Platonification, missing central but hidden elements of a thing in the process of transforming it into an abstract construct, then causing a blowup."
    ]
   },
   {
-   "begin": "816.040",
+   "begin": "808.280",
    "children": [],
-   "end": "830.680",
-   "id": "f000033",
+   "end": "811.880",
+   "id": "f000088",
    "language": "eng",
    "lines": [
-    "Let us move to the present, to the transactional, highly transactional present. In New Jersey, symmetry can simply mean, in Fat Tony's terms: don't give crap, don't take crap. His more practical approach is"
+    "II."
    ]
   },
   {
-   "begin": "830.680",
+   "begin": "811.880",
    "children": [],
-   "end": "839.720",
-   "id": "f000034",
+   "end": "814.000",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "Start by being nice to every person you meet. But if someone tries to exercise power over you, exercise power over him."
+    "FROM KANT TO FAT TONY"
    ]
   },
   {
-   "begin": "839.720",
+   "begin": "814.000",
    "children": [],
-   "end": "874.960",
-   "id": "f000035",
+   "end": "821.640",
+   "id": "f000090",
    "language": "eng",
    "lines": [
-    "Who is Fat Tony? He is a character in the Incerto who, in demeanor, behavior, choices under uncertainty, conversation, lifestyle, waist size, and food habits would be the exact opposite of your State Department analyst or economics lecturer. He is also calm and unfazed unless one really gets him angry. He became wealthy by helping people he generically calls \"the suckers\" separate from their funds (or, as is often the case, those of their clients, as these people often gamble with other people's money)."
+    "Let us move to the present, to the transactional, highly transactional present."
    ]
   },
   {
-   "begin": "874.960",
+   "begin": "821.640",
    "children": [],
-   "end": "910.200",
-   "id": "f000036",
+   "end": "828.000",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "This symmetry thing happens to link directly to my own profession: option trader. In an option, one person (the buyer of the option), contractually has the upside (future gains), the other (the seller) has a liability for the downside (future losses), for a pre-agreed price. Just as in an insurance contract, where risk is transferred for a fee. Any meaningful disruption of such symmetry - with transfer of liabilities - invariably leads to an explosive situation, as we saw with the economic crisis of 2008."
+    "In New Jersey, symmetry can simply mean, in Fat Tony's terms: don't give crap, don't take crap."
    ]
   },
   {
-   "begin": "910.200",
+   "begin": "828.000",
    "children": [],
-   "end": "942.960",
-   "id": "f000037",
+   "end": "830.360",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "This symmetry thing also concerns the alignment of interests in a transaction. Let us refresh earlier arguments: if bankers' profits accrue to them, while their losses are somewhat quietly transferred to society (the Spanish grammar specialists, assistant schoolteachers\u2026), there is a fundamental problem by which hidden risks will continuously increase, until the final blowup. Regulations, while appearing to be a remedy on paper, if anything, exacerbate the problem as they facilitate risk-hiding."
+    "His more practical approach is"
    ]
   },
   {
-   "begin": "942.960",
+   "begin": "830.360",
+   "children": [],
+   "end": "833.160",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Start by being nice to every person you meet."
+   ]
+  },
+  {
+   "begin": "833.160",
+   "children": [],
+   "end": "838.040",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "But if someone tries to exercise power over you, exercise power over him."
+   ]
+  },
+  {
+   "begin": "838.040",
+   "children": [],
+   "end": "840.840",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Who is Fat Tony?"
+   ]
+  },
+  {
+   "begin": "840.840",
+   "children": [],
+   "end": "856.040",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "He is a character in the Incerto who, in demeanor, behavior, choices under uncertainty, conversation, lifestyle, waist size, and food habits would be the exact opposite of your State Department analyst or economics lecturer."
+   ]
+  },
+  {
+   "begin": "856.040",
+   "children": [],
+   "end": "861.400",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "He is also calm and unfazed unless one really gets him angry."
+   ]
+  },
+  {
+   "begin": "861.400",
+   "children": [],
+   "end": "873.400",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "He became wealthy by helping people he generically calls \"the suckers\" separate from their funds (or, as is often the case, those of their clients, as these people often gamble with other people's money)."
+   ]
+  },
+  {
+   "begin": "873.400",
+   "children": [],
+   "end": "880.120",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "This symmetry thing happens to link directly to my own profession: option trader."
+   ]
+  },
+  {
+   "begin": "880.120",
+   "children": [],
+   "end": "893.720",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "In an option, one person (the buyer of the option), contractually has the upside (future gains), the other (the seller) has a liability for the downside (future losses), for a pre-agreed price."
+   ]
+  },
+  {
+   "begin": "893.720",
+   "children": [],
+   "end": "898.200",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "Just as in an insurance contract, where risk is transferred for a fee."
+   ]
+  },
+  {
+   "begin": "898.200",
+   "children": [],
+   "end": "908.680",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "Any meaningful disruption of such symmetry - with transfer of liabilities - invariably leads to an explosive situation, as we saw with the economic crisis of 2008."
+   ]
+  },
+  {
+   "begin": "908.680",
+   "children": [],
+   "end": "914.640",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "This symmetry thing also concerns the alignment of interests in a transaction."
+   ]
+  },
+  {
+   "begin": "914.640",
+   "children": [],
+   "end": "934.040",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Let us refresh earlier arguments: if bankers' profits accrue to them, while their losses are somewhat quietly transferred to society (the Spanish grammar specialists, assistant schoolteachers\u2026), there is a fundamental problem by which hidden risks will continuously increase, until the final blowup."
+   ]
+  },
+  {
+   "begin": "934.040",
+   "children": [],
+   "end": "941.320",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Regulations, while appearing to be a remedy on paper, if anything, exacerbate the problem as they facilitate risk-hiding."
+   ]
+  },
+  {
+   "begin": "941.320",
    "children": [],
    "end": "946.040",
-   "id": "f000038",
+   "id": "f000106",
    "language": "eng",
    "lines": [
     "Which brings us to what is known as the agency problem."
@@ -383,78 +1063,178 @@
   {
    "begin": "946.040",
    "children": [],
-   "end": "952.440",
-   "id": "f000039",
+   "end": "950.840",
+   "id": "f000107",
    "language": "eng",
    "lines": [
     "Crook, Fool, or Both"
    ]
   },
   {
-   "begin": "952.440",
+   "begin": "950.840",
    "children": [],
-   "end": "962.000",
-   "id": "f000040",
+   "end": "960.520",
+   "id": "f000108",
    "language": "eng",
    "lines": [
     "One practical extension of the Silver Rule (as a reminder, it is the one that says Do not do to others what you don't want them to do to you):"
    ]
   },
   {
-   "begin": "962.000",
+   "begin": "960.520",
    "children": [],
-   "end": "970.120",
-   "id": "f000041",
+   "end": "970.240",
+   "id": "f000109",
    "language": "eng",
    "lines": [
     "Avoid taking advice from someone who gives advice for a living, unless there is a penalty for their advice."
    ]
   },
   {
-   "begin": "970.120",
+   "begin": "970.240",
    "children": [],
-   "end": "1001.960",
-   "id": "f000042",
+   "end": "974.840",
+   "id": "f000110",
    "language": "eng",
    "lines": [
-    "Recall the earlier comment on how \"I trust you\" straddles both ethics and knowledge. There is always an element of fools of randomness and crooks of randomness in matters of uncertainty; one has a lack of understanding, the second has warped incentives. One, the fool, takes risks he doesn't understand, mistaking his own past luck for skills, the other, the crook, transfers risks to others. Economists, when they talk about skin in the game, are only concerned with the second."
+    "Recall the earlier comment on how \"I trust you\" straddles both ethics and knowledge."
    ]
   },
   {
-   "begin": "1001.960",
+   "begin": "974.840",
    "children": [],
-   "end": "1039.800",
-   "id": "f000043",
+   "end": "985.200",
+   "id": "f000111",
    "language": "eng",
    "lines": [
-    "Let us flush out the idea of agency, well-known and studied by insurance companies. Simply, you know a lot more about your health than any insurer would. So you have an incentive to get an insurance policy when you detect an illness before someone else knows about it. By getting insured when it fits you, not when you are healthy, you end up costing the system more than you put into it, hence causing a raise in premia paid by all sorts of innocent people (including, again, the Spanish grammar specialists). Insurance companies have filters such as high deductibles and other methods to eliminate such imbalances."
+    "There is always an element of fools of randomness and crooks of randomness in matters of uncertainty; one has a lack of understanding, the second has warped incentives."
    ]
   },
   {
-   "begin": "1039.800",
+   "begin": "985.200",
    "children": [],
-   "end": "1055.720",
-   "id": "f000044",
+   "end": "995.320",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "One, the fool, takes risks he doesn't understand, mistaking his own past luck for skills, the other, the crook, transfers risks to others."
+   ]
+  },
+  {
+   "begin": "995.320",
+   "children": [],
+   "end": "1000.280",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "Economists, when they talk about skin in the game, are only concerned with the second."
+   ]
+  },
+  {
+   "begin": "1000.280",
+   "children": [],
+   "end": "1006.760",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Let us flush out the idea of agency, well-known and studied by insurance companies."
+   ]
+  },
+  {
+   "begin": "1006.760",
+   "children": [],
+   "end": "1011.400",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Simply, you know a lot more about your health than any insurer would."
+   ]
+  },
+  {
+   "begin": "1011.400",
+   "children": [],
+   "end": "1018.280",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "So you have an incentive to get an insurance policy when you detect an illness before someone else knows about it."
+   ]
+  },
+  {
+   "begin": "1018.280",
+   "children": [],
+   "end": "1032.040",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "By getting insured when it fits you, not when you are healthy, you end up costing the system more than you put into it, hence causing a raise in premia paid by all sorts of innocent people (including, again, the Spanish grammar specialists)."
+   ]
+  },
+  {
+   "begin": "1032.040",
+   "children": [],
+   "end": "1038.240",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "Insurance companies have filters such as high deductibles and other methods to eliminate such imbalances."
+   ]
+  },
+  {
+   "begin": "1038.240",
+   "children": [],
+   "end": "1054.080",
+   "id": "f000119",
    "language": "eng",
    "lines": [
     "The agency problem (or principal-agent problem) also manifests itself in the misalignment of interests in transactions: a vendor in a one-shot transaction does not have his interests aligned to yours - and so can hide stuff from you."
    ]
   },
   {
-   "begin": "1055.720",
+   "begin": "1054.080",
    "children": [],
-   "end": "1094.320",
-   "id": "f000045",
+   "end": "1059.880",
+   "id": "f000120",
    "language": "eng",
    "lines": [
-    "But disincentive is not enough: the fool is a real thing. Some people do not know their own interest - just consider addicts, workaholics, people trapped in a bad relationship, people who support large government, the press, book reviewers, or respectable bureaucrats, all of whom for some mysterious reason act against their own interest. So there is this other instance where filtering plays a role: fools of randomness are purged by reality so they stop harming others. Recall that it is at the foundation of evolution that systems get smart by elimination."
+    "But disincentive is not enough: the fool is a real thing."
    ]
   },
   {
-   "begin": "1094.320",
+   "begin": "1059.880",
+   "children": [],
+   "end": "1077.600",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "Some people do not know their own interest - just consider addicts, workaholics, people trapped in a bad relationship, people who support large government, the press, book reviewers, or respectable bureaucrats, all of whom for some mysterious reason act against their own interest."
+   ]
+  },
+  {
+   "begin": "1077.600",
+   "children": [],
+   "end": "1087.400",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "So there is this other instance where filtering plays a role: fools of randomness are purged by reality so they stop harming others."
+   ]
+  },
+  {
+   "begin": "1087.400",
+   "children": [],
+   "end": "1092.720",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Recall that it is at the foundation of evolution that systems get smart by elimination."
+   ]
+  },
+  {
+   "begin": "1092.720",
    "children": [],
    "end": "1100.520",
-   "id": "f000046",
+   "id": "f000124",
    "language": "eng",
    "lines": [
     "There is another point: we may not know beforehand if an action is foolish - but reality knows."
@@ -463,68 +1243,138 @@
   {
    "begin": "1100.520",
    "children": [],
-   "end": "1111.000",
-   "id": "f000047",
+   "end": "1109.200",
+   "id": "f000125",
    "language": "eng",
    "lines": [
     "Causal Opacity and Preferences Revealed"
    ]
   },
   {
-   "begin": "1111.000",
+   "begin": "1109.200",
    "children": [],
-   "end": "1122.320",
-   "id": "f000048",
+   "end": "1115.760",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "Let us now take the epistemological dimension of skin in the game to an even higher level. Skin in the game is about the real world, not appearances. As per Fat Tony's motto:"
+    "Let us now take the epistemological dimension of skin in the game to an even higher level."
    ]
   },
   {
-   "begin": "1122.320",
+   "begin": "1115.760",
    "children": [],
-   "end": "1127.160",
-   "id": "f000049",
+   "end": "1120.120",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "You do not want to win an argument. You want to win."
+    "Skin in the game is about the real world, not appearances."
    ]
   },
   {
-   "begin": "1127.160",
+   "begin": "1120.120",
    "children": [],
-   "end": "1140.520",
-   "id": "f000050",
+   "end": "1121.840",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "Indeed you need to win whatever you are after: money, territory, the heart of a grammar specialist, or a (pink) convertible car. For focusing just on words puts one on a very dangerous slope, since"
+    "As per Fat Tony's motto:"
    ]
   },
   {
-   "begin": "1140.520",
+   "begin": "1121.840",
    "children": [],
-   "end": "1146.600",
-   "id": "f000051",
+   "end": "1124.200",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "You do not want to win an argument."
+   ]
+  },
+  {
+   "begin": "1124.200",
+   "children": [],
+   "end": "1125.560",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "You want to win."
+   ]
+  },
+  {
+   "begin": "1125.560",
+   "children": [],
+   "end": "1135.080",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Indeed you need to win whatever you are after: money, territory, the heart of a grammar specialist, or a (pink) convertible car."
+   ]
+  },
+  {
+   "begin": "1135.080",
+   "children": [],
+   "end": "1140.280",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "For focusing just on words puts one on a very dangerous slope, since"
+   ]
+  },
+  {
+   "begin": "1140.280",
+   "children": [],
+   "end": "1143.480",
+   "id": "f000133",
    "language": "eng",
    "lines": [
     "We are much better at doing than understanding."
    ]
   },
   {
-   "begin": "1146.600",
+   "begin": "1143.480",
    "children": [],
-   "end": "1183.640",
-   "id": "f000052",
+   "end": "1158.840",
+   "id": "f000134",
    "language": "eng",
    "lines": [
-    "There is a difference between a charlatan and a genuinely skilled member of society, say that between a macrobull***ter political \"scientist\" and a plumber, or between a journalist and a mafia made man. The doer wins by doing, not convincing. Entire fields (say economics and other social sciences) become themselves charlatanic because of the absence of skin in the game connecting them back to earth (while the participants argue about \"science\"). Chapter 9 shows how they will develop elaborate rituals, titles, protocols, and formalities to hide this deficit."
+    "There is a difference between a charlatan and a genuinely skilled member of society, say that between a macrobull***ter political \"scientist\" and a plumber, or between a journalist and a mafia made man."
    ]
   },
   {
-   "begin": "1183.640",
+   "begin": "1158.840",
+   "children": [],
+   "end": "1162.120",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "The doer wins by doing, not convincing."
+   ]
+  },
+  {
+   "begin": "1162.120",
+   "children": [],
+   "end": "1175.520",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Entire fields (say economics and other social sciences) become themselves charlatanic because of the absence of skin in the game connecting them back to earth (while the participants argue about \"science\")."
+   ]
+  },
+  {
+   "begin": "1175.520",
+   "children": [],
+   "end": "1182.880",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Chapter 9 shows how they will develop elaborate rituals, titles, protocols, and formalities to hide this deficit."
+   ]
+  },
+  {
+   "begin": "1182.880",
    "children": [],
    "end": "1189.720",
-   "id": "f000053",
+   "id": "f000138",
    "language": "eng",
    "lines": [
     "You may not know in your mind where you are going, but you know it by doing."
@@ -533,228 +1383,658 @@
   {
    "begin": "1189.720",
    "children": [],
-   "end": "1236.360",
-   "id": "f000054",
+   "end": "1193.120",
+   "id": "f000139",
    "language": "eng",
    "lines": [
-    "Even economics is based on the notion of \"revealed preferences.\" What people \"think\" is not relevant - you want to avoid entering the mushy-soft and self-looping discipline of psychology. People's \"explanations\" for what they do are just words, stories they tell themselves, not the business of proper science. What they do, on the other hand, is tangible and measurable and that's what we should focus on. This axiom, perhaps even principle, is very powerful but is not followed too much by researchers. Revelation of preferences is best understood by the betrothed: a diamond, particularly when it is onerous to the buyer, is vastly more convincing a commitment (and much less reversible) than a verbal promise."
+    "Even economics is based on the notion of \"revealed preferences.\""
    ]
   },
   {
-   "begin": "1236.360",
+   "begin": "1193.120",
    "children": [],
-   "end": "1239.360",
-   "id": "f000055",
+   "end": "1200.720",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "What people \"think\" is not relevant - you want to avoid entering the mushy-soft and self-looping discipline of psychology."
+   ]
+  },
+  {
+   "begin": "1200.720",
+   "children": [],
+   "end": "1208.640",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "People's \"explanations\" for what they do are just words, stories they tell themselves, not the business of proper science."
+   ]
+  },
+  {
+   "begin": "1208.640",
+   "children": [],
+   "end": "1214.480",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "What they do, on the other hand, is tangible and measurable and that's what we should focus on."
+   ]
+  },
+  {
+   "begin": "1214.480",
+   "children": [],
+   "end": "1221.280",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "This axiom, perhaps even principle, is very powerful but is not followed too much by researchers."
+   ]
+  },
+  {
+   "begin": "1221.280",
+   "children": [],
+   "end": "1234.720",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Revelation of preferences is best understood by the betrothed: a diamond, particularly when it is onerous to the buyer, is vastly more convincing a commitment (and much less reversible) than a verbal promise."
+   ]
+  },
+  {
+   "begin": "1234.720",
+   "children": [],
+   "end": "1238.720",
+   "id": "f000145",
    "language": "eng",
    "lines": [
     "As to forecasting, fuhgetaboud it:"
    ]
   },
   {
-   "begin": "1239.360",
+   "begin": "1238.720",
    "children": [],
-   "end": "1246.520",
-   "id": "f000056",
+   "end": "1244.960",
+   "id": "f000146",
    "language": "eng",
    "lines": [
     "Forecasting (in words) bears no relation to speculation (in deeds)."
    ]
   },
   {
-   "begin": "1246.520",
+   "begin": "1244.960",
    "children": [],
-   "end": "1267.200",
-   "id": "f000057",
+   "end": "1251.160",
+   "id": "f000147",
    "language": "eng",
    "lines": [
-    "I personally know rich horrible forecasters and poor \"good\" forecasters. Because what matters in life isn't how frequently one is \"right\" about outcomes, but how much one makes when one is right. Being wrong, when it is not costly, doesn't count - in a way that's similar to trial-and-error mechanisms of research."
+    "I personally know rich horrible forecasters and poor \"good\" forecasters."
    ]
   },
   {
-   "begin": "1267.200",
+   "begin": "1251.160",
    "children": [],
-   "end": "1304.720",
-   "id": "f000058",
+   "end": "1258.400",
+   "id": "f000148",
    "language": "eng",
    "lines": [
-    "Exposures in real life, outside of games, are always too complicated to reduce to a well-defined \"event\" easy to describe in words. Outcomes in real life are not as in a baseball game, reduced to a binary win-or-lose outcome. Many exposures are highly nonlinear: you may be beneficially exposed to rain, but not to floods. The exact argument is flushed out in this author's technical works. Take for now that forecasting, especially when done with \"science,\" is often the last refuge of the charlatan, and has been so since the beginning of times."
+    "Because what matters in life isn't how frequently one is \"right\" about outcomes, but how much one makes when one is right."
    ]
   },
   {
-   "begin": "1304.720",
+   "begin": "1258.400",
    "children": [],
-   "end": "1336.880",
-   "id": "f000059",
+   "end": "1265.680",
+   "id": "f000149",
    "language": "eng",
    "lines": [
-    "Further, there is something called the inverse problem in mathematics, which is solved by - and only by - skin in the game. I will simplify for now as follows: it is harder for us to reverse-engineer than engineer; we see the result of evolutionary forces but cannot replicate them owing to their causal opacity. We can only run such processes forward. The very operation of Time (which we capitalize) and its irreversibility requires the filtering from skin in the game."
+    "Being wrong, when it is not costly, doesn't count - in a way that's similar to trial-and-error mechanisms of research."
    ]
   },
   {
-   "begin": "1336.880",
+   "begin": "1265.680",
    "children": [],
-   "end": "1378.480",
-   "id": "f000060",
+   "end": "1276.080",
+   "id": "f000150",
    "language": "eng",
    "lines": [
-    "Skin in the game helps to solve the Black Swan problem and other matters of uncertainty at the level of both the individual and the collective: what has survived has revealed its robustness to Black Swan events and removing skin in the game disrupts such selection mechanisms. Without skin in the game, we fail to get the Intelligence of Time (a manifestation of the Lindy effect, which will get an entire chapter, and by which 1) time removes the fragile and keeps the robust, and 2) the life expectancy of the nonfragile lengthens with time). Ideas have, indirectly, skin in the game, and populations that harbor them do as well."
+    "Exposures in real life, outside of games, are always too complicated to reduce to a well-defined \"event\" easy to describe in words."
    ]
   },
   {
-   "begin": "1378.480",
+   "begin": "1276.080",
    "children": [],
-   "end": "1456.640",
-   "id": "f000061",
+   "end": "1282.760",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "In that light - that of (causal) opacity and revelation of preferences - the Intelligence of Time under skin in the game even helps define rationality - the only definition of rationality I found that doesn't fall apart under logical scrutiny. A practice may appear to be irrational to an overeducated and naive (but punctual) observer who works in the French Ministry of Planning, because we humans are not intelligent enough to understand it - but it has worked for a long time. Is it rational? We have no grounds to reject it. But we know what is patently irrational: what threatens the survival of the collective first, the individual second. And, from a statistical standpoint, going against nature (and its statistical significance) is irrational. In spite of the noise funded by pesticide and other technological companies, there is no known rigorous definition of rationality that makes rejection of the \"natural\" rational; to the contrary. By definition, what works cannot be irrational; about every single person I know who has chronically failed in business shares that mental block, the failure to realize that if something stupid works (and makes money), it cannot be stupid."
+    "Outcomes in real life are not as in a baseball game, reduced to a binary win-or-lose outcome."
    ]
   },
   {
-   "begin": "1456.640",
+   "begin": "1282.760",
    "children": [],
-   "end": "1477.280",
-   "id": "f000062",
+   "end": "1289.680",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "A system with skin-in-the-game requirements holds together through the notion of a sacrifice in order to protect the collective or entities higher in the hierarchy that are required to survive. \"Survival talks and BS walks.\" Or as Fat Tony would put it: \"Survival tawks and BS wawks.\" In other words:"
+    "Many exposures are highly nonlinear: you may be beneficially exposed to rain, but not to floods."
    ]
   },
   {
-   "begin": "1477.280",
+   "begin": "1289.680",
    "children": [],
-   "end": "1485.200",
-   "id": "f000063",
+   "end": "1293.400",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "The exact argument is flushed out in this author's technical works."
+   ]
+  },
+  {
+   "begin": "1293.400",
+   "children": [],
+   "end": "1303.120",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "Take for now that forecasting, especially when done with \"science,\" is often the last refuge of the charlatan, and has been so since the beginning of times."
+   ]
+  },
+  {
+   "begin": "1303.120",
+   "children": [],
+   "end": "1311.880",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "Further, there is something called the inverse problem in mathematics, which is solved by - and only by - skin in the game."
+   ]
+  },
+  {
+   "begin": "1311.880",
+   "children": [],
+   "end": "1324.240",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "I will simplify for now as follows: it is harder for us to reverse-engineer than engineer; we see the result of evolutionary forces but cannot replicate them owing to their causal opacity."
+   ]
+  },
+  {
+   "begin": "1324.240",
+   "children": [],
+   "end": "1327.600",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "We can only run such processes forward."
+   ]
+  },
+  {
+   "begin": "1327.600",
+   "children": [],
+   "end": "1335.320",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "The very operation of Time (which we capitalize) and its irreversibility requires the filtering from skin in the game."
+   ]
+  },
+  {
+   "begin": "1335.320",
+   "children": [],
+   "end": "1352.920",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "Skin in the game helps to solve the Black Swan problem and other matters of uncertainty at the level of both the individual and the collective: what has survived has revealed its robustness to Black Swan events and removing skin in the game disrupts such selection mechanisms."
+   ]
+  },
+  {
+   "begin": "1352.920",
+   "children": [],
+   "end": "1370.640",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Without skin in the game, we fail to get the Intelligence of Time (a manifestation of the Lindy effect, which will get an entire chapter, and by which 1) time removes the fragile and keeps the robust, and 2) the life expectancy of the nonfragile lengthens with time)."
+   ]
+  },
+  {
+   "begin": "1370.640",
+   "children": [],
+   "end": "1376.920",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "Ideas have, indirectly, skin in the game, and populations that harbor them do as well."
+   ]
+  },
+  {
+   "begin": "1376.920",
+   "children": [],
+   "end": "1394.120",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "In that light - that of (causal) opacity and revelation of preferences - the Intelligence of Time under skin in the game even helps define rationality - the only definition of rationality I found that doesn't fall apart under logical scrutiny."
+   ]
+  },
+  {
+   "begin": "1394.120",
+   "children": [],
+   "end": "1408.240",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "A practice may appear to be irrational to an overeducated and naive (but punctual) observer who works in the French Ministry of Planning, because we humans are not intelligent enough to understand it - but it has worked for a long time."
+   ]
+  },
+  {
+   "begin": "1408.240",
+   "children": [],
+   "end": "1409.840",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "Is it rational?"
+   ]
+  },
+  {
+   "begin": "1409.840",
+   "children": [],
+   "end": "1411.920",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "We have no grounds to reject it."
+   ]
+  },
+  {
+   "begin": "1411.920",
+   "children": [],
+   "end": "1419.400",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "But we know what is patently irrational: what threatens the survival of the collective first, the individual second."
+   ]
+  },
+  {
+   "begin": "1419.400",
+   "children": [],
+   "end": "1426.520",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "And, from a statistical standpoint, going against nature (and its statistical significance) is irrational."
+   ]
+  },
+  {
+   "begin": "1426.520",
+   "children": [],
+   "end": "1439.120",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "In spite of the noise funded by pesticide and other technological companies, there is no known rigorous definition of rationality that makes rejection of the \"natural\" rational; to the contrary."
+   ]
+  },
+  {
+   "begin": "1439.120",
+   "children": [],
+   "end": "1455.120",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "By definition, what works cannot be irrational; about every single person I know who has chronically failed in business shares that mental block, the failure to realize that if something stupid works (and makes money), it cannot be stupid."
+   ]
+  },
+  {
+   "begin": "1455.120",
+   "children": [],
+   "end": "1467.440",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "A system with skin-in-the-game requirements holds together through the notion of a sacrifice in order to protect the collective or entities higher in the hierarchy that are required to survive."
+   ]
+  },
+  {
+   "begin": "1467.440",
+   "children": [],
+   "end": "1470.640",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "\"Survival talks and BS walks.\""
+   ]
+  },
+  {
+   "begin": "1470.640",
+   "children": [],
+   "end": "1479.800",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "Or as Fat Tony would put it: \"Survival tawks and BS wawks.\""
+   ]
+  },
+  {
+   "begin": "1479.800",
+   "children": [],
+   "end": "1483.640",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "In other words:"
+   ]
+  },
+  {
+   "begin": "1483.640",
+   "children": [],
+   "end": "1496.680",
+   "id": "f000174",
    "language": "eng",
    "lines": [
     "What is rational is what allows the collective - entities meant to live for a long time - to survive."
    ]
   },
   {
-   "begin": "1485.200",
+   "begin": "1496.680",
    "children": [],
-   "end": "1547.760",
-   "id": "f000064",
+   "end": "1511.040",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "Not what is called \"rational\" in some unrigorous psychology or social science book. In that sense, contrary to what psychologists and psycholophasters will tell you, some \"overestimation\" of tail risk is not irrational by any metric, as it is more than required overall for survival. There are some risks we just cannot afford to take. And there are other risks (of the type academics shun) that we cannot afford to not take. This dimension, which bears the name \"ergodic,\" is belabored in Chapter 19."
+    "Not what is called \"rational\" in some unrigorous psychology or social science book."
    ]
   },
   {
-   "begin": "1547.760",
+   "begin": "1511.040",
    "children": [],
-   "end": "1551.880",
-   "id": "f000065",
+   "end": "1530.840",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "In that sense, contrary to what psychologists and psycholophasters will tell you, some \"overestimation\" of tail risk is not irrational by any metric, as it is more than required overall for survival."
+   ]
+  },
+  {
+   "begin": "1530.840",
+   "children": [],
+   "end": "1533.920",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "There are some risks we just cannot afford to take."
+   ]
+  },
+  {
+   "begin": "1533.920",
+   "children": [],
+   "end": "1539.840",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "And there are other risks (of the type academics shun) that we cannot afford to not take."
+   ]
+  },
+  {
+   "begin": "1539.840",
+   "children": [],
+   "end": "1545.040",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "This dimension, which bears the name \"ergodic,\" is belabored in Chapter 19."
+   ]
+  },
+  {
+   "begin": "1545.040",
+   "children": [],
+   "end": "1550.280",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "Skin in the Game, but Not All the Time"
    ]
   },
   {
-   "begin": "1551.880",
+   "begin": "1550.280",
    "children": [],
-   "end": "1590.440",
-   "id": "f000066",
+   "end": "1562.160",
+   "id": "f000181",
    "language": "eng",
    "lines": [
-    "Skin in the game is an overall necessity, but let us not get carried away in applying it to everything in sight in its every detail, particularly when consequences are contained. There is a difference between the interventionista of Prologue, Part 1 making pronouncements that cause thousands to be killed overseas, and a harmless opinion voiced by a person in a conversation, or a pronouncement by a fortune teller used for therapy rather than decision making. Our message is to focus on those who are professionally slanted, causing harm without being accountable for it, by the very structure of their own occupation."
+    "Skin in the game is an overall necessity, but let us not get carried away in applying it to everything in sight in its every detail, particularly when consequences are contained."
    ]
   },
   {
-   "begin": "1590.440",
+   "begin": "1562.160",
    "children": [],
-   "end": "1618.720",
-   "id": "f000067",
+   "end": "1578.640",
+   "id": "f000182",
    "language": "eng",
    "lines": [
-    "For the professionally asymmetric person is rare and has been so in history, and even in the present. He causes a lot of problems, but he is rare. For most people you run into in real life - bakers, cobblers, plumbers, taxi drivers, accountants, tax advisors, garbage collectors, dental cleaning assistants, carwash operators (not counting Spanish grammar specialists) - pay a price for their mistakes."
+    "There is a difference between the interventionista of Prologue, Part 1 making pronouncements that cause thousands to be killed overseas, and a harmless opinion voiced by a person in a conversation, or a pronouncement by a fortune teller used for therapy rather than decision making."
    ]
   },
   {
-   "begin": "1618.720",
+   "begin": "1578.640",
+   "children": [],
+   "end": "1588.840",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "Our message is to focus on those who are professionally slanted, causing harm without being accountable for it, by the very structure of their own occupation."
+   ]
+  },
+  {
+   "begin": "1588.840",
+   "children": [],
+   "end": "1596.160",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "For the professionally asymmetric person is rare and has been so in history, and even in the present."
+   ]
+  },
+  {
+   "begin": "1596.160",
+   "children": [],
+   "end": "1599.560",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "He causes a lot of problems, but he is rare."
+   ]
+  },
+  {
+   "begin": "1599.560",
+   "children": [],
+   "end": "1615.680",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "For most people you run into in real life - bakers, cobblers, plumbers, taxi drivers, accountants, tax advisors, garbage collectors, dental cleaning assistants, carwash operators (not counting Spanish grammar specialists) - pay a price for their mistakes."
+   ]
+  },
+  {
+   "begin": "1615.680",
+   "children": [],
+   "end": "1619.360",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "III."
+   ]
+  },
+  {
+   "begin": "1619.360",
    "children": [],
    "end": "1620.560",
-   "id": "f000068",
+   "id": "f000188",
    "language": "eng",
    "lines": [
-    "III. MODERNISM"
+    "MODERNISM"
    ]
   },
   {
    "begin": "1620.560",
    "children": [],
-   "end": "1653.760",
-   "id": "f000069",
+   "end": "1636.040",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "While conforming to ancestral, ancient, and classical notions of justice, this book, relying on the same arguments of asymmetry, goes against a century and a half of modernistic thinking - something we will call here intellectualism. Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix a complex system by hierarchical approaches, that is, in a (ceremonial) top-down manner."
+    "While conforming to ancestral, ancient, and classical notions of justice, this book, relying on the same arguments of asymmetry, goes against a century and a half of modernistic thinking - something we will call here intellectualism."
    ]
   },
   {
-   "begin": "1653.760",
+   "begin": "1636.040",
    "children": [],
-   "end": "1705.040",
-   "id": "f000070",
+   "end": "1652.240",
+   "id": "f000190",
    "language": "eng",
    "lines": [
-    "Intellectualism has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a skeptical enterprise. Using mathematics when it's not needed is not science but scientism. Replacing your well-functioning hand with something more technological, say, an artificial one, is not more scientific. Replacing the \"natural,\" that is age-old, processes that have survived trillions of high-dimensional stressors with something in a \"peer-reviewed\" journal that may not survive replication or statistical scrutiny is neither science nor good practice. At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics."
+    "Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix a complex system by hierarchical approaches, that is, in a (ceremonial) top-down manner."
+   ]
+  },
+  {
+   "begin": "1652.240",
+   "children": [],
+   "end": "1663.880",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Intellectualism has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a skeptical enterprise."
+   ]
+  },
+  {
+   "begin": "1663.880",
+   "children": [],
+   "end": "1668.160",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "Using mathematics when it's not needed is not science but scientism."
+   ]
+  },
+  {
+   "begin": "1668.160",
+   "children": [],
+   "end": "1676.000",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Replacing your well-functioning hand with something more technological, say, an artificial one, is not more scientific."
+   ]
+  },
+  {
+   "begin": "1676.000",
+   "children": [],
+   "end": "1691.360",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "Replacing the \"natural,\" that is age-old, processes that have survived trillions of high-dimensional stressors with something in a \"peer-reviewed\" journal that may not survive replication or statistical scrutiny is neither science nor good practice."
+   ]
+  },
+  {
+   "begin": "1691.360",
+   "children": [],
+   "end": "1705.040",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics."
    ]
   },
   {
    "begin": "1705.040",
    "children": [],
-   "end": "1751.560",
-   "id": "f000071",
+   "end": "1733.480",
+   "id": "f000196",
    "language": "eng",
    "lines": [
-    "Disrespect for the vapidly complicated, verbalistically derived truths has always been present in intellectual history, but you are not likely to see it in your local scientific reporter or college teacher: higher-order questioning requires more intellectual confidence, deeper understanding of statistical significance, and a higher level of rigor and intellectual capacity - or, even better, experience selling rugs or specialized spices in a souk. So this book continues a long tradition of skeptical-inquiry-cum-practical-solutions - the readers of the Incerto might be familiar with the schools of skeptics (covered in The Black Swan), in particular the twenty-two-century-old diatribe by Sextus Empiricus Against the Professors."
+    "Disrespect for the vapidly complicated, verbalistically derived truths has always been present in intellectual history, but you are not likely to see it in your local scientific reporter or college teacher: higher-order questioning requires more intellectual confidence, deeper understanding of statistical significance, and a higher level of rigor and intellectual capacity - or, even better, experience selling rugs or specialized spices in a souk."
+   ]
+  },
+  {
+   "begin": "1733.480",
+   "children": [],
+   "end": "1751.560",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "So this book continues a long tradition of skeptical-inquiry-cum-practical-solutions - the readers of the Incerto might be familiar with the schools of skeptics (covered in The Black Swan), in particular the twenty-two-century-old diatribe by Sextus Empiricus Against the Professors."
    ]
   },
   {
    "begin": "1751.560",
    "children": [],
-   "end": "1754.320",
-   "id": "f000072",
+   "end": "1753.920",
+   "id": "f000198",
    "language": "eng",
    "lines": [
     "The rule is:"
    ]
   },
   {
-   "begin": "1754.320",
+   "begin": "1753.920",
    "children": [],
-   "end": "1759.080",
-   "id": "f000073",
+   "end": "1758.240",
+   "id": "f000199",
    "language": "eng",
    "lines": [
     "Those who talk should do and only those who do should talk"
    ]
   },
   {
-   "begin": "1759.080",
+   "begin": "1758.240",
    "children": [],
-   "end": "1784.880",
-   "id": "f000074",
+   "end": "1769.480",
+   "id": "f000200",
    "language": "eng",
    "lines": [
-    "with some dispensation for self-standing activities such as mathematics, rigorous philosophy, poetry, and art, ones that do not make explicit claims of fitting reality. As the great game theorist Ariel Rubinstein holds: do your theories or mathematical representations, don't tell people in the real world how to apply them. Let those with skin in the game select what they need."
+    "with some dispensation for self-standing activities such as mathematics, rigorous philosophy, poetry, and art, ones that do not make explicit claims of fitting reality."
    ]
   },
   {
-   "begin": "1784.880",
+   "begin": "1769.480",
    "children": [],
-   "end": "1796.280",
-   "id": "f000075",
+   "end": "1780.040",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "As the great game theorist Ariel Rubinstein holds: do your theories or mathematical representations, don't tell people in the real world how to apply them."
+   ]
+  },
+  {
+   "begin": "1780.040",
+   "children": [],
+   "end": "1783.320",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "Let those with skin in the game select what they need."
+   ]
+  },
+  {
+   "begin": "1783.320",
+   "children": [],
+   "end": "1793.680",
+   "id": "f000203",
    "language": "eng",
    "lines": [
     "Let us get more practical about the side effect of modernism: as things get more technological, there is a growing separation between the maker and the user."
    ]
   },
   {
-   "begin": "1796.280",
+   "begin": "1793.680",
    "children": [],
    "end": "1798.240",
-   "id": "f000076",
+   "id": "f000204",
    "language": "eng",
    "lines": [
     "How to Beam Light on a Speaker"
@@ -763,328 +2043,1038 @@
   {
    "begin": "1798.240",
    "children": [],
-   "end": "1840.680",
-   "id": "f000077",
+   "end": "1805.960",
+   "id": "f000205",
    "language": "eng",
    "lines": [
-    "Those who give lectures to large audiences notice that they - and other speakers - are uncomfortable on the stage. The reason, it took me a decade to figure out, is that the stage light beaming into our eyes hinders our concentration. (This is how police interrogations of suspects used to be run: beam a light on the suspect, and wait for him to start \"singing.\") But in the thick of the lecture, speakers can't identify what is wrong, so they attribute the loss of concentration to, simply, being on the stage. So the practice continues. Why? Because those who lecture to large audiences don't work on lighting and light engineers don't lecture to large audiences."
+    "Those who give lectures to large audiences notice that they - and other speakers - are uncomfortable on the stage."
    ]
   },
   {
-   "begin": "1840.680",
+   "begin": "1805.960",
    "children": [],
-   "end": "1879.920",
-   "id": "f000078",
+   "end": "1813.040",
+   "id": "f000206",
    "language": "eng",
    "lines": [
-    "Another small example of top-down progress: Metro North, the railroad between New York City and its northern suburbs, renovated its trains, in a total overhaul. Trains look more modern, neater, have brighter colors, and even have such amenities as power plugs for your computer (that nobody uses). But on the edge, by the wall, there used to be a flat ledge where one can put the morning cup of coffee: it is hard to read a book while holding a coffee cup. The designer (who either doesn't ride trains or rides trains but doesn't drink coffee while reading), thinking it is an aesthetic improvement, made the ledge slightly tilted, so it is impossible to put the cup on it."
+    "The reason, it took me a decade to figure out, is that the stage light beaming into our eyes hinders our concentration."
+   ]
+  },
+  {
+   "begin": "1813.040",
+   "children": [],
+   "end": "1820.280",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "(This is how police interrogations of suspects used to be run: beam a light on the suspect, and wait for him to start \"singing.\")"
+   ]
+  },
+  {
+   "begin": "1820.280",
+   "children": [],
+   "end": "1829.080",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "But in the thick of the lecture, speakers can't identify what is wrong, so they attribute the loss of concentration to, simply, being on the stage."
+   ]
+  },
+  {
+   "begin": "1829.080",
+   "children": [],
+   "end": "1831.080",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "So the practice continues."
+   ]
+  },
+  {
+   "begin": "1831.080",
+   "children": [],
+   "end": "1831.840",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Why?"
+   ]
+  },
+  {
+   "begin": "1831.840",
+   "children": [],
+   "end": "1839.120",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "Because those who lecture to large audiences don't work on lighting and light engineers don't lecture to large audiences."
+   ]
+  },
+  {
+   "begin": "1839.120",
+   "children": [],
+   "end": "1850.160",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Another small example of top-down progress: Metro North, the railroad between New York City and its northern suburbs, renovated its trains, in a total overhaul."
+   ]
+  },
+  {
+   "begin": "1850.160",
+   "children": [],
+   "end": "1858.440",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "Trains look more modern, neater, have brighter colors, and even have such amenities as power plugs for your computer (that nobody uses)."
+   ]
+  },
+  {
+   "begin": "1858.440",
+   "children": [],
+   "end": "1867.680",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "But on the edge, by the wall, there used to be a flat ledge where one can put the morning cup of coffee: it is hard to read a book while holding a coffee cup."
+   ]
+  },
+  {
+   "begin": "1867.680",
+   "children": [],
+   "end": "1879.920",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "The designer (who either doesn't ride trains or rides trains but doesn't drink coffee while reading), thinking it is an aesthetic improvement, made the ledge slightly tilted, so it is impossible to put the cup on it."
    ]
   },
   {
    "begin": "1879.920",
    "children": [],
-   "end": "1909.520",
-   "id": "f000079",
+   "end": "1898.240",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "This explains the more severe problems of landscaping and architecture: architects today build to impress other architects, and we end up with strange - irreversible - structures that do not satisfy the well-being of their residents; it takes time and a lot of progressive tinkering for that. Or some specialist sitting in the ministry of urban planning who doesn't live in the community will produce the equivalent of the tilted ledge - as an improvement, except at a much larger scale."
+    "This explains the more severe problems of landscaping and architecture: architects today build to impress other architects, and we end up with strange - irreversible - structures that do not satisfy the well-being of their residents; it takes time and a lot of progressive tinkering for that."
+   ]
+  },
+  {
+   "begin": "1898.240",
+   "children": [],
+   "end": "1909.520",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "Or some specialist sitting in the ministry of urban planning who doesn't live in the community will produce the equivalent of the tilted ledge - as an improvement, except at a much larger scale."
    ]
   },
   {
    "begin": "1909.520",
    "children": [],
-   "end": "1921.160",
-   "id": "f000080",
+   "end": "1918.600",
+   "id": "f000218",
    "language": "eng",
    "lines": [
     "Specialization, as I will keep insisting, comes with side effects, one of which is separating labor from the fruits of labor."
    ]
   },
   {
-   "begin": "1921.160",
+   "begin": "1918.600",
    "children": [],
-   "end": "1923.440",
-   "id": "f000081",
+   "end": "1921.880",
+   "id": "f000219",
    "language": "eng",
    "lines": [
     "Simplicity"
    ]
   },
   {
-   "begin": "1923.440",
+   "begin": "1921.880",
    "children": [],
-   "end": "1946.840",
-   "id": "f000082",
+   "end": "1928.800",
+   "id": "f000220",
    "language": "eng",
    "lines": [
-    "Now skin in the game brings simplicity - the disarming simplicity of things properly done. People who see complicated solutions do not have an incentive to implement simplified ones. As we saw, a bureaucratized system will increase in complication from the interventionism of people who sell complicated solutions because that's what their position and training invite them to do."
+    "Now skin in the game brings simplicity - the disarming simplicity of things properly done."
+   ]
+  },
+  {
+   "begin": "1928.800",
+   "children": [],
+   "end": "1935.000",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "People who see complicated solutions do not have an incentive to implement simplified ones."
+   ]
+  },
+  {
+   "begin": "1935.000",
+   "children": [],
+   "end": "1946.840",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "As we saw, a bureaucratized system will increase in complication from the interventionism of people who sell complicated solutions because that's what their position and training invite them to do."
    ]
   },
   {
    "begin": "1946.840",
    "children": [],
-   "end": "1956.840",
-   "id": "f000083",
+   "end": "1955.280",
+   "id": "f000223",
    "language": "eng",
    "lines": [
     "Things designed by people without skin in the game tend to grow in complication (before their final collapse)."
    ]
   },
   {
-   "begin": "1956.840",
+   "begin": "1955.280",
    "children": [],
-   "end": "1984.280",
-   "id": "f000084",
+   "end": "1966.920",
+   "id": "f000224",
    "language": "eng",
    "lines": [
-    "There is absolutely no benefit for someone in such a position to propose something simple: when you are rewarded for perception, not results, you need to show sophistication. Anyone who has submitted a \"scholarly\" paper to a journal knows that you usually raise the odds of acceptance by making it more complicated than necessary. Further, there are side effects for problems that grow nonlinearly with such branching-out complications. Worse:"
+    "There is absolutely no benefit for someone in such a position to propose something simple: when you are rewarded for perception, not results, you need to show sophistication."
    ]
   },
   {
-   "begin": "1984.280",
+   "begin": "1966.920",
    "children": [],
-   "end": "1990.360",
-   "id": "f000085",
+   "end": "1976.480",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "Anyone who has submitted a \"scholarly\" paper to a journal knows that you usually raise the odds of acceptance by making it more complicated than necessary."
+   ]
+  },
+  {
+   "begin": "1976.480",
+   "children": [],
+   "end": "1982.800",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "Further, there are side effects for problems that grow nonlinearly with such branching-out complications."
+   ]
+  },
+  {
+   "begin": "1982.800",
+   "children": [],
+   "end": "1983.840",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Worse:"
+   ]
+  },
+  {
+   "begin": "1983.840",
+   "children": [],
+   "end": "1987.800",
+   "id": "f000228",
    "language": "eng",
    "lines": [
     "Non-skin-in-the-game people don't get simplicity."
    ]
   },
   {
-   "begin": "1990.360",
+   "begin": "1987.800",
    "children": [],
-   "end": "1994.360",
-   "id": "f000086",
+   "end": "1992.680",
+   "id": "f000229",
    "language": "eng",
    "lines": [
     "I Am Dumb Without Skin in the Game"
    ]
   },
   {
-   "begin": "1994.360",
+   "begin": "1992.680",
    "children": [],
-   "end": "2031.640",
-   "id": "f000087",
+   "end": "2002.000",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "Let us return to pathematamathemata (learning through pain) and consider its reverse: learning through thrills and pleasure. People have two brains, one when there is skin in the game, one when there is none. Skin in the game can make boring things less boring. When you have skin in the game, dull things like checking the safety of the aircraft because you may be forced to be a passenger in it cease to be boring. If you are an investor in a company, doing ultra-boring things like reading the footnotes of a financial statement (where the real information is to be found) becomes, well, almost not boring."
+    "Let us return to pathematamathemata (learning through pain) and consider its reverse: learning through thrills and pleasure."
    ]
   },
   {
-   "begin": "2031.640",
+   "begin": "2002.000",
    "children": [],
-   "end": "2067.920",
-   "id": "f000088",
+   "end": "2007.240",
+   "id": "f000231",
    "language": "eng",
    "lines": [
-    "But there is an even more vital dimension. Many addicts who normally have a dull intellect and the mental nimbleness of a cauliflower - or a foreign policy expert - are capable of the most ingenious tricks to procure their drugs. When they undergo rehab, they are often told that should they spend half the mental energy trying to make money as they did procuring drugs, they are guaranteed to become millionaires. But, to no avail. Without the addiction, their miraculous powers go away. It was like a magical potion that gave remarkable powers to those seeking it, but not those drinking it."
+    "People have two brains, one when there is skin in the game, one when there is none."
    ]
   },
   {
-   "begin": "2067.920",
+   "begin": "2007.240",
    "children": [],
-   "end": "2136.040",
-   "id": "f000089",
+   "end": "2010.560",
+   "id": "f000232",
    "language": "eng",
    "lines": [
-    "A confession. When I don't have skin in the game, I am usually dumb. My knowledge of technical matters, such as risk and probability, did not initially come from books. It did not come from lofty philosophizing and scientific hunger. It did not even come from curiosity. It came from the thrills and hormonal flush one gets while taking risks in the markets. I never thought mathematics was something interesting to me until, when I was at Wharton, a friend told me about the financial options I described earlier (and their generalization, complex derivatives). I immediately decided to make a career in them. It was a combination of financial trading and complicated probability. The field was new and uncharted. I knew in my guts there were mistakes in the theories that used the conventional bell curve and ignored the impact of the tails (extreme events). I knew in my guts that academics had not the slightest clue about the risks. So, to find errors in the estimation of these probabilistic securities, I had to study probability, which mysteriously and instantly became fun, even gripping."
+    "Skin in the game can make boring things less boring."
    ]
   },
   {
-   "begin": "2136.040",
+   "begin": "2010.560",
+   "children": [],
+   "end": "2018.680",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "When you have skin in the game, dull things like checking the safety of the aircraft because you may be forced to be a passenger in it cease to be boring."
+   ]
+  },
+  {
+   "begin": "2018.680",
+   "children": [],
+   "end": "2030.120",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "If you are an investor in a company, doing ultra-boring things like reading the footnotes of a financial statement (where the real information is to be found) becomes, well, almost not boring."
+   ]
+  },
+  {
+   "begin": "2030.120",
+   "children": [],
+   "end": "2033.640",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "But there is an even more vital dimension."
+   ]
+  },
+  {
+   "begin": "2033.640",
+   "children": [],
+   "end": "2044.480",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "Many addicts who normally have a dull intellect and the mental nimbleness of a cauliflower - or a foreign policy expert - are capable of the most ingenious tricks to procure their drugs."
+   ]
+  },
+  {
+   "begin": "2044.480",
+   "children": [],
+   "end": "2054.800",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "When they undergo rehab, they are often told that should they spend half the mental energy trying to make money as they did procuring drugs, they are guaranteed to become millionaires."
+   ]
+  },
+  {
+   "begin": "2054.800",
+   "children": [],
+   "end": "2056.200",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "But, to no avail."
+   ]
+  },
+  {
+   "begin": "2056.200",
+   "children": [],
+   "end": "2059.920",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "Without the addiction, their miraculous powers go away."
+   ]
+  },
+  {
+   "begin": "2059.920",
+   "children": [],
+   "end": "2066.360",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "It was like a magical potion that gave remarkable powers to those seeking it, but not those drinking it."
+   ]
+  },
+  {
+   "begin": "2066.360",
+   "children": [],
+   "end": "2068.560",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "A confession."
+   ]
+  },
+  {
+   "begin": "2068.560",
+   "children": [],
+   "end": "2072.040",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "When I don't have skin in the game, I am usually dumb."
+   ]
+  },
+  {
+   "begin": "2072.040",
+   "children": [],
+   "end": "2077.720",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "My knowledge of technical matters, such as risk and probability, did not initially come from books."
+   ]
+  },
+  {
+   "begin": "2077.720",
+   "children": [],
+   "end": "2082.000",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "It did not come from lofty philosophizing and scientific hunger."
+   ]
+  },
+  {
+   "begin": "2082.000",
+   "children": [],
+   "end": "2084.680",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "It did not even come from curiosity."
+   ]
+  },
+  {
+   "begin": "2084.680",
+   "children": [],
+   "end": "2090.280",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "It came from the thrills and hormonal flush one gets while taking risks in the markets."
+   ]
+  },
+  {
+   "begin": "2090.280",
+   "children": [],
+   "end": "2101.680",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "I never thought mathematics was something interesting to me until, when I was at Wharton, a friend told me about the financial options I described earlier (and their generalization, complex derivatives)."
+   ]
+  },
+  {
+   "begin": "2101.680",
+   "children": [],
+   "end": "2104.440",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "I immediately decided to make a career in them."
+   ]
+  },
+  {
+   "begin": "2104.440",
+   "children": [],
+   "end": "2108.560",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "It was a combination of financial trading and complicated probability."
+   ]
+  },
+  {
+   "begin": "2108.560",
+   "children": [],
+   "end": "2110.800",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "The field was new and uncharted."
+   ]
+  },
+  {
+   "begin": "2110.800",
+   "children": [],
+   "end": "2119.400",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "I knew in my guts there were mistakes in the theories that used the conventional bell curve and ignored the impact of the tails (extreme events)."
+   ]
+  },
+  {
+   "begin": "2119.400",
+   "children": [],
+   "end": "2124.120",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "I knew in my guts that academics had not the slightest clue about the risks."
+   ]
+  },
+  {
+   "begin": "2124.120",
+   "children": [],
+   "end": "2134.440",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "So, to find errors in the estimation of these probabilistic securities, I had to study probability, which mysteriously and instantly became fun, even gripping."
+   ]
+  },
+  {
+   "begin": "2134.440",
+   "children": [],
+   "end": "2145.600",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "When there was risk on the line, suddenly a second brain in me manifested itself, and the probabilities of intricate sequences became suddenly effortless to analyze and map."
+   ]
+  },
+  {
+   "begin": "2145.600",
+   "children": [],
+   "end": "2150.000",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "When there is fire, you will run faster than in any competition."
+   ]
+  },
+  {
+   "begin": "2150.000",
+   "children": [],
+   "end": "2154.040",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "When you ski downhill some movements become effortless."
+   ]
+  },
+  {
+   "begin": "2154.040",
+   "children": [],
+   "end": "2157.680",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "Then I became dumb again when there was no real action."
+   ]
+  },
+  {
+   "begin": "2157.680",
+   "children": [],
+   "end": "2171.520",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "Furthermore, as traders the mathematics we used fit our problem like a glove, unlike academics with a theory looking for some application - in some cases we had to invent models out of thin air and could not afford the wrong equations."
+   ]
+  },
+  {
+   "begin": "2171.520",
    "children": [],
    "end": "2180.400",
-   "id": "f000090",
+   "id": "f000259",
    "language": "eng",
    "lines": [
-    "When there was risk on the line, suddenly a second brain in me manifested itself, and the probabilities of intricate sequences became suddenly effortless to analyze and map. When there is fire, you will run faster than in any competition. When you ski downhill some movements become effortless. Then I became dumb again when there was no real action. Furthermore, as traders the mathematics we used fit our problem like a glove, unlike academics with a theory looking for some application - in some cases we had to invent models out of thin air and could not afford the wrong equations. Applying math to practical problems was another business altogether; it meant a deep understanding of the problem before writing the equations."
+    "Applying math to practical problems was another business altogether; it meant a deep understanding of the problem before writing the equations."
    ]
   },
   {
    "begin": "2180.400",
    "children": [],
-   "end": "2223.120",
-   "id": "f000091",
+   "end": "2190.280",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "But if you muster the strength to weight-lift a car to save a child, above your current abilities, the strength gained will stay after things calm down. So, unlike the drug addict who loses his resourcefulness, what you learn from the intensity and the focus you had when under the influence of risk stays with you. You may lose the sharpness, but nobody can take away what you've learned. This is the principal reason I am now fighting the conventional educational system, made by dweebs for dweebs. Many kids would learn to love mathematics if they had some investment in it, and, more crucially, they would build an instinct to spot its misapplications."
+    "But if you muster the strength to weight-lift a car to save a child, above your current abilities, the strength gained will stay after things calm down."
    ]
   },
   {
-   "begin": "2223.120",
+   "begin": "2190.280",
    "children": [],
-   "end": "2226.920",
-   "id": "f000092",
+   "end": "2199.960",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "So, unlike the drug addict who loses his resourcefulness, what you learn from the intensity and the focus you had when under the influence of risk stays with you."
+   ]
+  },
+  {
+   "begin": "2199.960",
+   "children": [],
+   "end": "2204.360",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "You may lose the sharpness, but nobody can take away what you've learned."
+   ]
+  },
+  {
+   "begin": "2204.360",
+   "children": [],
+   "end": "2211.720",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "This is the principal reason I am now fighting the conventional educational system, made by dweebs for dweebs."
+   ]
+  },
+  {
+   "begin": "2211.720",
+   "children": [],
+   "end": "2220.560",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Many kids would learn to love mathematics if they had some investment in it, and, more crucially, they would build an instinct to spot its misapplications."
+   ]
+  },
+  {
+   "begin": "2220.560",
+   "children": [],
+   "end": "2225.400",
+   "id": "f000265",
    "language": "eng",
    "lines": [
     "Regulations vs. Legal Systems"
    ]
   },
   {
-   "begin": "2226.920",
+   "begin": "2225.400",
    "children": [],
-   "end": "2277.680",
-   "id": "f000093",
+   "end": "2232.640",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "There are two ways to make citizens safe from large predators, say, big powerful corporations. The first one is to enact regulations - but these, aside from restricting individual freedoms, lead to another predation, this time by the state, its agents, and their cronies. More critically, people with good lawyers can game regulations (or, as we will see, make it known that they hire former regulators, and overpay for them, which signals a prospective bribe to those currently in office). And of course regulations, once in, stay in, and even when they are proven absurd, politicians are afraid of repealing them, under pressure from those benefiting from them. Given that regulations are additive, we soon end up tangled in complicated rules that choke enterprise. They also choke life."
+    "There are two ways to make citizens safe from large predators, say, big powerful corporations."
    ]
   },
   {
-   "begin": "2277.680",
+   "begin": "2232.640",
    "children": [],
-   "end": "2296.800",
-   "id": "f000094",
+   "end": "2244.040",
+   "id": "f000267",
    "language": "eng",
    "lines": [
-    "For there are always parasites benefiting from regulation, situations where the businessperson uses government to derive profits, often through protective regulations and franchises. The mechanism is called regulatory recapture, as it cancels the effect of what a regulation was meant to do."
+    "The first one is to enact regulations - but these, aside from restricting individual freedoms, lead to another predation, this time by the state, its agents, and their cronies."
    ]
   },
   {
-   "begin": "2296.800",
+   "begin": "2244.040",
    "children": [],
-   "end": "2344.800",
-   "id": "f000095",
+   "end": "2256.800",
+   "id": "f000268",
    "language": "eng",
    "lines": [
-    "The other solution is to put skin in the game in transactions, in the form of legal liability, and the possibility of an efficient lawsuit. The Anglo-Saxon world has traditionally had a predilection for the legal approach instead of the regulatory one: if you harm me, I can sue you. This has led to the very sophisticated, adaptive, and balanced common law, built bottom-up, via trial and error. When people transact, they almost always prefer to agree (as part of the contract) on a Commonwealth (or formerly British-ruled) venue as a forum in the event of a dispute: Hong Kong and Singapore are the favorites in Asia, London and New York in the West. Common law is about the spirit while regulation, owing to its rigidity, is all about the letter."
+    "More critically, people with good lawyers can game regulations (or, as we will see, make it known that they hire former regulators, and overpay for them, which signals a prospective bribe to those currently in office)."
    ]
   },
   {
-   "begin": "2344.800",
+   "begin": "2256.800",
+   "children": [],
+   "end": "2267.640",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "And of course regulations, once in, stay in, and even when they are proven absurd, politicians are afraid of repealing them, under pressure from those benefiting from them."
+   ]
+  },
+  {
+   "begin": "2267.640",
+   "children": [],
+   "end": "2274.200",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "Given that regulations are additive, we soon end up tangled in complicated rules that choke enterprise."
+   ]
+  },
+  {
+   "begin": "2274.200",
+   "children": [],
+   "end": "2276.080",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "They also choke life."
+   ]
+  },
+  {
+   "begin": "2276.080",
+   "children": [],
+   "end": "2288.480",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "For there are always parasites benefiting from regulation, situations where the businessperson uses government to derive profits, often through protective regulations and franchises."
+   ]
+  },
+  {
+   "begin": "2288.480",
+   "children": [],
+   "end": "2295.280",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "The mechanism is called regulatory recapture, as it cancels the effect of what a regulation was meant to do."
+   ]
+  },
+  {
+   "begin": "2295.280",
+   "children": [],
+   "end": "2304.640",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "The other solution is to put skin in the game in transactions, in the form of legal liability, and the possibility of an efficient lawsuit."
+   ]
+  },
+  {
+   "begin": "2304.640",
+   "children": [],
+   "end": "2314.120",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "The Anglo-Saxon world has traditionally had a predilection for the legal approach instead of the regulatory one: if you harm me, I can sue you."
+   ]
+  },
+  {
+   "begin": "2314.120",
+   "children": [],
+   "end": "2321.640",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "This has led to the very sophisticated, adaptive, and balanced common law, built bottom-up, via trial and error."
+   ]
+  },
+  {
+   "begin": "2321.640",
+   "children": [],
+   "end": "2336.920",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "When people transact, they almost always prefer to agree (as part of the contract) on a Commonwealth (or formerly British-ruled) venue as a forum in the event of a dispute: Hong Kong and Singapore are the favorites in Asia, London and New York in the West."
+   ]
+  },
+  {
+   "begin": "2336.920",
+   "children": [],
+   "end": "2343.240",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "Common law is about the spirit while regulation, owing to its rigidity, is all about the letter."
+   ]
+  },
+  {
+   "begin": "2343.240",
+   "children": [],
+   "end": "2350.240",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "If a big corporation pollutes your neighborhood, you can get together with your neighbors and sue the hell out of it."
+   ]
+  },
+  {
+   "begin": "2350.240",
+   "children": [],
+   "end": "2353.080",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "Some greedy lawyer will have the paperwork ready."
+   ]
+  },
+  {
+   "begin": "2353.080",
+   "children": [],
+   "end": "2355.960",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "The enemies of the corporation will be glad to help."
+   ]
+  },
+  {
+   "begin": "2355.960",
    "children": [],
    "end": "2361.320",
-   "id": "f000096",
+   "id": "f000282",
    "language": "eng",
    "lines": [
-    "If a big corporation pollutes your neighborhood, you can get together with your neighbors and sue the hell out of it. Some greedy lawyer will have the paperwork ready. The enemies of the corporation will be glad to help. And the potential costs of the settlement would be enough of a deterrent for the corporation to behave."
+    "And the potential costs of the settlement would be enough of a deterrent for the corporation to behave."
    ]
   },
   {
    "begin": "2361.320",
    "children": [],
-   "end": "2378.360",
-   "id": "f000097",
+   "end": "2365.120",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "This doesn't mean one should never regulate at all. Some systemic effects may require regulation (say hidden tail risks of environmental ruins that show up too late). If you can't effectively sue, regulate."
+    "This doesn't mean one should never regulate at all."
+   ]
+  },
+  {
+   "begin": "2365.120",
+   "children": [],
+   "end": "2372.440",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "Some systemic effects may require regulation (say hidden tail risks of environmental ruins that show up too late)."
+   ]
+  },
+  {
+   "begin": "2372.440",
+   "children": [],
+   "end": "2378.360",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "If you can't effectively sue, regulate."
    ]
   },
   {
    "begin": "2378.360",
    "children": [],
-   "end": "2426.680",
-   "id": "f000098",
+   "end": "2401.960",
+   "id": "f000286",
    "language": "eng",
    "lines": [
-    "Now, even if regulations had a small net payoff for society, I would still prefer to be as free as possible, but assume my civil responsibility, face my fate, and pay the penalty if I harm others. This attitude is called deontic libertarianism (deontic comes from \"duties\"): by regulating you are robbing people of freedom. Some of us believe that freedom is one's first most essential good. This includes the freedom to make mistakes (those that harm only you); it is sacred to the point that it must never be traded against economic or other benefits."
+    "Now, even if regulations had a small net payoff for society, I would still prefer to be as free as possible, but assume my civil responsibility, face my fate, and pay the penalty if I harm others."
    ]
   },
   {
-   "begin": "2426.680",
+   "begin": "2401.960",
    "children": [],
-   "end": "2428.880",
-   "id": "f000099",
+   "end": "2410.080",
+   "id": "f000287",
    "language": "eng",
    "lines": [
-    "IV. SOUL IN THE GAME"
+    "This attitude is called deontic libertarianism (deontic comes from \"duties\"): by regulating you are robbing people of freedom."
+   ]
+  },
+  {
+   "begin": "2410.080",
+   "children": [],
+   "end": "2414.160",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "Some of us believe that freedom is one's first most essential good."
+   ]
+  },
+  {
+   "begin": "2414.160",
+   "children": [],
+   "end": "2423.640",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "This includes the freedom to make mistakes (those that harm only you); it is sacred to the point that it must never be traded against economic or other benefits."
+   ]
+  },
+  {
+   "begin": "2423.640",
+   "children": [],
+   "end": "2427.240",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "IV."
+   ]
+  },
+  {
+   "begin": "2427.240",
+   "children": [],
+   "end": "2428.880",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "SOUL IN THE GAME"
    ]
   },
   {
    "begin": "2428.880",
    "children": [],
-   "end": "2444.840",
-   "id": "f000100",
+   "end": "2444.320",
+   "id": "f000292",
    "language": "eng",
    "lines": [
     "Finally and centrally, skin in the game is about honor as an existential commitment, and risk taking (a certain class of risks) as a separation between man and machine and (some may hate it) a ranking of humans."
    ]
   },
   {
-   "begin": "2444.840",
+   "begin": "2444.320",
    "children": [],
-   "end": "2449.080",
-   "id": "f000101",
+   "end": "2448.320",
+   "id": "f000293",
    "language": "eng",
    "lines": [
     "If you do not take risks for your opinion, you are nothing."
    ]
   },
   {
-   "begin": "2449.080",
+   "begin": "2448.320",
    "children": [],
-   "end": "2458.320",
-   "id": "f000102",
+   "end": "2453.960",
+   "id": "f000294",
    "language": "eng",
    "lines": [
-    "And I will keep mentioning that I have no other definition of success than leading an honorable life. We intimated that it is dishonorable to let others die in your stead."
+    "And I will keep mentioning that I have no other definition of success than leading an honorable life."
+   ]
+  },
+  {
+   "begin": "2453.960",
+   "children": [],
+   "end": "2458.320",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "We intimated that it is dishonorable to let others die in your stead."
    ]
   },
   {
    "begin": "2458.320",
    "children": [],
-   "end": "2539.680",
-   "id": "f000103",
+   "end": "2465.920",
+   "id": "f000296",
    "language": "eng",
    "lines": [
-    "Honor implies that there are some actions you would categorically never do, regardless of the material rewards. She accepts no Faustian bargain, would not sell her body for $500; it also means she wouldn't do it for a million, nor a billion, nor a trillion. And it is not just a via negativa stance, honor means that there are things you would do unconditionally, regardless of the consequences. Consider duels, which have robbed us of the great Russian poet Pushkin, the French mathematician Galois, and, of course, many more, at a young age (and, in the case of Galois, a very young age): people incurred a significant probability of death just to save face. Living as a coward was simply no option, and death was vastly preferable, even if, as in the case of Galois, one invented a new and momentous branch of mathematics while still a teenager. As a Spartan mother tells her departing son: \"With it or on it,\" meaning either return with your shield or don't come back alive (the custom was to carry the dead body flat on it); only cowards throw away their shields to run faster."
+    "Honor implies that there are some actions you would categorically never do, regardless of the material rewards."
    ]
   },
   {
-   "begin": "2539.680",
+   "begin": "2465.920",
    "children": [],
-   "end": "2574.800",
-   "id": "f000104",
+   "end": "2475.680",
+   "id": "f000297",
    "language": "eng",
    "lines": [
-    "If you want to consider how modernity has destroyed some of the foundations of human values, contrast the above unconditionals with modernistic accommodations: people who, say, work for disgusting lobbies (representing the interests of, say, Saudi Arabia in Washington) or knowingly play the usual unethical academic game, come to grips with their condition by producing arguments such as \"I have children to put through college.\" People who are not morally independent tend to fit ethics to their profession (with a minimum of spinning), rather than find a profession that fits their ethics."
+    "She accepts no Faustian bargain, would not sell her body for $500; it also means she wouldn't do it for a million, nor a billion, nor a trillion."
+   ]
+  },
+  {
+   "begin": "2475.680",
+   "children": [],
+   "end": "2484.080",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "And it is not just a via negativa stance, honor means that there are things you would do unconditionally, regardless of the consequences."
+   ]
+  },
+  {
+   "begin": "2484.080",
+   "children": [],
+   "end": "2500.560",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "Consider duels, which have robbed us of the great Russian poet Pushkin, the French mathematician Galois, and, of course, many more, at a young age (and, in the case of Galois, a very young age): people incurred a significant probability of death just to save face."
+   ]
+  },
+  {
+   "begin": "2500.560",
+   "children": [],
+   "end": "2522.400",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "Living as a coward was simply no option, and death was vastly preferable, even if, as in the case of Galois, one invented a new and momentous branch of mathematics while still a teenager."
+   ]
+  },
+  {
+   "begin": "2522.400",
+   "children": [],
+   "end": "2538.160",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "As a Spartan mother tells her departing son: \"With it or on it,\" meaning either return with your shield or don't come back alive (the custom was to carry the dead body flat on it); only cowards throw away their shields to run faster."
+   ]
+  },
+  {
+   "begin": "2538.160",
+   "children": [],
+   "end": "2565.200",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "If you want to consider how modernity has destroyed some of the foundations of human values, contrast the above unconditionals with modernistic accommodations: people who, say, work for disgusting lobbies (representing the interests of, say, Saudi Arabia in Washington) or knowingly play the usual unethical academic game, come to grips with their condition by producing arguments such as \"I have children to put through college.\""
+   ]
+  },
+  {
+   "begin": "2565.200",
+   "children": [],
+   "end": "2574.800",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "People who are not morally independent tend to fit ethics to their profession (with a minimum of spinning), rather than find a profession that fits their ethics."
    ]
   },
   {
    "begin": "2574.800",
    "children": [],
-   "end": "2591.160",
-   "id": "f000105",
+   "end": "2589.680",
+   "id": "f000304",
    "language": "eng",
    "lines": [
     "Now there is another dimension of honor: engaging in actions going beyond mere skin in the game to put oneself at risk for others, have your skin in other people's game; sacrifice something significant for the sake of the collective."
    ]
   },
   {
-   "begin": "2591.160",
+   "begin": "2589.680",
    "children": [],
-   "end": "2601.640",
-   "id": "f000106",
+   "end": "2599.080",
+   "id": "f000305",
    "language": "eng",
    "lines": [
     "However, there are activities in which one is imbued with a sense of pride and honor without grand-scale sacrifice: artisanal ones."
    ]
   },
   {
-   "begin": "2601.640",
+   "begin": "2599.080",
    "children": [],
-   "end": "2603.840",
-   "id": "f000107",
+   "end": "2602.400",
+   "id": "f000306",
    "language": "eng",
    "lines": [
     "Artisans"
    ]
   },
   {
-   "begin": "2603.840",
+   "begin": "2602.400",
    "children": [],
-   "end": "2614.000",
-   "id": "f000108",
+   "end": "2613.200",
+   "id": "f000307",
    "language": "eng",
    "lines": [
     "Anything you do to optimize your work, cut some corners, or squeeze more \"efficiency\" out of it (and out of your life) will eventually make you dislike it."
    ]
   },
   {
-   "begin": "2614.000",
+   "begin": "2613.200",
    "children": [],
    "end": "2616.320",
-   "id": "f000109",
+   "id": "f000308",
    "language": "eng",
    "lines": [
     "Artisans have their soul in the game."
@@ -1093,68 +3083,288 @@
   {
    "begin": "2616.320",
    "children": [],
-   "end": "2653.960",
-   "id": "f000110",
+   "end": "2623.720",
+   "id": "f000309",
    "language": "eng",
    "lines": [
-    "Primo, artisans do things for existential reasons first, financial and commercial ones later. Their decision making is never fully financial, but it remains financial. Secundo, they have some type of \"art\" in their profession; they stay away from most aspects of industrialization; they combine art and business. Tertio, they put some soul in their work: they would not sell something defective or even of compromised quality because it hurts their pride. Finally, they have sacred taboos, things they would not do even if it markedly increased profitability."
+    "Primo, artisans do things for existential reasons first, financial and commercial ones later."
+   ]
+  },
+  {
+   "begin": "2623.720",
+   "children": [],
+   "end": "2628.400",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "Their decision making is never fully financial, but it remains financial."
+   ]
+  },
+  {
+   "begin": "2628.400",
+   "children": [],
+   "end": "2638.080",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "Secundo, they have some type of \"art\" in their profession; they stay away from most aspects of industrialization; they combine art and business."
+   ]
+  },
+  {
+   "begin": "2638.080",
+   "children": [],
+   "end": "2646.760",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "Tertio, they put some soul in their work: they would not sell something defective or even of compromised quality because it hurts their pride."
+   ]
+  },
+  {
+   "begin": "2646.760",
+   "children": [],
+   "end": "2653.960",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "Finally, they have sacred taboos, things they would not do even if it markedly increased profitability."
    ]
   },
   {
    "begin": "2653.960",
    "children": [],
-   "end": "2667.120",
-   "id": "f000111",
+   "end": "2664.000",
+   "id": "f000314",
    "language": "eng",
    "lines": [
-    "Compendiaria res improbitas, virtusque tarda - the villainous takes the short road, virtue the longer one. In other words, cutting corners is dishonest."
+    "Compendiaria res improbitas, virtusque tarda - the villainous takes the short road, virtue the longer one."
+   ]
+  },
+  {
+   "begin": "2664.000",
+   "children": [],
+   "end": "2667.120",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "In other words, cutting corners is dishonest."
    ]
   },
   {
    "begin": "2667.120",
    "children": [],
-   "end": "2700.200",
-   "id": "f000112",
+   "end": "2670.480",
+   "id": "f000316",
    "language": "eng",
    "lines": [
-    "Let me illustrate with my own profession. It is easy to see that a writer is effectively an artisan: book sales are not the end motive, only a secondary target (even then). You preserve some sanctity of the product with strong prohibitions. For instance, in the early 2000s, the writer Fay Weldon was paid by the jewelry chain Bulgari to advertise their brand by weaving recommendations for their great products into the plot of her novel. A nightmare ensued; there was a generalized feeling of disgust on the part of the literary community."
+    "Let me illustrate with my own profession."
+   ]
+  },
+  {
+   "begin": "2670.480",
+   "children": [],
+   "end": "2678.600",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "It is easy to see that a writer is effectively an artisan: book sales are not the end motive, only a secondary target (even then)."
+   ]
+  },
+  {
+   "begin": "2678.600",
+   "children": [],
+   "end": "2682.720",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "You preserve some sanctity of the product with strong prohibitions."
+   ]
+  },
+  {
+   "begin": "2682.720",
+   "children": [],
+   "end": "2694.280",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "For instance, in the early 2000s, the writer Fay Weldon was paid by the jewelry chain Bulgari to advertise their brand by weaving recommendations for their great products into the plot of her novel."
+   ]
+  },
+  {
+   "begin": "2694.280",
+   "children": [],
+   "end": "2700.200",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "A nightmare ensued; there was a generalized feeling of disgust on the part of the literary community."
    ]
   },
   {
    "begin": "2700.200",
    "children": [],
-   "end": "2712.040",
-   "id": "f000113",
+   "end": "2710.480",
+   "id": "f000321",
    "language": "eng",
    "lines": [
-    "I also recall in the 1980s some people trying to give away books for free, but with advertisements in the midst of the text, as with magazines. The project failed."
+    "I also recall in the 1980s some people trying to give away books for free, but with advertisements in the midst of the text, as with magazines."
+   ]
+  },
+  {
+   "begin": "2710.480",
+   "children": [],
+   "end": "2712.040",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "The project failed."
    ]
   },
   {
    "begin": "2712.040",
    "children": [],
-   "end": "2757.960",
-   "id": "f000114",
+   "end": "2715.560",
+   "id": "f000323",
    "language": "eng",
    "lines": [
-    "Nor do we industrialize writing. You would be disappointed if I hired a group of writers to \"help\" as it would be more efficient. Some authors, such as Jerzy Kosinski, have tried to write books by subcontracting sections, leading to a complete ostracism after the discovery. Few of those writers-cum-contractors have seen their work survive. But there are exceptions, such as Alexandre Dumas p\u00e8re who was said to run a workshop of ghostwriters (forty-five), which allowed him to scale his production up to one hundred and fifty novels, with the joke that he read some of his own books. But in general, output is not scalable (even if the sales of a book are). Dumas may be the exception that confirms the rule."
+    "Nor do we industrialize writing."
    ]
   },
   {
-   "begin": "2757.960",
+   "begin": "2715.560",
    "children": [],
-   "end": "2827.200",
-   "id": "f000115",
+   "end": "2721.200",
+   "id": "f000324",
    "language": "eng",
    "lines": [
-    "Now, something very practical. One of the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant. The mere presence of an assistant suspends your natural filtering - and its absence forces you to do only things you enjoy, and progressively steer your life that way. (By assistant here I exclude someone hired for a specific task, such as grading papers, helping with accounting, or watering plants; just some guardian angel overseeing all your activities). This is a via negativa approach: you want maximal free time, not maximal activity, and you can assess your own \"success\" according to such metric. Otherwise, you end up assisting your assistants, or being forced to \"explain\" how to do things, which requires more mental effort than doing the thing itself. In fact, beyond my writing and research life, this has proved to be great financial advice as I am freer, more nimble, and have a very high benchmark for doing something, while my peers have their days filled with unnecessary \"meetings\" and unnecessary correspondence."
+    "You would be disappointed if I hired a group of writers to \"help\" as it would be more efficient."
+   ]
+  },
+  {
+   "begin": "2721.200",
+   "children": [],
+   "end": "2729.800",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "Some authors, such as Jerzy Kosinski, have tried to write books by subcontracting sections, leading to a complete ostracism after the discovery."
+   ]
+  },
+  {
+   "begin": "2729.800",
+   "children": [],
+   "end": "2733.880",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "Few of those writers-cum-contractors have seen their work survive."
+   ]
+  },
+  {
+   "begin": "2733.880",
+   "children": [],
+   "end": "2748.480",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "But there are exceptions, such as Alexandre Dumas p\u00e8re who was said to run a workshop of ghostwriters (forty-five), which allowed him to scale his production up to one hundred and fifty novels, with the joke that he read some of his own books."
+   ]
+  },
+  {
+   "begin": "2748.480",
+   "children": [],
+   "end": "2753.360",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "But in general, output is not scalable (even if the sales of a book are)."
+   ]
+  },
+  {
+   "begin": "2753.360",
+   "children": [],
+   "end": "2756.400",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "Dumas may be the exception that confirms the rule."
+   ]
+  },
+  {
+   "begin": "2756.400",
+   "children": [],
+   "end": "2759.560",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "Now, something very practical."
+   ]
+  },
+  {
+   "begin": "2759.560",
+   "children": [],
+   "end": "2769.880",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "One of the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant."
+   ]
+  },
+  {
+   "begin": "2769.880",
+   "children": [],
+   "end": "2779.720",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "The mere presence of an assistant suspends your natural filtering - and its absence forces you to do only things you enjoy, and progressively steer your life that way."
+   ]
+  },
+  {
+   "begin": "2779.720",
+   "children": [],
+   "end": "2791.480",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "(By assistant here I exclude someone hired for a specific task, such as grading papers, helping with accounting, or watering plants; just some guardian angel overseeing all your activities)."
+   ]
+  },
+  {
+   "begin": "2791.480",
+   "children": [],
+   "end": "2801.680",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "This is a via negativa approach: you want maximal free time, not maximal activity, and you can assess your own \"success\" according to such metric."
+   ]
+  },
+  {
+   "begin": "2801.680",
+   "children": [],
+   "end": "2810.360",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "Otherwise, you end up assisting your assistants, or being forced to \"explain\" how to do things, which requires more mental effort than doing the thing itself."
+   ]
+  },
+  {
+   "begin": "2810.360",
+   "children": [],
+   "end": "2827.200",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "In fact, beyond my writing and research life, this has proved to be great financial advice as I am freer, more nimble, and have a very high benchmark for doing something, while my peers have their days filled with unnecessary \"meetings\" and unnecessary correspondence."
    ]
   },
   {
    "begin": "2827.200",
    "children": [],
    "end": "2833.360",
-   "id": "f000116",
+   "id": "f000337",
    "language": "eng",
    "lines": [
     "Having an assistant (except for the strictly necessary) removes your soul from the game."
@@ -1163,28 +3373,48 @@
   {
    "begin": "2833.360",
    "children": [],
-   "end": "2848.840",
-   "id": "f000117",
+   "end": "2843.320",
+   "id": "f000338",
    "language": "eng",
    "lines": [
-    "Think of the effect of using a handheld translator on your next trip to Mexico in place of acquiring a robust vocabulary in Spanish by contact with locals. Assistance moves you one step away from authenticity."
+    "Think of the effect of using a handheld translator on your next trip to Mexico in place of acquiring a robust vocabulary in Spanish by contact with locals."
    ]
   },
   {
-   "begin": "2848.840",
+   "begin": "2843.320",
    "children": [],
-   "end": "2868.560",
-   "id": "f000118",
+   "end": "2847.280",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "Academics can be artisans. Even those economists who, misunderstanding Adam Smith, claim that humans are here to \"seek maximization\" of their income, express these ideas for free, and boast to not be into lowly commercial profit seeking, not seeing the contradiction."
+    "Assistance moves you one step away from authenticity."
    ]
   },
   {
-   "begin": "2868.560",
+   "begin": "2847.280",
+   "children": [],
+   "end": "2850.440",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "Academics can be artisans."
+   ]
+  },
+  {
+   "begin": "2850.440",
+   "children": [],
+   "end": "2866.000",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Even those economists who, misunderstanding Adam Smith, claim that humans are here to \"seek maximization\" of their income, express these ideas for free, and boast to not be into lowly commercial profit seeking, not seeing the contradiction."
+   ]
+  },
+  {
+   "begin": "2866.000",
    "children": [],
    "end": "2870.280",
-   "id": "f000119",
+   "id": "f000342",
    "language": "eng",
    "lines": [
     "A Caveat with Entrepreneurs"
@@ -1193,28 +3423,108 @@
   {
    "begin": "2870.280",
    "children": [],
-   "end": "2920.720",
-   "id": "f000120",
+   "end": "2874.320",
+   "id": "f000343",
    "language": "eng",
    "lines": [
-    "Entrepreneurs are heroes in our society. They fail for the rest of us. But owing to funding and current venture capital mechanisms, many people mistaken for entrepreneurs fail to have true skin in the game in the sense that their aim is to either cash out by selling the company they helped create to someone else, or \"go public\" by issuing shares in the stock market. The true value of the company, what it makes, and its long-term survival are of small relevance to them. This is a pure financing scheme and we will exclude this class of people from our \"entrepreneur\" risk-taker class (this form of entrepreneurship is the equivalent of bringing great-looking and marketable children into the world with the sole aim of selling them at age four). We can easily identify them by their ability to write a convincing business plan."
+    "Entrepreneurs are heroes in our society."
+   ]
+  },
+  {
+   "begin": "2874.320",
+   "children": [],
+   "end": "2876.240",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "They fail for the rest of us."
+   ]
+  },
+  {
+   "begin": "2876.240",
+   "children": [],
+   "end": "2893.960",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "But owing to funding and current venture capital mechanisms, many people mistaken for entrepreneurs fail to have true skin in the game in the sense that their aim is to either cash out by selling the company they helped create to someone else, or \"go public\" by issuing shares in the stock market."
+   ]
+  },
+  {
+   "begin": "2893.960",
+   "children": [],
+   "end": "2900.320",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "The true value of the company, what it makes, and its long-term survival are of small relevance to them."
+   ]
+  },
+  {
+   "begin": "2900.320",
+   "children": [],
+   "end": "2916.120",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "This is a pure financing scheme and we will exclude this class of people from our \"entrepreneur\" risk-taker class (this form of entrepreneurship is the equivalent of bringing great-looking and marketable children into the world with the sole aim of selling them at age four)."
+   ]
+  },
+  {
+   "begin": "2916.120",
+   "children": [],
+   "end": "2920.720",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "We can easily identify them by their ability to write a convincing business plan."
    ]
   },
   {
    "begin": "2920.720",
    "children": [],
-   "end": "2944.240",
-   "id": "f000121",
+   "end": "2925.080",
+   "id": "f000349",
    "language": "eng",
    "lines": [
-    "Companies beyond the entrepreneur stage start to rot. One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties. Once you change assignment - or, better, company - you can now say about the deep Bob Rubin-style risks that emerge: \"It's not my problem anymore.\" The same happens when you sell out, so remember that:"
+    "Companies beyond the entrepreneur stage start to rot."
    ]
   },
   {
-   "begin": "2944.240",
+   "begin": "2925.080",
+   "children": [],
+   "end": "2931.920",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties."
+   ]
+  },
+  {
+   "begin": "2931.920",
+   "children": [],
+   "end": "2940.600",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "Once you change assignment - or, better, company - you can now say about the deep Bob Rubin-style risks that emerge: \"It's not my problem anymore.\""
+   ]
+  },
+  {
+   "begin": "2940.600",
+   "children": [],
+   "end": "2944.160",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "The same happens when you sell out, so remember that:"
+   ]
+  },
+  {
+   "begin": "2944.160",
    "children": [],
    "end": "2948.880",
-   "id": "f000122",
+   "id": "f000353",
    "language": "eng",
    "lines": [
     "The skills at making things diverge from those at selling things."
@@ -1224,7 +3534,7 @@
    "begin": "2948.880",
    "children": [],
    "end": "2952.640",
-   "id": "f000123",
+   "id": "f000354",
    "language": "eng",
    "lines": [
     "Arrogant Will Do"
@@ -1233,18 +3543,68 @@
   {
    "begin": "2952.640",
    "children": [],
-   "end": "2985.200",
-   "id": "f000124",
+   "end": "2958.520",
+   "id": "f000355",
    "language": "eng",
    "lines": [
-    "Products or companies that bear the owner's name convey very valuable messages. They are shouting that they have something to lose. Eponymy indicates both a commitment to the company and a confidence in the product. A friend of mine, Paul Wilmott, is often called an egomaniac for having his name on a mathematical finance technical journal (Wilmott), which at the time of writing is undoubtedly the best. \"Egomaniac\" is good for the product. But if you can't get \"egomaniac,\" \"arrogant\" will do."
+    "Products or companies that bear the owner's name convey very valuable messages."
+   ]
+  },
+  {
+   "begin": "2958.520",
+   "children": [],
+   "end": "2961.520",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "They are shouting that they have something to lose."
+   ]
+  },
+  {
+   "begin": "2961.520",
+   "children": [],
+   "end": "2967.000",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "Eponymy indicates both a commitment to the company and a confidence in the product."
+   ]
+  },
+  {
+   "begin": "2967.000",
+   "children": [],
+   "end": "2978.720",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "A friend of mine, Paul Wilmott, is often called an egomaniac for having his name on a mathematical finance technical journal (Wilmott), which at the time of writing is undoubtedly the best."
+   ]
+  },
+  {
+   "begin": "2978.720",
+   "children": [],
+   "end": "2981.400",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "\"Egomaniac\" is good for the product."
+   ]
+  },
+  {
+   "begin": "2981.400",
+   "children": [],
+   "end": "2985.200",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "But if you can't get \"egomaniac,\" \"arrogant\" will do."
    ]
   },
   {
    "begin": "2985.200",
    "children": [],
    "end": "2990.000",
-   "id": "f000125",
+   "id": "f000361",
    "language": "eng",
    "lines": [
     "Citizenship de Plaisance"
@@ -1253,48 +3613,188 @@
   {
    "begin": "2990.000",
    "children": [],
-   "end": "3045.440",
-   "id": "f000126",
+   "end": "2998.040",
+   "id": "f000362",
    "language": "eng",
    "lines": [
-    "Many well-to-do people who come to live in the United States avoid becoming citizens while living here indefinitely. They have a permanent residence permit as a free option, as it is a right, but not an obligation, for they can return it with a simple procedure. You ask them why they don't take the oath in front of a judge, then throw a cocktail party at a waterfront country club. The typical answer is: taxes. Once you become a U.S. citizen, you will have to pay taxes on your worldwide income, even if you live overseas. And it is not easily reversible, so you lose the optionality. But other Western countries, such as France and the United Kingdom, allow their citizens considerable exemptions if they reside in some tax haven. This invites a collection of people to \"buy\" a citizenship via investments and minimum residence, get the passport, then go live somewhere tax-free."
+    "Many well-to-do people who come to live in the United States avoid becoming citizens while living here indefinitely."
    ]
   },
   {
-   "begin": "3045.440",
+   "begin": "2998.040",
    "children": [],
-   "end": "3058.960",
-   "id": "f000127",
+   "end": "3006.120",
+   "id": "f000363",
    "language": "eng",
    "lines": [
-    "A country should not tolerate fair-weather friends. There is something offensive in having a nationality without skin in the game, just to travel and pass borders, without the downside that comes with the passport."
+    "They have a permanent residence permit as a free option, as it is a right, but not an obligation, for they can return it with a simple procedure."
    ]
   },
   {
-   "begin": "3058.960",
+   "begin": "3006.120",
+   "children": [],
+   "end": "3012.360",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "You ask them why they don't take the oath in front of a judge, then throw a cocktail party at a waterfront country club."
+   ]
+  },
+  {
+   "begin": "3012.360",
+   "children": [],
+   "end": "3015.280",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "The typical answer is: taxes."
+   ]
+  },
+  {
+   "begin": "3015.280",
+   "children": [],
+   "end": "3022.200",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "Once you become a U.S. citizen, you will have to pay taxes on your worldwide income, even if you live overseas."
+   ]
+  },
+  {
+   "begin": "3022.200",
+   "children": [],
+   "end": "3026.440",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "And it is not easily reversible, so you lose the optionality."
+   ]
+  },
+  {
+   "begin": "3026.440",
+   "children": [],
+   "end": "3034.480",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "But other Western countries, such as France and the United Kingdom, allow their citizens considerable exemptions if they reside in some tax haven."
+   ]
+  },
+  {
+   "begin": "3034.480",
+   "children": [],
+   "end": "3043.880",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "This invites a collection of people to \"buy\" a citizenship via investments and minimum residence, get the passport, then go live somewhere tax-free."
+   ]
+  },
+  {
+   "begin": "3043.880",
+   "children": [],
+   "end": "3048.280",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "A country should not tolerate fair-weather friends."
+   ]
+  },
+  {
+   "begin": "3048.280",
+   "children": [],
+   "end": "3057.360",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "There is something offensive in having a nationality without skin in the game, just to travel and pass borders, without the downside that comes with the passport."
+   ]
+  },
+  {
+   "begin": "3057.360",
+   "children": [],
+   "end": "3064.080",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "My parents are French citizens, which would have made it easy for me to get naturalized a few decades ago."
+   ]
+  },
+  {
+   "begin": "3064.080",
+   "children": [],
+   "end": "3068.120",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "But it did not feel right; it even felt downright offensive."
+   ]
+  },
+  {
+   "begin": "3068.120",
+   "children": [],
+   "end": "3073.560",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "And unless I developed an emotional attachment to France via skin in the game, I couldn't."
+   ]
+  },
+  {
+   "begin": "3073.560",
+   "children": [],
+   "end": "3078.120",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "It would have felt fake to see my bearded face on a French passport."
+   ]
+  },
+  {
+   "begin": "3078.120",
    "children": [],
    "end": "3087.400",
-   "id": "f000128",
+   "id": "f000376",
    "language": "eng",
    "lines": [
-    "My parents are French citizens, which would have made it easy for me to get naturalized a few decades ago. But it did not feel right; it even felt downright offensive. And unless I developed an emotional attachment to France via skin in the game, I couldn't. It would have felt fake to see my bearded face on a French passport. The only passport I would have considered is the Greek (or Cypriot) one, as I feel some deep ancestral and socio-cultural bond to the Hellenistic world."
+    "The only passport I would have considered is the Greek (or Cypriot) one, as I feel some deep ancestral and socio-cultural bond to the Hellenistic world."
    ]
   },
   {
    "begin": "3087.400",
    "children": [],
-   "end": "3119.760",
-   "id": "f000129",
+   "end": "3098.320",
+   "id": "f000377",
    "language": "eng",
    "lines": [
-    "But I came to the U.S., embraced the place, and took the passport as commitment: it became my identity, good or bad, tax or no tax. Many people made fun of my decision, as most of my income comes from overseas and, if I took official residence in, say, Cyprus or Malta, I would be making many more dollars. If wanted to lower taxes for myself, and I do, I am obligated to fight for it, for both myself and the collective, other taxpayers, and to not run away."
+    "But I came to the U.S., embraced the place, and took the passport as commitment: it became my identity, good or bad, tax or no tax."
+   ]
+  },
+  {
+   "begin": "3098.320",
+   "children": [],
+   "end": "3109.240",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "Many people made fun of my decision, as most of my income comes from overseas and, if I took official residence in, say, Cyprus or Malta, I would be making many more dollars."
+   ]
+  },
+  {
+   "begin": "3109.240",
+   "children": [],
+   "end": "3119.760",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "If wanted to lower taxes for myself, and I do, I am obligated to fight for it, for both myself and the collective, other taxpayers, and to not run away."
    ]
   },
   {
    "begin": "3119.760",
    "children": [],
    "end": "3122.360",
-   "id": "f000130",
+   "id": "f000380",
    "language": "eng",
    "lines": [
     "Skin in the game."
@@ -1304,7 +3804,7 @@
    "begin": "3122.360",
    "children": [],
    "end": "3127.440",
-   "id": "f000131",
+   "id": "f000381",
    "language": "eng",
    "lines": [
     "Heroes Were Not Library Rats"
@@ -1313,18 +3813,68 @@
   {
    "begin": "3127.440",
    "children": [],
-   "end": "3162.400",
-   "id": "f000132",
+   "end": "3135.880",
+   "id": "f000382",
    "language": "eng",
    "lines": [
-    "If you want to study classical values such as courage or learn about stoicism, don't necessarily look for classicists. One is never a career academic without a reason. Read the texts themselves: Seneca, Caesar, or Marcus Aurelius, when possible. Or read commentators on the classics who were doers themselves, such as Montaigne - people who at some point had some skin in the game, then retired to write books. Avoid the intermediary, when possible. Or fuhgetaboud the texts, just engage in acts of courage."
+    "If you want to study classical values such as courage or learn about stoicism, don't necessarily look for classicists."
+   ]
+  },
+  {
+   "begin": "3135.880",
+   "children": [],
+   "end": "3139.680",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "One is never a career academic without a reason."
+   ]
+  },
+  {
+   "begin": "3139.680",
+   "children": [],
+   "end": "3144.800",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "Read the texts themselves: Seneca, Caesar, or Marcus Aurelius, when possible."
+   ]
+  },
+  {
+   "begin": "3144.800",
+   "children": [],
+   "end": "3154.920",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "Or read commentators on the classics who were doers themselves, such as Montaigne - people who at some point had some skin in the game, then retired to write books."
+   ]
+  },
+  {
+   "begin": "3154.920",
+   "children": [],
+   "end": "3157.800",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "Avoid the intermediary, when possible."
+   ]
+  },
+  {
+   "begin": "3157.800",
+   "children": [],
+   "end": "3162.400",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "Or fuhgetaboud the texts, just engage in acts of courage."
    ]
   },
   {
    "begin": "3162.400",
    "children": [],
    "end": "3170.040",
-   "id": "f000133",
+   "id": "f000388",
    "language": "eng",
    "lines": [
     "For studying courage in textbooks doesn't make you any more courageous than eating cow meat makes you bovine."
@@ -1333,18 +3883,108 @@
   {
    "begin": "3170.040",
    "children": [],
-   "end": "3271.400",
-   "id": "f000134",
+   "end": "3187.800",
+   "id": "f000389",
    "language": "eng",
    "lines": [
-    "By some mysterious mental mechanism, people fail to realize that the principal thing you can learn from a professor is how to be a professor - and the chief thing you can learn from, say, a life coach or inspirational speaker is how to become a life coach or inspirational speaker. So remember that the heroes of history were not classicists and library rats, those people who live vicariously in their texts. They were people of deeds and had to be endowed with the spirit of risk taking. To get into their psyches, you will need someone other than a career professor teaching stoicism. They almost always don't get it (actually, they never get it). In my experience, from a series of personal fights, many of these \"classicists,\" who know in intimate detail what people of courage such as Alexander, Cleopatra, Caesar, Hannibal, Julian, Leonidas, Zenobia ate for breakfast, can't produce a shade of intellectual valor. Is it that academia (and journalism) is fundamentally the refuge of the stochastophobe tawker? That is, the voyeur who wants to watch but not take risks? It appears so. The most important chapter of the book, and conveniently the last one, \"The Logic of Risk Taking,\" shows how some central elements of risks, while obvious to practitioners, can be missed by theoreticians for more than two centuries!"
+    "By some mysterious mental mechanism, people fail to realize that the principal thing you can learn from a professor is how to be a professor - and the chief thing you can learn from, say, a life coach or inspirational speaker is how to become a life coach or inspirational speaker."
+   ]
+  },
+  {
+   "begin": "3187.800",
+   "children": [],
+   "end": "3200.480",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "So remember that the heroes of history were not classicists and library rats, those people who live vicariously in their texts."
+   ]
+  },
+  {
+   "begin": "3200.480",
+   "children": [],
+   "end": "3212.680",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "They were people of deeds and had to be endowed with the spirit of risk taking."
+   ]
+  },
+  {
+   "begin": "3212.680",
+   "children": [],
+   "end": "3222.600",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "To get into their psyches, you will need someone other than a career professor teaching stoicism."
+   ]
+  },
+  {
+   "begin": "3222.600",
+   "children": [],
+   "end": "3227.000",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "They almost always don't get it (actually, they never get it)."
+   ]
+  },
+  {
+   "begin": "3227.000",
+   "children": [],
+   "end": "3245.240",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "In my experience, from a series of personal fights, many of these \"classicists,\" who know in intimate detail what people of courage such as Alexander, Cleopatra, Caesar, Hannibal, Julian, Leonidas, Zenobia ate for breakfast, can't produce a shade of intellectual valor."
+   ]
+  },
+  {
+   "begin": "3245.240",
+   "children": [],
+   "end": "3252.000",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "Is it that academia (and journalism) is fundamentally the refuge of the stochastophobe tawker?"
+   ]
+  },
+  {
+   "begin": "3252.000",
+   "children": [],
+   "end": "3255.960",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "That is, the voyeur who wants to watch but not take risks?"
+   ]
+  },
+  {
+   "begin": "3255.960",
+   "children": [],
+   "end": "3257.520",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "It appears so."
+   ]
+  },
+  {
+   "begin": "3257.520",
+   "children": [],
+   "end": "3271.400",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "The most important chapter of the book, and conveniently the last one, \"The Logic of Risk Taking,\" shows how some central elements of risks, while obvious to practitioners, can be missed by theoreticians for more than two centuries!"
    ]
   },
   {
    "begin": "3271.400",
    "children": [],
    "end": "3277.600",
-   "id": "f000135",
+   "id": "f000399",
    "language": "eng",
    "lines": [
     "Soul in the Game and Some (Not Too Much) Protectionism"
@@ -1353,48 +3993,188 @@
   {
    "begin": "3277.600",
    "children": [],
-   "end": "3298.000",
-   "id": "f000136",
+   "end": "3282.080",
+   "id": "f000400",
    "language": "eng",
    "lines": [
-    "Let us now apply these ideas to modern times. Recall the story of the architects separated from the real users. This extends to more general systemic effects, such as protectionism and globalism. Seen that way, the rise of some protectionism may have a strong rationale - and an economic one."
+    "Let us now apply these ideas to modern times."
+   ]
+  },
+  {
+   "begin": "3282.080",
+   "children": [],
+   "end": "3286.080",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "Recall the story of the architects separated from the real users."
+   ]
+  },
+  {
+   "begin": "3286.080",
+   "children": [],
+   "end": "3291.360",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "This extends to more general systemic effects, such as protectionism and globalism."
+   ]
+  },
+  {
+   "begin": "3291.360",
+   "children": [],
+   "end": "3298.000",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Seen that way, the rise of some protectionism may have a strong rationale - and an economic one."
    ]
   },
   {
    "begin": "3298.000",
    "children": [],
-   "end": "3373.520",
-   "id": "f000137",
+   "end": "3307.640",
+   "id": "f000404",
    "language": "eng",
    "lines": [
-    "I leave aside the argument that globalization leads to a Tower-of-Babel style cacophony, owing to the imbalance in the noise-signal ratio. The point here is that workers, people who do things, have each an artisan in them. For, contrary to what lobbyists paid by international large corporations are trying to make us believe, such protectionism does not even conflict with economic thinking, what is called neoclassical economics. It is not inconsistent with the mathematical axioms of economic decision making, on which economics lays its foundations, to behave in a way that does not maximize one's narrowly defined dollar-denominated bottom line at the expense of other things. As I said earlier in the chapter, it is not irrational, according to economic theory, to leave money on the table because of your personal preference; the notion of incentives as limited to financial gain cannot otherwise explain the very existence of an economics academia that promotes the idea of self-interest."
+    "I leave aside the argument that globalization leads to a Tower-of-Babel style cacophony, owing to the imbalance in the noise-signal ratio."
    ]
   },
   {
-   "begin": "3373.520",
+   "begin": "3307.640",
    "children": [],
-   "end": "3409.560",
-   "id": "f000138",
+   "end": "3312.920",
+   "id": "f000405",
    "language": "eng",
    "lines": [
-    "We may be better off in a narrowly defined accounting sense (in the aggregate) by exporting jobs. But that's not what people may really want. I write because that's what I am designed to do, just as a knife cuts because that's what its mission is, Aristotle's ar\u00eate - and subcontracting my research and writing to China or Tunisia would (perhaps) increase my productivity, but deprive me of my identity."
+    "The point here is that workers, people who do things, have each an artisan in them."
+   ]
+  },
+  {
+   "begin": "3312.920",
+   "children": [],
+   "end": "3325.880",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "For, contrary to what lobbyists paid by international large corporations are trying to make us believe, such protectionism does not even conflict with economic thinking, what is called neoclassical economics."
+   ]
+  },
+  {
+   "begin": "3325.880",
+   "children": [],
+   "end": "3341.840",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "It is not inconsistent with the mathematical axioms of economic decision making, on which economics lays its foundations, to behave in a way that does not maximize one's narrowly defined dollar-denominated bottom line at the expense of other things."
+   ]
+  },
+  {
+   "begin": "3341.840",
+   "children": [],
+   "end": "3382.640",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "As I said earlier in the chapter, it is not irrational, according to economic theory, to leave money on the table because of your personal preference; the notion of incentives as limited to financial gain cannot otherwise explain the very existence of an economics academia that promotes the idea of self-interest."
+   ]
+  },
+  {
+   "begin": "3382.640",
+   "children": [],
+   "end": "3389.960",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "We may be better off in a narrowly defined accounting sense (in the aggregate) by exporting jobs."
+   ]
+  },
+  {
+   "begin": "3389.960",
+   "children": [],
+   "end": "3392.560",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "But that's not what people may really want."
+   ]
+  },
+  {
+   "begin": "3392.560",
+   "children": [],
+   "end": "3409.560",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "I write because that's what I am designed to do, just as a knife cuts because that's what its mission is, Aristotle's ar\u00eate - and subcontracting my research and writing to China or Tunisia would (perhaps) increase my productivity, but deprive me of my identity."
    ]
   },
   {
    "begin": "3409.560",
    "children": [],
-   "end": "3447.240",
-   "id": "f000139",
+   "end": "3413.160",
+   "id": "f000412",
    "language": "eng",
    "lines": [
-    "So people might want to do things. Just to do things, because they feel it is part of their identity. A shoemaker in Westchester County wants to be a shoemaker, to enjoy the fruits of his labor and the pride of seeing his merchandise in the stores, even if his so-called \"economic\" condition might benefit from letting a Chinese factory make the shoes and converting to another profession. Even if such a new system allows him to buy flat-screen TV sets, more cotton shirts, and cheaper bicycles, something is missing. It may be cruel to cheat people of their profession. People want to have their soul in the game."
+    "So people might want to do things."
+   ]
+  },
+  {
+   "begin": "3413.160",
+   "children": [],
+   "end": "3416.760",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "Just to do things, because they feel it is part of their identity."
+   ]
+  },
+  {
+   "begin": "3416.760",
+   "children": [],
+   "end": "3432.840",
+   "id": "f000414",
+   "language": "eng",
+   "lines": [
+    "A shoemaker in Westchester County wants to be a shoemaker, to enjoy the fruits of his labor and the pride of seeing his merchandise in the stores, even if his so-called \"economic\" condition might benefit from letting a Chinese factory make the shoes and converting to another profession."
+   ]
+  },
+  {
+   "begin": "3432.840",
+   "children": [],
+   "end": "3441.640",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "Even if such a new system allows him to buy flat-screen TV sets, more cotton shirts, and cheaper bicycles, something is missing."
+   ]
+  },
+  {
+   "begin": "3441.640",
+   "children": [],
+   "end": "3444.720",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "It may be cruel to cheat people of their profession."
+   ]
+  },
+  {
+   "begin": "3444.720",
+   "children": [],
+   "end": "3447.240",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "People want to have their soul in the game."
    ]
   },
   {
    "begin": "3447.240",
    "children": [],
    "end": "3457.120",
-   "id": "f000140",
+   "id": "f000418",
    "language": "eng",
    "lines": [
     "In that sense, decentralization and fragmentation, aside from stabilizing the system, improves people's connection to their labor."
@@ -1404,7 +4184,7 @@
    "begin": "3457.120",
    "children": [],
    "end": "3461.280",
-   "id": "f000141",
+   "id": "f000419",
    "language": "eng",
    "lines": [
     "Skin in the Ruling"
@@ -1414,7 +4194,7 @@
    "begin": "3461.280",
    "children": [],
    "end": "3464.960",
-   "id": "f000142",
+   "id": "f000420",
    "language": "eng",
    "lines": [
     "Let us close with a historical anecdote."
@@ -1423,11 +4203,81 @@
   {
    "begin": "3464.960",
    "children": [],
-   "end": "3512.240",
-   "id": "f000143",
+   "end": "3470.440",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "Some might well ask: law is great, but what would you do with a corrupt or incompetent judge? He could make mistakes with impunity. He could be the weak link. Not quite, or at least not historically. A friend once showed me a Dutch painting representing the Judgment of Cambyses. The scene is from the story reported by Herodotus, concerning the corrupt Persian judge Sisamnes. He was flayed alive on the order of King Cambyses as a punishment for violating the rules of justice. The scene of the painting is Sisamnes's son dispensing justice from his father's chair, upholstered with the flayed skin as a reminder that justice comes with, literally, skin in the game."
+    "Some might well ask: law is great, but what would you do with a corrupt or incompetent judge?"
+   ]
+  },
+  {
+   "begin": "3470.440",
+   "children": [],
+   "end": "3472.640",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "He could make mistakes with impunity."
+   ]
+  },
+  {
+   "begin": "3472.640",
+   "children": [],
+   "end": "3474.480",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "He could be the weak link."
+   ]
+  },
+  {
+   "begin": "3474.480",
+   "children": [],
+   "end": "3477.760",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "Not quite, or at least not historically."
+   ]
+  },
+  {
+   "begin": "3477.760",
+   "children": [],
+   "end": "3482.720",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "A friend once showed me a Dutch painting representing the Judgment of Cambyses."
+   ]
+  },
+  {
+   "begin": "3482.720",
+   "children": [],
+   "end": "3489.200",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "The scene is from the story reported by Herodotus, concerning the corrupt Persian judge Sisamnes."
+   ]
+  },
+  {
+   "begin": "3489.200",
+   "children": [],
+   "end": "3495.880",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "He was flayed alive on the order of King Cambyses as a punishment for violating the rules of justice."
+   ]
+  },
+  {
+   "begin": "3495.880",
+   "children": [],
+   "end": "3512.240",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "The scene of the painting is Sisamnes's son dispensing justice from his father's chair, upholstered with the flayed skin as a reminder that justice comes with, literally, skin in the game."
    ]
   }
  ]

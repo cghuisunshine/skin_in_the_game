@@ -9,12 +9,12 @@ from tools import reader_pipeline
 
 
 class ReaderPipelineTests(unittest.TestCase):
-    def test_aligned_reader_persists_latest_paragraph_in_local_storage(self):
+    def test_aligned_reader_persists_latest_sentence_in_local_storage(self):
         html = Path("aligned_reader/index.html").read_text(encoding="utf-8")
 
         self.assertIn("localStorage.setItem(PROGRESS_KEY", html)
         self.assertIn("localStorage.getItem(PROGRESS_KEY", html)
-        self.assertIn("saveProgress(paragraph)", html)
+        self.assertIn("saveProgress(sentence)", html)
         self.assertIn("loadChapter(initialProgress.chapterIndex", html)
 
     def test_extract_chapters_skips_contents_and_splits_real_chapters(self):
@@ -159,6 +159,26 @@ class ReaderPipelineTests(unittest.TestCase):
         paragraphs = reader_pipeline.normalize_paragraphs(body)
 
         self.assertEqual(paragraphs, ["top-of-the-range broomstick", "summer holidays"])
+
+    def test_chapter_fragments_split_paragraphs_into_sentences(self):
+        chapter = reader_pipeline.Chapter(
+            1,
+            "One",
+            "First sentence. Second sentence? Third sentence!\n\nA short fragment:",
+        )
+
+        fragments = reader_pipeline.chapter_fragments(chapter)
+
+        self.assertEqual(
+            fragments,
+            [
+                "Chapter One. One.",
+                "First sentence.",
+                "Second sentence?",
+                "Third sentence!",
+                "A short fragment:",
+            ],
+        )
 
     def test_extract_chapter_without_visible_title_keeps_body(self):
         source = """

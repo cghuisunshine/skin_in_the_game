@@ -43,78 +43,238 @@
   {
    "begin": "22.720",
    "children": [],
-   "end": "61.960",
+   "end": "38.840",
    "id": "f000005",
    "language": "eng",
    "lines": [
-    "The first is the inequality people tolerate, such as one's understanding compared to that of people deemed heroes, say, Einstein, Michelangelo, or the recluse mathematician Grisha Perelman, in comparison to whom one has no difficulty acknowledging a large surplus. This applies to entrepreneurs, artists, soldiers, heroes, the singer Bob Dylan, Socrates, the current local celebrity chef, some Roman Emperor of good repute, say, Marcus Aurelius; in short, those for whom one can naturally be a \"fan.\" You may like to imitate them, you may aspire to be like them, but you don't resent them."
+    "The first is the inequality people tolerate, such as one's understanding compared to that of people deemed heroes, say, Einstein, Michelangelo, or the recluse mathematician Grisha Perelman, in comparison to whom one has no difficulty acknowledging a large surplus."
+   ]
+  },
+  {
+   "begin": "38.840",
+   "children": [],
+   "end": "55.680",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "This applies to entrepreneurs, artists, soldiers, heroes, the singer Bob Dylan, Socrates, the current local celebrity chef, some Roman Emperor of good repute, say, Marcus Aurelius; in short, those for whom one can naturally be a \"fan.\""
+   ]
+  },
+  {
+   "begin": "55.680",
+   "children": [],
+   "end": "61.960",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "You may like to imitate them, you may aspire to be like them, but you don't resent them."
    ]
   },
   {
    "begin": "61.960",
    "children": [],
-   "end": "107.920",
-   "id": "f000006",
+   "end": "82.680",
+   "id": "f000008",
    "language": "eng",
    "lines": [
-    "The second is the inequality people find intolerable because the subject appears to be just a person like you, except that he has been playing the system, and getting himself into rent-seeking, acquiring privileges that are not warranted - and although he has something you would not mind having (which may include his Russian girlfriend), you cannot possibly become a fan. The latter category includes bankers, bureaucrats who get rich, former senators shilling for the evil firm Monsanto, clean-shaven chief executives who wear ties, and talking heads on television making outsized bonuses. You don't just envy them; you take umbrage at their fame, and the sight of their expensive or even semi-expensive car triggers some feeling of bitterness. They make you feel smaller."
+    "The second is the inequality people find intolerable because the subject appears to be just a person like you, except that he has been playing the system, and getting himself into rent-seeking, acquiring privileges that are not warranted - and although he has something you would not mind having (which may include his Russian girlfriend), you cannot possibly become a fan."
    ]
   },
   {
-   "begin": "107.920",
+   "begin": "82.680",
    "children": [],
-   "end": "116.880",
-   "id": "f000007",
+   "end": "96.760",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "The latter category includes bankers, bureaucrats who get rich, former senators shilling for the evil firm Monsanto, clean-shaven chief executives who wear ties, and talking heads on television making outsized bonuses."
+   ]
+  },
+  {
+   "begin": "96.760",
+   "children": [],
+   "end": "113.480",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "You don't just envy them; you take umbrage at their fame, and the sight of their expensive or even semi-expensive car triggers some feeling of bitterness."
+   ]
+  },
+  {
+   "begin": "113.480",
+   "children": [],
+   "end": "115.760",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "They make you feel smaller."
+   ]
+  },
+  {
+   "begin": "115.760",
+   "children": [],
+   "end": "127.000",
+   "id": "f000012",
    "language": "eng",
    "lines": [
     "There may be something dissonant in the spectacle of a rich slave."
    ]
   },
   {
-   "begin": "116.880",
+   "begin": "127.000",
    "children": [],
-   "end": "165.200",
-   "id": "f000008",
+   "end": "132.040",
+   "id": "f000013",
    "language": "eng",
    "lines": [
-    "The author Joan C. Williams, in an insightful article, explains that the American working class is impressed by the rich, as role models - something people in the media, who communicate with one another but rarely with subjects in the real world, don't realize, as they impart normative ideas to people (\"this is how they should think\"). Mich\u00e8le Lamont, the author of The Dignity of Working Men, cited by Williams, did a systematic interview of blue-collar Americans and found a resentment of high-paid professionals but, unexpectedly, not of the rich."
+    "The author Joan C."
    ]
   },
   {
-   "begin": "165.200",
+   "begin": "132.040",
    "children": [],
-   "end": "198.680",
-   "id": "f000009",
+   "end": "151.160",
+   "id": "f000014",
    "language": "eng",
    "lines": [
-    "It is safe to say that the American public - actually all publics - despises people who make a lot of money on a salary, or, rather, salarymen who make a lot of money. This is indeed generalized to other countries: a few years ago the Swiss, of all people, ran a referendum for a law capping salaries of managers to a set multiple of the lowest wage. The law didn't pass, but the fact that they thought in these terms is rather significant. For the same Swiss hold rich entrepreneurs, and people who have derived their celebrity by other means, in some respect."
+    "Williams, in an insightful article, explains that the American working class is impressed by the rich, as role models - something people in the media, who communicate with one another but rarely with subjects in the real world, don't realize, as they impart normative ideas to people (\"this is how they should think\")."
+   ]
+  },
+  {
+   "begin": "151.160",
+   "children": [],
+   "end": "165.160",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Mich\u00e8le Lamont, the author of The Dignity of Working Men, cited by Williams, did a systematic interview of blue-collar Americans and found a resentment of high-paid professionals but, unexpectedly, not of the rich."
+   ]
+  },
+  {
+   "begin": "165.160",
+   "children": [],
+   "end": "175.080",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "It is safe to say that the American public - actually all publics - despises people who make a lot of money on a salary, or, rather, salarymen who make a lot of money."
+   ]
+  },
+  {
+   "begin": "175.080",
+   "children": [],
+   "end": "185.960",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "This is indeed generalized to other countries: a few years ago the Swiss, of all people, ran a referendum for a law capping salaries of managers to a set multiple of the lowest wage."
+   ]
+  },
+  {
+   "begin": "185.960",
+   "children": [],
+   "end": "190.680",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "The law didn't pass, but the fact that they thought in these terms is rather significant."
+   ]
+  },
+  {
+   "begin": "190.680",
+   "children": [],
+   "end": "198.680",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "For the same Swiss hold rich entrepreneurs, and people who have derived their celebrity by other means, in some respect."
    ]
   },
   {
    "begin": "198.680",
    "children": [],
-   "end": "246.400",
-   "id": "f000010",
+   "end": "220.280",
+   "id": "f000020",
    "language": "eng",
    "lines": [
-    "Further, in countries where wealth comes from rent-seeking, political patronage, or regulatory capture (which, I remind the reader, is how the powerful and the insiders use regulation to scam the public, or red tape to slow down competition), wealth is seen as zero-sum. What Peter gets is extracted from Paul. Someone getting rich is doing so at other people's expense. In countries such as the U.S., where wealth can come from destruction, people can easily see that someone getting rich is not taking dollars from your pocket; odds are he is even putting some in yours. On the other hand, inequality, by definition, is zero sum."
+    "Further, in countries where wealth comes from rent-seeking, political patronage, or regulatory capture (which, I remind the reader, is how the powerful and the insiders use regulation to scam the public, or red tape to slow down competition), wealth is seen as zero-sum."
    ]
   },
   {
-   "begin": "246.400",
+   "begin": "220.280",
    "children": [],
-   "end": "293.680",
-   "id": "f000011",
+   "end": "226.360",
+   "id": "f000021",
    "language": "eng",
    "lines": [
-    "In this chapter, I will propose that what people resent - or should resent - is the person at the top who has no skin in the game, that is, because he doesn't bear his allotted risk, he is immune to the possibility of falling from his pedestal, exiting his income or wealth bracket, and waiting in line outside the soup kitchen. Again, on that account, the detractors of Donald Trump, when he was still a candidate, not only misunderstood the value of scars as risk signaling, but they also failed to realize that, by advertising his episode of bankruptcy and his personal losses of close to a billion dollars, he removed the resentment (the second type of inequality) people may have had toward him. There is something respectable in losing a billion dollars, provided it is your own money."
+    "What Peter gets is extracted from Paul."
    ]
   },
   {
-   "begin": "293.680",
+   "begin": "226.360",
+   "children": [],
+   "end": "229.960",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Someone getting rich is doing so at other people's expense."
+   ]
+  },
+  {
+   "begin": "229.960",
+   "children": [],
+   "end": "241.040",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "In countries such as the U.S., where wealth can come from destruction, people can easily see that someone getting rich is not taking dollars from your pocket; odds are he is even putting some in yours."
+   ]
+  },
+  {
+   "begin": "241.040",
+   "children": [],
+   "end": "246.360",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "On the other hand, inequality, by definition, is zero sum."
+   ]
+  },
+  {
+   "begin": "246.360",
+   "children": [],
+   "end": "265.800",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "In this chapter, I will propose that what people resent - or should resent - is the person at the top who has no skin in the game, that is, because he doesn't bear his allotted risk, he is immune to the possibility of falling from his pedestal, exiting his income or wealth bracket, and waiting in line outside the soup kitchen."
+   ]
+  },
+  {
+   "begin": "265.800",
+   "children": [],
+   "end": "287.440",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "Again, on that account, the detractors of Donald Trump, when he was still a candidate, not only misunderstood the value of scars as risk signaling, but they also failed to realize that, by advertising his episode of bankruptcy and his personal losses of close to a billion dollars, he removed the resentment (the second type of inequality) people may have had toward him."
+   ]
+  },
+  {
+   "begin": "287.440",
+   "children": [],
+   "end": "293.720",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "There is something respectable in losing a billion dollars, provided it is your own money."
+   ]
+  },
+  {
+   "begin": "293.720",
    "children": [],
    "end": "319.120",
-   "id": "f000012",
+   "id": "f000028",
    "language": "eng",
    "lines": [
     "In addition, someone without skin in the game - say, a corporate executive with upside and no financial downside (the type to speak clearly in meetings) - is paid according to some metrics that do not necessarily reflect the health of his company; these he can manipulate, hide risks, get the bonus, then retire (or go do the same thing at another company) and blame his successor for subsequent results."
@@ -123,28 +283,38 @@
   {
    "begin": "319.120",
    "children": [],
-   "end": "336.120",
-   "id": "f000013",
+   "end": "324.920",
+   "id": "f000029",
    "language": "eng",
    "lines": [
-    "We will also, in the process, redefine inequality and put the notion on more rigorous grounds. But we first need to introduce the difference between two types of approaches, the static and the dynamic, as skin in the game can transform one type of inequality into another."
+    "We will also, in the process, redefine inequality and put the notion on more rigorous grounds."
    ]
   },
   {
-   "begin": "336.120",
+   "begin": "324.920",
    "children": [],
-   "end": "338.560",
-   "id": "f000014",
+   "end": "334.560",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "But we first need to introduce the difference between two types of approaches, the static and the dynamic, as skin in the game can transform one type of inequality into another."
+   ]
+  },
+  {
+   "begin": "334.560",
+   "children": [],
+   "end": "338.000",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "Take also the two following remarks:"
    ]
   },
   {
-   "begin": "338.560",
+   "begin": "338.000",
    "children": [],
    "end": "342.080",
-   "id": "f000015",
+   "id": "f000032",
    "language": "eng",
    "lines": [
     "True equality is equality in probability."
@@ -154,7 +324,7 @@
    "begin": "342.080",
    "children": [],
    "end": "342.720",
-   "id": "f000016",
+   "id": "f000033",
    "language": "eng",
    "lines": [
     "and"
@@ -164,7 +334,7 @@
    "begin": "342.720",
    "children": [],
    "end": "348.400",
-   "id": "f000017",
+   "id": "f000034",
    "language": "eng",
    "lines": [
     "Skin in the game prevents systems from rotting."
@@ -174,7 +344,7 @@
    "begin": "348.400",
    "children": [],
    "end": "351.720",
-   "id": "f000018",
+   "id": "f000035",
    "language": "eng",
    "lines": [
     "THE STATIC AND THE DYNAMIC"
@@ -183,18 +353,38 @@
   {
    "begin": "351.720",
    "children": [],
-   "end": "394.360",
-   "id": "f000019",
+   "end": "364.480",
+   "id": "f000036",
    "language": "eng",
    "lines": [
-    "Visibly, a problem with economists (particularly those who never took risk) is that they have mental difficulties with things that move and are unable to consider that things that move have different attributes from things that don't. That's the reason complexity theory and fat tails (which we will explain a few pages down) are foreign to most of them; they also have (severe) difficulties with the mathematical and conceptual intuitions required for deeper probability theory. Blindness to ergodicity, which we will begin to define a few paragraphs down, is indeed in my opinion the best marker separating a genuine scholar who understands something about the world from an academic hack who partakes of ritualistic paper writing."
+    "Visibly, a problem with economists (particularly those who never took risk) is that they have mental difficulties with things that move and are unable to consider that things that move have different attributes from things that don't."
+   ]
+  },
+  {
+   "begin": "364.480",
+   "children": [],
+   "end": "378.360",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "That's the reason complexity theory and fat tails (which we will explain a few pages down) are foreign to most of them; they also have (severe) difficulties with the mathematical and conceptual intuitions required for deeper probability theory."
+   ]
+  },
+  {
+   "begin": "378.360",
+   "children": [],
+   "end": "394.360",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Blindness to ergodicity, which we will begin to define a few paragraphs down, is indeed in my opinion the best marker separating a genuine scholar who understands something about the world from an academic hack who partakes of ritualistic paper writing."
    ]
   },
   {
    "begin": "394.360",
    "children": [],
    "end": "396.040",
-   "id": "f000020",
+   "id": "f000039",
    "language": "eng",
    "lines": [
     "A few definitions:"
@@ -203,28 +393,58 @@
   {
    "begin": "396.040",
    "children": [],
-   "end": "405.040",
-   "id": "f000021",
+   "end": "407.320",
+   "id": "f000040",
    "language": "eng",
    "lines": [
     "Static inequality is a snapshot view of inequality; it does not reflect what will happen to you in the course of your life."
    ]
   },
   {
-   "begin": "405.040",
+   "begin": "407.320",
    "children": [],
-   "end": "455.360",
-   "id": "f000022",
+   "end": "427.400",
+   "id": "f000041",
    "language": "eng",
    "lines": [
-    "Consider that about 10 percent of Americans will spend at least a year in the top 1 percent, and more than half of all Americans will spend a year in the top 10 percent. This is visibly not the same for the more static - but nominally more equal - Europe. For instance, only 10 percent of the wealthiest five hundred American people or dynasties were so thirty years ago; more than 60 percent on the French list are heirs and a third of the richest Europeans were the richest centuries ago. In Florence, it was just revealed that things are even worse: the same handful of families have kept the wealth for five centuries."
+    "Consider that about 10 percent of Americans will spend at least a year in the top 1 percent, and more than half of all Americans will spend a year in the top 10 percent."
+   ]
+  },
+  {
+   "begin": "427.400",
+   "children": [],
+   "end": "432.560",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "This is visibly not the same for the more static - but nominally more equal - Europe."
+   ]
+  },
+  {
+   "begin": "432.560",
+   "children": [],
+   "end": "446.600",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "For instance, only 10 percent of the wealthiest five hundred American people or dynasties were so thirty years ago; more than 60 percent on the French list are heirs and a third of the richest Europeans were the richest centuries ago."
+   ]
+  },
+  {
+   "begin": "446.600",
+   "children": [],
+   "end": "455.360",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "In Florence, it was just revealed that things are even worse: the same handful of families have kept the wealth for five centuries."
    ]
   },
   {
    "begin": "455.360",
    "children": [],
    "end": "461.800",
-   "id": "f000023",
+   "id": "f000045",
    "language": "eng",
    "lines": [
     "Dynamic (ergodic) inequality takes into account the entire future and past life."
@@ -234,7 +454,7 @@
    "begin": "461.800",
    "children": [],
    "end": "473.240",
-   "id": "f000024",
+   "id": "f000046",
    "language": "eng",
    "lines": [
     "You do not create dynamic equality just by raising the level of those at the bottom, but rather by making the rich rotate - or by forcing people to incur the possibility of creating an opening."
@@ -244,7 +464,7 @@
    "begin": "473.240",
    "children": [],
    "end": "489.280",
-   "id": "f000025",
+   "id": "f000047",
    "language": "eng",
    "lines": [
     "The way to make society more equal is by forcing (through skin in the game) the rich to be subjected to the risk of exiting from the 1 percent."
@@ -253,58 +473,198 @@
   {
    "begin": "489.280",
    "children": [],
-   "end": "502.720",
-   "id": "f000026",
+   "end": "492.560",
+   "id": "f000048",
    "language": "eng",
    "lines": [
-    "Our condition here is stronger than mere income mobility. Mobility means that someone can become rich. The no-absorbing-barrier condition means that someone who is rich should never be certain to stay rich."
+    "Our condition here is stronger than mere income mobility."
+   ]
+  },
+  {
+   "begin": "492.560",
+   "children": [],
+   "end": "495.240",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Mobility means that someone can become rich."
+   ]
+  },
+  {
+   "begin": "495.240",
+   "children": [],
+   "end": "502.720",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "The no-absorbing-barrier condition means that someone who is rich should never be certain to stay rich."
    ]
   },
   {
    "begin": "502.720",
    "children": [],
-   "end": "505.480",
-   "id": "f000027",
+   "end": "505.440",
+   "id": "f000051",
    "language": "eng",
    "lines": [
     "Now, even more mathematically,"
    ]
   },
   {
-   "begin": "505.480",
+   "begin": "505.440",
    "children": [],
-   "end": "513.880",
-   "id": "f000028",
+   "end": "513.800",
+   "id": "f000052",
    "language": "eng",
    "lines": [
     "Dynamic equality is what restores ergodicity, making time and ensemble probabilities substitutable."
    ]
   },
   {
-   "begin": "513.880",
+   "begin": "513.800",
    "children": [],
-   "end": "627.240",
-   "id": "f000029",
+   "end": "518.400",
+   "id": "f000053",
    "language": "eng",
    "lines": [
-    "Let me explain ergodicity - something that we said is foreign to the intelligentsia. Chapter 19 at the back of the book goes into the details; it cancels most crucial psychological experiments related to probability and rationality. The intuition for now is as follows. Take a cross-sectional picture of the U.S. population. You have, say, a minority of millionaires in the one percent, some overweight, some tall, some humorous. You also have a high majority of people in the lower middle class, yoga instructors, baking experts, gardening consultants, spreadsheet theoreticians, dancing advisors, and piano repairpersons - plus of course the Spanish grammar specialist. Take the percentages of each income or wealth bracket (note that the inequality of income is typically flatter than that of wealth). Perfect ergodicity means that each one of us, should he live forever, would spend a proportion of time in the economic conditions of the entire cross-section: out of, say, a century, an average of sixty years in the lower middle class, ten years in the upper middle class, twenty years in the blue-collar class, and perhaps one single year in the one percent."
+    "Let me explain ergodicity - something that we said is foreign to the intelligentsia."
    ]
   },
   {
-   "begin": "627.240",
+   "begin": "518.400",
    "children": [],
-   "end": "677.240",
-   "id": "f000030",
+   "end": "527.240",
+   "id": "f000054",
    "language": "eng",
    "lines": [
-    "The exact opposite of perfect ergodicity is an absorbing state. The term absorption is derived from particles that, when they hit an obstacle, get absorbed or stick to it. An absorbing barrier is like a trap, once in, you can't get out, good or bad. A person gets rich by some process, then, having arrived, he stays rich. And if someone enters the lower middle class (from above), he will never have the chance to exit from it and become rich should he want to, of course - hence will be justified to resent the rich. You will notice that where the state is large, people at the top tend to have little downward mobility - in such places as France, the state is chummy with large corporations and protects their executives and shareholders from experiencing such descent; it even encourages their ascent."
+    "Chapter 19 at the back of the book goes into the details; it cancels most crucial psychological experiments related to probability and rationality."
    ]
   },
   {
-   "begin": "677.240",
+   "begin": "527.240",
+   "children": [],
+   "end": "529.640",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "The intuition for now is as follows."
+   ]
+  },
+  {
+   "begin": "529.640",
+   "children": [],
+   "end": "533.560",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "Take a cross-sectional picture of the U.S. population."
+   ]
+  },
+  {
+   "begin": "533.560",
+   "children": [],
+   "end": "540.400",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "You have, say, a minority of millionaires in the one percent, some overweight, some tall, some humorous."
+   ]
+  },
+  {
+   "begin": "540.400",
+   "children": [],
+   "end": "553.960",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "You also have a high majority of people in the lower middle class, yoga instructors, baking experts, gardening consultants, spreadsheet theoreticians, dancing advisors, and piano repairpersons - plus of course the Spanish grammar specialist."
+   ]
+  },
+  {
+   "begin": "553.960",
+   "children": [],
+   "end": "570.360",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "Take the percentages of each income or wealth bracket (note that the inequality of income is typically flatter than that of wealth)."
+   ]
+  },
+  {
+   "begin": "570.360",
+   "children": [],
+   "end": "623.960",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Perfect ergodicity means that each one of us, should he live forever, would spend a proportion of time in the economic conditions of the entire cross-section: out of, say, a century, an average of sixty years in the lower middle class, ten years in the upper middle class, twenty years in the blue-collar class, and perhaps one single year in the one percent."
+   ]
+  },
+  {
+   "begin": "623.960",
+   "children": [],
+   "end": "630.880",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "The exact opposite of perfect ergodicity is an absorbing state."
+   ]
+  },
+  {
+   "begin": "630.880",
+   "children": [],
+   "end": "637.920",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "The term absorption is derived from particles that, when they hit an obstacle, get absorbed or stick to it."
+   ]
+  },
+  {
+   "begin": "637.920",
+   "children": [],
+   "end": "643.560",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "An absorbing barrier is like a trap, once in, you can't get out, good or bad."
+   ]
+  },
+  {
+   "begin": "643.560",
+   "children": [],
+   "end": "648.480",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "A person gets rich by some process, then, having arrived, he stays rich."
+   ]
+  },
+  {
+   "begin": "648.480",
+   "children": [],
+   "end": "659.800",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "And if someone enters the lower middle class (from above), he will never have the chance to exit from it and become rich should he want to, of course - hence will be justified to resent the rich."
+   ]
+  },
+  {
+   "begin": "659.800",
+   "children": [],
+   "end": "677.200",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "You will notice that where the state is large, people at the top tend to have little downward mobility - in such places as France, the state is chummy with large corporations and protects their executives and shareholders from experiencing such descent; it even encourages their ascent."
+   ]
+  },
+  {
+   "begin": "677.200",
    "children": [],
    "end": "681.280",
-   "id": "f000031",
+   "id": "f000067",
    "language": "eng",
    "lines": [
     "And no downside for some means no upside for the rest."
@@ -313,58 +673,208 @@
   {
    "begin": "681.280",
    "children": [],
-   "end": "693.760",
-   "id": "f000032",
+   "end": "692.200",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "PIKETTISM AND THE REVOLT OF THE MANDARIN CLASS"
    ]
   },
   {
-   "begin": "693.760",
+   "begin": "692.200",
    "children": [],
-   "end": "716.800",
-   "id": "f000033",
+   "end": "706.720",
+   "id": "f000069",
    "language": "eng",
    "lines": [
-    "There is a class often called the Mandarins, after the fictionalized memoirs of the French author Simone de Beauvoir, named after the scholars of the Ming dynasty (the high Chinese language is also called Mandarin). I have always been aware of their existence, but a salient - and pernicious - attribute came to me while observing the reactions of its members to the works of the French economist Thomas Piketty."
+    "There is a class often called the Mandarins, after the fictionalized memoirs of the French author Simone de Beauvoir, named after the scholars of the Ming dynasty (the high Chinese language is also called Mandarin)."
    ]
   },
   {
-   "begin": "716.800",
+   "begin": "706.720",
    "children": [],
-   "end": "763.800",
-   "id": "f000034",
+   "end": "716.480",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "Piketty followed Karl Marx by writing an ambitious book on capital. A friend gave me the book as a gift when it was still in French (and unknown outside France) because I find it commendable that people publish their original, nonmathematical work in social science in book format. The book, Capital in the Twenty-first Century, makes aggressive claims about the alarming rise of inequality, adding to it a theory of why capital tends to command too much return in relation to labor and how the absence of redistribution and dispossession might make the world collapse. Piketty's theory about the increase in the return of capital in relation to labor is patently wrong, as anyone who has witnessed the rise of what is called the \"knowledge economy\" (or anyone who has had investments in general) knows."
+    "I have always been aware of their existence, but a salient - and pernicious - attribute came to me while observing the reactions of its members to the works of the French economist Thomas Piketty."
+   ]
+  },
+  {
+   "begin": "716.480",
+   "children": [],
+   "end": "722.760",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "Piketty followed Karl Marx by writing an ambitious book on capital."
+   ]
+  },
+  {
+   "begin": "722.760",
+   "children": [],
+   "end": "733.960",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "A friend gave me the book as a gift when it was still in French (and unknown outside France) because I find it commendable that people publish their original, nonmathematical work in social science in book format."
+   ]
+  },
+  {
+   "begin": "733.960",
+   "children": [],
+   "end": "750.720",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "The book, Capital in the Twenty-first Century, makes aggressive claims about the alarming rise of inequality, adding to it a theory of why capital tends to command too much return in relation to labor and how the absence of redistribution and dispossession might make the world collapse."
+   ]
+  },
+  {
+   "begin": "750.720",
+   "children": [],
+   "end": "763.800",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "Piketty's theory about the increase in the return of capital in relation to labor is patently wrong, as anyone who has witnessed the rise of what is called the \"knowledge economy\" (or anyone who has had investments in general) knows."
    ]
   },
   {
    "begin": "763.800",
    "children": [],
-   "end": "851.560",
-   "id": "f000035",
+   "end": "779.400",
+   "id": "f000075",
    "language": "eng",
    "lines": [
-    "Clearly, when you say that inequality changes from year one to year two, you need to show that those who are at the top are the same people - something Piketty doesn't do (remember that he is an economist and has trouble with things that move). But the problem doesn't stop there. Soon, I discovered that - aside from deriving conclusions from static measures of inequality - the methods he used were flawed: Piketty's tools did not match what he purported to show about the rise in inequality. There was no mathematical rigor. I soon wrote two articles (one in collaboration with Raphael Douady, another with Andrea Fontanari and Pasquale Cirillo, published in Physica A: Statistical Mechanics and Applications), about the measure of inequality that consists in taking the ownership of, say, the top 1 percent and monitoring its variations. The flaw is that if you take the inequality thus measured in Europe as a whole, you will find it is higher than the average inequality across component countries; the bias increases in severity with processes that deliver a high degree of inequality. All in all, the papers had enough theorems and proofs to make them about as ironclad a piece of work as one can have in science; although it was not necessary, I insisted on putting the results in theorem form because someone cannot contest a formally proved theorem without putting in question his own understanding of mathematics."
+    "Clearly, when you say that inequality changes from year one to year two, you need to show that those who are at the top are the same people - something Piketty doesn't do (remember that he is an economist and has trouble with things that move)."
    ]
   },
   {
-   "begin": "851.560",
+   "begin": "779.400",
    "children": [],
-   "end": "920.760",
-   "id": "f000036",
+   "end": "781.040",
+   "id": "f000076",
    "language": "eng",
    "lines": [
-    "The reason these errors were not known was because economists who work with inequality were not familiar with\u2026inequality. Inequality is the disproportion of the role of the tail - rich people were in the tails of the distribution. The more inequality in the system, the more the winner-take-all effect, the more we depart from the methods of thin-tailed Mediocristan (see Glossary) in which economists were trained. The wealth process is dominated by winner-take-all effects. Any form of control of the wealth process - typically instigated by bureaucrats - tends to lock people with privileges in their state of entitlement. So the solution is to allow the system to destroy the strong, something that works best in the United States."
+    "But the problem doesn't stop there."
    ]
   },
   {
-   "begin": "920.760",
+   "begin": "781.040",
+   "children": [],
+   "end": "794.080",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "Soon, I discovered that - aside from deriving conclusions from static measures of inequality - the methods he used were flawed: Piketty's tools did not match what he purported to show about the rise in inequality."
+   ]
+  },
+  {
+   "begin": "794.080",
+   "children": [],
+   "end": "796.400",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "There was no mathematical rigor."
+   ]
+  },
+  {
+   "begin": "796.400",
+   "children": [],
+   "end": "816.520",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "I soon wrote two articles (one in collaboration with Raphael Douady, another with Andrea Fontanari and Pasquale Cirillo, published in Physica A: Statistical Mechanics and Applications), about the measure of inequality that consists in taking the ownership of, say, the top 1 percent and monitoring its variations."
+   ]
+  },
+  {
+   "begin": "816.520",
+   "children": [],
+   "end": "831.440",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "The flaw is that if you take the inequality thus measured in Europe as a whole, you will find it is higher than the average inequality across component countries; the bias increases in severity with processes that deliver a high degree of inequality."
+   ]
+  },
+  {
+   "begin": "831.440",
+   "children": [],
+   "end": "856.880",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "All in all, the papers had enough theorems and proofs to make them about as ironclad a piece of work as one can have in science; although it was not necessary, I insisted on putting the results in theorem form because someone cannot contest a formally proved theorem without putting in question his own understanding of mathematics."
+   ]
+  },
+  {
+   "begin": "856.880",
+   "children": [],
+   "end": "875.640",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "The reason these errors were not known was because economists who work with inequality were not familiar with\u2026inequality."
+   ]
+  },
+  {
+   "begin": "875.640",
+   "children": [],
+   "end": "888.360",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "Inequality is the disproportion of the role of the tail - rich people were in the tails of the distribution."
+   ]
+  },
+  {
+   "begin": "888.360",
+   "children": [],
+   "end": "900.360",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "The more inequality in the system, the more the winner-take-all effect, the more we depart from the methods of thin-tailed Mediocristan (see Glossary) in which economists were trained."
+   ]
+  },
+  {
+   "begin": "900.360",
+   "children": [],
+   "end": "904.480",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "The wealth process is dominated by winner-take-all effects."
+   ]
+  },
+  {
+   "begin": "904.480",
+   "children": [],
+   "end": "913.360",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "Any form of control of the wealth process - typically instigated by bureaucrats - tends to lock people with privileges in their state of entitlement."
+   ]
+  },
+  {
+   "begin": "913.360",
+   "children": [],
+   "end": "919.200",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "So the solution is to allow the system to destroy the strong, something that works best in the United States."
+   ]
+  },
+  {
+   "begin": "919.200",
    "children": [],
    "end": "926.320",
-   "id": "f000037",
+   "id": "f000088",
    "language": "eng",
    "lines": [
     "But there was something far, far more severe than a scholar being wrong."
@@ -373,28 +883,138 @@
   {
    "begin": "926.320",
    "children": [],
-   "end": "997.720",
-   "id": "f000038",
+   "end": "929.640",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "The problem is never the problem; it is how people handle it. What was worse than Piketty's flaws was the discovery of how that Mandarin class operates. They got so prematurely excited by the \"evidence\" of the rise in inequality that their reactions were like fake news. Actually, they were fake news. Economists got so carried away; they praised Piketty for his \"erudition\" because he discussed Balzac and Jane Austen, the equivalent to hailing as a weight lifter someone spotted carrying a briefcase across Terminal B. And they completely ignored my results - and when they didn't, it was to declare that I was \"arrogant\"(recall the strategy of using formal mathematics as a way to make it impossible to say you are wrong) - which is a form of scientific compliment. Even Paul Krugman (a currently famous economist and public intellectual) wrote, \"If you think you've found an obvious hole, empirical or logical, in Piketty, you're very probably wrong. He's done his homework!\" When I met him in person and pointed out the flaw to him, he evaded it - not necessarily out of malice, but most likely because probability and combinatorics eluded him, by his own admission."
+    "The problem is never the problem; it is how people handle it."
    ]
   },
   {
-   "begin": "997.720",
+   "begin": "929.640",
    "children": [],
-   "end": "1043.400",
-   "id": "f000039",
+   "end": "935.320",
+   "id": "f000090",
    "language": "eng",
    "lines": [
-    "Now consider that the likes of Krugman and Piketty have no downside in their existence - lowering inequality brings them up in the ladder of life. Unless the university system or the French state goes bust, they will continue receiving their paychecks. The fellow you just saw in the steak restaurant dripping with gold chains is exposed to the risk of the soup kitchen, not them. Just as those who live by the sword die by the sword, those who earn their living taking risks will lose their livelihood taking risks."
+    "What was worse than Piketty's flaws was the discovery of how that Mandarin class operates."
    ]
   },
   {
-   "begin": "1043.400",
+   "begin": "935.320",
+   "children": [],
+   "end": "942.840",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "They got so prematurely excited by the \"evidence\" of the rise in inequality that their reactions were like fake news."
+   ]
+  },
+  {
+   "begin": "942.840",
+   "children": [],
+   "end": "945.040",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "Actually, they were fake news."
+   ]
+  },
+  {
+   "begin": "945.040",
+   "children": [],
+   "end": "957.800",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Economists got so carried away; they praised Piketty for his \"erudition\" because he discussed Balzac and Jane Austen, the equivalent to hailing as a weight lifter someone spotted carrying a briefcase across Terminal B."
+   ]
+  },
+  {
+   "begin": "957.800",
+   "children": [],
+   "end": "971.800",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "And they completely ignored my results - and when they didn't, it was to declare that I was \"arrogant\"(recall the strategy of using formal mathematics as a way to make it impossible to say you are wrong) - which is a form of scientific compliment."
+   ]
+  },
+  {
+   "begin": "971.800",
+   "children": [],
+   "end": "983.880",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Even Paul Krugman (a currently famous economist and public intellectual) wrote, \"If you think you've found an obvious hole, empirical or logical, in Piketty, you're very probably wrong."
+   ]
+  },
+  {
+   "begin": "983.880",
+   "children": [],
+   "end": "985.640",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "He's done his homework!\""
+   ]
+  },
+  {
+   "begin": "985.640",
+   "children": [],
+   "end": "996.120",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "When I met him in person and pointed out the flaw to him, he evaded it - not necessarily out of malice, but most likely because probability and combinatorics eluded him, by his own admission."
+   ]
+  },
+  {
+   "begin": "996.120",
+   "children": [],
+   "end": "1006.280",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "Now consider that the likes of Krugman and Piketty have no downside in their existence - lowering inequality brings them up in the ladder of life."
+   ]
+  },
+  {
+   "begin": "1006.280",
+   "children": [],
+   "end": "1011.840",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "Unless the university system or the French state goes bust, they will continue receiving their paychecks."
+   ]
+  },
+  {
+   "begin": "1011.840",
+   "children": [],
+   "end": "1020.560",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "The fellow you just saw in the steak restaurant dripping with gold chains is exposed to the risk of the soup kitchen, not them."
+   ]
+  },
+  {
+   "begin": "1020.560",
+   "children": [],
+   "end": "1035.960",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "Just as those who live by the sword die by the sword, those who earn their living taking risks will lose their livelihood taking risks."
+   ]
+  },
+  {
+   "begin": "1035.960",
    "children": [],
    "end": "1083.920",
-   "id": "f000040",
+   "id": "f000102",
    "language": "eng",
    "lines": [
     "We've made a big deal out of Piketty here because the widespread enthusiasm for his book was representative of the behavior of that class of people who love to theorize and engage in false solidarity with the oppressed, while consolidating their privileges."
@@ -403,308 +1023,788 @@
   {
    "begin": "1083.920",
    "children": [],
-   "end": "1089.800",
-   "id": "f000041",
+   "end": "1088.240",
+   "id": "f000103",
    "language": "eng",
    "lines": [
     "COBBLER ENVIES COBBLER"
    ]
   },
   {
-   "begin": "1089.800",
+   "begin": "1088.240",
    "children": [],
-   "end": "1156.080",
-   "id": "f000042",
+   "end": "1100.040",
+   "id": "f000104",
    "language": "eng",
    "lines": [
-    "The reason regular people are not as acrimonious as the \"intellectuals\" and bureaucrats is because envy does not travel long distance or cross many social classes. Envy does not originate with the impoverished, concerned with the betterment of their condition, but with the clerical class. Simply, it looks like it was the university professors (who have \"arrived\") and people who have permanent stability of income, in the form of tenure, governmental or academic, who bought heavily into Piketty's argument. From conversations, I became convinced that people who counterfactual upwards (i.e., compare themselves to those richer) want to actively dispossess the rich. As with all communist movements, it is often the bourgeois or clerical classes who are the early adopters of revolutionary theories. So class envy doesn't originate from a truck driver in South Alabama, but from a New York or Washington, D.C., Ivy League-educated IYI (say Paul Krugman or Joseph Stiglitz) with a sense of entitlement, upset some \"less smart\" persons are much richer."
+    "The reason regular people are not as acrimonious as the \"intellectuals\" and bureaucrats is because envy does not travel long distance or cross many social classes."
    ]
   },
   {
-   "begin": "1156.080",
+   "begin": "1100.040",
    "children": [],
-   "end": "1195.240",
-   "id": "f000043",
+   "end": "1106.280",
+   "id": "f000105",
    "language": "eng",
    "lines": [
-    "Aristotle, in his Rhetoric, postulated that envy is something you are more likely to encounter in your own kin: lower classes are more likely to experience envy toward their cousins or the middle class than toward the very rich. And the expression Nobody is a prophet in his own land, making envy a geographical thing (mistakenly thought to originate with Jesus), originates from that passage in the Rhetoric. Aristotle himself was building on Hesiod: cobbler envies cobbler, carpenter envies carpenter. Later, Jean de La Bruy\u00e8re wrote that jealousy is to be found within the same art, talent, and condition."
+    "Envy does not originate with the impoverished, concerned with the betterment of their condition, but with the clerical class."
+   ]
+  },
+  {
+   "begin": "1106.280",
+   "children": [],
+   "end": "1119.480",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "Simply, it looks like it was the university professors (who have \"arrived\") and people who have permanent stability of income, in the form of tenure, governmental or academic, who bought heavily into Piketty's argument."
+   ]
+  },
+  {
+   "begin": "1119.480",
+   "children": [],
+   "end": "1129.400",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "From conversations, I became convinced that people who counterfactual upwards (i.e., compare themselves to those richer) want to actively dispossess the rich."
+   ]
+  },
+  {
+   "begin": "1129.400",
+   "children": [],
+   "end": "1137.880",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "As with all communist movements, it is often the bourgeois or clerical classes who are the early adopters of revolutionary theories."
+   ]
+  },
+  {
+   "begin": "1137.880",
+   "children": [],
+   "end": "1154.520",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "So class envy doesn't originate from a truck driver in South Alabama, but from a New York or Washington, D.C., Ivy League-educated IYI (say Paul Krugman or Joseph Stiglitz) with a sense of entitlement, upset some \"less smart\" persons are much richer."
+   ]
+  },
+  {
+   "begin": "1154.520",
+   "children": [],
+   "end": "1168.760",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Aristotle, in his Rhetoric, postulated that envy is something you are more likely to encounter in your own kin: lower classes are more likely to experience envy toward their cousins or the middle class than toward the very rich."
+   ]
+  },
+  {
+   "begin": "1168.760",
+   "children": [],
+   "end": "1179.680",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "And the expression Nobody is a prophet in his own land, making envy a geographical thing (mistakenly thought to originate with Jesus), originates from that passage in the Rhetoric."
+   ]
+  },
+  {
+   "begin": "1179.680",
+   "children": [],
+   "end": "1187.000",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Aristotle himself was building on Hesiod: cobbler envies cobbler, carpenter envies carpenter."
+   ]
+  },
+  {
+   "begin": "1187.000",
+   "children": [],
+   "end": "1195.240",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "Later, Jean de La Bruy\u00e8re wrote that jealousy is to be found within the same art, talent, and condition."
    ]
   },
   {
    "begin": "1195.240",
    "children": [],
-   "end": "1225.240",
-   "id": "f000044",
+   "end": "1203.600",
+   "id": "f000114",
    "language": "eng",
    "lines": [
-    "So I doubt Piketty bothered to ask blue-collar Frenchmen what they want, as Michelle Lamont did (as we saw earlier in the chapter). I am certain that they would ask for better beer, a new dishwasher, or faster trains for their commute, not to bring down some rich businessman invisible to them. But, again, people can frame questions and portray enrichment as theft, as was done before the French Revolution, in which case the blue-collar class would ask, once again, for heads to roll."
+    "So I doubt Piketty bothered to ask blue-collar Frenchmen what they want, as Michelle Lamont did (as we saw earlier in the chapter)."
    ]
   },
   {
-   "begin": "1225.240",
+   "begin": "1203.600",
    "children": [],
-   "end": "1235.160",
-   "id": "f000045",
+   "end": "1213.080",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "I am certain that they would ask for better beer, a new dishwasher, or faster trains for their commute, not to bring down some rich businessman invisible to them."
+   ]
+  },
+  {
+   "begin": "1213.080",
+   "children": [],
+   "end": "1241.000",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "But, again, people can frame questions and portray enrichment as theft, as was done before the French Revolution, in which case the blue-collar class would ask, once again, for heads to roll."
+   ]
+  },
+  {
+   "begin": "1241.000",
+   "children": [],
+   "end": "1247.200",
+   "id": "f000117",
    "language": "eng",
    "lines": [
     "INEQUALITY, WEALTH, AND VERTICAL SOCIALIZATION"
    ]
   },
   {
-   "begin": "1235.160",
+   "begin": "1247.200",
    "children": [],
-   "end": "1277.400",
-   "id": "f000046",
+   "end": "1257.160",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "If intellectuals are overly worried about inequality, it is because they tend to view themselves in hierarchical terms, and thus think that others do too. Furthermore, as if by pathology, discussions in \"competitive\" universities are all about hierarchy. Most people in the real world don't obsess over it."
+    "If intellectuals are overly worried about inequality, it is because they tend to view themselves in hierarchical terms, and thus think that others do too."
    ]
   },
   {
-   "begin": "1277.400",
+   "begin": "1257.160",
    "children": [],
-   "end": "1304.680",
-   "id": "f000047",
+   "end": "1263.760",
+   "id": "f000119",
    "language": "eng",
    "lines": [
-    "In the more rural past, envy was rather controlled; wealthy people were not as exposed to other persons of their class. They didn't have the pressure to keep up with other wealthy persons and compete with them. The wealthy stayed within their region, surrounded by people who depended on them, say a lord on his property. Except for the occasional season in the cities, their social life was quite vertical. Their children played with the children of the servants."
+    "Furthermore, as if by pathology, discussions in \"competitive\" universities are all about hierarchy."
+   ]
+  },
+  {
+   "begin": "1263.760",
+   "children": [],
+   "end": "1275.800",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "Most people in the real world don't obsess over it."
+   ]
+  },
+  {
+   "begin": "1275.800",
+   "children": [],
+   "end": "1284.360",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "In the more rural past, envy was rather controlled; wealthy people were not as exposed to other persons of their class."
+   ]
+  },
+  {
+   "begin": "1284.360",
+   "children": [],
+   "end": "1288.720",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "They didn't have the pressure to keep up with other wealthy persons and compete with them."
+   ]
+  },
+  {
+   "begin": "1288.720",
+   "children": [],
+   "end": "1295.520",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "The wealthy stayed within their region, surrounded by people who depended on them, say a lord on his property."
+   ]
+  },
+  {
+   "begin": "1295.520",
+   "children": [],
+   "end": "1300.200",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Except for the occasional season in the cities, their social life was quite vertical."
+   ]
+  },
+  {
+   "begin": "1300.200",
+   "children": [],
+   "end": "1304.680",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "Their children played with the children of the servants."
    ]
   },
   {
    "begin": "1304.680",
    "children": [],
-   "end": "1324.960",
-   "id": "f000048",
+   "end": "1309.480",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "It was in mercantile urban environments that socializing within social classes took place. And, over time, with industrialization, the rich started moving to cities or suburbs surrounded by other people of similar - but not completely similar - condition. Hence they needed to keep up with each other, racing on a treadmill."
+    "It was in mercantile urban environments that socializing within social classes took place."
    ]
   },
   {
-   "begin": "1324.960",
+   "begin": "1309.480",
    "children": [],
-   "end": "1355.560",
-   "id": "f000049",
+   "end": "1319.360",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "For a rich person isolated from vertical socializing with the poor, the poor become something entirely theoretical, a textbook reference. As I mentioned in the past chapter, I have yet to see a bien pensant Cambridge don hanging out with Pakistani cab drivers or lifting weights with cockney speakers. The intelligentsia therefore feels entitled to deal with the poor as a construct; one they created. Thus they become convinced that they know what is best for them."
+    "And, over time, with industrialization, the rich started moving to cities or suburbs surrounded by other people of similar - but not completely similar - condition."
    ]
   },
   {
-   "begin": "1355.560",
+   "begin": "1319.360",
    "children": [],
-   "end": "1358.520",
-   "id": "f000050",
+   "end": "1323.280",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "Hence they needed to keep up with each other, racing on a treadmill."
+   ]
+  },
+  {
+   "begin": "1323.280",
+   "children": [],
+   "end": "1333.560",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "For a rich person isolated from vertical socializing with the poor, the poor become something entirely theoretical, a textbook reference."
+   ]
+  },
+  {
+   "begin": "1333.560",
+   "children": [],
+   "end": "1342.640",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "As I mentioned in the past chapter, I have yet to see a bien pensant Cambridge don hanging out with Pakistani cab drivers or lifting weights with cockney speakers."
+   ]
+  },
+  {
+   "begin": "1342.640",
+   "children": [],
+   "end": "1349.320",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "The intelligentsia therefore feels entitled to deal with the poor as a construct; one they created."
+   ]
+  },
+  {
+   "begin": "1349.320",
+   "children": [],
+   "end": "1352.880",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "Thus they become convinced that they know what is best for them."
+   ]
+  },
+  {
+   "begin": "1352.880",
+   "children": [],
+   "end": "1356.920",
+   "id": "f000133",
    "language": "eng",
    "lines": [
     "EMPATHY AND HOMOPHILY"
    ]
   },
   {
-   "begin": "1358.520",
+   "begin": "1356.920",
    "children": [],
-   "end": "1370.040",
-   "id": "f000051",
+   "end": "1368.560",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "Recall the scaling problem, the idea that people's ethical rules are not universal; they vary according to whether someone is \"Swiss,\" that is, an outsider or not."
    ]
   },
   {
-   "begin": "1370.040",
+   "begin": "1368.560",
    "children": [],
-   "end": "1398.160",
-   "id": "f000052",
+   "end": "1373.000",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "The same applies to empathy (the reverse of envy). You can see that people feel more for those of their class. Traditionally, the upper class engaged in rescuing those from ruined families by making them \"stewards\" or dames de compagnie. Such in-group protection has a self-insurance attribute - something that can only work for a limited number of people and can't be universalized: you take care of my progeny if they are ruined; I will take care of yours."
+    "The same applies to empathy (the reverse of envy)."
+   ]
+  },
+  {
+   "begin": "1373.000",
+   "children": [],
+   "end": "1376.960",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "You can see that people feel more for those of their class."
+   ]
+  },
+  {
+   "begin": "1376.960",
+   "children": [],
+   "end": "1384.880",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Traditionally, the upper class engaged in rescuing those from ruined families by making them \"stewards\" or dames de compagnie."
+   ]
+  },
+  {
+   "begin": "1384.880",
+   "children": [],
+   "end": "1398.160",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Such in-group protection has a self-insurance attribute - something that can only work for a limited number of people and can't be universalized: you take care of my progeny if they are ruined; I will take care of yours."
    ]
   },
   {
    "begin": "1398.160",
    "children": [],
-   "end": "1403.520",
-   "id": "f000053",
+   "end": "1401.920",
+   "id": "f000139",
    "language": "eng",
    "lines": [
     "DATA, SHMATA"
    ]
   },
   {
-   "begin": "1403.520",
+   "begin": "1401.920",
    "children": [],
-   "end": "1448.840",
-   "id": "f000054",
+   "end": "1408.520",
+   "id": "f000140",
    "language": "eng",
    "lines": [
-    "Another lesson from Piketty's ambitious volume: it was loaded with charts and tables. There is a lesson here: what we learn from professionals in the real world is that data is not necessarily rigor. One reason I - as a probability professional - left data out of The Black Swan (except for illustrative purposes) is that it seems to me that people flood their stories with numbers and graphs in the absence of solid or logical arguments. Further, people mistake empiricism for a flood of data. Just a little bit of significant data is needed when one is right, particularly when it is disconfirmatory empiricism, or counterexamples: only one data point (a single extreme deviation) is sufficient to show that Black Swans exist."
+    "Another lesson from Piketty's ambitious volume: it was loaded with charts and tables."
+   ]
+  },
+  {
+   "begin": "1408.520",
+   "children": [],
+   "end": "1415.360",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "There is a lesson here: what we learn from professionals in the real world is that data is not necessarily rigor."
+   ]
+  },
+  {
+   "begin": "1415.360",
+   "children": [],
+   "end": "1429.880",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "One reason I - as a probability professional - left data out of The Black Swan (except for illustrative purposes) is that it seems to me that people flood their stories with numbers and graphs in the absence of solid or logical arguments."
+   ]
+  },
+  {
+   "begin": "1429.880",
+   "children": [],
+   "end": "1433.280",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "Further, people mistake empiricism for a flood of data."
+   ]
+  },
+  {
+   "begin": "1433.280",
+   "children": [],
+   "end": "1448.840",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Just a little bit of significant data is needed when one is right, particularly when it is disconfirmatory empiricism, or counterexamples: only one data point (a single extreme deviation) is sufficient to show that Black Swans exist."
    ]
   },
   {
    "begin": "1448.840",
    "children": [],
-   "end": "1458.960",
-   "id": "f000055",
+   "end": "1457.400",
+   "id": "f000145",
    "language": "eng",
    "lines": [
     "Traders, when they make profits, have short communications; when they lose they drown you in details, theories, and charts."
    ]
   },
   {
-   "begin": "1458.960",
+   "begin": "1457.400",
    "children": [],
-   "end": "1515.440",
-   "id": "f000056",
+   "end": "1466.000",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "Probability, statistics, and data science are principally logic fed by observations - and absence of observations. For many environments, the relevant data points are those in the extremes; these are rare by definition, and it suffices to focus on those few but big to get an idea of the story. If you want to show that a person has more than, say $10 million, all you need is to show the $50 million in his brokerage account, not, in addition, list every piece of furniture in his house, including the $500 painting in his study and the silver spoons in the pantry. So I've discovered, with experience, that when you buy a thick book with tons of graphs and tables used to prove a point, you should be suspicious. It means something didn't distill right! But for the general public and those untrained in statistics, such tables appear convincing - another way to substitute the true with the complicated."
+    "Probability, statistics, and data science are principally logic fed by observations - and absence of observations."
    ]
   },
   {
-   "begin": "1515.440",
+   "begin": "1466.000",
    "children": [],
-   "end": "1557.400",
-   "id": "f000057",
+   "end": "1477.000",
+   "id": "f000147",
    "language": "eng",
    "lines": [
-    "For instance, the science journalist Steven Pinker played that trick with his book The Better Angels of Our Nature, which claims a decline of violence in modern human history, and attributes this to modern institutions. My collaborator Pasquale Cirillo and I, when we put his \"data\" under scrutiny, found out that either he didn't understand his own numbers (actually, he didn't), or he had a story in mind and kept adding charts, not realizing that statistics isn't about data but distillation, rigor, and avoiding being fooled by randomness - but no matter, the general public and his state-worshipping IYI colleagues found it impressive (for a while)."
+    "For many environments, the relevant data points are those in the extremes; these are rare by definition, and it suffices to focus on those few but big to get an idea of the story."
    ]
   },
   {
-   "begin": "1557.400",
+   "begin": "1477.000",
    "children": [],
-   "end": "1560.400",
-   "id": "f000058",
+   "end": "1493.760",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "If you want to show that a person has more than, say $10 million, all you need is to show the $50 million in his brokerage account, not, in addition, list every piece of furniture in his house, including the $500 painting in his study and the silver spoons in the pantry."
+   ]
+  },
+  {
+   "begin": "1493.760",
+   "children": [],
+   "end": "1502.720",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "So I've discovered, with experience, that when you buy a thick book with tons of graphs and tables used to prove a point, you should be suspicious."
+   ]
+  },
+  {
+   "begin": "1502.720",
+   "children": [],
+   "end": "1505.040",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "It means something didn't distill right!"
+   ]
+  },
+  {
+   "begin": "1505.040",
+   "children": [],
+   "end": "1513.800",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "But for the general public and those untrained in statistics, such tables appear convincing - another way to substitute the true with the complicated."
+   ]
+  },
+  {
+   "begin": "1513.800",
+   "children": [],
+   "end": "1527.320",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "For instance, the science journalist Steven Pinker played that trick with his book The Better Angels of Our Nature, which claims a decline of violence in modern human history, and attributes this to modern institutions."
+   ]
+  },
+  {
+   "begin": "1527.320",
+   "children": [],
+   "end": "1554.760",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "My collaborator Pasquale Cirillo and I, when we put his \"data\" under scrutiny, found out that either he didn't understand his own numbers (actually, he didn't), or he had a story in mind and kept adding charts, not realizing that statistics isn't about data but distillation, rigor, and avoiding being fooled by randomness - but no matter, the general public and his state-worshipping IYI colleagues found it impressive (for a while)."
+   ]
+  },
+  {
+   "begin": "1554.760",
+   "children": [],
+   "end": "1558.840",
+   "id": "f000154",
    "language": "eng",
    "lines": [
     "ETHICS OF CIVIL SERVICE"
    ]
   },
   {
-   "begin": "1560.400",
+   "begin": "1558.840",
    "children": [],
-   "end": "1571.320",
-   "id": "f000059",
+   "end": "1569.800",
+   "id": "f000155",
    "language": "eng",
    "lines": [
     "Let us finish this discussion with an unfairness that is worse than inequality: the sore sight of back office, non-risk-takers getting rich from public service."
    ]
   },
   {
-   "begin": "1571.320",
+   "begin": "1569.800",
    "children": [],
-   "end": "1606.400",
-   "id": "f000060",
+   "end": "1578.880",
+   "id": "f000156",
    "language": "eng",
    "lines": [
-    "When, on leaving office, Barack Obama accepted a sum of more than $40 million to write his memoirs, many people were outraged. His supporters, statists who were defending him, on the other hand, were critical of the rich entrepreneurs hired by the subsequent administration. Money is greed, for them - but those who did not earn the money via commerce were illogically exempt. I had a rough time explaining that having rich people in a public office is very different from having public people become rich - again, it is the dynamics, the sequence, that matters."
+    "When, on leaving office, Barack Obama accepted a sum of more than $40 million to write his memoirs, many people were outraged."
    ]
   },
   {
-   "begin": "1606.400",
+   "begin": "1578.880",
    "children": [],
-   "end": "1633.640",
-   "id": "f000061",
+   "end": "1586.760",
+   "id": "f000157",
    "language": "eng",
    "lines": [
-    "Rich people in public office have shown some evidence of lack of total incompetence - success may come from randomness, of course, but we at least have a hint of some skill in the real world, some evidence that the person has dealt with reality. This is of course conditional on the person having had skin in the game - and it is better if the person felt a blowup, has experienced at least once the loss of part of his or her fortune and the angst associated with it."
+    "His supporters, statists who were defending him, on the other hand, were critical of the rich entrepreneurs hired by the subsequent administration."
    ]
   },
   {
-   "begin": "1633.640",
+   "begin": "1586.760",
    "children": [],
-   "end": "1637.800",
-   "id": "f000062",
+   "end": "1593.560",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "Money is greed, for them - but those who did not earn the money via commerce were illogically exempt."
+   ]
+  },
+  {
+   "begin": "1593.560",
+   "children": [],
+   "end": "1604.880",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "I had a rough time explaining that having rich people in a public office is very different from having public people become rich - again, it is the dynamics, the sequence, that matters."
+   ]
+  },
+  {
+   "begin": "1604.880",
+   "children": [],
+   "end": "1619.640",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Rich people in public office have shown some evidence of lack of total incompetence - success may come from randomness, of course, but we at least have a hint of some skill in the real world, some evidence that the person has dealt with reality."
+   ]
+  },
+  {
+   "begin": "1619.640",
+   "children": [],
+   "end": "1632.040",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "This is of course conditional on the person having had skin in the game - and it is better if the person felt a blowup, has experienced at least once the loss of part of his or her fortune and the angst associated with it."
+   ]
+  },
+  {
+   "begin": "1632.040",
+   "children": [],
+   "end": "1636.960",
+   "id": "f000162",
    "language": "eng",
    "lines": [
     "As usual, there is a mix of the ethical and the effective here."
    ]
   },
   {
-   "begin": "1637.800",
+   "begin": "1636.960",
    "children": [],
-   "end": "1642.720",
-   "id": "f000063",
+   "end": "1641.680",
+   "id": "f000163",
    "language": "eng",
    "lines": [
     "It is downright unethical to use public office for enrichment."
    ]
   },
   {
-   "begin": "1642.720",
+   "begin": "1641.680",
    "children": [],
-   "end": "1679.840",
-   "id": "f000064",
+   "end": "1653.280",
+   "id": "f000164",
    "language": "eng",
    "lines": [
-    "A good rule for society is to oblige those who start in public office to pledge never subsequently to earn from the private sector more than a set amount; the rest should go to the taxpayer. This will ensure sincerity in, literally, \"service\" - where employees are supposedly underpaid because of their emotional reward from serving society. It would prove that they are not in the public sector as an investment strategy: you do not become a Jesuit priest because it may help you get hired by Goldman Sachs later, after your eventual defrocking - given the erudition and the masterly control of casuistry generally associated with the Society of Jesus."
+    "A good rule for society is to oblige those who start in public office to pledge never subsequently to earn from the private sector more than a set amount; the rest should go to the taxpayer."
+   ]
+  },
+  {
+   "begin": "1653.280",
+   "children": [],
+   "end": "1662.480",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "This will ensure sincerity in, literally, \"service\" - where employees are supposedly underpaid because of their emotional reward from serving society."
+   ]
+  },
+  {
+   "begin": "1662.480",
+   "children": [],
+   "end": "1679.840",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "It would prove that they are not in the public sector as an investment strategy: you do not become a Jesuit priest because it may help you get hired by Goldman Sachs later, after your eventual defrocking - given the erudition and the masterly control of casuistry generally associated with the Society of Jesus."
    ]
   },
   {
    "begin": "1679.840",
    "children": [],
-   "end": "1695.600",
-   "id": "f000065",
+   "end": "1694.080",
+   "id": "f000167",
    "language": "eng",
    "lines": [
     "Currently, most civil servants tend to stay in civil service - except for those in delicate areas that industry controls: the agro-alimentary segment, finance, aerospace, anything related to Saudi Arabia\u2026"
    ]
   },
   {
-   "begin": "1695.600",
+   "begin": "1694.080",
    "children": [],
-   "end": "1715.080",
-   "id": "f000066",
+   "end": "1706.280",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "A civil servant can make rules that are friendly to an industry such as banking - and then go off to J.P. Morgan and recoup a multiple of the difference between his or her current salary and the market rate. (Regulators, you may recall, have an incentive to make rules as complex as possible so their expertise can later be hired at a higher price.)"
+    "A civil servant can make rules that are friendly to an industry such as banking - and then go off to J.P. Morgan and recoup a multiple of the difference between his or her current salary and the market rate."
+   ]
+  },
+  {
+   "begin": "1706.280",
+   "children": [],
+   "end": "1715.080",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "(Regulators, you may recall, have an incentive to make rules as complex as possible so their expertise can later be hired at a higher price.)"
    ]
   },
   {
    "begin": "1715.080",
    "children": [],
-   "end": "1764.280",
-   "id": "f000067",
+   "end": "1724.560",
+   "id": "f000170",
    "language": "eng",
    "lines": [
-    "So there is an implicit bribe in civil service: you act as a servant to an industry, say, Monsanto, and they take care of you later on. They do not do it out of a sense of honor: simply, it is necessary to keep the system going and encourage the next guy to play by these rules. The IYI-cum-cronyist former Treasury Secretary Tim Geithner - with whom I share the Calabrese barber of the Prologue - was overtly rewarded by the industry he helped bail out. He helped bankers get bailouts, let them pay themselves from the largest bonus pool in history after the crisis, in 2010 (that is, using taxpayer money), and then got a multimillion-dollar job at a financial institution as his reward for good behavior."
+    "So there is an implicit bribe in civil service: you act as a servant to an industry, say, Monsanto, and they take care of you later on."
    ]
   },
   {
-   "begin": "1764.280",
+   "begin": "1724.560",
    "children": [],
-   "end": "1766.360",
-   "id": "f000068",
+   "end": "1733.240",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "They do not do it out of a sense of honor: simply, it is necessary to keep the system going and encourage the next guy to play by these rules."
+   ]
+  },
+  {
+   "begin": "1733.240",
+   "children": [],
+   "end": "1744.680",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "The IYI-cum-cronyist former Treasury Secretary Tim Geithner - with whom I share the Calabrese barber of the Prologue - was overtly rewarded by the industry he helped bail out."
+   ]
+  },
+  {
+   "begin": "1744.680",
+   "children": [],
+   "end": "1761.640",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "He helped bankers get bailouts, let them pay themselves from the largest bonus pool in history after the crisis, in 2010 (that is, using taxpayer money), and then got a multimillion-dollar job at a financial institution as his reward for good behavior."
+   ]
+  },
+  {
+   "begin": "1761.640",
+   "children": [],
+   "end": "1764.840",
+   "id": "f000174",
    "language": "eng",
    "lines": [
     "NEXT"
    ]
   },
   {
-   "begin": "1766.360",
+   "begin": "1764.840",
    "children": [],
-   "end": "1799.400",
-   "id": "f000069",
+   "end": "1790.240",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "There is a vicious domain-dependence of expertise: the electrician, dentist, scholar of Portuguese irregular verbs, assistant colonoscopist, London cabby, and algebraic geometer are experts (plus or minus some local variations), while the journalist, State Department bureaucrat, clinical psychologist, management theorist, publishing executive, and macroeconomist are not. This allows us to answer the questions: Who is the real expert? Who decides who is and who is not an expert? Where is the meta-expert?"
+    "There is a vicious domain-dependence of expertise: the electrician, dentist, scholar of Portuguese irregular verbs, assistant colonoscopist, London cabby, and algebraic geometer are experts (plus or minus some local variations), while the journalist, State Department bureaucrat, clinical psychologist, management theorist, publishing executive, and macroeconomist are not."
+   ]
+  },
+  {
+   "begin": "1790.240",
+   "children": [],
+   "end": "1794.320",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "This allows us to answer the questions: Who is the real expert?"
+   ]
+  },
+  {
+   "begin": "1794.320",
+   "children": [],
+   "end": "1797.240",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "Who decides who is and who is not an expert?"
+   ]
+  },
+  {
+   "begin": "1797.240",
+   "children": [],
+   "end": "1799.400",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "Where is the meta-expert?"
    ]
   },
   {
    "begin": "1799.400",
    "children": [],
-   "end": "1812.200",
-   "id": "f000070",
+   "end": "1802.320",
+   "id": "f000179",
    "language": "eng",
    "lines": [
-    "Time is the expert. Or, rather, the temperamental and ruthless Lindy, as we see in the next chapter."
+    "Time is the expert."
    ]
   },
   {
-   "begin": "1812.200",
+   "begin": "1802.320",
+   "children": [],
+   "end": "1807.560",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "Or, rather, the temperamental and ruthless Lindy, as we see in the next chapter."
+   ]
+  },
+  {
+   "begin": "1807.560",
    "children": [],
    "end": "1815.360",
-   "id": "f000071",
+   "id": "f000181",
    "language": "eng",
    "lines": [
     "Chapter 8 An Expert Called Lindy"
@@ -713,118 +1813,348 @@
   {
    "begin": "1815.360",
    "children": [],
-   "end": "1830.440",
-   "id": "f000072",
+   "end": "1828.320",
+   "id": "f000182",
    "language": "eng",
    "lines": [
     "She is the one and only expert - Don't eat their cheesecake - Meta-experts judged by meta-meta-experts - Prostitutes, nonprostitutes, and amateurs"
    ]
   },
   {
-   "begin": "1830.440",
+   "begin": "1828.320",
    "children": [],
-   "end": "1861.880",
-   "id": "f000073",
+   "end": "1843.080",
+   "id": "f000183",
    "language": "eng",
    "lines": [
-    "Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect."
+    "Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there."
    ]
   },
   {
-   "begin": "1861.880",
+   "begin": "1843.080",
    "children": [],
-   "end": "1875.160",
-   "id": "f000074",
+   "end": "1853.880",
+   "id": "f000184",
    "language": "eng",
    "lines": [
-    "Let me warn the reader: while the Lindy effect is one of the most useful, robust, and universal heuristics I know, Lindy's cheesecake is\u2026much less distinguished. Odds are the deli will not survive, by the Lindy effect."
+    "Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more."
+   ]
+  },
+  {
+   "begin": "1853.880",
+   "children": [],
+   "end": "1857.160",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "For those that lasted two hundred days, two hundred more."
+   ]
+  },
+  {
+   "begin": "1857.160",
+   "children": [],
+   "end": "1860.280",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "The heuristic became known as the Lindy effect."
+   ]
+  },
+  {
+   "begin": "1860.280",
+   "children": [],
+   "end": "1871.480",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "Let me warn the reader: while the Lindy effect is one of the most useful, robust, and universal heuristics I know, Lindy's cheesecake is\u2026much less distinguished."
+   ]
+  },
+  {
+   "begin": "1871.480",
+   "children": [],
+   "end": "1875.160",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "Odds are the deli will not survive, by the Lindy effect."
    ]
   },
   {
    "begin": "1875.160",
    "children": [],
-   "end": "1946.040",
-   "id": "f000075",
+   "end": "1894.200",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "There had been a bevy of mathematical models that sort of fit the story, though not really, until a) yours truly figured out that the Lindy effect can be best understood using the theory of fragility and antifragility, and b) the mathematician Iddo Eliazar formalized its probabilistic structure. Actually the theory of fragility directly leads to the Lindy effect. Simply, my collaborators and I managed to define fragility as sensitivity to disorder: the porcelain owl sitting in front of me on the writing desk, as I am writing these lines, wants tranquility. It dislikes shocks, disorder, variations, earthquakes, mishandling by dust-phobic cleaning service operators, travel in a suitcase transiting through Terminal 5 in Heathrow, and shelling by Saudi Barbaria-sponsored Islamist militias. Clearly, it has no upside from random events and, more generally, disorder. (More technically, being fragile, it necessarily has a nonlinear reaction to stressors: up until its breaking point, shocks of larger intensity affect it disproportionally more than smaller ones)."
+    "There had been a bevy of mathematical models that sort of fit the story, though not really, until a) yours truly figured out that the Lindy effect can be best understood using the theory of fragility and antifragility, and b) the mathematician Iddo Eliazar formalized its probabilistic structure."
    ]
   },
   {
-   "begin": "1946.040",
+   "begin": "1894.200",
    "children": [],
-   "end": "1957.400",
-   "id": "f000076",
+   "end": "1898.840",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "Actually the theory of fragility directly leads to the Lindy effect."
+   ]
+  },
+  {
+   "begin": "1898.840",
+   "children": [],
+   "end": "1910.800",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Simply, my collaborators and I managed to define fragility as sensitivity to disorder: the porcelain owl sitting in front of me on the writing desk, as I am writing these lines, wants tranquility."
+   ]
+  },
+  {
+   "begin": "1910.800",
+   "children": [],
+   "end": "1926.640",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "It dislikes shocks, disorder, variations, earthquakes, mishandling by dust-phobic cleaning service operators, travel in a suitcase transiting through Terminal 5 in Heathrow, and shelling by Saudi Barbaria-sponsored Islamist militias."
+   ]
+  },
+  {
+   "begin": "1926.640",
+   "children": [],
+   "end": "1932.080",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Clearly, it has no upside from random events and, more generally, disorder."
+   ]
+  },
+  {
+   "begin": "1932.080",
+   "children": [],
+   "end": "1944.400",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "(More technically, being fragile, it necessarily has a nonlinear reaction to stressors: up until its breaking point, shocks of larger intensity affect it disproportionally more than smaller ones)."
+   ]
+  },
+  {
+   "begin": "1944.400",
+   "children": [],
+   "end": "1956.760",
+   "id": "f000195",
    "language": "eng",
    "lines": [
     "Now, crucially, time is equivalent to disorder, and resistance to the ravages of time, that is, what we gloriously call survival, is the ability to handle disorder."
    ]
   },
   {
-   "begin": "1957.400",
+   "begin": "1956.760",
    "children": [],
-   "end": "1967.600",
-   "id": "f000077",
+   "end": "1966.040",
+   "id": "f000196",
    "language": "eng",
    "lines": [
     "That which is fragile has an asymmetric response to volatility and other stressors, that is, will experience more harm than benefit from it."
    ]
   },
   {
-   "begin": "1967.600",
+   "begin": "1966.040",
    "children": [],
-   "end": "2003.440",
-   "id": "f000078",
+   "end": "1970.640",
+   "id": "f000197",
    "language": "eng",
    "lines": [
-    "In probability, volatility and time are the same. The idea of fragility helped put some rigor around the notion that the only effective judge of things is time - by things we mean ideas, people, intellectual productions, car models, scientific theories, books, etc. You can't fool Lindy: books of the type written by the current hotshot Op-Ed writer at TheNew York Times may get some hype at publication time, manufactured or spontaneous, but their five-year survival rate is generally less than that of pancreatic cancer."
+    "In probability, volatility and time are the same."
    ]
   },
   {
-   "begin": "2003.440",
+   "begin": "1970.640",
    "children": [],
-   "end": "2006.560",
-   "id": "f000079",
+   "end": "2000.840",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "The idea of fragility helped put some rigor around the notion that the only effective judge of things is time - by things we mean ideas, people, intellectual productions, car models, scientific theories, books, etc. You can't fool Lindy: books of the type written by the current hotshot Op-Ed writer at TheNew York Times may get some hype at publication time, manufactured or spontaneous, but their five-year survival rate is generally less than that of pancreatic cancer."
+   ]
+  },
+  {
+   "begin": "2000.840",
+   "children": [],
+   "end": "2005.000",
+   "id": "f000199",
    "language": "eng",
    "lines": [
     "WHO IS THE \"REAL\" EXPERT?"
    ]
   },
   {
-   "begin": "2006.560",
+   "begin": "2005.000",
    "children": [],
-   "end": "2022.400",
-   "id": "f000080",
+   "end": "2011.240",
+   "id": "f000200",
    "language": "eng",
    "lines": [
-    "Effectively Lindy answers the age-old meta-questions: Who will judge the expert? Who will guard the guard? (Quis custodiet ipsos custodes?) Who will judge the judges? Well, survival will."
+    "Effectively Lindy answers the age-old meta-questions: Who will judge the expert?"
    ]
   },
   {
-   "begin": "2022.400",
+   "begin": "2011.240",
    "children": [],
-   "end": "2048.040",
-   "id": "f000081",
+   "end": "2013.000",
+   "id": "f000201",
    "language": "eng",
    "lines": [
-    "For time operates through skin in the game. Things that have survived are hinting to us ex post that they have some robustness - conditional on their being exposed to harm. For without skin in the game, via exposure to reality, the mechanism of fragility is disrupted: things may survive for no reason for a while, at some scale, then ultimately collapse, causing a lot of collateral harm."
+    "Who will guard the guard?"
    ]
   },
   {
-   "begin": "2048.040",
+   "begin": "2013.000",
    "children": [],
-   "end": "2107.080",
-   "id": "f000082",
+   "end": "2016.560",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "A few more details (for those interested in the intricacies, the Lindy effect has been covered at length in Antifragile). There are two ways things handle time. First, there is aging and perishability: things die because they have a biological clock, what we call senescence. Second, there is hazard, the rate of accidents. What we witness in physical life is the combination of the two: when you are old and fragile, you don't handle accidents very well. These accidents don't have to be external, like falling from a ladder or being attacked by a bear; they can also be internal, from random malfunctioning of your organs or circulation. On the other hand, animals that don't really age, say turtles and crocodiles, seem to have a remaining life expectancy that stays constant for a long time. If a twenty-year-old crocodile has forty more years to live (owing to the perils of the habitat), a forty-year-old one will also have about forty years to live."
+    "(Quis custodiet ipsos custodes?)"
    ]
   },
   {
-   "begin": "2107.080",
+   "begin": "2016.560",
+   "children": [],
+   "end": "2018.600",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "Who will judge the judges?"
+   ]
+  },
+  {
+   "begin": "2018.600",
+   "children": [],
+   "end": "2020.800",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Well, survival will."
+   ]
+  },
+  {
+   "begin": "2020.800",
+   "children": [],
+   "end": "2024.440",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "For time operates through skin in the game."
+   ]
+  },
+  {
+   "begin": "2024.440",
+   "children": [],
+   "end": "2032.360",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "Things that have survived are hinting to us ex post that they have some robustness - conditional on their being exposed to harm."
+   ]
+  },
+  {
+   "begin": "2032.360",
+   "children": [],
+   "end": "2046.400",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "For without skin in the game, via exposure to reality, the mechanism of fragility is disrupted: things may survive for no reason for a while, at some scale, then ultimately collapse, causing a lot of collateral harm."
+   ]
+  },
+  {
+   "begin": "2046.400",
+   "children": [],
+   "end": "2054.000",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "A few more details (for those interested in the intricacies, the Lindy effect has been covered at length in Antifragile)."
+   ]
+  },
+  {
+   "begin": "2054.000",
+   "children": [],
+   "end": "2056.960",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "There are two ways things handle time."
+   ]
+  },
+  {
+   "begin": "2056.960",
+   "children": [],
+   "end": "2064.240",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "First, there is aging and perishability: things die because they have a biological clock, what we call senescence."
+   ]
+  },
+  {
+   "begin": "2064.240",
+   "children": [],
+   "end": "2067.680",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "Second, there is hazard, the rate of accidents."
+   ]
+  },
+  {
+   "begin": "2067.680",
+   "children": [],
+   "end": "2075.200",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "What we witness in physical life is the combination of the two: when you are old and fragile, you don't handle accidents very well."
+   ]
+  },
+  {
+   "begin": "2075.200",
+   "children": [],
+   "end": "2086.040",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "These accidents don't have to be external, like falling from a ladder or being attacked by a bear; they can also be internal, from random malfunctioning of your organs or circulation."
+   ]
+  },
+  {
+   "begin": "2086.040",
+   "children": [],
+   "end": "2096.000",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "On the other hand, animals that don't really age, say turtles and crocodiles, seem to have a remaining life expectancy that stays constant for a long time."
+   ]
+  },
+  {
+   "begin": "2096.000",
+   "children": [],
+   "end": "2105.480",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "If a twenty-year-old crocodile has forty more years to live (owing to the perils of the habitat), a forty-year-old one will also have about forty years to live."
+   ]
+  },
+  {
+   "begin": "2105.480",
    "children": [],
    "end": "2119.080",
-   "id": "f000083",
+   "id": "f000216",
    "language": "eng",
    "lines": [
     "Let us use as shorthand \"Lindy proof,\" \"is Lindy,\" or \"Lindy compatible\" (one can substitute for another) to show something that seems to belong to the class of things that have proven to have the following property:"
@@ -833,78 +2163,168 @@
   {
    "begin": "2119.080",
    "children": [],
-   "end": "2129.680",
-   "id": "f000084",
+   "end": "2128.040",
+   "id": "f000217",
    "language": "eng",
    "lines": [
     "That which is \"Lindy\" is what ages in reverse, i.e., its life expectancy lengthens with time, conditional on survival."
    ]
   },
   {
-   "begin": "2129.680",
+   "begin": "2128.040",
    "children": [],
-   "end": "2154.320",
-   "id": "f000085",
+   "end": "2131.840",
+   "id": "f000218",
    "language": "eng",
    "lines": [
-    "Only the nonperishable can be Lindy. When it comes to ideas, books, technologies, procedures, institutions, and political systems under Lindy, there is no intrinsic aging and perishability. A physical copy of War and Peace can age (particularly when the publisher cuts corners to save twenty cents on paper for a fifty-dollar book); the book itself as an idea doesn't."
+    "Only the nonperishable can be Lindy."
    ]
   },
   {
-   "begin": "2154.320",
+   "begin": "2131.840",
    "children": [],
-   "end": "2186.800",
-   "id": "f000086",
+   "end": "2141.480",
+   "id": "f000219",
    "language": "eng",
    "lines": [
-    "Note that thanks to Lindy, no expert is the final expert anymore and we do not need meta-experts judging the expertise of experts one rank below them. We solve the \"turtles all the way down\" problem. Fragility is the expert, hence time and survival."
+    "When it comes to ideas, books, technologies, procedures, institutions, and political systems under Lindy, there is no intrinsic aging and perishability."
+   ]
+  },
+  {
+   "begin": "2141.480",
+   "children": [],
+   "end": "2155.400",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "A physical copy of War and Peace can age (particularly when the publisher cuts corners to save twenty cents on paper for a fifty-dollar book); the book itself as an idea doesn't."
+   ]
+  },
+  {
+   "begin": "2155.400",
+   "children": [],
+   "end": "2174.680",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "Note that thanks to Lindy, no expert is the final expert anymore and we do not need meta-experts judging the expertise of experts one rank below them."
+   ]
+  },
+  {
+   "begin": "2174.680",
+   "children": [],
+   "end": "2181.880",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "We solve the \"turtles all the way down\" problem."
+   ]
+  },
+  {
+   "begin": "2181.880",
+   "children": [],
+   "end": "2186.800",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "Fragility is the expert, hence time and survival."
    ]
   },
   {
    "begin": "2186.800",
    "children": [],
-   "end": "2192.200",
-   "id": "f000087",
+   "end": "2190.680",
+   "id": "f000224",
    "language": "eng",
    "lines": [
     "THE LINDY OF LINDY"
    ]
   },
   {
-   "begin": "2192.200",
+   "begin": "2190.680",
    "children": [],
-   "end": "2204.040",
-   "id": "f000088",
+   "end": "2195.200",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh."
+    "The idea of the Lindy effect is itself Lindy-proof."
+   ]
+  },
+  {
+   "begin": "2195.200",
+   "children": [],
+   "end": "2204.040",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh."
    ]
   },
   {
    "begin": "2204.040",
    "children": [],
-   "end": "2218.160",
-   "id": "f000089",
+   "end": "2213.480",
+   "id": "f000227",
    "language": "eng",
    "lines": [
-    "Likewise, Alfonso X of Spain, nicknamed El Sabio, \"the wise,\" had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends."
+    "Likewise, Alfonso X of Spain, nicknamed El Sabio, \"the wise,\" had as a maxim: Burn old logs."
+   ]
+  },
+  {
+   "begin": "2213.480",
+   "children": [],
+   "end": "2214.920",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "Drink old wine."
+   ]
+  },
+  {
+   "begin": "2214.920",
+   "children": [],
+   "end": "2216.400",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "Read old books."
+   ]
+  },
+  {
+   "begin": "2216.400",
+   "children": [],
+   "end": "2218.160",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "Keep old friends."
    ]
   },
   {
    "begin": "2218.160",
    "children": [],
-   "end": "2243.800",
-   "id": "f000090",
+   "end": "2230.560",
+   "id": "f000231",
    "language": "eng",
    "lines": [
-    "The insightful and luckily nonacademic historian Tom Holland once commented: \"The thing I most admire about the Romans was the utter contempt they were capable of showing the cult of youth.\" He also wrote: \"The Romans judged their political system by asking not whether it made sense but whether it worked,\" which is why, while dedicating this book, I called Ron Paul a Roman among Greeks."
+    "The insightful and luckily nonacademic historian Tom Holland once commented: \"The thing I most admire about the Romans was the utter contempt they were capable of showing the cult of youth.\""
+   ]
+  },
+  {
+   "begin": "2230.560",
+   "children": [],
+   "end": "2243.800",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "He also wrote: \"The Romans judged their political system by asking not whether it made sense but whether it worked,\" which is why, while dedicating this book, I called Ron Paul a Roman among Greeks."
    ]
   },
   {
    "begin": "2243.800",
    "children": [],
    "end": "2247.840",
-   "id": "f000091",
+   "id": "f000233",
    "language": "eng",
    "lines": [
     "DO WE NEED A JUDGE?"
@@ -913,38 +2333,98 @@
   {
    "begin": "2247.840",
    "children": [],
-   "end": "2285.720",
-   "id": "f000092",
+   "end": "2256.560",
+   "id": "f000234",
    "language": "eng",
    "lines": [
-    "As I mentioned earlier in Prologue 3, I have held for most of my (sort of) academic career no more than a quarter position. A quarter is enough to have somewhere to go, particularly when it rains in New York, without being emotionally socialized and losing intellectual independence for fear of missing a party or having to eat alone. But one (now \"resigned\") department head one day came to me and emitted the warning: \"Just as, when a businessman and author you are judged by other businessmen and authors, here as an academic you are judged by other academics. Life is about peer assessment.\""
+    "As I mentioned earlier in Prologue 3, I have held for most of my (sort of) academic career no more than a quarter position."
+   ]
+  },
+  {
+   "begin": "2256.560",
+   "children": [],
+   "end": "2268.360",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "A quarter is enough to have somewhere to go, particularly when it rains in New York, without being emotionally socialized and losing intellectual independence for fear of missing a party or having to eat alone."
+   ]
+  },
+  {
+   "begin": "2268.360",
+   "children": [],
+   "end": "2283.320",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "But one (now \"resigned\") department head one day came to me and emitted the warning: \"Just as, when a businessman and author you are judged by other businessmen and authors, here as an academic you are judged by other academics."
+   ]
+  },
+  {
+   "begin": "2283.320",
+   "children": [],
+   "end": "2285.720",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "Life is about peer assessment.\""
    ]
   },
   {
    "begin": "2285.720",
    "children": [],
-   "end": "2327.320",
-   "id": "f000093",
+   "end": "2299.720",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "It took me a while to overcome my disgust - I am still not fully familiar with the way non-risk-takers work; they actually don't realize that others are not like them, and can't get what makes real people tick. No, businessmen as risk takers are not subjected to the judgment of other businessmen, only to that of their personal accountant. They just need to avoid having a documented record of (some) ethical violations. Furthermore, not only did you not want peer approval, you wanted disapproval (except for ethical matters): an old fellow pit trader once shared his wisdom: \"If people over here like you, you are doing something wrong.\""
+    "It took me a while to overcome my disgust - I am still not fully familiar with the way non-risk-takers work; they actually don't realize that others are not like them, and can't get what makes real people tick."
    ]
   },
   {
-   "begin": "2327.320",
+   "begin": "2299.720",
    "children": [],
-   "end": "2328.400",
-   "id": "f000094",
+   "end": "2307.600",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "No, businessmen as risk takers are not subjected to the judgment of other businessmen, only to that of their personal accountant."
+   ]
+  },
+  {
+   "begin": "2307.600",
+   "children": [],
+   "end": "2312.720",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "They just need to avoid having a documented record of (some) ethical violations."
+   ]
+  },
+  {
+   "begin": "2312.720",
+   "children": [],
+   "end": "2325.720",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "Furthermore, not only did you not want peer approval, you wanted disapproval (except for ethical matters): an old fellow pit trader once shared his wisdom: \"If people over here like you, you are doing something wrong.\""
+   ]
+  },
+  {
+   "begin": "2325.720",
+   "children": [],
+   "end": "2327.680",
+   "id": "f000242",
    "language": "eng",
    "lines": [
     "Further,"
    ]
   },
   {
-   "begin": "2328.400",
+   "begin": "2327.680",
    "children": [],
    "end": "2335.760",
-   "id": "f000095",
+   "id": "f000243",
    "language": "eng",
    "lines": [
     "You can define a free person precisely as someone whose fate is not centrally or directly dependent on peer assessment."
@@ -953,88 +2433,178 @@
   {
    "begin": "2335.760",
    "children": [],
-   "end": "2375.320",
-   "id": "f000096",
+   "end": "2342.480",
+   "id": "f000244",
    "language": "eng",
    "lines": [
-    "And as an essayist, I am not judged by other writers, book editors, and book reviewers, but by readers. Readers? Maybe, but wait a minute\u2026not today's readers. Only those of tomorrow, and the day after tomorrow. So, my only real judge being time, it is the stability and robustness of the readership (that is, future readers) that counts. The fashion-oriented steady reader of the most recently reviewed book in TheNew York Times is of no interest to me. And as a risk taker, only time counts - for I could fool my accountant with steady earnings with a lot of hidden risk, but time will eventually reveal them."
+    "And as an essayist, I am not judged by other writers, book editors, and book reviewers, but by readers."
+   ]
+  },
+  {
+   "begin": "2342.480",
+   "children": [],
+   "end": "2343.680",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "Readers?"
+   ]
+  },
+  {
+   "begin": "2343.680",
+   "children": [],
+   "end": "2347.400",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "Maybe, but wait a minute\u2026not today's readers."
+   ]
+  },
+  {
+   "begin": "2347.400",
+   "children": [],
+   "end": "2350.760",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "Only those of tomorrow, and the day after tomorrow."
+   ]
+  },
+  {
+   "begin": "2350.760",
+   "children": [],
+   "end": "2359.320",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "So, my only real judge being time, it is the stability and robustness of the readership (that is, future readers) that counts."
+   ]
+  },
+  {
+   "begin": "2359.320",
+   "children": [],
+   "end": "2365.880",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "The fashion-oriented steady reader of the most recently reviewed book in TheNew York Times is of no interest to me."
+   ]
+  },
+  {
+   "begin": "2365.880",
+   "children": [],
+   "end": "2375.320",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "And as a risk taker, only time counts - for I could fool my accountant with steady earnings with a lot of hidden risk, but time will eventually reveal them."
    ]
   },
   {
    "begin": "2375.320",
    "children": [],
-   "end": "2402.560",
-   "id": "f000097",
+   "end": "2392.160",
+   "id": "f000251",
    "language": "eng",
    "lines": [
     "Being reviewed or assessed by others matters if and only if one is subjected to the judgment of future - not just present - others."
    ]
   },
   {
-   "begin": "2402.560",
+   "begin": "2392.160",
    "children": [],
-   "end": "2412.520",
-   "id": "f000098",
+   "end": "2408.360",
+   "id": "f000252",
    "language": "eng",
    "lines": [
     "And recall that, a free person does not need to win arguments - just win."
    ]
   },
   {
-   "begin": "2412.520",
+   "begin": "2408.360",
    "children": [],
-   "end": "2416.120",
-   "id": "f000099",
+   "end": "2412.520",
+   "id": "f000253",
    "language": "eng",
    "lines": [
     "TEA WITH THE QUEEN"
    ]
   },
   {
-   "begin": "2416.120",
+   "begin": "2412.520",
    "children": [],
-   "end": "2471.880",
-   "id": "f000100",
+   "end": "2446.440",
+   "id": "f000254",
    "language": "eng",
    "lines": [
-    "Peers devolve honors, memberships in academies, Nobels, invitations to Davos and similar venues, tea (and cucumber sandwiches) with the Queen, requests by rich name-droppers to attend cocktail parties where you see only people who are famous. Believe me, there are rich people whose lives revolve around these things. They usually claim to be trying to save the world, the bears, the children, the mountains, the deserts - all the ingredients of the broadcasting of virtue."
+    "Peers devolve honors, memberships in academies, Nobels, invitations to Davos and similar venues, tea (and cucumber sandwiches) with the Queen, requests by rich name-droppers to attend cocktail parties where you see only people who are famous."
    ]
   },
   {
-   "begin": "2471.880",
+   "begin": "2446.440",
    "children": [],
-   "end": "2514.120",
-   "id": "f000101",
+   "end": "2458.200",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "But clearly they can't influence Lindy - in fact, it is the reverse. If you spend your time trying to impress others in the New York club 21, there may be something wrong with you."
+    "Believe me, there are rich people whose lives revolve around these things."
    ]
   },
   {
-   "begin": "2514.120",
+   "begin": "2458.200",
    "children": [],
-   "end": "2530.120",
-   "id": "f000102",
+   "end": "2483.000",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "They usually claim to be trying to save the world, the bears, the children, the mountains, the deserts - all the ingredients of the broadcasting of virtue."
+   ]
+  },
+  {
+   "begin": "2483.000",
+   "children": [],
+   "end": "2499.120",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "But clearly they can't influence Lindy - in fact, it is the reverse."
+   ]
+  },
+  {
+   "begin": "2499.120",
+   "children": [],
+   "end": "2515.560",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "If you spend your time trying to impress others in the New York club 21, there may be something wrong with you."
+   ]
+  },
+  {
+   "begin": "2515.560",
+   "children": [],
+   "end": "2529.520",
+   "id": "f000259",
    "language": "eng",
    "lines": [
     "Contemporary peers are valuable collaborators, not final judges."
    ]
   },
   {
-   "begin": "2530.120",
+   "begin": "2529.520",
    "children": [],
-   "end": "2533.200",
-   "id": "f000103",
+   "end": "2532.720",
+   "id": "f000260",
    "language": "eng",
    "lines": [
     "INSTITUTIONS"
    ]
   },
   {
-   "begin": "2533.200",
+   "begin": "2532.720",
    "children": [],
    "end": "2569.960",
-   "id": "f000104",
+   "id": "f000261",
    "language": "eng",
    "lines": [
     "In fact, there is something worse than peer-assessment: the bureaucratization of the activity creates a class of new judges: university administrators, who have no clue what someone is doing except via external signals, yet become the actual arbiters."
@@ -1044,7 +2614,7 @@
    "begin": "2569.960",
    "children": [],
    "end": "2585.320",
-   "id": "f000105",
+   "id": "f000262",
    "language": "eng",
    "lines": [
     "These arbiters fail to realize that \"prestigious\" publication, determined by peer-reviewers in a circular manner, are not Lindy-compatible - they only mean that a certain set of (currently) powerful people are happy with your work."
@@ -1053,88 +2623,218 @@
   {
    "begin": "2585.320",
    "children": [],
-   "end": "2611.840",
-   "id": "f000106",
+   "end": "2590.400",
+   "id": "f000263",
    "language": "eng",
    "lines": [
-    "Hard science might be robust to the pathologies - even then. So let us take a look at social science. Given that the sole judges of a contributor are his \"peers,\" there is a citation ring in place that can lead to all manner of rotting. Macroeconomics, for instance, can be nonsense since it is easier to macrobull***t than microbull***t - nobody can tell if a theory really works."
+    "Hard science might be robust to the pathologies - even then."
    ]
   },
   {
-   "begin": "2611.840",
+   "begin": "2590.400",
    "children": [],
-   "end": "2627.520",
-   "id": "f000107",
+   "end": "2593.040",
+   "id": "f000264",
    "language": "eng",
    "lines": [
-    "If you say something crazy you will be deemed crazy. But if you create a collection of, say, twenty people who set up an academy and say crazy things accepted by the collective, you now have \"peer-reviewing\" and can start a department in a university."
+    "So let us take a look at social science."
    ]
   },
   {
-   "begin": "2627.520",
+   "begin": "2593.040",
    "children": [],
-   "end": "2637.680",
-   "id": "f000108",
+   "end": "2600.880",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "Given that the sole judges of a contributor are his \"peers,\" there is a citation ring in place that can lead to all manner of rotting."
+   ]
+  },
+  {
+   "begin": "2600.880",
+   "children": [],
+   "end": "2610.320",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "Macroeconomics, for instance, can be nonsense since it is easier to macrobull***t than microbull***t - nobody can tell if a theory really works."
+   ]
+  },
+  {
+   "begin": "2610.320",
+   "children": [],
+   "end": "2614.520",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "If you say something crazy you will be deemed crazy."
+   ]
+  },
+  {
+   "begin": "2614.520",
+   "children": [],
+   "end": "2626.600",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "But if you create a collection of, say, twenty people who set up an academy and say crazy things accepted by the collective, you now have \"peer-reviewing\" and can start a department in a university."
+   ]
+  },
+  {
+   "begin": "2626.600",
+   "children": [],
+   "end": "2636.080",
+   "id": "f000269",
    "language": "eng",
    "lines": [
     "Academia has a tendency, when unchecked (from lack of skin in the game), to evolve into a ritualistic self-referential publishing game."
    ]
   },
   {
-   "begin": "2637.680",
+   "begin": "2636.080",
    "children": [],
-   "end": "2652.000",
-   "id": "f000109",
+   "end": "2647.880",
+   "id": "f000270",
    "language": "eng",
    "lines": [
-    "Now, while academia has turned into an athletic contest, Wittgenstein held the exact opposite viewpoint: if anything, knowledge is the reverse of an athletic contest. In philosophy, the winner is the one who finishes last, he said."
+    "Now, while academia has turned into an athletic contest, Wittgenstein held the exact opposite viewpoint: if anything, knowledge is the reverse of an athletic contest."
+   ]
+  },
+  {
+   "begin": "2647.880",
+   "children": [],
+   "end": "2652.000",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "In philosophy, the winner is the one who finishes last, he said."
    ]
   },
   {
    "begin": "2652.000",
    "children": [],
-   "end": "2654.680",
-   "id": "f000110",
+   "end": "2654.120",
+   "id": "f000272",
    "language": "eng",
    "lines": [
     "Further,"
    ]
   },
   {
-   "begin": "2654.680",
+   "begin": "2654.120",
    "children": [],
-   "end": "2660.200",
-   "id": "f000111",
+   "end": "2658.560",
+   "id": "f000273",
    "language": "eng",
    "lines": [
     "Anything that smacks of competition destroys knowledge."
    ]
   },
   {
-   "begin": "2660.200",
+   "begin": "2658.560",
    "children": [],
-   "end": "2710.880",
-   "id": "f000112",
+   "end": "2681.280",
+   "id": "f000274",
    "language": "eng",
    "lines": [
-    "In some areas, such as gender studies or psychology, the ritualistic publishing game gradually maps less and less to real research, by the very nature of the agency problem, to reach a Mafia-like divergence of interest: researchers have their own agenda, at variance with what their clients, that is, society and the students, are paying them for. The opacity of the subject to outsiders helps them control the gates. Knowing \"economics\" doesn't mean knowing anything about economics in the sense of the real activity, but rather the theories, most of which are bull***t, produced by economists. And courses in universities, for which hard-working parents need to save over decades, easily degenerate into fashion. You work hard and save for your children to be taught a post-colonial study-oriented critique of quantum mechanics."
+    "In some areas, such as gender studies or psychology, the ritualistic publishing game gradually maps less and less to real research, by the very nature of the agency problem, to reach a Mafia-like divergence of interest: researchers have their own agenda, at variance with what their clients, that is, society and the students, are paying them for."
+   ]
+  },
+  {
+   "begin": "2681.280",
+   "children": [],
+   "end": "2686.000",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "The opacity of the subject to outsiders helps them control the gates."
+   ]
+  },
+  {
+   "begin": "2686.000",
+   "children": [],
+   "end": "2696.520",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "Knowing \"economics\" doesn't mean knowing anything about economics in the sense of the real activity, but rather the theories, most of which are bull***t, produced by economists."
+   ]
+  },
+  {
+   "begin": "2696.520",
+   "children": [],
+   "end": "2704.240",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "And courses in universities, for which hard-working parents need to save over decades, easily degenerate into fashion."
+   ]
+  },
+  {
+   "begin": "2704.240",
+   "children": [],
+   "end": "2710.880",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "You work hard and save for your children to be taught a post-colonial study-oriented critique of quantum mechanics."
    ]
   },
   {
    "begin": "2710.880",
    "children": [],
-   "end": "2748.200",
-   "id": "f000113",
+   "end": "2713.600",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "But there is a ray of hope. Actually, recent events indicate how the system will fold: alumni (who happen to have worked in the real world) are starting to cut funds to spurious and farcical disciplines (though not to the farcical approaches within traditional disciplines). After all, it so happens that someone needs to pay the salaries of macroeconomists and post-colonial gender \"experts.\" And university education needs to compete with professional training workshops: once upon a time, studying post-colonial theories could help one get a job other than serving French fries. No longer."
+    "But there is a ray of hope."
+   ]
+  },
+  {
+   "begin": "2713.600",
+   "children": [],
+   "end": "2728.080",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "Actually, recent events indicate how the system will fold: alumni (who happen to have worked in the real world) are starting to cut funds to spurious and farcical disciplines (though not to the farcical approaches within traditional disciplines)."
+   ]
+  },
+  {
+   "begin": "2728.080",
+   "children": [],
+   "end": "2736.240",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "After all, it so happens that someone needs to pay the salaries of macroeconomists and post-colonial gender \"experts.\""
+   ]
+  },
+  {
+   "begin": "2736.240",
+   "children": [],
+   "end": "2746.840",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "And university education needs to compete with professional training workshops: once upon a time, studying post-colonial theories could help one get a job other than serving French fries."
+   ]
+  },
+  {
+   "begin": "2746.840",
+   "children": [],
+   "end": "2748.200",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "No longer."
    ]
   },
   {
    "begin": "2748.200",
    "children": [],
    "end": "2752.440",
-   "id": "f000114",
+   "id": "f000284",
    "language": "eng",
    "lines": [
     "AGAINST ONE'S INTEREST"
@@ -1143,18 +2843,58 @@
   {
    "begin": "2752.440",
    "children": [],
-   "end": "2791.480",
-   "id": "f000115",
+   "end": "2775.880",
+   "id": "f000285",
    "language": "eng",
    "lines": [
-    "The most convincing statements are those in which one stands to lose, ones in which one has maximal skin in the game; the most unconvincing ones are those in which one patently (but unknowingly) tries to enhance one's status without making a tangible contribution (like, as we saw, in the great majority of academic papers that say nothing and take no risks). But it doesn't have to be that way. Showing off is reasonable; it is human. As long as the substance exceeds the showoff, you are fine. Stay human, take as much as you can, under the condition that you give more than you take."
+    "The most convincing statements are those in which one stands to lose, ones in which one has maximal skin in the game; the most unconvincing ones are those in which one patently (but unknowingly) tries to enhance one's status without making a tangible contribution (like, as we saw, in the great majority of academic papers that say nothing and take no risks)."
    ]
   },
   {
-   "begin": "2791.480",
+   "begin": "2775.880",
+   "children": [],
+   "end": "2777.760",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "But it doesn't have to be that way."
+   ]
+  },
+  {
+   "begin": "2777.760",
+   "children": [],
+   "end": "2780.680",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "Showing off is reasonable; it is human."
+   ]
+  },
+  {
+   "begin": "2780.680",
+   "children": [],
+   "end": "2784.480",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "As long as the substance exceeds the showoff, you are fine."
+   ]
+  },
+  {
+   "begin": "2784.480",
+   "children": [],
+   "end": "2790.400",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Stay human, take as much as you can, under the condition that you give more than you take."
+   ]
+  },
+  {
+   "begin": "2790.400",
    "children": [],
    "end": "2801.640",
-   "id": "f000116",
+   "id": "f000290",
    "language": "eng",
    "lines": [
     "One should give more weight to research that, while being rigorous, contradicts other peers, particularly if it entails costs and reputational harm for its author."
@@ -1164,7 +2904,7 @@
    "begin": "2801.640",
    "children": [],
    "end": "2803.640",
-   "id": "f000117",
+   "id": "f000291",
    "language": "eng",
    "lines": [
     "Further,"
@@ -1173,58 +2913,138 @@
   {
    "begin": "2803.640",
    "children": [],
-   "end": "2819.400",
-   "id": "f000118",
+   "end": "2823.320",
+   "id": "f000292",
    "language": "eng",
    "lines": [
     "Someone with a high public presence who is controversial and takes risks for his opinion is less likely to be a bull***t vendor."
    ]
   },
   {
-   "begin": "2819.400",
+   "begin": "2823.320",
    "children": [],
-   "end": "2825.600",
-   "id": "f000119",
+   "end": "2830.120",
+   "id": "f000293",
    "language": "eng",
    "lines": [
     "SOUL IN THE GAME, AGAIN"
    ]
   },
   {
-   "begin": "2825.600",
+   "begin": "2830.120",
    "children": [],
-   "end": "2885.640",
-   "id": "f000120",
+   "end": "2836.000",
+   "id": "f000294",
    "language": "eng",
    "lines": [
-    "The deprostitutionalization of research will eventually be done as follows. Force people who want to do \"research\" to do it on their own time, that is, to derive their income from other sources. Sacrifice is necessary. It may seem absurd to brainwashed contemporaries, but Antifragile documents the outsized historical contributions of the nonprofessional, or, rather, the non-meretricious. For their research to be genuine, they should first have a real-world day job, or at least spend ten years as: lens maker, patent clerk, Mafia operator, professional gambler, postman, prison guard, medical doctor, limo driver, militia member, social security agent, trial lawyer, farmer, restaurant chef, high-volume waiter, firefighter (my favorite), lighthouse keeper, etc., while they are building their original ideas."
+    "The deprostitutionalization of research will eventually be done as follows."
    ]
   },
   {
-   "begin": "2885.640",
+   "begin": "2836.000",
    "children": [],
-   "end": "2907.720",
-   "id": "f000121",
+   "end": "2843.080",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "It is a filtering, nonsense-expurgating mechanism. I have no sympathy for moaning professional researchers. I for my part spent twenty-three years in a full-time, highly demanding, extremely stressful profession while studying, researching, and writing my first three books at night; it lowered (in fact, eliminated) my tolerance for career-building research."
+    "Force people who want to do \"research\" to do it on their own time, that is, to derive their income from other sources."
+   ]
+  },
+  {
+   "begin": "2843.080",
+   "children": [],
+   "end": "2845.120",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "Sacrifice is necessary."
+   ]
+  },
+  {
+   "begin": "2845.120",
+   "children": [],
+   "end": "2856.360",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "It may seem absurd to brainwashed contemporaries, but Antifragile documents the outsized historical contributions of the nonprofessional, or, rather, the non-meretricious."
+   ]
+  },
+  {
+   "begin": "2856.360",
+   "children": [],
+   "end": "2884.040",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "For their research to be genuine, they should first have a real-world day job, or at least spend ten years as: lens maker, patent clerk, Mafia operator, professional gambler, postman, prison guard, medical doctor, limo driver, militia member, social security agent, trial lawyer, farmer, restaurant chef, high-volume waiter, firefighter (my favorite), lighthouse keeper, etc., while they are building their original ideas."
+   ]
+  },
+  {
+   "begin": "2884.040",
+   "children": [],
+   "end": "2888.720",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "It is a filtering, nonsense-expurgating mechanism."
+   ]
+  },
+  {
+   "begin": "2888.720",
+   "children": [],
+   "end": "2892.040",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "I have no sympathy for moaning professional researchers."
+   ]
+  },
+  {
+   "begin": "2892.040",
+   "children": [],
+   "end": "2907.720",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "I for my part spent twenty-three years in a full-time, highly demanding, extremely stressful profession while studying, researching, and writing my first three books at night; it lowered (in fact, eliminated) my tolerance for career-building research."
    ]
   },
   {
    "begin": "2907.720",
    "children": [],
-   "end": "2925.400",
-   "id": "f000122",
+   "end": "2917.440",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "(There is this illusion that just as businessmen are motivated and rewarded by profits, scientists should be motivated and rewarded by honors and recognition. That's not how it works. Remember, science is a minority rule: a few will run it, others are just back-office clerks.)"
+    "(There is this illusion that just as businessmen are motivated and rewarded by profits, scientists should be motivated and rewarded by honors and recognition."
+   ]
+  },
+  {
+   "begin": "2917.440",
+   "children": [],
+   "end": "2919.440",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "That's not how it works."
+   ]
+  },
+  {
+   "begin": "2919.440",
+   "children": [],
+   "end": "2925.400",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "Remember, science is a minority rule: a few will run it, others are just back-office clerks.)"
    ]
   },
   {
    "begin": "2925.400",
    "children": [],
    "end": "2929.600",
-   "id": "f000123",
+   "id": "f000305",
    "language": "eng",
    "lines": [
     "SCIENCE IS LINDY-PRONE"
@@ -1233,38 +3053,178 @@
   {
    "begin": "2929.600",
    "children": [],
-   "end": "2937.840",
-   "id": "f000124",
+   "end": "2935.560",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "We said earlier that without skin in game, survival mechanisms are severely disrupted. This also applies to ideas."
+    "We said earlier that without skin in game, survival mechanisms are severely disrupted."
+   ]
+  },
+  {
+   "begin": "2935.560",
+   "children": [],
+   "end": "2937.840",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "This also applies to ideas."
    ]
   },
   {
    "begin": "2937.840",
    "children": [],
-   "end": "3026.720",
-   "id": "f000125",
+   "end": "2953.280",
+   "id": "f000308",
    "language": "eng",
    "lines": [
-    "Karl Popper's idea of science is an enterprise that produces claims that can be contradicted by eventual observations, not a series of verifiable ones: science is fundamentally disconfirmatory, not confirmatory. This mechanism of falsification is entirely Lindy-compatible; it actually requires the operation of the Lindy effect (in combination with the minority rule). Although Popper saw the statics, he didn't study the dynamics, nor did he look at the risk dimension of things. The reason science works isn't because there is a proper \"scientific method\" derived by some nerds in isolation, or some \"standard\" that passes a test similar to the eye exam of the Department of Motor Vehicles; rather it is because scientific ideas are Lindy-prone, that is, subjected to their own natural fragility. Ideas need to have skin in the game. You know an idea will fail if it is not useful, and can be therefore vulnerable to the falsification of time (and not that of naive falsificationism, that is, according to some government-printed black-and-white guideline). The longer an idea has been around without being falsified, the longer its future life expectancy. For if you read Paul Feyerabend's account of the history of scientific discoveries, you can clearly see that anything goes in the process - but not with the test of time. That appears to be nonnegotiable."
+    "Karl Popper's idea of science is an enterprise that produces claims that can be contradicted by eventual observations, not a series of verifiable ones: science is fundamentally disconfirmatory, not confirmatory."
+   ]
+  },
+  {
+   "begin": "2953.280",
+   "children": [],
+   "end": "2962.920",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "This mechanism of falsification is entirely Lindy-compatible; it actually requires the operation of the Lindy effect (in combination with the minority rule)."
+   ]
+  },
+  {
+   "begin": "2962.920",
+   "children": [],
+   "end": "2969.880",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "Although Popper saw the statics, he didn't study the dynamics, nor did he look at the risk dimension of things."
+   ]
+  },
+  {
+   "begin": "2969.880",
+   "children": [],
+   "end": "2990.720",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "The reason science works isn't because there is a proper \"scientific method\" derived by some nerds in isolation, or some \"standard\" that passes a test similar to the eye exam of the Department of Motor Vehicles; rather it is because scientific ideas are Lindy-prone, that is, subjected to their own natural fragility."
+   ]
+  },
+  {
+   "begin": "2990.720",
+   "children": [],
+   "end": "2993.520",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "Ideas need to have skin in the game."
+   ]
+  },
+  {
+   "begin": "2993.520",
+   "children": [],
+   "end": "3007.280",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "You know an idea will fail if it is not useful, and can be therefore vulnerable to the falsification of time (and not that of naive falsificationism, that is, according to some government-printed black-and-white guideline)."
+   ]
+  },
+  {
+   "begin": "3007.280",
+   "children": [],
+   "end": "3013.880",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "The longer an idea has been around without being falsified, the longer its future life expectancy."
+   ]
+  },
+  {
+   "begin": "3013.880",
+   "children": [],
+   "end": "3024.520",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "For if you read Paul Feyerabend's account of the history of scientific discoveries, you can clearly see that anything goes in the process - but not with the test of time."
+   ]
+  },
+  {
+   "begin": "3024.520",
+   "children": [],
+   "end": "3026.720",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "That appears to be nonnegotiable."
    ]
   },
   {
    "begin": "3026.720",
    "children": [],
-   "end": "3080.000",
-   "id": "f000126",
+   "end": "3039.920",
+   "id": "f000317",
    "language": "eng",
    "lines": [
-    "Note that I am here modifying Popper's idea; we can replace \"true\" (rather, not false) with \"useful,\" even \"not harmful,\" even \"protective to its users.\" So I will diverge from Popper in the following. For things to survive, they necessarily need to fare well in the risk dimension, that is, be good at not dying. By the Lindy effect, if an idea has skin in the game, it is not in the truth game, but in the harm game. An idea survives if it is a good risk manager, that is, not only doesn't harm its holders, but favors their survival - this also applies to superstitions that have crossed centuries because they led to some protective actions. More technically, an idea needs to be convex (antifragile), or at least bring about a beneficial reduction of fragility somewhere."
+    "Note that I am here modifying Popper's idea; we can replace \"true\" (rather, not false) with \"useful,\" even \"not harmful,\" even \"protective to its users.\""
+   ]
+  },
+  {
+   "begin": "3039.920",
+   "children": [],
+   "end": "3042.640",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "So I will diverge from Popper in the following."
+   ]
+  },
+  {
+   "begin": "3042.640",
+   "children": [],
+   "end": "3050.440",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "For things to survive, they necessarily need to fare well in the risk dimension, that is, be good at not dying."
+   ]
+  },
+  {
+   "begin": "3050.440",
+   "children": [],
+   "end": "3057.040",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "By the Lindy effect, if an idea has skin in the game, it is not in the truth game, but in the harm game."
+   ]
+  },
+  {
+   "begin": "3057.040",
+   "children": [],
+   "end": "3071.000",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "An idea survives if it is a good risk manager, that is, not only doesn't harm its holders, but favors their survival - this also applies to superstitions that have crossed centuries because they led to some protective actions."
+   ]
+  },
+  {
+   "begin": "3071.000",
+   "children": [],
+   "end": "3080.000",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "More technically, an idea needs to be convex (antifragile), or at least bring about a beneficial reduction of fragility somewhere."
    ]
   },
   {
    "begin": "3080.000",
    "children": [],
    "end": "3084.000",
-   "id": "f000127",
+   "id": "f000323",
    "language": "eng",
    "lines": [
     "EMPIRICAL OR THEORETIC?"
@@ -1273,28 +3233,68 @@
   {
    "begin": "3084.000",
    "children": [],
-   "end": "3113.320",
-   "id": "f000128",
+   "end": "3089.680",
+   "id": "f000324",
    "language": "eng",
    "lines": [
-    "Academics divide research into theoretical and empirical areas. Empiricism consists in looking at data on a computer in search for what they call \"statistically significant,\" or doing experiments in the laboratory under some purposefully narrow conditions. Doing things in the real world, in some professions (such as medicine), bears the name clinical, which is not deemed to be scientific. Many disciplines lack this third dimension, the clinical one."
+    "Academics divide research into theoretical and empirical areas."
+   ]
+  },
+  {
+   "begin": "3089.680",
+   "children": [],
+   "end": "3101.240",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "Empiricism consists in looking at data on a computer in search for what they call \"statistically significant,\" or doing experiments in the laboratory under some purposefully narrow conditions."
+   ]
+  },
+  {
+   "begin": "3101.240",
+   "children": [],
+   "end": "3109.600",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "Doing things in the real world, in some professions (such as medicine), bears the name clinical, which is not deemed to be scientific."
+   ]
+  },
+  {
+   "begin": "3109.600",
+   "children": [],
+   "end": "3113.320",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "Many disciplines lack this third dimension, the clinical one."
    ]
   },
   {
    "begin": "3113.320",
    "children": [],
-   "end": "3132.000",
-   "id": "f000129",
+   "end": "3122.840",
+   "id": "f000328",
    "language": "eng",
    "lines": [
-    "For in fact, by the Lindy effect, robustness to time, that is, doing things under risk-taking conditions, is checked by survival. Things work 1) if those who have been doing the doing took some type of risk, and 2) their work manages to cross generations."
+    "For in fact, by the Lindy effect, robustness to time, that is, doing things under risk-taking conditions, is checked by survival."
+   ]
+  },
+  {
+   "begin": "3122.840",
+   "children": [],
+   "end": "3132.000",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "Things work 1) if those who have been doing the doing took some type of risk, and 2) their work manages to cross generations."
    ]
   },
   {
    "begin": "3132.000",
    "children": [],
    "end": "3135.200",
-   "id": "f000130",
+   "id": "f000330",
    "language": "eng",
    "lines": [
     "Which brings me to the grandmother."
@@ -1304,7 +3304,7 @@
    "begin": "3135.200",
    "children": [],
    "end": "3140.080",
-   "id": "f000131",
+   "id": "f000331",
    "language": "eng",
    "lines": [
     "THE GRANDMOTHER VS. THE RESEARCHERS"
@@ -1313,18 +3313,68 @@
   {
    "begin": "3140.080",
    "children": [],
-   "end": "3221.400",
-   "id": "f000132",
+   "end": "3147.040",
+   "id": "f000332",
    "language": "eng",
    "lines": [
-    "If you hear advice from a grandmother or elders, odds are that it works 90 percent of the time. On the other hand, in part because of scientism and academic prostitution, in part because the world is hard, if you read anything by psychologists and behavioral scientists, odds are that it works at less than 10 percent, unless it is has also been covered by the grandmother and the classics, in which case why would you need a psychologist? Consider that a recent effort to replicate the hundred psychology papers in \"prestigious\" journals of 2008 found that, out of a hundred, only thirty-nine replicated. Of these thirty-nine, I believe that fewer than ten are actually robust and transfer outside the narrowness of the experiment. Similar defects have been found in medicine and neuroscience; more on those later. (I will discuss the point further in Chapters 18 and (mostly) 19, as well as why the warnings of your grandmother or interdicts aren't \"irrational\"; most of what is called \"irrational\" comes from misunderstanding of probability.)"
+    "If you hear advice from a grandmother or elders, odds are that it works 90 percent of the time."
    ]
   },
   {
-   "begin": "3221.400",
+   "begin": "3147.040",
+   "children": [],
+   "end": "3167.280",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "On the other hand, in part because of scientism and academic prostitution, in part because the world is hard, if you read anything by psychologists and behavioral scientists, odds are that it works at less than 10 percent, unless it is has also been covered by the grandmother and the classics, in which case why would you need a psychologist?"
+   ]
+  },
+  {
+   "begin": "3167.280",
+   "children": [],
+   "end": "3194.080",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "Consider that a recent effort to replicate the hundred psychology papers in \"prestigious\" journals of 2008 found that, out of a hundred, only thirty-nine replicated."
+   ]
+  },
+  {
+   "begin": "3194.080",
+   "children": [],
+   "end": "3201.880",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "Of these thirty-nine, I believe that fewer than ten are actually robust and transfer outside the narrowness of the experiment."
+   ]
+  },
+  {
+   "begin": "3201.880",
+   "children": [],
+   "end": "3206.640",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "Similar defects have been found in medicine and neuroscience; more on those later."
+   ]
+  },
+  {
+   "begin": "3206.640",
+   "children": [],
+   "end": "3219.880",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "(I will discuss the point further in Chapters 18 and (mostly) 19, as well as why the warnings of your grandmother or interdicts aren't \"irrational\"; most of what is called \"irrational\" comes from misunderstanding of probability.)"
+   ]
+  },
+  {
+   "begin": "3219.880",
    "children": [],
    "end": "3230.320",
-   "id": "f000133",
+   "id": "f000338",
    "language": "eng",
    "lines": [
     "It is critical that it is not just that the books of the ancients are still around and have been filtered by Lindy, but that those populations who read them have survived as well."
@@ -1333,18 +3383,58 @@
   {
    "begin": "3230.320",
    "children": [],
-   "end": "3284.720",
-   "id": "f000134",
+   "end": "3236.440",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "While our knowledge of physics was not available to the ancients, human nature was. So everything that holds in social science and psychology has to be Lindy-proof, that is, have an antecedent in the classics; otherwise it will not replicate or not generalize beyond the experiment. By classics we can define the Latin (and late Hellenistic) moral literature (moral sciences meant something else than they do today): Cicero, Seneca, Marcus Aurelius, Epictetus, Lucian, or the poets: Juvenal, Horace, or the later French so-called \"moralists\" (La Rochefoucauld, Vauvenargues, La Bruy\u00e8re, Chamfort). Bossuet is a class on his own. One can use Montaigne and Erasmus as a portal to the ancients: Montaigne was the popularizer of his day; Erasmus was the thorough compiler."
+    "While our knowledge of physics was not available to the ancients, human nature was."
+   ]
+  },
+  {
+   "begin": "3236.440",
+   "children": [],
+   "end": "3248.520",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "So everything that holds in social science and psychology has to be Lindy-proof, that is, have an antecedent in the classics; otherwise it will not replicate or not generalize beyond the experiment."
+   ]
+  },
+  {
+   "begin": "3248.520",
+   "children": [],
+   "end": "3272.560",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "By classics we can define the Latin (and late Hellenistic) moral literature (moral sciences meant something else than they do today): Cicero, Seneca, Marcus Aurelius, Epictetus, Lucian, or the poets: Juvenal, Horace, or the later French so-called \"moralists\" (La Rochefoucauld, Vauvenargues, La Bruy\u00e8re, Chamfort)."
+   ]
+  },
+  {
+   "begin": "3272.560",
+   "children": [],
+   "end": "3275.040",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "Bossuet is a class on his own."
+   ]
+  },
+  {
+   "begin": "3275.040",
+   "children": [],
+   "end": "3284.720",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "One can use Montaigne and Erasmus as a portal to the ancients: Montaigne was the popularizer of his day; Erasmus was the thorough compiler."
    ]
   },
   {
    "begin": "3284.720",
    "children": [],
    "end": "3289.400",
-   "id": "f000135",
+   "id": "f000344",
    "language": "eng",
    "lines": [
     "A BRIEF TOUR OF YOUR GRANDPARENTS' WISDOM"
@@ -1353,98 +3443,218 @@
   {
    "begin": "3289.400",
    "children": [],
-   "end": "3309.560",
-   "id": "f000136",
+   "end": "3298.640",
+   "id": "f000345",
    "language": "eng",
    "lines": [
-    "Let us now close by sampling a few ideas that exist in both ancient lore and are sort of reconfirmed by modern psychology. These are sampled organically, meaning they are not the result of research but of what spontaneously comes to mind (remember this book is called Skin in the Game), then verified in the texts."
+    "Let us now close by sampling a few ideas that exist in both ancient lore and are sort of reconfirmed by modern psychology."
+   ]
+  },
+  {
+   "begin": "3298.640",
+   "children": [],
+   "end": "3309.560",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "These are sampled organically, meaning they are not the result of research but of what spontaneously comes to mind (remember this book is called Skin in the Game), then verified in the texts."
    ]
   },
   {
    "begin": "3309.560",
    "children": [],
-   "end": "3333.600",
-   "id": "f000137",
+   "end": "3323.800",
+   "id": "f000347",
    "language": "eng",
    "lines": [
-    "Cognitive dissonance (a psychological theory by Leon Festinger about sour grapes, by which people, in order to avoid inconsistent beliefs, rationalize that, say, the grapes they can't reach got to be sour). It is seen first in Aesop, of course, repackaged by La Fontaine. But its roots look even more ancient, with the Assyrian Ahiqar of Nineveh."
+    "Cognitive dissonance (a psychological theory by Leon Festinger about sour grapes, by which people, in order to avoid inconsistent beliefs, rationalize that, say, the grapes they can't reach got to be sour)."
+   ]
+  },
+  {
+   "begin": "3323.800",
+   "children": [],
+   "end": "3328.640",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "It is seen first in Aesop, of course, repackaged by La Fontaine."
+   ]
+  },
+  {
+   "begin": "3328.640",
+   "children": [],
+   "end": "3333.600",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "But its roots look even more ancient, with the Assyrian Ahiqar of Nineveh."
    ]
   },
   {
    "begin": "3333.600",
    "children": [],
-   "end": "3352.600",
-   "id": "f000138",
+   "end": "3347.920",
+   "id": "f000350",
    "language": "eng",
    "lines": [
-    "Loss aversion (a psychological theory by which a loss is more painful than a gain is pleasant): in Livy's Annals (XXX, 21) Men feel the good less intensely than the bad. Nearly all the letters of Seneca have some element of loss aversion."
+    "Loss aversion (a psychological theory by which a loss is more painful than a gain is pleasant): in Livy's Annals (XXX, 21) Men feel the good less intensely than the bad."
+   ]
+  },
+  {
+   "begin": "3347.920",
+   "children": [],
+   "end": "3352.600",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "Nearly all the letters of Seneca have some element of loss aversion."
    ]
   },
   {
    "begin": "3352.600",
    "children": [],
-   "end": "3369.240",
-   "id": "f000139",
+   "end": "3363.040",
+   "id": "f000352",
    "language": "eng",
    "lines": [
-    "Negative advice (via negativa): We know the wrong better than what's right; recall the superiority of the Silver over the Golden Rule. The good is not as good as the absence of bad, Ennius, repeated by Cicero."
+    "Negative advice (via negativa): We know the wrong better than what's right; recall the superiority of the Silver over the Golden Rule."
+   ]
+  },
+  {
+   "begin": "3363.040",
+   "children": [],
+   "end": "3369.240",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "The good is not as good as the absence of bad, Ennius, repeated by Cicero."
    ]
   },
   {
    "begin": "3369.240",
    "children": [],
-   "end": "3386.920",
-   "id": "f000140",
+   "end": "3377.920",
+   "id": "f000354",
    "language": "eng",
    "lines": [
-    "Skin in the game (literally): We start with the Yiddish proverb: You can't chew with somebody else's teeth. \"Your fingernail can best scratch your itch,\" picked up by Scaliger circa 1614 in Proverborum Arabicorum."
+    "Skin in the game (literally): We start with the Yiddish proverb: You can't chew with somebody else's teeth."
+   ]
+  },
+  {
+   "begin": "3377.920",
+   "children": [],
+   "end": "3386.920",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "\"Your fingernail can best scratch your itch,\" picked up by Scaliger circa 1614 in Proverborum Arabicorum."
    ]
   },
   {
    "begin": "3386.920",
    "children": [],
-   "end": "3402.520",
-   "id": "f000141",
+   "end": "3392.320",
+   "id": "f000356",
    "language": "eng",
    "lines": [
-    "Antifragility: There are tens of ancient sayings. Let us just mention Cicero. When our souls are mollified, a bee can sting. See also Machiavelli and Rousseau for its application to political systems."
+    "Antifragility: There are tens of ancient sayings."
+   ]
+  },
+  {
+   "begin": "3392.320",
+   "children": [],
+   "end": "3393.840",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "Let us just mention Cicero."
+   ]
+  },
+  {
+   "begin": "3393.840",
+   "children": [],
+   "end": "3397.720",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "When our souls are mollified, a bee can sting."
+   ]
+  },
+  {
+   "begin": "3397.720",
+   "children": [],
+   "end": "3402.520",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "See also Machiavelli and Rousseau for its application to political systems."
    ]
   },
   {
    "begin": "3402.520",
    "children": [],
-   "end": "3410.680",
-   "id": "f000142",
+   "end": "3408.960",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "Time discounting: \"A bird in the hand is better than ten on the tree.\" (Levantine proverb)"
+    "Time discounting: \"A bird in the hand is better than ten on the tree.\""
+   ]
+  },
+  {
+   "begin": "3408.960",
+   "children": [],
+   "end": "3410.680",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "(Levantine proverb)"
    ]
   },
   {
    "begin": "3410.680",
    "children": [],
-   "end": "3426.720",
-   "id": "f000143",
+   "end": "3420.600",
+   "id": "f000362",
    "language": "eng",
    "lines": [
-    "Madness of crowds: Nietzsche: Madness is rare in individuals, but in groups, parties, nations, it is the rule. (This counts as ancient wisdom since Nietzsche was a classicist; I've seen many such references in Plato.)"
+    "Madness of crowds: Nietzsche: Madness is rare in individuals, but in groups, parties, nations, it is the rule."
+   ]
+  },
+  {
+   "begin": "3420.600",
+   "children": [],
+   "end": "3426.720",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "(This counts as ancient wisdom since Nietzsche was a classicist; I've seen many such references in Plato.)"
    ]
   },
   {
    "begin": "3426.720",
    "children": [],
-   "end": "3440.360",
-   "id": "f000144",
+   "end": "3434.680",
+   "id": "f000364",
    "language": "eng",
    "lines": [
-    "Less is more:Truth is lost with too much altercation, in Publilius Syrus. But of course the expression \"less is more\" is in an 1855 poem by Robert Browning."
+    "Less is more:Truth is lost with too much altercation, in Publilius Syrus."
+   ]
+  },
+  {
+   "begin": "3434.680",
+   "children": [],
+   "end": "3440.360",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "But of course the expression \"less is more\" is in an 1855 poem by Robert Browning."
    ]
   },
   {
    "begin": "3440.360",
    "children": [],
    "end": "3459.200",
-   "id": "f000145",
+   "id": "f000366",
    "language": "eng",
    "lines": [
     "Overconfidence: \"I lost money because of my excessive confidence,\" Erasmus inspired by Theognis of Megara (Confident, I lost everything; defiant, I saved everything) and Epicharmus of Kos (Remain sober and remember to watch out)."
@@ -1453,21 +3663,121 @@
   {
    "begin": "3459.200",
    "children": [],
-   "end": "3492.040",
-   "id": "f000146",
+   "end": "3476.360",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "The Paradox of progress, and the paradox of choice: There is a familiar story of a New York banker vacationing in Greece, who, from talking to a fisherman and scrutinizing the fisherman's business, comes up with a scheme to help the fisherman make it a big business. The fisherman asked him what the benefits were; the banker answered that he could make a pile of money in New York and come back to vacation in Greece; something that seemed ludicrous to the fisherman, who was already there doing the kind of things bankers do when they go on vacation in Greece."
+    "The Paradox of progress, and the paradox of choice: There is a familiar story of a New York banker vacationing in Greece, who, from talking to a fisherman and scrutinizing the fisherman's business, comes up with a scheme to help the fisherman make it a big business."
+   ]
+  },
+  {
+   "begin": "3476.360",
+   "children": [],
+   "end": "3492.040",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "The fisherman asked him what the benefits were; the banker answered that he could make a pile of money in New York and come back to vacation in Greece; something that seemed ludicrous to the fisherman, who was already there doing the kind of things bankers do when they go on vacation in Greece."
    ]
   },
   {
    "begin": "3492.040",
    "children": [],
-   "end": "3549.280",
-   "id": "f000147",
+   "end": "3508.720",
+   "id": "f000369",
    "language": "eng",
    "lines": [
-    "The story was well known in antiquity, under a more elegant form, as retold by Montaigne (my translation): When King Pyrrhus tried to cross into Italy, Cyn\u00e9as, his wise adviser, tried to make him feel the vanity of such action. \"To what end are you going into such enterprise?\" he asked. Pyrrhus answered, \"To make myself the master of Italy.\" Cyn\u00e9as: \"And so?\" Pyrrhus: \"To get to Gaul, then Spain.\" Cyn\u00e9as: \"Then?\" Pyrrhus: \"To conquer Africa, then\u2026come rest at ease.\" Cyn\u00e9as: \"But you are already there; why take more risks?\" Montaigne then cites the well-known passage in Lucretius' De Rerum Natura (V, 1431) on how human nature knows no upper bound, as if to punish itself."
+    "The story was well known in antiquity, under a more elegant form, as retold by Montaigne (my translation): When King Pyrrhus tried to cross into Italy, Cyn\u00e9as, his wise adviser, tried to make him feel the vanity of such action."
+   ]
+  },
+  {
+   "begin": "3508.720",
+   "children": [],
+   "end": "3511.080",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "\"To what end are you going into such enterprise?\""
+   ]
+  },
+  {
+   "begin": "3511.080",
+   "children": [],
+   "end": "3512.200",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "he asked."
+   ]
+  },
+  {
+   "begin": "3512.200",
+   "children": [],
+   "end": "3515.920",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "Pyrrhus answered, \"To make myself the master of Italy.\""
+   ]
+  },
+  {
+   "begin": "3515.920",
+   "children": [],
+   "end": "3518.040",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "Cyn\u00e9as: \"And so?\""
+   ]
+  },
+  {
+   "begin": "3518.040",
+   "children": [],
+   "end": "3521.120",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "Pyrrhus: \"To get to Gaul, then Spain.\""
+   ]
+  },
+  {
+   "begin": "3521.120",
+   "children": [],
+   "end": "3522.840",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "Cyn\u00e9as: \"Then?\""
+   ]
+  },
+  {
+   "begin": "3522.840",
+   "children": [],
+   "end": "3527.720",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "Pyrrhus: \"To conquer Africa, then\u2026come rest at ease.\""
+   ]
+  },
+  {
+   "begin": "3527.720",
+   "children": [],
+   "end": "3532.400",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "Cyn\u00e9as: \"But you are already there; why take more risks?\""
+   ]
+  },
+  {
+   "begin": "3532.400",
+   "children": [],
+   "end": "3549.280",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "Montaigne then cites the well-known passage in Lucretius' De Rerum Natura (V, 1431) on how human nature knows no upper bound, as if to punish itself."
    ]
   }
  ]

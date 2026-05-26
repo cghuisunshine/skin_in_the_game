@@ -1,143 +1,428 @@
 Prologue, Part 2 A Brief Tour of Symmetry
 Meta-experts judged by meta-meta-experts - Prostitutes, nonprostitutes, and amateurs - The French have this thing with Hammurabi - Dumas is always an exception
-I. FROM HAMMURABI TO KANT
-Skin-in-the-game-style symmetry, until the recent intellectualization of life, had been implicitly considered the principal rule for organized society, even for any form of collective life in which one encounters or deals with others more than once. The rule had to even precede human settlement since it prevails in a sophisticated, very sophisticated, form in the animal kingdom. Or, to rephrase, it had to prevail there or life would have been extinct - risk transfer blows up systems. And the very idea of law, divine or otherwise, resides in fixing imbalances and remedying such asymmetries.
+I.
+FROM HAMMURABI TO KANT
+Skin-in-the-game-style symmetry, until the recent intellectualization of life, had been implicitly considered the principal rule for organized society, even for any form of collective life in which one encounters or deals with others more than once.
+The rule had to even precede human settlement since it prevails in a sophisticated, very sophisticated, form in the animal kingdom.
+Or, to rephrase, it had to prevail there or life would have been extinct - risk transfer blows up systems.
+And the very idea of law, divine or otherwise, resides in fixing imbalances and remedying such asymmetries.
 Let us briefly travel the road from Hammurabi to Kant, where the rule gets refined along with civilized life.
 Hammurabi in Paris
-Hammurabi's law was posted on a basalt stele around 3,800 years ago in a central public place in Babylon, so every literate person could read it, or, rather, read it to others who couldn't read. It contains 282 laws and is deemed to be the first codification of our rule extant. The code has one central theme: it establishes symmetries between people in a transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks. Yes, the Bob Rubin trade is 3,800 years old, as old as civilization, and so are the rules to counter it.
-What is a tail? Take for now that it is an extreme event of low frequency. It is called a "tail" because, in drawings of bell-curve style frequencies, it is located to the extreme left or right (being of low frequency), and for some reason beyond my immediate understanding, people started calling that a "tail" and the term stuck.
+Hammurabi's law was posted on a basalt stele around 3,800 years ago in a central public place in Babylon, so every literate person could read it, or, rather, read it to others who couldn't read.
+It contains 282 laws and is deemed to be the first codification of our rule extant.
+The code has one central theme: it establishes symmetries between people in a transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks.
+Yes, the Bob Rubin trade is 3,800 years old, as old as civilization, and so are the rules to counter it.
+What is a tail?
+Take for now that it is an extreme event of low frequency.
+It is called a "tail" because, in drawings of bell-curve style frequencies, it is located to the extreme left or right (being of low frequency), and for some reason beyond my immediate understanding, people started calling that a "tail" and the term stuck.
 Hammurabi's best known injunction is as follows: "If a builder builds a house and the house collapses and causes the death of the owner of the house - the builder shall be put to death."
-For, as with financial traders, the best place to hide risks is "in the corners," in burying vulnerabilities to rare events that only the architect (or the trader) can detect - the idea being to be far away in time and place when blowups happen. As one old alcoholic ruddy-faced English banker told me when I graduated from school, volunteering career advice: "I give long-term loans only. When they mature I want to be long gone. And only reachable long distance." He worked for international banks and survived playing his trick by changing country every five years, and, from what I recall, he also changed wives every ten years and banks every twelve. But he didn't have to go hide very far or very deeply underground: nobody until very recently clawed back (that is, reclaimed) the past bonuses of bankers when something subsequently went wrong. And, not unexpectedly, it was the Swiss who started clawing back, in 2008.
-The well-known lex talionis, "an eye for one eye," comes from Hammurabi's rule. It is metaphorical, not literal: you don't have to actually remove an eye - hence the rule is much more flexible than it appears at first glance. For, in a famous Talmudic discussion (in Bava Kamma), a rabbi argues that if one followed the letter, the one-eyed would only pay half the punishment if he blinds a two-eyed person, and the blind would go scot-free. Or what if a small person kills a hero? Likewise, you do not need to amputate the leg of the reckless doctor who cut the wrong leg: the tort system, through courts, not regulation, thanks to the efforts of Ralph Nader, will impose some penalty, enough to protect consumers and citizens from powerful institutions. Clearly the legal system might produce some irritants (particularly with torts) and has its class of rent-seekers, but we are vastly better off complaining about lawyers than complaining about not having them.
-More practically, some economists have been trying to blame me for wanting to reverse the bankruptcy protection offered in modern times; some even accused me of wanting to bring back the guillotine for bankers. I am not that literal: it is just the matter of inflicting some penalty, just enough to make the Bob Rubin trade less attractive, and protect the public.
-Now, for some reason that escapes me, one of those strange things one finds only in France, Hammurabi's code, a stele in gray-black basalt, resides in the Louvre Museum in Paris. And the French, who normally know about a lot of things we don't know much about, don't seem to know about it; only Korean visitors with selfie sticks appear to have heard of the place.
-On my penultimate pilgrimage to the site, I happened to lecture French financiers in a conference room in the museum building about the ideas of this book, and the notion of skin in the game. I was speaking right after the man who, in spite of looks (and personality) quite similar to those found in Mesopotamian statues, epitomizes absence of skin in the game: former Federal Reserve governor Ben Bernanke. To my sorrow, when I publicly questioned the audience, using the irony of the situation, namely that almost four millennia ago we were sort of more sophisticated with these things, and that the monument was 300 feet from where I was lecturing, nobody in the room, in spite of the high culture of French financiers, figured out what I was talking about. Nobody was aware of Hammurabi beyond some player in Mesopotamian geopolitics, or suspected his connection to skin in the game and the accountability of bankers.
+For, as with financial traders, the best place to hide risks is "in the corners," in burying vulnerabilities to rare events that only the architect (or the trader) can detect - the idea being to be far away in time and place when blowups happen.
+As one old alcoholic ruddy-faced English banker told me when I graduated from school, volunteering career advice: "I give long-term loans only.
+When they mature I want to be long gone.
+And only reachable long distance."
+He worked for international banks and survived playing his trick by changing country every five years, and, from what I recall, he also changed wives every ten years and banks every twelve.
+But he didn't have to go hide very far or very deeply underground: nobody until very recently clawed back (that is, reclaimed) the past bonuses of bankers when something subsequently went wrong.
+And, not unexpectedly, it was the Swiss who started clawing back, in 2008.
+The well-known lex talionis, "an eye for one eye," comes from Hammurabi's rule.
+It is metaphorical, not literal: you don't have to actually remove an eye - hence the rule is much more flexible than it appears at first glance.
+For, in a famous Talmudic discussion (in Bava Kamma), a rabbi argues that if one followed the letter, the one-eyed would only pay half the punishment if he blinds a two-eyed person, and the blind would go scot-free.
+Or what if a small person kills a hero?
+Likewise, you do not need to amputate the leg of the reckless doctor who cut the wrong leg: the tort system, through courts, not regulation, thanks to the efforts of Ralph Nader, will impose some penalty, enough to protect consumers and citizens from powerful institutions.
+Clearly the legal system might produce some irritants (particularly with torts) and has its class of rent-seekers, but we are vastly better off complaining about lawyers than complaining about not having them.
+More practically, some economists have been trying to blame me for wanting to reverse the bankruptcy protection offered in modern times; some even accused me of wanting to bring back the guillotine for bankers.
+I am not that literal: it is just the matter of inflicting some penalty, just enough to make the Bob Rubin trade less attractive, and protect the public.
+Now, for some reason that escapes me, one of those strange things one finds only in France, Hammurabi's code, a stele in gray-black basalt, resides in the Louvre Museum in Paris.
+And the French, who normally know about a lot of things we don't know much about, don't seem to know about it; only Korean visitors with selfie sticks appear to have heard of the place.
+On my penultimate pilgrimage to the site, I happened to lecture French financiers in a conference room in the museum building about the ideas of this book, and the notion of skin in the game.
+I was speaking right after the man who, in spite of looks (and personality) quite similar to those found in Mesopotamian statues, epitomizes absence of skin in the game: former Federal Reserve governor Ben Bernanke.
+To my sorrow, when I publicly questioned the audience, using the irony of the situation, namely that almost four millennia ago we were sort of more sophisticated with these things, and that the monument was 300 feet from where I was lecturing, nobody in the room, in spite of the high culture of French financiers, figured out what I was talking about.
+Nobody was aware of Hammurabi beyond some player in Mesopotamian geopolitics, or suspected his connection to skin in the game and the accountability of bankers.
 Table 1 shows the progression of the rules of symmetry from Hammurabi onward, so let us climb the ladder.
 Table 1 • Evolution of Moral Symmetry From Taleb and Sandis, 2016 Hammurabi/Lex Talionis 15th Law of Holiness and Justi
 Silver Beats Gold
-We rapidly go through the rules to the right of Hammurabi. Leviticus is a sweetening of Hammurabi's rule. The Golden Rule wants you to Treat others the way you would like them to treat you. The more robust Silver Rule says Do not treat others the way you would not like them to treat you. More robust? How? Why is the Silver Rule more robust?
-First, it tells you to mind your own business and not decide what is "good" for others. We know with much more clarity what is bad than what is good. The Silver Rule can be seen as the Negative Golden Rule, and as I am shown by my Calabrese (and Calabrese-speaking) barber every three weeks, via negativa (acting by removing) is more powerful and less error-prone than via positiva (acting by addition).
-Now a word about the "others" in treat others. "You" can be singular or plural, hence it can designate an individual, a basketball team, or the Northeast Association of Calabrese-Speaking Barbers. Same with the "others." The idea is fractal, in the sense that it works at all scales: humans, tribes, societies, groups of societies, countries, etc., assuming each one is a separate standalone unit and can deal with other counterparts as such. Just as individuals should treat others the way they would like to be treated (or avoid being mistreated), families as units should treat other families in the same way. And, something that makes the interventionistas of Prologue 1 even more distasteful, so should countries. For Isocrates, the wise Athenian orator, warned us as early as the fifth century B.C. that nations should treat other nations according to the Silver Rule. He wrote:
+We rapidly go through the rules to the right of Hammurabi.
+Leviticus is a sweetening of Hammurabi's rule.
+The Golden Rule wants you to Treat others the way you would like them to treat you.
+The more robust Silver Rule says Do not treat others the way you would not like them to treat you.
+More robust?
+How?
+Why is the Silver Rule more robust?
+First, it tells you to mind your own business and not decide what is "good" for others.
+We know with much more clarity what is bad than what is good.
+The Silver Rule can be seen as the Negative Golden Rule, and as I am shown by my Calabrese (and Calabrese-speaking) barber every three weeks, via negativa (acting by removing) is more powerful and less error-prone than via positiva (acting by addition).
+Now a word about the "others" in treat others.
+"You" can be singular or plural, hence it can designate an individual, a basketball team, or the Northeast Association of Calabrese-Speaking Barbers.
+Same with the "others."
+The idea is fractal, in the sense that it works at all scales: humans, tribes, societies, groups of societies, countries, etc., assuming each one is a separate standalone unit and can deal with other counterparts as such.
+Just as individuals should treat others the way they would like to be treated (or avoid being mistreated), families as units should treat other families in the same way.
+And, something that makes the interventionistas of Prologue 1 even more distasteful, so should countries.
+For Isocrates, the wise Athenian orator, warned us as early as the fifth century B.C. that nations should treat other nations according to the Silver Rule.
+He wrote:
 "Deal with weaker states as you think it appropriate for stronger states to deal with you."
-Nobody embodies the notion of symmetry better than Isocrates, who lived more than a century and made significant contributions when he was in his nineties. He even managed a rare dynamic version of the Golden Rule: "Conduct yourself toward your parents as you would have your children conduct themselves toward you." We had to wait for the great baseball coach Yogi Berra to get another such dynamic rule for symmetric relations: "I go to other people's funerals so they come to mine."
+Nobody embodies the notion of symmetry better than Isocrates, who lived more than a century and made significant contributions when he was in his nineties.
+He even managed a rare dynamic version of the Golden Rule: "Conduct yourself toward your parents as you would have your children conduct themselves toward you."
+We had to wait for the great baseball coach Yogi Berra to get another such dynamic rule for symmetric relations: "I go to other people's funerals so they come to mine."
 More effective, of course, is the reverse direction, to treat one's children the way one wished to be treated by one's parents.
-The very idea behind the First Amendment of the Constitution of the United States is to establish a silver rule-style symmetry: you can practice your freedom of religion so long as you allow me to practice mine; you have the right to contradict me so long as I have the right to contradict you. Effectively, there is no democracy without such an unconditional symmetry in the rights to express yourself, and the gravest threat is the slippery slope in the attempts to limit speech on grounds that some of it may hurt some people's feelings. Such restrictions do not necessarily come from the state itself, rather from the forceful establishment of an intellectual monoculture by an overactive thought police in the media and cultural life.
+The very idea behind the First Amendment of the Constitution of the United States is to establish a silver rule-style symmetry: you can practice your freedom of religion so long as you allow me to practice mine; you have the right to contradict me so long as I have the right to contradict you.
+Effectively, there is no democracy without such an unconditional symmetry in the rights to express yourself, and the gravest threat is the slippery slope in the attempts to limit speech on grounds that some of it may hurt some people's feelings.
+Such restrictions do not necessarily come from the state itself, rather from the forceful establishment of an intellectual monoculture by an overactive thought police in the media and cultural life.
 Fuhgetaboud Universalism
-By applying symmetry to relations between individual and collective, we get virtue, classical virtue, what is now called "virtue ethics." But there is a next step: all the way to the right of Table 1 is Immanuel Kant's categorical imperative, which I summarize as: Behave as if your action can be generalized to the behavior of everyone in all places, under all conditions. The actual text is more challenging: "Act only in accordance with that maxim through which you can at the same time will that it will become a universal law," Kant wrote in what is known as the first formulation. And "act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end," in what is known as the second formulation.
-Formulation shmormulation, fughedaboud Kant as it gets too complicated and things that get complicated have a problem. So we will skip Kant's drastic approach for one main reason:
+By applying symmetry to relations between individual and collective, we get virtue, classical virtue, what is now called "virtue ethics."
+But there is a next step: all the way to the right of Table 1 is Immanuel Kant's categorical imperative, which I summarize as: Behave as if your action can be generalized to the behavior of everyone in all places, under all conditions.
+The actual text is more challenging: "Act only in accordance with that maxim through which you can at the same time will that it will become a universal law," Kant wrote in what is known as the first formulation.
+And "act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end," in what is known as the second formulation.
+Formulation shmormulation, fughedaboud Kant as it gets too complicated and things that get complicated have a problem.
+So we will skip Kant's drastic approach for one main reason:
 Universal behavior is great on paper, disastrous in practice.
-Why? As we will belabor ad nauseam in this book, we are local and practical animals, sensitive to scale. The small is not the large; the tangible is not the abstract; the emotional is not the logical. Just as we argued that micro works better than macro, it is best to avoid going to the very general when saying hello to your garage attendant. We should focus on our immediate environment; we need simple practical rules. Even worse: the general and the abstract tend to attract self-righteous psychopaths similar to the interventionistas of Part 1 of the Prologue.
-In other words, Kant did not get the notion of scaling - yet many of us are victims of Kant's universalism. (As we saw, modernity likes the abstract over the particular; social justice warriors have been accused of "treating people as categories, not individuals.") Few, outside of religion, really got the notion of scaling before the great political thinker Elinor Ostrom, about whom a bit in Chapter 1.
-In fact, the deep message of this book is the danger of universalism taken two or three steps too far - conflating the micro and the macro. Likewise the crux of the idea of The Black Swan was Platonification, missing central but hidden elements of a thing in the process of transforming it into an abstract construct, then causing a blowup.
-II. FROM KANT TO FAT TONY
-Let us move to the present, to the transactional, highly transactional present. In New Jersey, symmetry can simply mean, in Fat Tony's terms: don't give crap, don't take crap. His more practical approach is
-Start by being nice to every person you meet. But if someone tries to exercise power over you, exercise power over him.
-Who is Fat Tony? He is a character in the Incerto who, in demeanor, behavior, choices under uncertainty, conversation, lifestyle, waist size, and food habits would be the exact opposite of your State Department analyst or economics lecturer. He is also calm and unfazed unless one really gets him angry. He became wealthy by helping people he generically calls "the suckers" separate from their funds (or, as is often the case, those of their clients, as these people often gamble with other people's money).
-This symmetry thing happens to link directly to my own profession: option trader. In an option, one person (the buyer of the option), contractually has the upside (future gains), the other (the seller) has a liability for the downside (future losses), for a pre-agreed price. Just as in an insurance contract, where risk is transferred for a fee. Any meaningful disruption of such symmetry - with transfer of liabilities - invariably leads to an explosive situation, as we saw with the economic crisis of 2008.
-This symmetry thing also concerns the alignment of interests in a transaction. Let us refresh earlier arguments: if bankers' profits accrue to them, while their losses are somewhat quietly transferred to society (the Spanish grammar specialists, assistant schoolteachers…), there is a fundamental problem by which hidden risks will continuously increase, until the final blowup. Regulations, while appearing to be a remedy on paper, if anything, exacerbate the problem as they facilitate risk-hiding.
+Why?
+As we will belabor ad nauseam in this book, we are local and practical animals, sensitive to scale.
+The small is not the large; the tangible is not the abstract; the emotional is not the logical.
+Just as we argued that micro works better than macro, it is best to avoid going to the very general when saying hello to your garage attendant.
+We should focus on our immediate environment; we need simple practical rules.
+Even worse: the general and the abstract tend to attract self-righteous psychopaths similar to the interventionistas of Part 1 of the Prologue.
+In other words, Kant did not get the notion of scaling - yet many of us are victims of Kant's universalism.
+(As we saw, modernity likes the abstract over the particular; social justice warriors have been accused of "treating people as categories, not individuals.")
+Few, outside of religion, really got the notion of scaling before the great political thinker Elinor Ostrom, about whom a bit in Chapter 1.
+In fact, the deep message of this book is the danger of universalism taken two or three steps too far - conflating the micro and the macro.
+Likewise the crux of the idea of The Black Swan was Platonification, missing central but hidden elements of a thing in the process of transforming it into an abstract construct, then causing a blowup.
+II.
+FROM KANT TO FAT TONY
+Let us move to the present, to the transactional, highly transactional present.
+In New Jersey, symmetry can simply mean, in Fat Tony's terms: don't give crap, don't take crap.
+His more practical approach is
+Start by being nice to every person you meet.
+But if someone tries to exercise power over you, exercise power over him.
+Who is Fat Tony?
+He is a character in the Incerto who, in demeanor, behavior, choices under uncertainty, conversation, lifestyle, waist size, and food habits would be the exact opposite of your State Department analyst or economics lecturer.
+He is also calm and unfazed unless one really gets him angry.
+He became wealthy by helping people he generically calls "the suckers" separate from their funds (or, as is often the case, those of their clients, as these people often gamble with other people's money).
+This symmetry thing happens to link directly to my own profession: option trader.
+In an option, one person (the buyer of the option), contractually has the upside (future gains), the other (the seller) has a liability for the downside (future losses), for a pre-agreed price.
+Just as in an insurance contract, where risk is transferred for a fee.
+Any meaningful disruption of such symmetry - with transfer of liabilities - invariably leads to an explosive situation, as we saw with the economic crisis of 2008.
+This symmetry thing also concerns the alignment of interests in a transaction.
+Let us refresh earlier arguments: if bankers' profits accrue to them, while their losses are somewhat quietly transferred to society (the Spanish grammar specialists, assistant schoolteachers…), there is a fundamental problem by which hidden risks will continuously increase, until the final blowup.
+Regulations, while appearing to be a remedy on paper, if anything, exacerbate the problem as they facilitate risk-hiding.
 Which brings us to what is known as the agency problem.
 Crook, Fool, or Both
 One practical extension of the Silver Rule (as a reminder, it is the one that says Do not do to others what you don't want them to do to you):
 Avoid taking advice from someone who gives advice for a living, unless there is a penalty for their advice.
-Recall the earlier comment on how "I trust you" straddles both ethics and knowledge. There is always an element of fools of randomness and crooks of randomness in matters of uncertainty; one has a lack of understanding, the second has warped incentives. One, the fool, takes risks he doesn't understand, mistaking his own past luck for skills, the other, the crook, transfers risks to others. Economists, when they talk about skin in the game, are only concerned with the second.
-Let us flush out the idea of agency, well-known and studied by insurance companies. Simply, you know a lot more about your health than any insurer would. So you have an incentive to get an insurance policy when you detect an illness before someone else knows about it. By getting insured when it fits you, not when you are healthy, you end up costing the system more than you put into it, hence causing a raise in premia paid by all sorts of innocent people (including, again, the Spanish grammar specialists). Insurance companies have filters such as high deductibles and other methods to eliminate such imbalances.
+Recall the earlier comment on how "I trust you" straddles both ethics and knowledge.
+There is always an element of fools of randomness and crooks of randomness in matters of uncertainty; one has a lack of understanding, the second has warped incentives.
+One, the fool, takes risks he doesn't understand, mistaking his own past luck for skills, the other, the crook, transfers risks to others.
+Economists, when they talk about skin in the game, are only concerned with the second.
+Let us flush out the idea of agency, well-known and studied by insurance companies.
+Simply, you know a lot more about your health than any insurer would.
+So you have an incentive to get an insurance policy when you detect an illness before someone else knows about it.
+By getting insured when it fits you, not when you are healthy, you end up costing the system more than you put into it, hence causing a raise in premia paid by all sorts of innocent people (including, again, the Spanish grammar specialists).
+Insurance companies have filters such as high deductibles and other methods to eliminate such imbalances.
 The agency problem (or principal-agent problem) also manifests itself in the misalignment of interests in transactions: a vendor in a one-shot transaction does not have his interests aligned to yours - and so can hide stuff from you.
-But disincentive is not enough: the fool is a real thing. Some people do not know their own interest - just consider addicts, workaholics, people trapped in a bad relationship, people who support large government, the press, book reviewers, or respectable bureaucrats, all of whom for some mysterious reason act against their own interest. So there is this other instance where filtering plays a role: fools of randomness are purged by reality so they stop harming others. Recall that it is at the foundation of evolution that systems get smart by elimination.
+But disincentive is not enough: the fool is a real thing.
+Some people do not know their own interest - just consider addicts, workaholics, people trapped in a bad relationship, people who support large government, the press, book reviewers, or respectable bureaucrats, all of whom for some mysterious reason act against their own interest.
+So there is this other instance where filtering plays a role: fools of randomness are purged by reality so they stop harming others.
+Recall that it is at the foundation of evolution that systems get smart by elimination.
 There is another point: we may not know beforehand if an action is foolish - but reality knows.
 Causal Opacity and Preferences Revealed
-Let us now take the epistemological dimension of skin in the game to an even higher level. Skin in the game is about the real world, not appearances. As per Fat Tony's motto:
-You do not want to win an argument. You want to win.
-Indeed you need to win whatever you are after: money, territory, the heart of a grammar specialist, or a (pink) convertible car. For focusing just on words puts one on a very dangerous slope, since
+Let us now take the epistemological dimension of skin in the game to an even higher level.
+Skin in the game is about the real world, not appearances.
+As per Fat Tony's motto:
+You do not want to win an argument.
+You want to win.
+Indeed you need to win whatever you are after: money, territory, the heart of a grammar specialist, or a (pink) convertible car.
+For focusing just on words puts one on a very dangerous slope, since
 We are much better at doing than understanding.
-There is a difference between a charlatan and a genuinely skilled member of society, say that between a macrobull***ter political "scientist" and a plumber, or between a journalist and a mafia made man. The doer wins by doing, not convincing. Entire fields (say economics and other social sciences) become themselves charlatanic because of the absence of skin in the game connecting them back to earth (while the participants argue about "science"). Chapter 9 shows how they will develop elaborate rituals, titles, protocols, and formalities to hide this deficit.
+There is a difference between a charlatan and a genuinely skilled member of society, say that between a macrobull***ter political "scientist" and a plumber, or between a journalist and a mafia made man.
+The doer wins by doing, not convincing.
+Entire fields (say economics and other social sciences) become themselves charlatanic because of the absence of skin in the game connecting them back to earth (while the participants argue about "science").
+Chapter 9 shows how they will develop elaborate rituals, titles, protocols, and formalities to hide this deficit.
 You may not know in your mind where you are going, but you know it by doing.
-Even economics is based on the notion of "revealed preferences." What people "think" is not relevant - you want to avoid entering the mushy-soft and self-looping discipline of psychology. People's "explanations" for what they do are just words, stories they tell themselves, not the business of proper science. What they do, on the other hand, is tangible and measurable and that's what we should focus on. This axiom, perhaps even principle, is very powerful but is not followed too much by researchers. Revelation of preferences is best understood by the betrothed: a diamond, particularly when it is onerous to the buyer, is vastly more convincing a commitment (and much less reversible) than a verbal promise.
+Even economics is based on the notion of "revealed preferences."
+What people "think" is not relevant - you want to avoid entering the mushy-soft and self-looping discipline of psychology.
+People's "explanations" for what they do are just words, stories they tell themselves, not the business of proper science.
+What they do, on the other hand, is tangible and measurable and that's what we should focus on.
+This axiom, perhaps even principle, is very powerful but is not followed too much by researchers.
+Revelation of preferences is best understood by the betrothed: a diamond, particularly when it is onerous to the buyer, is vastly more convincing a commitment (and much less reversible) than a verbal promise.
 As to forecasting, fuhgetaboud it:
 Forecasting (in words) bears no relation to speculation (in deeds).
-I personally know rich horrible forecasters and poor "good" forecasters. Because what matters in life isn't how frequently one is "right" about outcomes, but how much one makes when one is right. Being wrong, when it is not costly, doesn't count - in a way that's similar to trial-and-error mechanisms of research.
-Exposures in real life, outside of games, are always too complicated to reduce to a well-defined "event" easy to describe in words. Outcomes in real life are not as in a baseball game, reduced to a binary win-or-lose outcome. Many exposures are highly nonlinear: you may be beneficially exposed to rain, but not to floods. The exact argument is flushed out in this author's technical works. Take for now that forecasting, especially when done with "science," is often the last refuge of the charlatan, and has been so since the beginning of times.
-Further, there is something called the inverse problem in mathematics, which is solved by - and only by - skin in the game. I will simplify for now as follows: it is harder for us to reverse-engineer than engineer; we see the result of evolutionary forces but cannot replicate them owing to their causal opacity. We can only run such processes forward. The very operation of Time (which we capitalize) and its irreversibility requires the filtering from skin in the game.
-Skin in the game helps to solve the Black Swan problem and other matters of uncertainty at the level of both the individual and the collective: what has survived has revealed its robustness to Black Swan events and removing skin in the game disrupts such selection mechanisms. Without skin in the game, we fail to get the Intelligence of Time (a manifestation of the Lindy effect, which will get an entire chapter, and by which 1) time removes the fragile and keeps the robust, and 2) the life expectancy of the nonfragile lengthens with time). Ideas have, indirectly, skin in the game, and populations that harbor them do as well.
-In that light - that of (causal) opacity and revelation of preferences - the Intelligence of Time under skin in the game even helps define rationality - the only definition of rationality I found that doesn't fall apart under logical scrutiny. A practice may appear to be irrational to an overeducated and naive (but punctual) observer who works in the French Ministry of Planning, because we humans are not intelligent enough to understand it - but it has worked for a long time. Is it rational? We have no grounds to reject it. But we know what is patently irrational: what threatens the survival of the collective first, the individual second. And, from a statistical standpoint, going against nature (and its statistical significance) is irrational. In spite of the noise funded by pesticide and other technological companies, there is no known rigorous definition of rationality that makes rejection of the "natural" rational; to the contrary. By definition, what works cannot be irrational; about every single person I know who has chronically failed in business shares that mental block, the failure to realize that if something stupid works (and makes money), it cannot be stupid.
-A system with skin-in-the-game requirements holds together through the notion of a sacrifice in order to protect the collective or entities higher in the hierarchy that are required to survive. "Survival talks and BS walks." Or as Fat Tony would put it: "Survival tawks and BS wawks." In other words:
+I personally know rich horrible forecasters and poor "good" forecasters.
+Because what matters in life isn't how frequently one is "right" about outcomes, but how much one makes when one is right.
+Being wrong, when it is not costly, doesn't count - in a way that's similar to trial-and-error mechanisms of research.
+Exposures in real life, outside of games, are always too complicated to reduce to a well-defined "event" easy to describe in words.
+Outcomes in real life are not as in a baseball game, reduced to a binary win-or-lose outcome.
+Many exposures are highly nonlinear: you may be beneficially exposed to rain, but not to floods.
+The exact argument is flushed out in this author's technical works.
+Take for now that forecasting, especially when done with "science," is often the last refuge of the charlatan, and has been so since the beginning of times.
+Further, there is something called the inverse problem in mathematics, which is solved by - and only by - skin in the game.
+I will simplify for now as follows: it is harder for us to reverse-engineer than engineer; we see the result of evolutionary forces but cannot replicate them owing to their causal opacity.
+We can only run such processes forward.
+The very operation of Time (which we capitalize) and its irreversibility requires the filtering from skin in the game.
+Skin in the game helps to solve the Black Swan problem and other matters of uncertainty at the level of both the individual and the collective: what has survived has revealed its robustness to Black Swan events and removing skin in the game disrupts such selection mechanisms.
+Without skin in the game, we fail to get the Intelligence of Time (a manifestation of the Lindy effect, which will get an entire chapter, and by which 1) time removes the fragile and keeps the robust, and 2) the life expectancy of the nonfragile lengthens with time).
+Ideas have, indirectly, skin in the game, and populations that harbor them do as well.
+In that light - that of (causal) opacity and revelation of preferences - the Intelligence of Time under skin in the game even helps define rationality - the only definition of rationality I found that doesn't fall apart under logical scrutiny.
+A practice may appear to be irrational to an overeducated and naive (but punctual) observer who works in the French Ministry of Planning, because we humans are not intelligent enough to understand it - but it has worked for a long time.
+Is it rational?
+We have no grounds to reject it.
+But we know what is patently irrational: what threatens the survival of the collective first, the individual second.
+And, from a statistical standpoint, going against nature (and its statistical significance) is irrational.
+In spite of the noise funded by pesticide and other technological companies, there is no known rigorous definition of rationality that makes rejection of the "natural" rational; to the contrary.
+By definition, what works cannot be irrational; about every single person I know who has chronically failed in business shares that mental block, the failure to realize that if something stupid works (and makes money), it cannot be stupid.
+A system with skin-in-the-game requirements holds together through the notion of a sacrifice in order to protect the collective or entities higher in the hierarchy that are required to survive.
+"Survival talks and BS walks."
+Or as Fat Tony would put it: "Survival tawks and BS wawks."
+In other words:
 What is rational is what allows the collective - entities meant to live for a long time - to survive.
-Not what is called "rational" in some unrigorous psychology or social science book. In that sense, contrary to what psychologists and psycholophasters will tell you, some "overestimation" of tail risk is not irrational by any metric, as it is more than required overall for survival. There are some risks we just cannot afford to take. And there are other risks (of the type academics shun) that we cannot afford to not take. This dimension, which bears the name "ergodic," is belabored in Chapter 19.
+Not what is called "rational" in some unrigorous psychology or social science book.
+In that sense, contrary to what psychologists and psycholophasters will tell you, some "overestimation" of tail risk is not irrational by any metric, as it is more than required overall for survival.
+There are some risks we just cannot afford to take.
+And there are other risks (of the type academics shun) that we cannot afford to not take.
+This dimension, which bears the name "ergodic," is belabored in Chapter 19.
 Skin in the Game, but Not All the Time
-Skin in the game is an overall necessity, but let us not get carried away in applying it to everything in sight in its every detail, particularly when consequences are contained. There is a difference between the interventionista of Prologue, Part 1 making pronouncements that cause thousands to be killed overseas, and a harmless opinion voiced by a person in a conversation, or a pronouncement by a fortune teller used for therapy rather than decision making. Our message is to focus on those who are professionally slanted, causing harm without being accountable for it, by the very structure of their own occupation.
-For the professionally asymmetric person is rare and has been so in history, and even in the present. He causes a lot of problems, but he is rare. For most people you run into in real life - bakers, cobblers, plumbers, taxi drivers, accountants, tax advisors, garbage collectors, dental cleaning assistants, carwash operators (not counting Spanish grammar specialists) - pay a price for their mistakes.
-III. MODERNISM
-While conforming to ancestral, ancient, and classical notions of justice, this book, relying on the same arguments of asymmetry, goes against a century and a half of modernistic thinking - something we will call here intellectualism. Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix a complex system by hierarchical approaches, that is, in a (ceremonial) top-down manner.
-Intellectualism has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a skeptical enterprise. Using mathematics when it's not needed is not science but scientism. Replacing your well-functioning hand with something more technological, say, an artificial one, is not more scientific. Replacing the "natural," that is age-old, processes that have survived trillions of high-dimensional stressors with something in a "peer-reviewed" journal that may not survive replication or statistical scrutiny is neither science nor good practice. At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics.
-Disrespect for the vapidly complicated, verbalistically derived truths has always been present in intellectual history, but you are not likely to see it in your local scientific reporter or college teacher: higher-order questioning requires more intellectual confidence, deeper understanding of statistical significance, and a higher level of rigor and intellectual capacity - or, even better, experience selling rugs or specialized spices in a souk. So this book continues a long tradition of skeptical-inquiry-cum-practical-solutions - the readers of the Incerto might be familiar with the schools of skeptics (covered in The Black Swan), in particular the twenty-two-century-old diatribe by Sextus Empiricus Against the Professors.
+Skin in the game is an overall necessity, but let us not get carried away in applying it to everything in sight in its every detail, particularly when consequences are contained.
+There is a difference between the interventionista of Prologue, Part 1 making pronouncements that cause thousands to be killed overseas, and a harmless opinion voiced by a person in a conversation, or a pronouncement by a fortune teller used for therapy rather than decision making.
+Our message is to focus on those who are professionally slanted, causing harm without being accountable for it, by the very structure of their own occupation.
+For the professionally asymmetric person is rare and has been so in history, and even in the present.
+He causes a lot of problems, but he is rare.
+For most people you run into in real life - bakers, cobblers, plumbers, taxi drivers, accountants, tax advisors, garbage collectors, dental cleaning assistants, carwash operators (not counting Spanish grammar specialists) - pay a price for their mistakes.
+III.
+MODERNISM
+While conforming to ancestral, ancient, and classical notions of justice, this book, relying on the same arguments of asymmetry, goes against a century and a half of modernistic thinking - something we will call here intellectualism.
+Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix a complex system by hierarchical approaches, that is, in a (ceremonial) top-down manner.
+Intellectualism has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a skeptical enterprise.
+Using mathematics when it's not needed is not science but scientism.
+Replacing your well-functioning hand with something more technological, say, an artificial one, is not more scientific.
+Replacing the "natural," that is age-old, processes that have survived trillions of high-dimensional stressors with something in a "peer-reviewed" journal that may not survive replication or statistical scrutiny is neither science nor good practice.
+At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics.
+Disrespect for the vapidly complicated, verbalistically derived truths has always been present in intellectual history, but you are not likely to see it in your local scientific reporter or college teacher: higher-order questioning requires more intellectual confidence, deeper understanding of statistical significance, and a higher level of rigor and intellectual capacity - or, even better, experience selling rugs or specialized spices in a souk.
+So this book continues a long tradition of skeptical-inquiry-cum-practical-solutions - the readers of the Incerto might be familiar with the schools of skeptics (covered in The Black Swan), in particular the twenty-two-century-old diatribe by Sextus Empiricus Against the Professors.
 The rule is:
 Those who talk should do and only those who do should talk
-with some dispensation for self-standing activities such as mathematics, rigorous philosophy, poetry, and art, ones that do not make explicit claims of fitting reality. As the great game theorist Ariel Rubinstein holds: do your theories or mathematical representations, don't tell people in the real world how to apply them. Let those with skin in the game select what they need.
+with some dispensation for self-standing activities such as mathematics, rigorous philosophy, poetry, and art, ones that do not make explicit claims of fitting reality.
+As the great game theorist Ariel Rubinstein holds: do your theories or mathematical representations, don't tell people in the real world how to apply them.
+Let those with skin in the game select what they need.
 Let us get more practical about the side effect of modernism: as things get more technological, there is a growing separation between the maker and the user.
 How to Beam Light on a Speaker
-Those who give lectures to large audiences notice that they - and other speakers - are uncomfortable on the stage. The reason, it took me a decade to figure out, is that the stage light beaming into our eyes hinders our concentration. (This is how police interrogations of suspects used to be run: beam a light on the suspect, and wait for him to start "singing.") But in the thick of the lecture, speakers can't identify what is wrong, so they attribute the loss of concentration to, simply, being on the stage. So the practice continues. Why? Because those who lecture to large audiences don't work on lighting and light engineers don't lecture to large audiences.
-Another small example of top-down progress: Metro North, the railroad between New York City and its northern suburbs, renovated its trains, in a total overhaul. Trains look more modern, neater, have brighter colors, and even have such amenities as power plugs for your computer (that nobody uses). But on the edge, by the wall, there used to be a flat ledge where one can put the morning cup of coffee: it is hard to read a book while holding a coffee cup. The designer (who either doesn't ride trains or rides trains but doesn't drink coffee while reading), thinking it is an aesthetic improvement, made the ledge slightly tilted, so it is impossible to put the cup on it.
-This explains the more severe problems of landscaping and architecture: architects today build to impress other architects, and we end up with strange - irreversible - structures that do not satisfy the well-being of their residents; it takes time and a lot of progressive tinkering for that. Or some specialist sitting in the ministry of urban planning who doesn't live in the community will produce the equivalent of the tilted ledge - as an improvement, except at a much larger scale.
+Those who give lectures to large audiences notice that they - and other speakers - are uncomfortable on the stage.
+The reason, it took me a decade to figure out, is that the stage light beaming into our eyes hinders our concentration.
+(This is how police interrogations of suspects used to be run: beam a light on the suspect, and wait for him to start "singing.")
+But in the thick of the lecture, speakers can't identify what is wrong, so they attribute the loss of concentration to, simply, being on the stage.
+So the practice continues.
+Why?
+Because those who lecture to large audiences don't work on lighting and light engineers don't lecture to large audiences.
+Another small example of top-down progress: Metro North, the railroad between New York City and its northern suburbs, renovated its trains, in a total overhaul.
+Trains look more modern, neater, have brighter colors, and even have such amenities as power plugs for your computer (that nobody uses).
+But on the edge, by the wall, there used to be a flat ledge where one can put the morning cup of coffee: it is hard to read a book while holding a coffee cup.
+The designer (who either doesn't ride trains or rides trains but doesn't drink coffee while reading), thinking it is an aesthetic improvement, made the ledge slightly tilted, so it is impossible to put the cup on it.
+This explains the more severe problems of landscaping and architecture: architects today build to impress other architects, and we end up with strange - irreversible - structures that do not satisfy the well-being of their residents; it takes time and a lot of progressive tinkering for that.
+Or some specialist sitting in the ministry of urban planning who doesn't live in the community will produce the equivalent of the tilted ledge - as an improvement, except at a much larger scale.
 Specialization, as I will keep insisting, comes with side effects, one of which is separating labor from the fruits of labor.
 Simplicity
-Now skin in the game brings simplicity - the disarming simplicity of things properly done. People who see complicated solutions do not have an incentive to implement simplified ones. As we saw, a bureaucratized system will increase in complication from the interventionism of people who sell complicated solutions because that's what their position and training invite them to do.
+Now skin in the game brings simplicity - the disarming simplicity of things properly done.
+People who see complicated solutions do not have an incentive to implement simplified ones.
+As we saw, a bureaucratized system will increase in complication from the interventionism of people who sell complicated solutions because that's what their position and training invite them to do.
 Things designed by people without skin in the game tend to grow in complication (before their final collapse).
-There is absolutely no benefit for someone in such a position to propose something simple: when you are rewarded for perception, not results, you need to show sophistication. Anyone who has submitted a "scholarly" paper to a journal knows that you usually raise the odds of acceptance by making it more complicated than necessary. Further, there are side effects for problems that grow nonlinearly with such branching-out complications. Worse:
+There is absolutely no benefit for someone in such a position to propose something simple: when you are rewarded for perception, not results, you need to show sophistication.
+Anyone who has submitted a "scholarly" paper to a journal knows that you usually raise the odds of acceptance by making it more complicated than necessary.
+Further, there are side effects for problems that grow nonlinearly with such branching-out complications.
+Worse:
 Non-skin-in-the-game people don't get simplicity.
 I Am Dumb Without Skin in the Game
-Let us return to pathematamathemata (learning through pain) and consider its reverse: learning through thrills and pleasure. People have two brains, one when there is skin in the game, one when there is none. Skin in the game can make boring things less boring. When you have skin in the game, dull things like checking the safety of the aircraft because you may be forced to be a passenger in it cease to be boring. If you are an investor in a company, doing ultra-boring things like reading the footnotes of a financial statement (where the real information is to be found) becomes, well, almost not boring.
-But there is an even more vital dimension. Many addicts who normally have a dull intellect and the mental nimbleness of a cauliflower - or a foreign policy expert - are capable of the most ingenious tricks to procure their drugs. When they undergo rehab, they are often told that should they spend half the mental energy trying to make money as they did procuring drugs, they are guaranteed to become millionaires. But, to no avail. Without the addiction, their miraculous powers go away. It was like a magical potion that gave remarkable powers to those seeking it, but not those drinking it.
-A confession. When I don't have skin in the game, I am usually dumb. My knowledge of technical matters, such as risk and probability, did not initially come from books. It did not come from lofty philosophizing and scientific hunger. It did not even come from curiosity. It came from the thrills and hormonal flush one gets while taking risks in the markets. I never thought mathematics was something interesting to me until, when I was at Wharton, a friend told me about the financial options I described earlier (and their generalization, complex derivatives). I immediately decided to make a career in them. It was a combination of financial trading and complicated probability. The field was new and uncharted. I knew in my guts there were mistakes in the theories that used the conventional bell curve and ignored the impact of the tails (extreme events). I knew in my guts that academics had not the slightest clue about the risks. So, to find errors in the estimation of these probabilistic securities, I had to study probability, which mysteriously and instantly became fun, even gripping.
-When there was risk on the line, suddenly a second brain in me manifested itself, and the probabilities of intricate sequences became suddenly effortless to analyze and map. When there is fire, you will run faster than in any competition. When you ski downhill some movements become effortless. Then I became dumb again when there was no real action. Furthermore, as traders the mathematics we used fit our problem like a glove, unlike academics with a theory looking for some application - in some cases we had to invent models out of thin air and could not afford the wrong equations. Applying math to practical problems was another business altogether; it meant a deep understanding of the problem before writing the equations.
-But if you muster the strength to weight-lift a car to save a child, above your current abilities, the strength gained will stay after things calm down. So, unlike the drug addict who loses his resourcefulness, what you learn from the intensity and the focus you had when under the influence of risk stays with you. You may lose the sharpness, but nobody can take away what you've learned. This is the principal reason I am now fighting the conventional educational system, made by dweebs for dweebs. Many kids would learn to love mathematics if they had some investment in it, and, more crucially, they would build an instinct to spot its misapplications.
+Let us return to pathematamathemata (learning through pain) and consider its reverse: learning through thrills and pleasure.
+People have two brains, one when there is skin in the game, one when there is none.
+Skin in the game can make boring things less boring.
+When you have skin in the game, dull things like checking the safety of the aircraft because you may be forced to be a passenger in it cease to be boring.
+If you are an investor in a company, doing ultra-boring things like reading the footnotes of a financial statement (where the real information is to be found) becomes, well, almost not boring.
+But there is an even more vital dimension.
+Many addicts who normally have a dull intellect and the mental nimbleness of a cauliflower - or a foreign policy expert - are capable of the most ingenious tricks to procure their drugs.
+When they undergo rehab, they are often told that should they spend half the mental energy trying to make money as they did procuring drugs, they are guaranteed to become millionaires.
+But, to no avail.
+Without the addiction, their miraculous powers go away.
+It was like a magical potion that gave remarkable powers to those seeking it, but not those drinking it.
+A confession.
+When I don't have skin in the game, I am usually dumb.
+My knowledge of technical matters, such as risk and probability, did not initially come from books.
+It did not come from lofty philosophizing and scientific hunger.
+It did not even come from curiosity.
+It came from the thrills and hormonal flush one gets while taking risks in the markets.
+I never thought mathematics was something interesting to me until, when I was at Wharton, a friend told me about the financial options I described earlier (and their generalization, complex derivatives).
+I immediately decided to make a career in them.
+It was a combination of financial trading and complicated probability.
+The field was new and uncharted.
+I knew in my guts there were mistakes in the theories that used the conventional bell curve and ignored the impact of the tails (extreme events).
+I knew in my guts that academics had not the slightest clue about the risks.
+So, to find errors in the estimation of these probabilistic securities, I had to study probability, which mysteriously and instantly became fun, even gripping.
+When there was risk on the line, suddenly a second brain in me manifested itself, and the probabilities of intricate sequences became suddenly effortless to analyze and map.
+When there is fire, you will run faster than in any competition.
+When you ski downhill some movements become effortless.
+Then I became dumb again when there was no real action.
+Furthermore, as traders the mathematics we used fit our problem like a glove, unlike academics with a theory looking for some application - in some cases we had to invent models out of thin air and could not afford the wrong equations.
+Applying math to practical problems was another business altogether; it meant a deep understanding of the problem before writing the equations.
+But if you muster the strength to weight-lift a car to save a child, above your current abilities, the strength gained will stay after things calm down.
+So, unlike the drug addict who loses his resourcefulness, what you learn from the intensity and the focus you had when under the influence of risk stays with you.
+You may lose the sharpness, but nobody can take away what you've learned.
+This is the principal reason I am now fighting the conventional educational system, made by dweebs for dweebs.
+Many kids would learn to love mathematics if they had some investment in it, and, more crucially, they would build an instinct to spot its misapplications.
 Regulations vs. Legal Systems
-There are two ways to make citizens safe from large predators, say, big powerful corporations. The first one is to enact regulations - but these, aside from restricting individual freedoms, lead to another predation, this time by the state, its agents, and their cronies. More critically, people with good lawyers can game regulations (or, as we will see, make it known that they hire former regulators, and overpay for them, which signals a prospective bribe to those currently in office). And of course regulations, once in, stay in, and even when they are proven absurd, politicians are afraid of repealing them, under pressure from those benefiting from them. Given that regulations are additive, we soon end up tangled in complicated rules that choke enterprise. They also choke life.
-For there are always parasites benefiting from regulation, situations where the businessperson uses government to derive profits, often through protective regulations and franchises. The mechanism is called regulatory recapture, as it cancels the effect of what a regulation was meant to do.
-The other solution is to put skin in the game in transactions, in the form of legal liability, and the possibility of an efficient lawsuit. The Anglo-Saxon world has traditionally had a predilection for the legal approach instead of the regulatory one: if you harm me, I can sue you. This has led to the very sophisticated, adaptive, and balanced common law, built bottom-up, via trial and error. When people transact, they almost always prefer to agree (as part of the contract) on a Commonwealth (or formerly British-ruled) venue as a forum in the event of a dispute: Hong Kong and Singapore are the favorites in Asia, London and New York in the West. Common law is about the spirit while regulation, owing to its rigidity, is all about the letter.
-If a big corporation pollutes your neighborhood, you can get together with your neighbors and sue the hell out of it. Some greedy lawyer will have the paperwork ready. The enemies of the corporation will be glad to help. And the potential costs of the settlement would be enough of a deterrent for the corporation to behave.
-This doesn't mean one should never regulate at all. Some systemic effects may require regulation (say hidden tail risks of environmental ruins that show up too late). If you can't effectively sue, regulate.
-Now, even if regulations had a small net payoff for society, I would still prefer to be as free as possible, but assume my civil responsibility, face my fate, and pay the penalty if I harm others. This attitude is called deontic libertarianism (deontic comes from "duties"): by regulating you are robbing people of freedom. Some of us believe that freedom is one's first most essential good. This includes the freedom to make mistakes (those that harm only you); it is sacred to the point that it must never be traded against economic or other benefits.
-IV. SOUL IN THE GAME
+There are two ways to make citizens safe from large predators, say, big powerful corporations.
+The first one is to enact regulations - but these, aside from restricting individual freedoms, lead to another predation, this time by the state, its agents, and their cronies.
+More critically, people with good lawyers can game regulations (or, as we will see, make it known that they hire former regulators, and overpay for them, which signals a prospective bribe to those currently in office).
+And of course regulations, once in, stay in, and even when they are proven absurd, politicians are afraid of repealing them, under pressure from those benefiting from them.
+Given that regulations are additive, we soon end up tangled in complicated rules that choke enterprise.
+They also choke life.
+For there are always parasites benefiting from regulation, situations where the businessperson uses government to derive profits, often through protective regulations and franchises.
+The mechanism is called regulatory recapture, as it cancels the effect of what a regulation was meant to do.
+The other solution is to put skin in the game in transactions, in the form of legal liability, and the possibility of an efficient lawsuit.
+The Anglo-Saxon world has traditionally had a predilection for the legal approach instead of the regulatory one: if you harm me, I can sue you.
+This has led to the very sophisticated, adaptive, and balanced common law, built bottom-up, via trial and error.
+When people transact, they almost always prefer to agree (as part of the contract) on a Commonwealth (or formerly British-ruled) venue as a forum in the event of a dispute: Hong Kong and Singapore are the favorites in Asia, London and New York in the West.
+Common law is about the spirit while regulation, owing to its rigidity, is all about the letter.
+If a big corporation pollutes your neighborhood, you can get together with your neighbors and sue the hell out of it.
+Some greedy lawyer will have the paperwork ready.
+The enemies of the corporation will be glad to help.
+And the potential costs of the settlement would be enough of a deterrent for the corporation to behave.
+This doesn't mean one should never regulate at all.
+Some systemic effects may require regulation (say hidden tail risks of environmental ruins that show up too late).
+If you can't effectively sue, regulate.
+Now, even if regulations had a small net payoff for society, I would still prefer to be as free as possible, but assume my civil responsibility, face my fate, and pay the penalty if I harm others.
+This attitude is called deontic libertarianism (deontic comes from "duties"): by regulating you are robbing people of freedom.
+Some of us believe that freedom is one's first most essential good.
+This includes the freedom to make mistakes (those that harm only you); it is sacred to the point that it must never be traded against economic or other benefits.
+IV.
+SOUL IN THE GAME
 Finally and centrally, skin in the game is about honor as an existential commitment, and risk taking (a certain class of risks) as a separation between man and machine and (some may hate it) a ranking of humans.
 If you do not take risks for your opinion, you are nothing.
-And I will keep mentioning that I have no other definition of success than leading an honorable life. We intimated that it is dishonorable to let others die in your stead.
-Honor implies that there are some actions you would categorically never do, regardless of the material rewards. She accepts no Faustian bargain, would not sell her body for $500; it also means she wouldn't do it for a million, nor a billion, nor a trillion. And it is not just a via negativa stance, honor means that there are things you would do unconditionally, regardless of the consequences. Consider duels, which have robbed us of the great Russian poet Pushkin, the French mathematician Galois, and, of course, many more, at a young age (and, in the case of Galois, a very young age): people incurred a significant probability of death just to save face. Living as a coward was simply no option, and death was vastly preferable, even if, as in the case of Galois, one invented a new and momentous branch of mathematics while still a teenager. As a Spartan mother tells her departing son: "With it or on it," meaning either return with your shield or don't come back alive (the custom was to carry the dead body flat on it); only cowards throw away their shields to run faster.
-If you want to consider how modernity has destroyed some of the foundations of human values, contrast the above unconditionals with modernistic accommodations: people who, say, work for disgusting lobbies (representing the interests of, say, Saudi Arabia in Washington) or knowingly play the usual unethical academic game, come to grips with their condition by producing arguments such as "I have children to put through college." People who are not morally independent tend to fit ethics to their profession (with a minimum of spinning), rather than find a profession that fits their ethics.
+And I will keep mentioning that I have no other definition of success than leading an honorable life.
+We intimated that it is dishonorable to let others die in your stead.
+Honor implies that there are some actions you would categorically never do, regardless of the material rewards.
+She accepts no Faustian bargain, would not sell her body for $500; it also means she wouldn't do it for a million, nor a billion, nor a trillion.
+And it is not just a via negativa stance, honor means that there are things you would do unconditionally, regardless of the consequences.
+Consider duels, which have robbed us of the great Russian poet Pushkin, the French mathematician Galois, and, of course, many more, at a young age (and, in the case of Galois, a very young age): people incurred a significant probability of death just to save face.
+Living as a coward was simply no option, and death was vastly preferable, even if, as in the case of Galois, one invented a new and momentous branch of mathematics while still a teenager.
+As a Spartan mother tells her departing son: "With it or on it," meaning either return with your shield or don't come back alive (the custom was to carry the dead body flat on it); only cowards throw away their shields to run faster.
+If you want to consider how modernity has destroyed some of the foundations of human values, contrast the above unconditionals with modernistic accommodations: people who, say, work for disgusting lobbies (representing the interests of, say, Saudi Arabia in Washington) or knowingly play the usual unethical academic game, come to grips with their condition by producing arguments such as "I have children to put through college."
+People who are not morally independent tend to fit ethics to their profession (with a minimum of spinning), rather than find a profession that fits their ethics.
 Now there is another dimension of honor: engaging in actions going beyond mere skin in the game to put oneself at risk for others, have your skin in other people's game; sacrifice something significant for the sake of the collective.
 However, there are activities in which one is imbued with a sense of pride and honor without grand-scale sacrifice: artisanal ones.
 Artisans
 Anything you do to optimize your work, cut some corners, or squeeze more "efficiency" out of it (and out of your life) will eventually make you dislike it.
 Artisans have their soul in the game.
-Primo, artisans do things for existential reasons first, financial and commercial ones later. Their decision making is never fully financial, but it remains financial. Secundo, they have some type of "art" in their profession; they stay away from most aspects of industrialization; they combine art and business. Tertio, they put some soul in their work: they would not sell something defective or even of compromised quality because it hurts their pride. Finally, they have sacred taboos, things they would not do even if it markedly increased profitability.
-Compendiaria res improbitas, virtusque tarda - the villainous takes the short road, virtue the longer one. In other words, cutting corners is dishonest.
-Let me illustrate with my own profession. It is easy to see that a writer is effectively an artisan: book sales are not the end motive, only a secondary target (even then). You preserve some sanctity of the product with strong prohibitions. For instance, in the early 2000s, the writer Fay Weldon was paid by the jewelry chain Bulgari to advertise their brand by weaving recommendations for their great products into the plot of her novel. A nightmare ensued; there was a generalized feeling of disgust on the part of the literary community.
-I also recall in the 1980s some people trying to give away books for free, but with advertisements in the midst of the text, as with magazines. The project failed.
-Nor do we industrialize writing. You would be disappointed if I hired a group of writers to "help" as it would be more efficient. Some authors, such as Jerzy Kosinski, have tried to write books by subcontracting sections, leading to a complete ostracism after the discovery. Few of those writers-cum-contractors have seen their work survive. But there are exceptions, such as Alexandre Dumas père who was said to run a workshop of ghostwriters (forty-five), which allowed him to scale his production up to one hundred and fifty novels, with the joke that he read some of his own books. But in general, output is not scalable (even if the sales of a book are). Dumas may be the exception that confirms the rule.
-Now, something very practical. One of the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant. The mere presence of an assistant suspends your natural filtering - and its absence forces you to do only things you enjoy, and progressively steer your life that way. (By assistant here I exclude someone hired for a specific task, such as grading papers, helping with accounting, or watering plants; just some guardian angel overseeing all your activities). This is a via negativa approach: you want maximal free time, not maximal activity, and you can assess your own "success" according to such metric. Otherwise, you end up assisting your assistants, or being forced to "explain" how to do things, which requires more mental effort than doing the thing itself. In fact, beyond my writing and research life, this has proved to be great financial advice as I am freer, more nimble, and have a very high benchmark for doing something, while my peers have their days filled with unnecessary "meetings" and unnecessary correspondence.
+Primo, artisans do things for existential reasons first, financial and commercial ones later.
+Their decision making is never fully financial, but it remains financial.
+Secundo, they have some type of "art" in their profession; they stay away from most aspects of industrialization; they combine art and business.
+Tertio, they put some soul in their work: they would not sell something defective or even of compromised quality because it hurts their pride.
+Finally, they have sacred taboos, things they would not do even if it markedly increased profitability.
+Compendiaria res improbitas, virtusque tarda - the villainous takes the short road, virtue the longer one.
+In other words, cutting corners is dishonest.
+Let me illustrate with my own profession.
+It is easy to see that a writer is effectively an artisan: book sales are not the end motive, only a secondary target (even then).
+You preserve some sanctity of the product with strong prohibitions.
+For instance, in the early 2000s, the writer Fay Weldon was paid by the jewelry chain Bulgari to advertise their brand by weaving recommendations for their great products into the plot of her novel.
+A nightmare ensued; there was a generalized feeling of disgust on the part of the literary community.
+I also recall in the 1980s some people trying to give away books for free, but with advertisements in the midst of the text, as with magazines.
+The project failed.
+Nor do we industrialize writing.
+You would be disappointed if I hired a group of writers to "help" as it would be more efficient.
+Some authors, such as Jerzy Kosinski, have tried to write books by subcontracting sections, leading to a complete ostracism after the discovery.
+Few of those writers-cum-contractors have seen their work survive.
+But there are exceptions, such as Alexandre Dumas père who was said to run a workshop of ghostwriters (forty-five), which allowed him to scale his production up to one hundred and fifty novels, with the joke that he read some of his own books.
+But in general, output is not scalable (even if the sales of a book are).
+Dumas may be the exception that confirms the rule.
+Now, something very practical.
+One of the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
+The mere presence of an assistant suspends your natural filtering - and its absence forces you to do only things you enjoy, and progressively steer your life that way.
+(By assistant here I exclude someone hired for a specific task, such as grading papers, helping with accounting, or watering plants; just some guardian angel overseeing all your activities).
+This is a via negativa approach: you want maximal free time, not maximal activity, and you can assess your own "success" according to such metric.
+Otherwise, you end up assisting your assistants, or being forced to "explain" how to do things, which requires more mental effort than doing the thing itself.
+In fact, beyond my writing and research life, this has proved to be great financial advice as I am freer, more nimble, and have a very high benchmark for doing something, while my peers have their days filled with unnecessary "meetings" and unnecessary correspondence.
 Having an assistant (except for the strictly necessary) removes your soul from the game.
-Think of the effect of using a handheld translator on your next trip to Mexico in place of acquiring a robust vocabulary in Spanish by contact with locals. Assistance moves you one step away from authenticity.
-Academics can be artisans. Even those economists who, misunderstanding Adam Smith, claim that humans are here to "seek maximization" of their income, express these ideas for free, and boast to not be into lowly commercial profit seeking, not seeing the contradiction.
+Think of the effect of using a handheld translator on your next trip to Mexico in place of acquiring a robust vocabulary in Spanish by contact with locals.
+Assistance moves you one step away from authenticity.
+Academics can be artisans.
+Even those economists who, misunderstanding Adam Smith, claim that humans are here to "seek maximization" of their income, express these ideas for free, and boast to not be into lowly commercial profit seeking, not seeing the contradiction.
 A Caveat with Entrepreneurs
-Entrepreneurs are heroes in our society. They fail for the rest of us. But owing to funding and current venture capital mechanisms, many people mistaken for entrepreneurs fail to have true skin in the game in the sense that their aim is to either cash out by selling the company they helped create to someone else, or "go public" by issuing shares in the stock market. The true value of the company, what it makes, and its long-term survival are of small relevance to them. This is a pure financing scheme and we will exclude this class of people from our "entrepreneur" risk-taker class (this form of entrepreneurship is the equivalent of bringing great-looking and marketable children into the world with the sole aim of selling them at age four). We can easily identify them by their ability to write a convincing business plan.
-Companies beyond the entrepreneur stage start to rot. One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties. Once you change assignment - or, better, company - you can now say about the deep Bob Rubin-style risks that emerge: "It's not my problem anymore." The same happens when you sell out, so remember that:
+Entrepreneurs are heroes in our society.
+They fail for the rest of us.
+But owing to funding and current venture capital mechanisms, many people mistaken for entrepreneurs fail to have true skin in the game in the sense that their aim is to either cash out by selling the company they helped create to someone else, or "go public" by issuing shares in the stock market.
+The true value of the company, what it makes, and its long-term survival are of small relevance to them.
+This is a pure financing scheme and we will exclude this class of people from our "entrepreneur" risk-taker class (this form of entrepreneurship is the equivalent of bringing great-looking and marketable children into the world with the sole aim of selling them at age four).
+We can easily identify them by their ability to write a convincing business plan.
+Companies beyond the entrepreneur stage start to rot.
+One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties.
+Once you change assignment - or, better, company - you can now say about the deep Bob Rubin-style risks that emerge: "It's not my problem anymore."
+The same happens when you sell out, so remember that:
 The skills at making things diverge from those at selling things.
 Arrogant Will Do
-Products or companies that bear the owner's name convey very valuable messages. They are shouting that they have something to lose. Eponymy indicates both a commitment to the company and a confidence in the product. A friend of mine, Paul Wilmott, is often called an egomaniac for having his name on a mathematical finance technical journal (Wilmott), which at the time of writing is undoubtedly the best. "Egomaniac" is good for the product. But if you can't get "egomaniac," "arrogant" will do.
+Products or companies that bear the owner's name convey very valuable messages.
+They are shouting that they have something to lose.
+Eponymy indicates both a commitment to the company and a confidence in the product.
+A friend of mine, Paul Wilmott, is often called an egomaniac for having his name on a mathematical finance technical journal (Wilmott), which at the time of writing is undoubtedly the best.
+"Egomaniac" is good for the product.
+But if you can't get "egomaniac," "arrogant" will do.
 Citizenship de Plaisance
-Many well-to-do people who come to live in the United States avoid becoming citizens while living here indefinitely. They have a permanent residence permit as a free option, as it is a right, but not an obligation, for they can return it with a simple procedure. You ask them why they don't take the oath in front of a judge, then throw a cocktail party at a waterfront country club. The typical answer is: taxes. Once you become a U.S. citizen, you will have to pay taxes on your worldwide income, even if you live overseas. And it is not easily reversible, so you lose the optionality. But other Western countries, such as France and the United Kingdom, allow their citizens considerable exemptions if they reside in some tax haven. This invites a collection of people to "buy" a citizenship via investments and minimum residence, get the passport, then go live somewhere tax-free.
-A country should not tolerate fair-weather friends. There is something offensive in having a nationality without skin in the game, just to travel and pass borders, without the downside that comes with the passport.
-My parents are French citizens, which would have made it easy for me to get naturalized a few decades ago. But it did not feel right; it even felt downright offensive. And unless I developed an emotional attachment to France via skin in the game, I couldn't. It would have felt fake to see my bearded face on a French passport. The only passport I would have considered is the Greek (or Cypriot) one, as I feel some deep ancestral and socio-cultural bond to the Hellenistic world.
-But I came to the U.S., embraced the place, and took the passport as commitment: it became my identity, good or bad, tax or no tax. Many people made fun of my decision, as most of my income comes from overseas and, if I took official residence in, say, Cyprus or Malta, I would be making many more dollars. If wanted to lower taxes for myself, and I do, I am obligated to fight for it, for both myself and the collective, other taxpayers, and to not run away.
+Many well-to-do people who come to live in the United States avoid becoming citizens while living here indefinitely.
+They have a permanent residence permit as a free option, as it is a right, but not an obligation, for they can return it with a simple procedure.
+You ask them why they don't take the oath in front of a judge, then throw a cocktail party at a waterfront country club.
+The typical answer is: taxes.
+Once you become a U.S. citizen, you will have to pay taxes on your worldwide income, even if you live overseas.
+And it is not easily reversible, so you lose the optionality.
+But other Western countries, such as France and the United Kingdom, allow their citizens considerable exemptions if they reside in some tax haven.
+This invites a collection of people to "buy" a citizenship via investments and minimum residence, get the passport, then go live somewhere tax-free.
+A country should not tolerate fair-weather friends.
+There is something offensive in having a nationality without skin in the game, just to travel and pass borders, without the downside that comes with the passport.
+My parents are French citizens, which would have made it easy for me to get naturalized a few decades ago.
+But it did not feel right; it even felt downright offensive.
+And unless I developed an emotional attachment to France via skin in the game, I couldn't.
+It would have felt fake to see my bearded face on a French passport.
+The only passport I would have considered is the Greek (or Cypriot) one, as I feel some deep ancestral and socio-cultural bond to the Hellenistic world.
+But I came to the U.S., embraced the place, and took the passport as commitment: it became my identity, good or bad, tax or no tax.
+Many people made fun of my decision, as most of my income comes from overseas and, if I took official residence in, say, Cyprus or Malta, I would be making many more dollars.
+If wanted to lower taxes for myself, and I do, I am obligated to fight for it, for both myself and the collective, other taxpayers, and to not run away.
 Skin in the game.
 Heroes Were Not Library Rats
-If you want to study classical values such as courage or learn about stoicism, don't necessarily look for classicists. One is never a career academic without a reason. Read the texts themselves: Seneca, Caesar, or Marcus Aurelius, when possible. Or read commentators on the classics who were doers themselves, such as Montaigne - people who at some point had some skin in the game, then retired to write books. Avoid the intermediary, when possible. Or fuhgetaboud the texts, just engage in acts of courage.
+If you want to study classical values such as courage or learn about stoicism, don't necessarily look for classicists.
+One is never a career academic without a reason.
+Read the texts themselves: Seneca, Caesar, or Marcus Aurelius, when possible.
+Or read commentators on the classics who were doers themselves, such as Montaigne - people who at some point had some skin in the game, then retired to write books.
+Avoid the intermediary, when possible.
+Or fuhgetaboud the texts, just engage in acts of courage.
 For studying courage in textbooks doesn't make you any more courageous than eating cow meat makes you bovine.
-By some mysterious mental mechanism, people fail to realize that the principal thing you can learn from a professor is how to be a professor - and the chief thing you can learn from, say, a life coach or inspirational speaker is how to become a life coach or inspirational speaker. So remember that the heroes of history were not classicists and library rats, those people who live vicariously in their texts. They were people of deeds and had to be endowed with the spirit of risk taking. To get into their psyches, you will need someone other than a career professor teaching stoicism. They almost always don't get it (actually, they never get it). In my experience, from a series of personal fights, many of these "classicists," who know in intimate detail what people of courage such as Alexander, Cleopatra, Caesar, Hannibal, Julian, Leonidas, Zenobia ate for breakfast, can't produce a shade of intellectual valor. Is it that academia (and journalism) is fundamentally the refuge of the stochastophobe tawker? That is, the voyeur who wants to watch but not take risks? It appears so. The most important chapter of the book, and conveniently the last one, "The Logic of Risk Taking," shows how some central elements of risks, while obvious to practitioners, can be missed by theoreticians for more than two centuries!
+By some mysterious mental mechanism, people fail to realize that the principal thing you can learn from a professor is how to be a professor - and the chief thing you can learn from, say, a life coach or inspirational speaker is how to become a life coach or inspirational speaker.
+So remember that the heroes of history were not classicists and library rats, those people who live vicariously in their texts.
+They were people of deeds and had to be endowed with the spirit of risk taking.
+To get into their psyches, you will need someone other than a career professor teaching stoicism.
+They almost always don't get it (actually, they never get it).
+In my experience, from a series of personal fights, many of these "classicists," who know in intimate detail what people of courage such as Alexander, Cleopatra, Caesar, Hannibal, Julian, Leonidas, Zenobia ate for breakfast, can't produce a shade of intellectual valor.
+Is it that academia (and journalism) is fundamentally the refuge of the stochastophobe tawker?
+That is, the voyeur who wants to watch but not take risks?
+It appears so.
+The most important chapter of the book, and conveniently the last one, "The Logic of Risk Taking," shows how some central elements of risks, while obvious to practitioners, can be missed by theoreticians for more than two centuries!
 Soul in the Game and Some (Not Too Much) Protectionism
-Let us now apply these ideas to modern times. Recall the story of the architects separated from the real users. This extends to more general systemic effects, such as protectionism and globalism. Seen that way, the rise of some protectionism may have a strong rationale - and an economic one.
-I leave aside the argument that globalization leads to a Tower-of-Babel style cacophony, owing to the imbalance in the noise-signal ratio. The point here is that workers, people who do things, have each an artisan in them. For, contrary to what lobbyists paid by international large corporations are trying to make us believe, such protectionism does not even conflict with economic thinking, what is called neoclassical economics. It is not inconsistent with the mathematical axioms of economic decision making, on which economics lays its foundations, to behave in a way that does not maximize one's narrowly defined dollar-denominated bottom line at the expense of other things. As I said earlier in the chapter, it is not irrational, according to economic theory, to leave money on the table because of your personal preference; the notion of incentives as limited to financial gain cannot otherwise explain the very existence of an economics academia that promotes the idea of self-interest.
-We may be better off in a narrowly defined accounting sense (in the aggregate) by exporting jobs. But that's not what people may really want. I write because that's what I am designed to do, just as a knife cuts because that's what its mission is, Aristotle's arête - and subcontracting my research and writing to China or Tunisia would (perhaps) increase my productivity, but deprive me of my identity.
-So people might want to do things. Just to do things, because they feel it is part of their identity. A shoemaker in Westchester County wants to be a shoemaker, to enjoy the fruits of his labor and the pride of seeing his merchandise in the stores, even if his so-called "economic" condition might benefit from letting a Chinese factory make the shoes and converting to another profession. Even if such a new system allows him to buy flat-screen TV sets, more cotton shirts, and cheaper bicycles, something is missing. It may be cruel to cheat people of their profession. People want to have their soul in the game.
+Let us now apply these ideas to modern times.
+Recall the story of the architects separated from the real users.
+This extends to more general systemic effects, such as protectionism and globalism.
+Seen that way, the rise of some protectionism may have a strong rationale - and an economic one.
+I leave aside the argument that globalization leads to a Tower-of-Babel style cacophony, owing to the imbalance in the noise-signal ratio.
+The point here is that workers, people who do things, have each an artisan in them.
+For, contrary to what lobbyists paid by international large corporations are trying to make us believe, such protectionism does not even conflict with economic thinking, what is called neoclassical economics.
+It is not inconsistent with the mathematical axioms of economic decision making, on which economics lays its foundations, to behave in a way that does not maximize one's narrowly defined dollar-denominated bottom line at the expense of other things.
+As I said earlier in the chapter, it is not irrational, according to economic theory, to leave money on the table because of your personal preference; the notion of incentives as limited to financial gain cannot otherwise explain the very existence of an economics academia that promotes the idea of self-interest.
+We may be better off in a narrowly defined accounting sense (in the aggregate) by exporting jobs.
+But that's not what people may really want.
+I write because that's what I am designed to do, just as a knife cuts because that's what its mission is, Aristotle's arête - and subcontracting my research and writing to China or Tunisia would (perhaps) increase my productivity, but deprive me of my identity.
+So people might want to do things.
+Just to do things, because they feel it is part of their identity.
+A shoemaker in Westchester County wants to be a shoemaker, to enjoy the fruits of his labor and the pride of seeing his merchandise in the stores, even if his so-called "economic" condition might benefit from letting a Chinese factory make the shoes and converting to another profession.
+Even if such a new system allows him to buy flat-screen TV sets, more cotton shirts, and cheaper bicycles, something is missing.
+It may be cruel to cheat people of their profession.
+People want to have their soul in the game.
 In that sense, decentralization and fragmentation, aside from stabilizing the system, improves people's connection to their labor.
 Skin in the Ruling
 Let us close with a historical anecdote.
-Some might well ask: law is great, but what would you do with a corrupt or incompetent judge? He could make mistakes with impunity. He could be the weak link. Not quite, or at least not historically. A friend once showed me a Dutch painting representing the Judgment of Cambyses. The scene is from the story reported by Herodotus, concerning the corrupt Persian judge Sisamnes. He was flayed alive on the order of King Cambyses as a punishment for violating the rules of justice. The scene of the painting is Sisamnes's son dispensing justice from his father's chair, upholstered with the flayed skin as a reminder that justice comes with, literally, skin in the game.
+Some might well ask: law is great, but what would you do with a corrupt or incompetent judge?
+He could make mistakes with impunity.
+He could be the weak link.
+Not quite, or at least not historically.
+A friend once showed me a Dutch painting representing the Judgment of Cambyses.
+The scene is from the story reported by Herodotus, concerning the corrupt Persian judge Sisamnes.
+He was flayed alive on the order of King Cambyses as a punishment for violating the rules of justice.
+The scene of the painting is Sisamnes's son dispensing justice from his father's chair, upholstered with the flayed skin as a reminder that justice comes with, literally, skin in the game.

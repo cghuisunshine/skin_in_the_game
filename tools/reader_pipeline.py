@@ -441,9 +441,88 @@ def flush_paragraph(lines: list[str], paragraphs: list[str]) -> None:
         paragraphs.append(paragraph)
 
 
+def split_sentences(text: str) -> list[str]:
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return []
+
+    sentences: list[str] = []
+    start = 0
+    for index, char in enumerate(text):
+        if char not in ".?!":
+            continue
+        if not is_sentence_boundary(text, index):
+            continue
+        end = index + 1
+        while end < len(text) and text[end] in "\"')]}":
+            end += 1
+        sentence = text[start:end].strip()
+        if sentence:
+            sentences.append(sentence)
+        start = end
+        while start < len(text) and text[start].isspace():
+            start += 1
+
+    remainder = text[start:].strip()
+    if remainder:
+        sentences.append(remainder)
+    return sentences
+
+
+def is_sentence_boundary(text: str, index: int) -> bool:
+    if index + 1 < len(text) and text[index + 1].isalnum():
+        return False
+    if text[index] == "." and is_protected_period(text, index):
+        return False
+
+    lookahead = index + 1
+    while lookahead < len(text) and text[lookahead] in "\"')]}":
+        lookahead += 1
+    if lookahead >= len(text):
+        return True
+    if not text[lookahead].isspace():
+        return False
+
+    while lookahead < len(text) and text[lookahead].isspace():
+        lookahead += 1
+    if lookahead >= len(text):
+        return True
+    return True
+
+
+def is_protected_period(text: str, index: int) -> bool:
+    if 0 < index < len(text) - 1 and text[index - 1].isdigit() and text[index + 1].isdigit():
+        return True
+    prefix = text[: index + 1]
+    match = re.search(r"([A-Za-z](?:\.[A-Za-z])?\.|[A-Za-z]{1,5}\.)$", prefix)
+    if not match:
+        return False
+    token = match.group(1).lower()
+    abbreviations = {
+        "mr.",
+        "mrs.",
+        "ms.",
+        "dr.",
+        "prof.",
+        "sr.",
+        "jr.",
+        "st.",
+        "vs.",
+        "etc.",
+        "e.g.",
+        "i.e.",
+    }
+    return token in abbreviations or bool(re.fullmatch(r"(?:[a-z]\.){2,}", token))
+
+
 def chapter_fragments(chapter: Chapter) -> list[str]:
     heading = f"Chapter {display_chapter_word(chapter.number)}. {chapter.title}."
-    return [heading, *normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))]
+    sentences = [
+        sentence
+        for paragraph in normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))
+        for sentence in split_sentences(paragraph)
+    ]
+    return [heading, *sentences]
 
 
 def running_headers_for(chapter: Chapter) -> set[str]:
@@ -1067,15 +1146,15 @@ def build_reader_html(manifest: dict) -> str:
       padding-bottom: 14px;
       border-bottom: 1px solid var(--line);
     }}
-    .paragraph {{
+    .sentence {{
       margin: 0 0 14px;
       padding: 3px 6px;
       border-left: 3px solid transparent;
       border-radius: 4px;
       cursor: pointer;
     }}
-    .paragraph:hover {{ background: #f8f6f1; }}
-    .paragraph.active {{
+    .sentence:hover {{ background: #f8f6f1; }}
+    .sentence.active {{
       background: var(--active);
       border-left-color: var(--active-line);
     }}
@@ -1175,14 +1254,14 @@ def build_reader_html(manifest: dict) -> str:
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
     let currentIndex = 0;
-    let currentParagraphId = null;
+    let currentSentenceId = null;
 
-    function saveProgress(paragraph) {{
-      if (!paragraph) return;
+    function saveProgress(sentence) {{
+      if (!sentence) return;
       localStorage.setItem(PROGRESS_KEY, JSON.stringify({{
         chapterIndex: currentIndex,
-        paragraphId: paragraph.id,
-        currentTime: paragraph.localBegin,
+        sentenceId: sentence.id,
+        currentTime: sentence.localBegin,
       }}));
     }}
 
@@ -1222,7 +1301,7 @@ def build_reader_html(manifest: dict) -> str:
     function loadChapter(index, autoplay = false, seek = true) {{
       currentIndex = Math.max(0, Math.min(index, manifest.chapters.length - 1));
       const chapter = manifest.chapters[currentIndex];
-      currentParagraphId = null;
+      currentSentenceId = null;
       const nextSource = new URL(chapter.audio, window.location.href).href;
       const sourceChanged = audio.src !== nextSource;
       if (sourceChanged) {{
@@ -1231,14 +1310,14 @@ def build_reader_html(manifest: dict) -> str:
       chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${{chapter.number}}. ${{chapter.title}}` : chapter.title;
       reader.innerHTML = '';
       if (chapter.paragraphs.length) {{
-        chapter.paragraphs.forEach((paragraph) => {{
+        chapter.paragraphs.forEach((sentence) => {{
           const node = document.createElement('p');
-          node.className = 'paragraph';
-          node.id = paragraph.id;
-          node.textContent = paragraph.text;
+          node.className = 'sentence';
+          node.id = sentence.id;
+          node.textContent = sentence.text;
           node.addEventListener('click', () => {{
-            saveProgress(paragraph);
-            audio.currentTime = paragraph.localBegin;
+            saveProgress(sentence);
+            audio.currentTime = sentence.localBegin;
             audio.play();
           }});
           reader.appendChild(node);
@@ -1282,18 +1361,18 @@ def build_reader_html(manifest: dict) -> str:
 
     function updateHighlight(local) {{
       const chapter = manifest.chapters[currentIndex];
-      const paragraph = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
-      const nextId = paragraph ? paragraph.id : null;
-      if (nextId === currentParagraphId) return;
-      if (currentParagraphId) {{
-        document.getElementById(currentParagraphId)?.classList.remove('active');
+      const sentence = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
+      const nextId = sentence ? sentence.id : null;
+      if (nextId === currentSentenceId) return;
+      if (currentSentenceId) {{
+        document.getElementById(currentSentenceId)?.classList.remove('active');
       }}
-      currentParagraphId = nextId;
-      if (currentParagraphId) {{
-        const node = document.getElementById(currentParagraphId);
+      currentSentenceId = nextId;
+      if (currentSentenceId) {{
+        const node = document.getElementById(currentSentenceId);
         node?.classList.add('active');
         node?.scrollIntoView({{ block: 'center', behavior: 'smooth' }});
-        saveProgress(paragraph);
+        saveProgress(sentence);
       }}
     }}
 

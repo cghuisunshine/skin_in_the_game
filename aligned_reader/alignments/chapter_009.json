@@ -33,98 +33,268 @@
   {
    "begin": "24.640",
    "children": [],
-   "end": "55.280",
+   "end": "33.400",
    "id": "f000004",
    "language": "eng",
    "lines": [
-    "My friend Rory Sutherland claims that the real function of swimming pools is to allow the middle class to sit around in bathing suits without looking ridiculous. Same with New York restaurants: you think their mission is to feed people, but that's not what they are about. They are in the business of overcharging you for liquor or Great Tuscan wines by the glass, yet get you in the door by serving you your low-carb (or low-something) dishes at break-even cost. (This business model, of course, fails to work in Saudi Arabia.)"
+    "My friend Rory Sutherland claims that the real function of swimming pools is to allow the middle class to sit around in bathing suits without looking ridiculous."
    ]
   },
   {
-   "begin": "55.280",
+   "begin": "33.400",
    "children": [],
-   "end": "103.280",
+   "end": "39.240",
    "id": "f000005",
    "language": "eng",
    "lines": [
-    "So when we look at religion, and, to some extent, ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of \"belief,\" epistemic belief in its strict scientific definition. In science, belief is literal belief; it is right or wrong, never metaphorical. In real life, belief is an instrument to do things, not the end product. This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find prey at a distance. Your eyes are not sensors designed to capture the electromagnetic spectrum. Their job description is not to produce the most accurate scientific representation of reality; rather the most useful one for survival."
+    "Same with New York restaurants: you think their mission is to feed people, but that's not what they are about."
    ]
   },
   {
-   "begin": "103.280",
+   "begin": "39.240",
    "children": [],
-   "end": "106.080",
+   "end": "50.000",
    "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "They are in the business of overcharging you for liquor or Great Tuscan wines by the glass, yet get you in the door by serving you your low-carb (or low-something) dishes at break-even cost."
+   ]
+  },
+  {
+   "begin": "50.000",
+   "children": [],
+   "end": "55.320",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "(This business model, of course, fails to work in Saudi Arabia.)"
+   ]
+  },
+  {
+   "begin": "55.320",
+   "children": [],
+   "end": "68.240",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "So when we look at religion, and, to some extent, ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of \"belief,\" epistemic belief in its strict scientific definition."
+   ]
+  },
+  {
+   "begin": "68.240",
+   "children": [],
+   "end": "74.080",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "In science, belief is literal belief; it is right or wrong, never metaphorical."
+   ]
+  },
+  {
+   "begin": "74.080",
+   "children": [],
+   "end": "79.360",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "In real life, belief is an instrument to do things, not the end product."
+   ]
+  },
+  {
+   "begin": "79.360",
+   "children": [],
+   "end": "88.600",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find prey at a distance."
+   ]
+  },
+  {
+   "begin": "88.600",
+   "children": [],
+   "end": "93.280",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "Your eyes are not sensors designed to capture the electromagnetic spectrum."
+   ]
+  },
+  {
+   "begin": "93.280",
+   "children": [],
+   "end": "103.240",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Their job description is not to produce the most accurate scientific representation of reality; rather the most useful one for survival."
+   ]
+  },
+  {
+   "begin": "103.240",
+   "children": [],
+   "end": "106.040",
+   "id": "f000014",
    "language": "eng",
    "lines": [
     "OCULAR DECEPTION"
    ]
   },
   {
-   "begin": "106.080",
+   "begin": "106.040",
    "children": [],
-   "end": "148.400",
-   "id": "f000007",
+   "end": "116.360",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "Our perceptional apparatus makes mistakes - distortions - in order to lead us to more precise actions: ocular deception, it turns out, is a necessary thing. Greek and Roman architects misrepresented the columns of their temples, by tilting them inward, in order to give us the impression that the columns are straight. As Vitruvius explains, the aim is to \"counteract the visual reception by a change of proportions.\" A distortion is meant to bring about an enhancement for your aesthetic experience. The floor of the Parthenon is curved in reality so we can see it as straight. The columns are in truth unevenly spaced, so we can see them lined up like a marching Russian division in a parade."
+    "Our perceptional apparatus makes mistakes - distortions - in order to lead us to more precise actions: ocular deception, it turns out, is a necessary thing."
+   ]
+  },
+  {
+   "begin": "116.360",
+   "children": [],
+   "end": "124.880",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Greek and Roman architects misrepresented the columns of their temples, by tilting them inward, in order to give us the impression that the columns are straight."
+   ]
+  },
+  {
+   "begin": "124.880",
+   "children": [],
+   "end": "131.680",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "As Vitruvius explains, the aim is to \"counteract the visual reception by a change of proportions.\""
+   ]
+  },
+  {
+   "begin": "131.680",
+   "children": [],
+   "end": "136.040",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "A distortion is meant to bring about an enhancement for your aesthetic experience."
+   ]
+  },
+  {
+   "begin": "136.040",
+   "children": [],
+   "end": "140.680",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "The floor of the Parthenon is curved in reality so we can see it as straight."
+   ]
+  },
+  {
+   "begin": "140.680",
+   "children": [],
+   "end": "148.400",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "The columns are in truth unevenly spaced, so we can see them lined up like a marching Russian division in a parade."
    ]
   },
   {
    "begin": "148.400",
    "children": [],
-   "end": "159.440",
-   "id": "f000008",
+   "end": "159.480",
+   "id": "f000021",
    "language": "eng",
    "lines": [
     "Should one go lodge a complaint with the Greek Ministry of Tourism claiming that the columns are not vertical and that someone is taking advantage of our visual mechanisms?"
    ]
   },
   {
-   "begin": "159.440",
+   "begin": "159.480",
    "children": [],
-   "end": "162.240",
-   "id": "f000009",
+   "end": "162.280",
+   "id": "f000022",
    "language": "eng",
    "lines": [
     "ERGODICITY FIRST"
    ]
   },
   {
-   "begin": "162.240",
+   "begin": "162.280",
    "children": [],
-   "end": "176.600",
-   "id": "f000010",
+   "end": "165.320",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "The same applies to distortions of beliefs. Are visual deceits any different from leading someone to believe in Santa Claus, if it enhances his or her holiday aesthetic experience? No, unless it causes harm."
+    "The same applies to distortions of beliefs."
+   ]
+  },
+  {
+   "begin": "165.320",
+   "children": [],
+   "end": "172.880",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Are visual deceits any different from leading someone to believe in Santa Claus, if it enhances his or her holiday aesthetic experience?"
+   ]
+  },
+  {
+   "begin": "172.880",
+   "children": [],
+   "end": "176.600",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "No, unless it causes harm."
    ]
   },
   {
    "begin": "176.600",
    "children": [],
-   "end": "191.560",
-   "id": "f000011",
+   "end": "186.440",
+   "id": "f000026",
    "language": "eng",
    "lines": [
-    "In that sense harboring superstitions is not irrational by any metric: nobody has managed to build a criterion for rationality based on actions that bear no cost. But actions that harm you are detectable, if not observable."
+    "In that sense harboring superstitions is not irrational by any metric: nobody has managed to build a criterion for rationality based on actions that bear no cost."
+   ]
+  },
+  {
+   "begin": "186.440",
+   "children": [],
+   "end": "191.560",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "But actions that harm you are detectable, if not observable."
    ]
   },
   {
    "begin": "191.560",
    "children": [],
-   "end": "215.720",
-   "id": "f000012",
+   "end": "207.320",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "We will see in the next chapter that, unless one has an overblown and very unrealistic (Greek column-style) representation of some tail risks, one cannot survive - all it takes is a single event to cause an irreversible exit from the Social Security system. Is selective paranoia \"irrational\" if those individuals and populations who don't have it end up dying or extinct?"
+    "We will see in the next chapter that, unless one has an overblown and very unrealistic (Greek column-style) representation of some tail risks, one cannot survive - all it takes is a single event to cause an irreversible exit from the Social Security system."
+   ]
+  },
+  {
+   "begin": "207.320",
+   "children": [],
+   "end": "215.720",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Is selective paranoia \"irrational\" if those individuals and populations who don't have it end up dying or extinct?"
    ]
   },
   {
    "begin": "215.720",
    "children": [],
    "end": "218.560",
-   "id": "f000013",
+   "id": "f000030",
    "language": "eng",
    "lines": [
     "A statement that will orient us for the rest of the book:"
@@ -134,7 +304,7 @@
    "begin": "218.560",
    "children": [],
    "end": "223.960",
-   "id": "f000014",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "Survival comes first, truth, understanding, and science later."
@@ -143,48 +313,228 @@
   {
    "begin": "223.960",
    "children": [],
-   "end": "277.440",
-   "id": "f000015",
+   "end": "234.320",
+   "id": "f000032",
    "language": "eng",
    "lines": [
-    "In other words, you do not need science to survive (we've survived for several hundred million years or more, depending on how you define the \"we\"), but you must survive to do science. As your grandmother would have said, better safe than sorry. Or as per the expression attributed to Hobbes: Primum vivere, deinde philosophari (First, live; then philosophize). This logical precedence is well understood by traders and people in the real world, as per the Warren Buffett truism \"to make money you must first survive\" - skin in the game again; those of us who take risks have their priorities firmer than vague textbook pseudo-rationalism. More technically, this brings us again to the ergodic property (which I keep promising to explain, but we are not ready yet): for the world to be \"ergodic,\" there needs to be no absorbing barrier, no substantial irreversibilities."
+    "In other words, you do not need science to survive (we've survived for several hundred million years or more, depending on how you define the \"we\"), but you must survive to do science."
    ]
   },
   {
-   "begin": "277.440",
+   "begin": "234.320",
    "children": [],
-   "end": "299.800",
-   "id": "f000016",
+   "end": "237.680",
+   "id": "f000033",
    "language": "eng",
    "lines": [
-    "And what do we mean by \"survival\"? Survival of whom? Of you? Your family? Your tribe? Humanity? Note for now that I have a finite shelf life; my survival is not as important as the survival of things that do not have a limited life expectancy, such as mankind or planet earth. Hence the more \"systemic\" things are, the more important survival becomes."
+    "As your grandmother would have said, better safe than sorry."
+   ]
+  },
+  {
+   "begin": "237.680",
+   "children": [],
+   "end": "247.080",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Or as per the expression attributed to Hobbes: Primum vivere, deinde philosophari (First, live; then philosophize)."
+   ]
+  },
+  {
+   "begin": "247.080",
+   "children": [],
+   "end": "263.040",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "This logical precedence is well understood by traders and people in the real world, as per the Warren Buffett truism \"to make money you must first survive\" - skin in the game again; those of us who take risks have their priorities firmer than vague textbook pseudo-rationalism."
+   ]
+  },
+  {
+   "begin": "263.040",
+   "children": [],
+   "end": "277.480",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "More technically, this brings us again to the ergodic property (which I keep promising to explain, but we are not ready yet): for the world to be \"ergodic,\" there needs to be no absorbing barrier, no substantial irreversibilities."
+   ]
+  },
+  {
+   "begin": "277.480",
+   "children": [],
+   "end": "279.400",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "And what do we mean by \"survival\"?"
+   ]
+  },
+  {
+   "begin": "279.400",
+   "children": [],
+   "end": "280.640",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Survival of whom?"
+   ]
+  },
+  {
+   "begin": "280.640",
+   "children": [],
+   "end": "281.440",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Of you?"
+   ]
+  },
+  {
+   "begin": "281.440",
+   "children": [],
+   "end": "282.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Your family?"
+   ]
+  },
+  {
+   "begin": "282.280",
+   "children": [],
+   "end": "283.320",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Your tribe?"
+   ]
+  },
+  {
+   "begin": "283.320",
+   "children": [],
+   "end": "285.120",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Humanity?"
+   ]
+  },
+  {
+   "begin": "285.120",
+   "children": [],
+   "end": "295.440",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Note for now that I have a finite shelf life; my survival is not as important as the survival of things that do not have a limited life expectancy, such as mankind or planet earth."
+   ]
+  },
+  {
+   "begin": "295.440",
+   "children": [],
+   "end": "299.800",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Hence the more \"systemic\" things are, the more important survival becomes."
    ]
   },
   {
    "begin": "299.800",
    "children": [],
-   "end": "346.520",
-   "id": "f000017",
+   "end": "301.440",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "FIGURE 3. An illustration of the bias-variance tradeoff. Assume two people (sober) shooting at a target in, say, Texas. The left shooter has a bias, a systematic \"error,\" but on balance gets closer to the target than the right shooter, who has no systematic bias but a high variance. Typically, you cannot reduce one without increasing the other. When fragile, the strategy at the left is the best: maintain a distance from ruin, that is, from hitting a point in the periphery should it be dangerous. This schema explains why if you want to minimize the probability of the plane crashing, you may make mistakes with impunity provided you lower your dispersion."
+    "FIGURE 3."
+   ]
+  },
+  {
+   "begin": "301.440",
+   "children": [],
+   "end": "304.360",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "An illustration of the bias-variance tradeoff."
+   ]
+  },
+  {
+   "begin": "304.360",
+   "children": [],
+   "end": "309.040",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Assume two people (sober) shooting at a target in, say, Texas."
+   ]
+  },
+  {
+   "begin": "309.040",
+   "children": [],
+   "end": "324.480",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "The left shooter has a bias, a systematic \"error,\" but on balance gets closer to the target than the right shooter, who has no systematic bias but a high variance."
+   ]
+  },
+  {
+   "begin": "324.480",
+   "children": [],
+   "end": "328.160",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Typically, you cannot reduce one without increasing the other."
+   ]
+  },
+  {
+   "begin": "328.160",
+   "children": [],
+   "end": "336.080",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "When fragile, the strategy at the left is the best: maintain a distance from ruin, that is, from hitting a point in the periphery should it be dangerous."
+   ]
+  },
+  {
+   "begin": "336.080",
+   "children": [],
+   "end": "346.520",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "This schema explains why if you want to minimize the probability of the plane crashing, you may make mistakes with impunity provided you lower your dispersion."
    ]
   },
   {
    "begin": "346.520",
    "children": [],
-   "end": "376.680",
-   "id": "f000018",
+   "end": "354.320",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "Rationality does not superficially look like rationality - just as science doesn't look like science as we've seen. Three rigorous thinkers (and their schools) orient my thinking on the matter: the cognitive scientist and polymath Herb Simon, who pioneered artificial intelligence; the psychologist Gerd Gigerenzer; and the mathematician, logician, and decision theorist Ken Binmore, who spent his life formulating the logical foundations of rationality."
+    "Rationality does not superficially look like rationality - just as science doesn't look like science as we've seen."
    ]
   },
   {
-   "begin": "376.680",
+   "begin": "354.320",
+   "children": [],
+   "end": "376.640",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Three rigorous thinkers (and their schools) orient my thinking on the matter: the cognitive scientist and polymath Herb Simon, who pioneered artificial intelligence; the psychologist Gerd Gigerenzer; and the mathematician, logician, and decision theorist Ken Binmore, who spent his life formulating the logical foundations of rationality."
+   ]
+  },
+  {
+   "begin": "376.640",
    "children": [],
    "end": "379.680",
-   "id": "f000019",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "FROM SIMON TO GIGERENZER"
@@ -193,18 +543,48 @@
   {
    "begin": "379.680",
    "children": [],
-   "end": "428.840",
-   "id": "f000020",
+   "end": "393.280",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "Simon formulated the notion now known as bounded rationality: we cannot possibly measure and assess everything as if we were a computer; we therefore produce, under evolutionary pressures, some shortcuts and distortions. Our knowledge of the world is fundamentally incomplete, so we need to avoid getting into unanticipated trouble. And even if our knowledge of the world were complete, it would still be computationally near-impossible to produce a precise, unbiased understanding of reality. A fertile research program on ecological rationality came out of the effort to cure Simon's problem; it is mostly organized and led by Gerd Gigerenzer (the one who critiqued Dawkins in Chapter 9), mapping how many things we do that appear, on the surface, illogical, but have deeper reasons."
+    "Simon formulated the notion now known as bounded rationality: we cannot possibly measure and assess everything as if we were a computer; we therefore produce, under evolutionary pressures, some shortcuts and distortions."
+   ]
+  },
+  {
+   "begin": "393.280",
+   "children": [],
+   "end": "399.560",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "Our knowledge of the world is fundamentally incomplete, so we need to avoid getting into unanticipated trouble."
+   ]
+  },
+  {
+   "begin": "399.560",
+   "children": [],
+   "end": "408.960",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "And even if our knowledge of the world were complete, it would still be computationally near-impossible to produce a precise, unbiased understanding of reality."
+   ]
+  },
+  {
+   "begin": "408.960",
+   "children": [],
+   "end": "428.840",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "A fertile research program on ecological rationality came out of the effort to cure Simon's problem; it is mostly organized and led by Gerd Gigerenzer (the one who critiqued Dawkins in Chapter 9), mapping how many things we do that appear, on the surface, illogical, but have deeper reasons."
    ]
   },
   {
    "begin": "428.840",
    "children": [],
    "end": "431.880",
-   "id": "f000021",
+   "id": "f000059",
    "language": "eng",
    "lines": [
     "REVELATION OF PREFERENCES"
@@ -213,18 +593,28 @@
   {
    "begin": "431.880",
    "children": [],
-   "end": "454.440",
-   "id": "f000022",
+   "end": "441.640",
+   "id": "f000060",
    "language": "eng",
    "lines": [
-    "As for Ken Binmore, he showed that the concept casually dubbed \"rational\" is ill-defined, in fact so ill-defined that many uses of the term are just gibberish. There is nothing particularly irrational in beliefs per se (given that they can be shortcuts and instrumental to something else): to him everything lies in the notion of \"revealed preferences.\""
+    "As for Ken Binmore, he showed that the concept casually dubbed \"rational\" is ill-defined, in fact so ill-defined that many uses of the term are just gibberish."
    ]
   },
   {
-   "begin": "454.440",
+   "begin": "441.640",
+   "children": [],
+   "end": "452.800",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "There is nothing particularly irrational in beliefs per se (given that they can be shortcuts and instrumental to something else): to him everything lies in the notion of \"revealed preferences.\""
+   ]
+  },
+  {
+   "begin": "452.800",
    "children": [],
    "end": "458.560",
-   "id": "f000023",
+   "id": "f000062",
    "language": "eng",
    "lines": [
     "Before explaining the concept, consider the following three maxims:"
@@ -234,7 +624,7 @@
    "begin": "458.560",
    "children": [],
    "end": "462.720",
-   "id": "f000024",
+   "id": "f000063",
    "language": "eng",
    "lines": [
     "Judging people by their beliefs is not scientific."
@@ -244,7 +634,7 @@
    "begin": "462.720",
    "children": [],
    "end": "468.480",
-   "id": "f000025",
+   "id": "f000064",
    "language": "eng",
    "lines": [
     "There is no such thing as the \"rationality\" of a belief, there is rationality of action."
@@ -254,7 +644,7 @@
    "begin": "468.480",
    "children": [],
    "end": "475.480",
-   "id": "f000026",
+   "id": "f000065",
    "language": "eng",
    "lines": [
     "The rationality of an action can be judged only in terms of evolutionary considerations."
@@ -263,38 +653,148 @@
   {
    "begin": "475.480",
    "children": [],
-   "end": "534.520",
-   "id": "f000027",
+   "end": "494.040",
+   "id": "f000066",
    "language": "eng",
    "lines": [
-    "The axiom of revelation of preferences (originating with Paul Samuelson, or possibly the Semitic gods), as you recall, states the following: you will not have an idea about what people really think, what predicts people's actions, merely by asking them - they themselves don't necessarily know. What matters, in the end, is what they pay for goods, not what they say they \"think\" about them, or the various possible reasons they give you or themselves for that. If you think about it, you will see that this is a reformulation of skin in the game. Even psychologists get it; in their experiments, their procedures require that actual dollars be spent for a test to be \"scientific.\" The subjects are given a monetary amount, and they watch how the subject formulates choices by examining how they spend the money. However, a large share of psychologists fughedabout revealed preferences when they start bloviating about rationality. They revert to judging beliefs rather than action."
+    "The axiom of revelation of preferences (originating with Paul Samuelson, or possibly the Semitic gods), as you recall, states the following: you will not have an idea about what people really think, what predicts people's actions, merely by asking them - they themselves don't necessarily know."
    ]
   },
   {
-   "begin": "534.520",
+   "begin": "494.040",
    "children": [],
-   "end": "548.200",
-   "id": "f000028",
+   "end": "503.360",
+   "id": "f000067",
    "language": "eng",
    "lines": [
-    "Beliefs are\u2026cheap talk. There may be some type of a translation mechanism too hard for us to understand, with distortions at the level of the thought process that are actually necessary for things to work."
+    "What matters, in the end, is what they pay for goods, not what they say they \"think\" about them, or the various possible reasons they give you or themselves for that."
    ]
   },
   {
-   "begin": "548.200",
+   "begin": "503.360",
+   "children": [],
+   "end": "507.920",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "If you think about it, you will see that this is a reformulation of skin in the game."
+   ]
+  },
+  {
+   "begin": "507.920",
+   "children": [],
+   "end": "516.040",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Even psychologists get it; in their experiments, their procedures require that actual dollars be spent for a test to be \"scientific.\""
+   ]
+  },
+  {
+   "begin": "516.040",
+   "children": [],
+   "end": "522.960",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "The subjects are given a monetary amount, and they watch how the subject formulates choices by examining how they spend the money."
+   ]
+  },
+  {
+   "begin": "522.960",
+   "children": [],
+   "end": "530.000",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "However, a large share of psychologists fughedabout revealed preferences when they start bloviating about rationality."
+   ]
+  },
+  {
+   "begin": "530.000",
+   "children": [],
+   "end": "534.480",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "They revert to judging beliefs rather than action."
+   ]
+  },
+  {
+   "begin": "534.480",
+   "children": [],
+   "end": "537.120",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "Beliefs are\u2026cheap talk."
+   ]
+  },
+  {
+   "begin": "537.120",
+   "children": [],
+   "end": "548.160",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "There may be some type of a translation mechanism too hard for us to understand, with distortions at the level of the thought process that are actually necessary for things to work."
+   ]
+  },
+  {
+   "begin": "548.160",
+   "children": [],
+   "end": "558.360",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Actually, by a mechanism (more technically called the bias-variance tradeoff), you often get better results making \"errors,\" as when you aim slightly away from the target when shooting."
+   ]
+  },
+  {
+   "begin": "558.360",
+   "children": [],
+   "end": "561.600",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "(See Figure 3.)"
+   ]
+  },
+  {
+   "begin": "561.600",
+   "children": [],
+   "end": "570.320",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries."
+   ]
+  },
+  {
+   "begin": "570.320",
+   "children": [],
+   "end": "575.280",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "For instance, most medical \"discoveries\" are accidental to something else."
+   ]
+  },
+  {
+   "begin": "575.280",
    "children": [],
    "end": "584.600",
-   "id": "f000029",
+   "id": "f000079",
    "language": "eng",
    "lines": [
-    "Actually, by a mechanism (more technically called the bias-variance tradeoff), you often get better results making \"errors,\" as when you aim slightly away from the target when shooting. (See Figure 3.) I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries. For instance, most medical \"discoveries\" are accidental to something else. An error-free world would have no penicillin, no chemotherapy\u2026almost no drugs, and most probably no humans."
+    "An error-free world would have no penicillin, no chemotherapy\u2026almost no drugs, and most probably no humans."
    ]
   },
   {
    "begin": "584.600",
    "children": [],
    "end": "598.040",
-   "id": "f000030",
+   "id": "f000080",
    "language": "eng",
    "lines": [
     "This is why I have been against the state dictating to us what we \"should\" be doing: only evolution knows if the \"wrong\" thing is really wrong, provided there is skin in the game to allow for selection."
@@ -304,7 +804,7 @@
    "begin": "598.040",
    "children": [],
    "end": "601.160",
-   "id": "f000031",
+   "id": "f000081",
    "language": "eng",
    "lines": [
     "WHAT IS RELIGION ABOUT?"
@@ -313,78 +813,208 @@
   {
    "begin": "601.160",
    "children": [],
-   "end": "617.920",
-   "id": "f000032",
+   "end": "611.680",
+   "id": "f000082",
    "language": "eng",
    "lines": [
-    "It is therefore my opinion that religion exists to enforce tail risk management across generations, as its binary and unconditional rules are easy to teach and enforce. We have survived in spite of tail risks; our survival cannot be that random."
+    "It is therefore my opinion that religion exists to enforce tail risk management across generations, as its binary and unconditional rules are easy to teach and enforce."
+   ]
+  },
+  {
+   "begin": "611.680",
+   "children": [],
+   "end": "617.920",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "We have survived in spite of tail risks; our survival cannot be that random."
    ]
   },
   {
    "begin": "617.920",
    "children": [],
-   "end": "630.560",
-   "id": "f000033",
+   "end": "626.920",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "Recall that skin in the game means that you do not pay attention to what people say, only to what they do, and to how much of their necks they are putting on the line. Let survival work its wonders."
+    "Recall that skin in the game means that you do not pay attention to what people say, only to what they do, and to how much of their necks they are putting on the line."
    ]
   },
   {
-   "begin": "630.560",
+   "begin": "626.920",
    "children": [],
-   "end": "670.480",
-   "id": "f000034",
+   "end": "629.000",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "Superstitions can be vectors for risk management rules. We have as potent information that people who have them have survived; to repeat, never discount anything that allows you to survive. For instance, Jared Diamond discusses the \"constructive paranoia\" of residents of Papua New Guinea, whose superstitions prevent them from sleeping under dead trees. Whether it is superstition or something else, some deep scientific understanding of probability that is stopping you, it doesn't matter, so long as you don't sleep under dead trees. And if you dream of making people use probability in order to make decisions, I have some news: more than ninety percent of psychologists dealing with decision making (which includes such regulators and researchers as Cass Sunstein and Richard Thaler) have no clue about probability, and try to disrupt our efficient organic paranoias."
+    "Let survival work its wonders."
    ]
   },
   {
-   "begin": "670.480",
+   "begin": "629.000",
    "children": [],
-   "end": "683.040",
-   "id": "f000035",
+   "end": "634.000",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "FIGURE 4. The classical \"large world vs small world\" problem. Science is currently too incomplete to provide all answers - and says it itself. We have been so much under assault by vendors using \"science\" to sell products that many people, in their mind, confuse science and scientism. Science is mainly rigor in the process."
+    "Superstitions can be vectors for risk management rules."
    ]
   },
   {
-   "begin": "683.040",
+   "begin": "634.000",
    "children": [],
-   "end": "695.360",
-   "id": "f000036",
+   "end": "642.680",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "We have as potent information that people who have them have survived; to repeat, never discount anything that allows you to survive."
+   ]
+  },
+  {
+   "begin": "642.680",
+   "children": [],
+   "end": "652.400",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "For instance, Jared Diamond discusses the \"constructive paranoia\" of residents of Papua New Guinea, whose superstitions prevent them from sleeping under dead trees."
+   ]
+  },
+  {
+   "begin": "652.400",
+   "children": [],
+   "end": "662.000",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "Whether it is superstition or something else, some deep scientific understanding of probability that is stopping you, it doesn't matter, so long as you don't sleep under dead trees."
+   ]
+  },
+  {
+   "begin": "662.000",
+   "children": [],
+   "end": "675.360",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "And if you dream of making people use probability in order to make decisions, I have some news: more than ninety percent of psychologists dealing with decision making (which includes such regulators and researchers as Cass Sunstein and Richard Thaler) have no clue about probability, and try to disrupt our efficient organic paranoias."
+   ]
+  },
+  {
+   "begin": "675.360",
+   "children": [],
+   "end": "675.720",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "FIGURE 4."
+   ]
+  },
+  {
+   "begin": "675.720",
+   "children": [],
+   "end": "677.680",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "The classical \"large world vs small world\" problem."
+   ]
+  },
+  {
+   "begin": "677.680",
+   "children": [],
+   "end": "678.120",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Science is currently too incomplete to provide all answers - and says it itself."
+   ]
+  },
+  {
+   "begin": "678.120",
+   "children": [],
+   "end": "680.560",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "We have been so much under assault by vendors using \"science\" to sell products that many people, in their mind, confuse science and scientism."
+   ]
+  },
+  {
+   "begin": "680.560",
+   "children": [],
+   "end": "681.440",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Science is mainly rigor in the process."
+   ]
+  },
+  {
+   "begin": "681.440",
+   "children": [],
+   "end": "693.840",
+   "id": "f000096",
    "language": "eng",
    "lines": [
     "Further, I find it incoherent to criticize someone's superstitions if these are meant to bring some benefits, while at the same time having no problemo with the optical illusions in Greek temples."
    ]
   },
   {
-   "begin": "695.360",
+   "begin": "693.840",
    "children": [],
-   "end": "712.440",
-   "id": "f000037",
+   "end": "702.880",
+   "id": "f000097",
    "language": "eng",
    "lines": [
-    "The notion of \"rational\" bandied about by all manner of promoters of scientism isn't defined well enough to be used for beliefs. To repeat, we do not have enough grounds to discuss \"irrational beliefs.\" We do with irrational actions."
+    "The notion of \"rational\" bandied about by all manner of promoters of scientism isn't defined well enough to be used for beliefs."
    ]
   },
   {
-   "begin": "712.440",
+   "begin": "702.880",
    "children": [],
-   "end": "724.440",
-   "id": "f000038",
+   "end": "708.600",
+   "id": "f000098",
    "language": "eng",
    "lines": [
-    "Extending such logic, we can show that much of what we call \"belief\" is some kind of background furniture for the human mind, more metaphorical than real. It may work as therapy."
+    "To repeat, we do not have enough grounds to discuss \"irrational beliefs.\""
    ]
   },
   {
-   "begin": "724.440",
+   "begin": "708.600",
+   "children": [],
+   "end": "710.800",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "We do with irrational actions."
+   ]
+  },
+  {
+   "begin": "710.800",
+   "children": [],
+   "end": "721.480",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "Extending such logic, we can show that much of what we call \"belief\" is some kind of background furniture for the human mind, more metaphorical than real."
+   ]
+  },
+  {
+   "begin": "721.480",
+   "children": [],
+   "end": "724.360",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "It may work as therapy."
+   ]
+  },
+  {
+   "begin": "724.360",
    "children": [],
    "end": "729.800",
-   "id": "f000039",
+   "id": "f000102",
    "language": "eng",
    "lines": [
     "Also recall from Chapter 3 that collective rationality might require some individual biases."
@@ -393,1218 +1023,3078 @@
   {
    "begin": "729.800",
    "children": [],
-   "end": "736.000",
-   "id": "f000040",
+   "end": "734.480",
+   "id": "f000103",
    "language": "eng",
    "lines": [
     "\"TAWK\" AND CHEAP \"TAWK\""
    ]
   },
   {
-   "begin": "736.000",
+   "begin": "734.480",
    "children": [],
-   "end": "737.960",
-   "id": "f000041",
+   "end": "737.480",
+   "id": "f000104",
    "language": "eng",
    "lines": [
     "The first principle we draw:"
    ]
   },
   {
-   "begin": "737.960",
+   "begin": "737.480",
    "children": [],
-   "end": "745.000",
-   "id": "f000042",
+   "end": "744.200",
+   "id": "f000105",
    "language": "eng",
    "lines": [
     "There is a difference between beliefs that are decorative and different sorts of beliefs, those that map to action."
    ]
   },
   {
-   "begin": "745.000",
+   "begin": "744.200",
    "children": [],
-   "end": "755.800",
-   "id": "f000043",
+   "end": "755.720",
+   "id": "f000106",
    "language": "eng",
    "lines": [
     "There is no difference between them in words, except that the true difference reveals itself in risk taking, having something at stake, something one could lose in case one is wrong."
    ]
   },
   {
-   "begin": "755.800",
+   "begin": "755.720",
    "children": [],
-   "end": "758.520",
-   "id": "f000044",
+   "end": "757.920",
+   "id": "f000107",
    "language": "eng",
    "lines": [
     "And the lesson, by rephrasing the principle:"
    ]
   },
   {
-   "begin": "758.520",
+   "begin": "757.920",
    "children": [],
-   "end": "765.280",
-   "id": "f000045",
+   "end": "764.480",
+   "id": "f000108",
    "language": "eng",
    "lines": [
     "How much you truly \"believe\" in something can be manifested only through what you are willing to risk for it."
    ]
   },
   {
-   "begin": "765.280",
+   "begin": "764.480",
    "children": [],
-   "end": "790.640",
-   "id": "f000046",
+   "end": "767.360",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "But this merits continuation. The fact that there is this decorative component to belief, life, these strange rules followed outside the Gemelli clinics of the world, merits a discussion. What are these for? Can we truly understand their function? Are we confused about their function? Do we mistake their rationality? Can we use them instead to define rationality?"
+    "But this merits continuation."
    ]
   },
   {
-   "begin": "790.640",
+   "begin": "767.360",
    "children": [],
-   "end": "793.360",
-   "id": "f000047",
+   "end": "776.680",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "The fact that there is this decorative component to belief, life, these strange rules followed outside the Gemelli clinics of the world, merits a discussion."
+   ]
+  },
+  {
+   "begin": "776.680",
+   "children": [],
+   "end": "777.560",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "What are these for?"
+   ]
+  },
+  {
+   "begin": "777.560",
+   "children": [],
+   "end": "780.120",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Can we truly understand their function?"
+   ]
+  },
+  {
+   "begin": "780.120",
+   "children": [],
+   "end": "782.720",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "Are we confused about their function?"
+   ]
+  },
+  {
+   "begin": "782.720",
+   "children": [],
+   "end": "784.640",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Do we mistake their rationality?"
+   ]
+  },
+  {
+   "begin": "784.640",
+   "children": [],
+   "end": "788.040",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Can we use them instead to define rationality?"
+   ]
+  },
+  {
+   "begin": "788.040",
+   "children": [],
+   "end": "791.760",
+   "id": "f000116",
    "language": "eng",
    "lines": [
     "WHAT DOES LINDY SAY?"
    ]
   },
   {
-   "begin": "793.360",
+   "begin": "791.760",
    "children": [],
-   "end": "846.040",
-   "id": "f000048",
+   "end": "796.000",
+   "id": "f000117",
    "language": "eng",
    "lines": [
-    "Let us see what Lindy has to say about \"rationality.\" While the notions of \"reason\" and \"reasonable\" were present in ancient thought, mostly embedded in the notion of precaution, or sophrosyne, this modern idea of \"rationality\" and \"rational decision making\" was born in the aftermath of Max Weber, with the works of psychologists, philosophasters, and psychosophasters. The classical sophrosyne means precaution, self-control, and temperance all in one. It was replaced with something a bit different. \"Rationality\" was forged during the post-enlightenment period, at a time when we thought that understanding the world was around the corner. It assumes absence of randomness, or a simplified random structure of our world. Also, of course, no interactions with the world."
+    "Let us see what Lindy has to say about \"rationality.\""
    ]
   },
   {
-   "begin": "846.040",
+   "begin": "796.000",
    "children": [],
-   "end": "878.360",
-   "id": "f000049",
+   "end": "816.160",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "The only definition of rationality that I've found that is practically, empirically, and mathematically rigorous is the following: what is rational is that which allows for survival. Unlike modern theories by psychosophasters, it maps to the classical way of thinking. Anything that hinders one's survival at an individual, collective, tribal, or general level is, to me, irrational."
+    "While the notions of \"reason\" and \"reasonable\" were present in ancient thought, mostly embedded in the notion of precaution, or sophrosyne, this modern idea of \"rationality\" and \"rational decision making\" was born in the aftermath of Max Weber, with the works of psychologists, philosophasters, and psychosophasters."
    ]
   },
   {
-   "begin": "878.360",
+   "begin": "816.160",
    "children": [],
-   "end": "882.760",
-   "id": "f000050",
+   "end": "821.840",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "The classical sophrosyne means precaution, self-control, and temperance all in one."
+   ]
+  },
+  {
+   "begin": "821.840",
+   "children": [],
+   "end": "824.760",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "It was replaced with something a bit different."
+   ]
+  },
+  {
+   "begin": "824.760",
+   "children": [],
+   "end": "837.880",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "\"Rationality\" was forged during the post-enlightenment period, at a time when we thought that understanding the world was around the corner."
+   ]
+  },
+  {
+   "begin": "837.880",
+   "children": [],
+   "end": "845.320",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "It assumes absence of randomness, or a simplified random structure of our world."
+   ]
+  },
+  {
+   "begin": "845.320",
+   "children": [],
+   "end": "849.880",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Also, of course, no interactions with the world."
+   ]
+  },
+  {
+   "begin": "849.880",
+   "children": [],
+   "end": "862.360",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "The only definition of rationality that I've found that is practically, empirically, and mathematically rigorous is the following: what is rational is that which allows for survival."
+   ]
+  },
+  {
+   "begin": "862.360",
+   "children": [],
+   "end": "869.160",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "Unlike modern theories by psychosophasters, it maps to the classical way of thinking."
+   ]
+  },
+  {
+   "begin": "869.160",
+   "children": [],
+   "end": "880.880",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "Anything that hinders one's survival at an individual, collective, tribal, or general level is, to me, irrational."
+   ]
+  },
+  {
+   "begin": "880.880",
+   "children": [],
+   "end": "886.000",
+   "id": "f000127",
    "language": "eng",
    "lines": [
     "Hence the precautionary principle and sound risk understanding."
    ]
   },
   {
-   "begin": "882.760",
+   "begin": "886.000",
    "children": [],
-   "end": "884.960",
-   "id": "f000051",
+   "end": "889.440",
+   "id": "f000128",
    "language": "eng",
    "lines": [
     "THE NONDECORATIVE IN THE DECORATIVE"
    ]
   },
   {
-   "begin": "884.960",
+   "begin": "889.440",
    "children": [],
-   "end": "911.440",
-   "id": "f000052",
+   "end": "895.640",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "Now what I've called decorative is not necessarily superfluous, often to the contrary. The decorative may just have a function we do not know much about. We could consult for that the grandmaster statistician, time, through a very technical tool called the survival function, known by both old people and very complex statistics. We will resort here to the old-people version."
+    "Now what I've called decorative is not necessarily superfluous, often to the contrary."
    ]
   },
   {
-   "begin": "911.440",
+   "begin": "895.640",
    "children": [],
-   "end": "935.880",
-   "id": "f000053",
+   "end": "901.240",
+   "id": "f000130",
    "language": "eng",
    "lines": [
-    "The fact to consider is not that beliefs have survived a long time - the Catholic church as an administration is close to twenty-four centuries old (it is largely the continuation of the Roman Republic). The point is that people who have religion - a certain religion - have survived."
+    "The decorative may just have a function we do not know much about."
    ]
   },
   {
-   "begin": "935.880",
+   "begin": "901.240",
    "children": [],
-   "end": "937.520",
-   "id": "f000054",
+   "end": "913.320",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "We could consult for that the grandmaster statistician, time, through a very technical tool called the survival function, known by both old people and very complex statistics."
+   ]
+  },
+  {
+   "begin": "913.320",
+   "children": [],
+   "end": "916.840",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "We will resort here to the old-people version."
+   ]
+  },
+  {
+   "begin": "916.840",
+   "children": [],
+   "end": "931.560",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "The fact to consider is not that beliefs have survived a long time - the Catholic church as an administration is close to twenty-four centuries old (it is largely the continuation of the Roman Republic)."
+   ]
+  },
+  {
+   "begin": "931.560",
+   "children": [],
+   "end": "935.840",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "The point is that people who have religion - a certain religion - have survived."
+   ]
+  },
+  {
+   "begin": "935.840",
+   "children": [],
+   "end": "936.880",
+   "id": "f000135",
    "language": "eng",
    "lines": [
     "Another principle:"
    ]
   },
   {
-   "begin": "937.520",
+   "begin": "936.880",
    "children": [],
-   "end": "947.800",
-   "id": "f000055",
+   "end": "947.760",
+   "id": "f000136",
    "language": "eng",
    "lines": [
     "When you consider beliefs in evolutionary terms, do not look at how they compete with each other, but consider the survival of the populations that have them."
    ]
   },
   {
-   "begin": "947.800",
+   "begin": "947.760",
    "children": [],
-   "end": "986.560",
-   "id": "f000056",
+   "end": "951.240",
+   "id": "f000137",
    "language": "eng",
    "lines": [
-    "Consider a competitor to the Pope's religion, Judaism. Jews have close to five hundred different dietary interdicts. These may seem irrational to an outsider who defines rationality in terms of what he can explain. Actually they will most certainly seem so. The Jewish kashrut prescribes keeping four sets of dishes, two sinks, the avoidance of mixing meat with dairy products or merely letting the two be in contact with each other, in addition to interdicts on some animals: shrimp, pork, etc. The good stuff."
+    "Consider a competitor to the Pope's religion, Judaism."
+   ]
+  },
+  {
+   "begin": "951.240",
+   "children": [],
+   "end": "955.880",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Jews have close to five hundred different dietary interdicts."
+   ]
+  },
+  {
+   "begin": "955.880",
+   "children": [],
+   "end": "964.120",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "These may seem irrational to an outsider who defines rationality in terms of what he can explain."
+   ]
+  },
+  {
+   "begin": "964.120",
+   "children": [],
+   "end": "967.240",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "Actually they will most certainly seem so."
+   ]
+  },
+  {
+   "begin": "967.240",
+   "children": [],
+   "end": "986.560",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "The Jewish kashrut prescribes keeping four sets of dishes, two sinks, the avoidance of mixing meat with dairy products or merely letting the two be in contact with each other, in addition to interdicts on some animals: shrimp, pork, etc. The good stuff."
    ]
   },
   {
    "begin": "986.560",
    "children": [],
-   "end": "1007.760",
-   "id": "f000057",
+   "end": "989.600",
+   "id": "f000142",
    "language": "eng",
    "lines": [
-    "These laws might have had an ex ante purpose. One can blame insalubrious behavior of pigs, exacerbated by the heat in the Levant (though heat in the Levant was not markedly different from that in pig-eating areas farther West). Or perhaps an ecological reason: pigs compete with humans in eating the same vegetables, while cows eat what we don't eat."
+    "These laws might have had an ex ante purpose."
    ]
   },
   {
-   "begin": "1007.760",
+   "begin": "989.600",
    "children": [],
-   "end": "1054.760",
-   "id": "f000058",
+   "end": "1003.480",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "But it remains the case that whatever their purpose, kashrut laws survived several millennia not because of their \"rationality\" but because the populations that followed them survived. It most certainly brought cohesion: people who eat together hang together. (To be technical, it is a convex heuristic.) Such group cohesion might be also responsible for trust in commercial transactions with remote members of the community, thus creating a vibrant network. Or some other benefit - but it remains that Jews have survived in spite of a very hard history."
+    "One can blame insalubrious behavior of pigs, exacerbated by the heat in the Levant (though heat in the Levant was not markedly different from that in pig-eating areas farther West)."
    ]
   },
   {
-   "begin": "1054.760",
+   "begin": "1003.480",
    "children": [],
-   "end": "1059.120",
-   "id": "f000059",
+   "end": "1011.000",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Or perhaps an ecological reason: pigs compete with humans in eating the same vegetables, while cows eat what we don't eat."
+   ]
+  },
+  {
+   "begin": "1011.000",
+   "children": [],
+   "end": "1027.520",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "But it remains the case that whatever their purpose, kashrut laws survived several millennia not because of their \"rationality\" but because the populations that followed them survived."
+   ]
+  },
+  {
+   "begin": "1027.520",
+   "children": [],
+   "end": "1034.920",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "It most certainly brought cohesion: people who eat together hang together."
+   ]
+  },
+  {
+   "begin": "1034.920",
+   "children": [],
+   "end": "1038.360",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "(To be technical, it is a convex heuristic.)"
+   ]
+  },
+  {
+   "begin": "1038.360",
+   "children": [],
+   "end": "1059.080",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "Such group cohesion might be also responsible for trust in commercial transactions with remote members of the community, thus creating a vibrant network."
+   ]
+  },
+  {
+   "begin": "1059.080",
+   "children": [],
+   "end": "1066.640",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "Or some other benefit - but it remains that Jews have survived in spite of a very hard history."
+   ]
+  },
+  {
+   "begin": "1066.640",
+   "children": [],
+   "end": "1071.000",
+   "id": "f000150",
    "language": "eng",
    "lines": [
     "This allows us to summarize:"
    ]
   },
   {
-   "begin": "1059.120",
+   "begin": "1071.000",
    "children": [],
-   "end": "1071.120",
-   "id": "f000060",
+   "end": "1083.960",
+   "id": "f000151",
    "language": "eng",
    "lines": [
     "Rationality does not depend on explicit verbalistic explanatory factors; it is only what aids survival, what avoids ruin."
    ]
   },
   {
-   "begin": "1071.120",
+   "begin": "1083.960",
    "children": [],
-   "end": "1074.000",
-   "id": "f000061",
+   "end": "1084.480",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "Why? Clearly as we saw in the Lindy discussion:"
+    "Why?"
    ]
   },
   {
-   "begin": "1074.000",
+   "begin": "1084.480",
    "children": [],
-   "end": "1078.960",
-   "id": "f000062",
+   "end": "1086.560",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "Clearly as we saw in the Lindy discussion:"
+   ]
+  },
+  {
+   "begin": "1086.560",
+   "children": [],
+   "end": "1094.920",
+   "id": "f000154",
    "language": "eng",
    "lines": [
     "Not everything that happens happens for a reason, but everything that survives survives for a reason."
    ]
   },
   {
-   "begin": "1078.960",
+   "begin": "1094.920",
    "children": [],
-   "end": "1087.880",
-   "id": "f000063",
+   "end": "1097.880",
+   "id": "f000155",
    "language": "eng",
    "lines": [
-    "Rationality is risk management, period. The next chapter will make the final argument in support of this principle."
+    "Rationality is risk management, period."
    ]
   },
   {
-   "begin": "1087.880",
+   "begin": "1097.880",
    "children": [],
-   "end": "1089.960",
-   "id": "f000064",
+   "end": "1101.600",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "The next chapter will make the final argument in support of this principle."
+   ]
+  },
+  {
+   "begin": "1101.600",
+   "children": [],
+   "end": "1105.120",
+   "id": "f000157",
    "language": "eng",
    "lines": [
     "Chapter 19 The Logic of Risk Taking"
    ]
   },
   {
-   "begin": "1089.960",
+   "begin": "1105.120",
    "children": [],
-   "end": "1098.960",
-   "id": "f000065",
+   "end": "1111.680",
+   "id": "f000158",
    "language": "eng",
    "lines": [
-    "The central chapter always comes last - Always bet twice - Do you know your uncle point? - Who is \"you\"? - The Greeks were almost always right"
+    "The central chapter always comes last - Always bet twice - Do you know your uncle point?"
    ]
   },
   {
-   "begin": "1098.960",
+   "begin": "1111.680",
    "children": [],
-   "end": "1111.880",
-   "id": "f000066",
+   "end": "1112.760",
+   "id": "f000159",
    "language": "eng",
    "lines": [
-    "FIGURE 5. The difference between one hundred people going to a casino and one person going to a casino one hundred times, i.e. between path-dependent and conventionally understood probability. The mistake has persisted in economics and psychology since age immemorial."
+    "- Who is \"you\"?"
    ]
   },
   {
-   "begin": "1111.880",
+   "begin": "1112.760",
    "children": [],
-   "end": "1124.720",
-   "id": "f000067",
+   "end": "1116.360",
+   "id": "f000160",
    "language": "eng",
    "lines": [
-    "Time to explain ergodicity, ruin, and (again) rationality. Recall that to do science (and other nice things) requires survival but not the other way around."
+    "- The Greeks were almost always right"
    ]
   },
   {
-   "begin": "1124.720",
+   "begin": "1116.360",
    "children": [],
-   "end": "1165.560",
-   "id": "f000068",
+   "end": "1117.080",
+   "id": "f000161",
    "language": "eng",
    "lines": [
-    "Consider the following thought experiment. First case, one hundred people go to a casino to gamble a certain set amount each over a set period of time, and have complimentary gin and tonic - as shown in the cartoon in Figure 5. Some may lose, some may win, and we can infer at the end of the day what the \"edge\" is, that is, calculate the returns simply by counting the money left in the wallets of the people who return. We can thus figure out if the casino is properly pricing the odds. Now assume that gambler number 28 goes bust. Will gambler number 29 be affected? No."
+    "FIGURE 5."
    ]
   },
   {
-   "begin": "1165.560",
+   "begin": "1117.080",
    "children": [],
-   "end": "1181.520",
-   "id": "f000069",
+   "end": "1128.640",
+   "id": "f000162",
    "language": "eng",
    "lines": [
-    "You can safely calculate, from your sample, that about 1 percent of the gamblers will go bust. And if you keep playing and playing, you will be expected to have about the same ratio, 1 percent of gamblers going bust, on average, over that same time window."
+    "The difference between one hundred people going to a casino and one person going to a casino one hundred times, i.e. between path-dependent and conventionally understood probability."
    ]
   },
   {
-   "begin": "1181.520",
+   "begin": "1128.640",
    "children": [],
-   "end": "1201.440",
-   "id": "f000070",
+   "end": "1136.400",
+   "id": "f000163",
    "language": "eng",
    "lines": [
-    "Now let's compare this to the second case in the thought experiment. One person, your cousin Theodorus Ibn Warqa, goes to the casino a hundred days in a row, starting with a set amount. On day 28 cousin Theodorus Ibn Warqa is bust. Will there be day 29? No. He has hit an uncle point; there is no game no more."
+    "The mistake has persisted in economics and psychology since age immemorial."
    ]
   },
   {
-   "begin": "1201.440",
+   "begin": "1136.400",
    "children": [],
-   "end": "1211.880",
-   "id": "f000071",
+   "end": "1140.520",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "Time to explain ergodicity, ruin, and (again) rationality."
+   ]
+  },
+  {
+   "begin": "1140.520",
+   "children": [],
+   "end": "1151.600",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "Recall that to do science (and other nice things) requires survival but not the other way around."
+   ]
+  },
+  {
+   "begin": "1151.600",
+   "children": [],
+   "end": "1156.720",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "Consider the following thought experiment."
+   ]
+  },
+  {
+   "begin": "1156.720",
+   "children": [],
+   "end": "1168.400",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "First case, one hundred people go to a casino to gamble a certain set amount each over a set period of time, and have complimentary gin and tonic - as shown in the cartoon in Figure 5."
+   ]
+  },
+  {
+   "begin": "1168.400",
+   "children": [],
+   "end": "1181.400",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "Some may lose, some may win, and we can infer at the end of the day what the \"edge\" is, that is, calculate the returns simply by counting the money left in the wallets of the people who return."
+   ]
+  },
+  {
+   "begin": "1181.400",
+   "children": [],
+   "end": "1185.800",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "We can thus figure out if the casino is properly pricing the odds."
+   ]
+  },
+  {
+   "begin": "1185.800",
+   "children": [],
+   "end": "1189.200",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "Now assume that gambler number 28 goes bust."
+   ]
+  },
+  {
+   "begin": "1189.200",
+   "children": [],
+   "end": "1191.880",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "Will gambler number 29 be affected?"
+   ]
+  },
+  {
+   "begin": "1191.880",
+   "children": [],
+   "end": "1192.320",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "No."
+   ]
+  },
+  {
+   "begin": "1192.320",
+   "children": [],
+   "end": "1199.360",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "You can safely calculate, from your sample, that about 1 percent of the gamblers will go bust."
+   ]
+  },
+  {
+   "begin": "1199.360",
+   "children": [],
+   "end": "1210.160",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "And if you keep playing and playing, you will be expected to have about the same ratio, 1 percent of gamblers going bust, on average, over that same time window."
+   ]
+  },
+  {
+   "begin": "1210.160",
+   "children": [],
+   "end": "1213.480",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "Now let's compare this to the second case in the thought experiment."
+   ]
+  },
+  {
+   "begin": "1213.480",
+   "children": [],
+   "end": "1221.840",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "One person, your cousin Theodorus Ibn Warqa, goes to the casino a hundred days in a row, starting with a set amount."
+   ]
+  },
+  {
+   "begin": "1221.840",
+   "children": [],
+   "end": "1229.160",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "On day 28 cousin Theodorus Ibn Warqa is bust."
+   ]
+  },
+  {
+   "begin": "1229.160",
+   "children": [],
+   "end": "1231.920",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "Will there be day 29?"
+   ]
+  },
+  {
+   "begin": "1231.920",
+   "children": [],
+   "end": "1232.360",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "No."
+   ]
+  },
+  {
+   "begin": "1232.360",
+   "children": [],
+   "end": "1236.480",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "He has hit an uncle point; there is no game no more."
+   ]
+  },
+  {
+   "begin": "1236.480",
+   "children": [],
+   "end": "1245.760",
+   "id": "f000181",
    "language": "eng",
    "lines": [
     "No matter how good or alert your cousin Theodorus Ibn Warqa is, you can safely calculate that he has a 100 percent probability of eventually going bust."
    ]
   },
   {
-   "begin": "1211.880",
+   "begin": "1245.760",
    "children": [],
-   "end": "1289.160",
-   "id": "f000072",
+   "end": "1249.960",
+   "id": "f000182",
    "language": "eng",
    "lines": [
-    "The probabilities of success from a collection of people do not apply to cousin Theodorus Ibn Warqa. Let us call the first set ensemble probability, and the second one time probability (since the first is concerned with a collection of people and the second with a single person through time). Now, when you read material by finance professors, finance gurus, or your local bank making investment recommendations based on the long-term returns of the market, beware. Even if their forecasts were true (they aren't), no individual can get the same returns as the market unless he has infinite pockets and no uncle points. This is conflating ensemble probability and time probability. If the investor has to eventually reduce his exposure because of losses, or because of retirement, or because he got divorced to marry his neighbor's wife, or because he suddenly developed a heroin addiction after his hospitalization for appendicitis, or because he changed his mind about life, his returns will be divorced from those of the market, period."
+    "The probabilities of success from a collection of people do not apply to cousin Theodorus Ibn Warqa."
    ]
   },
   {
-   "begin": "1289.160",
+   "begin": "1249.960",
    "children": [],
-   "end": "1445.360",
-   "id": "f000073",
+   "end": "1262.960",
+   "id": "f000183",
    "language": "eng",
    "lines": [
-    "Anyone who has survived in the risk-taking business more than a few years has some version of our by now familiar principle that \"in order to succeed, you must first survive.\" My own has been: \"never cross a river if it is on average four feet deep.\" I effectively organized all my life around the point that sequence matters and the presence of ruin disqualifies cost-benefit analyses; but it never hit me that the flaw in decision theory was so deep. Until out of nowhere came a paper by the physicist Ole Peters, working with the great Murray Gell-Mann. They presented a version of the difference between ensemble and time probabilities with a thought experiment similar to mine above, and showed that just about everything in social science having to do with probability is flawed. Deeply flawed. Very deeply flawed. Largely, terminally flawed. For, in the quarter millennia since an initial formulation of decision making under uncertainty by the mathematician Jacob Bernoulli, one that has since become standard, almost all people involved in the field have made the severe mistake of missing the effect of the difference between ensemble and time. Everyone? Not quite: every economist maybe, but not everyone: the applied mathematicians Claude Shannon and Ed Thorp, and the physicist J. L. Kelly of the Kelly Criterion got it right. They also got it in a very simple way. The father of insurance mathematics, the Swedish applied mathematician Harald Cram\u00e9r, also got the point. And, more than two decades ago, practitioners such as Mark Spitznagel and myself built our entire business careers around it. (I mysteriously got it right in my writings and when I traded and made decisions, and detect deep inside when ergodicity is violated, but I never explicitly got Peters and Gell-Mann's mathematical structure - ergodicity is even discussed in Fooled by Randomness, two decades ago). Spitznagel and I even started an entire business to help investors eliminate uncle points so they could get the returns of the market. While I retired to do some flaneuring, Mark continued relentlessly (and successfully) at his Universa. Mark and I have been frustrated by economists who, not getting ergodicity, keep saying that worrying about the tails is \"irrational.\""
+    "Let us call the first set ensemble probability, and the second one time probability (since the first is concerned with a collection of people and the second with a single person through time)."
    ]
   },
   {
-   "begin": "1445.360",
+   "begin": "1262.960",
    "children": [],
-   "end": "1458.880",
-   "id": "f000074",
+   "end": "1273.760",
+   "id": "f000184",
    "language": "eng",
    "lines": [
-    "The idea I just presented is very very simple. But how come nobody for 250 years quite got it? Lack of skin in the game, obviously."
+    "Now, when you read material by finance professors, finance gurus, or your local bank making investment recommendations based on the long-term returns of the market, beware."
    ]
   },
   {
-   "begin": "1458.880",
+   "begin": "1273.760",
    "children": [],
-   "end": "1561.600",
-   "id": "f000075",
+   "end": "1289.640",
+   "id": "f000185",
    "language": "eng",
    "lines": [
-    "For it looks like you need a lot of intelligence to figure probabilistic things out when you don't have skin in the game. But for an overeducated nonpractitioner, these things are hard to figure out. Unless one is a genius, that is, has the clarity of mind to see through the mud, or has a sufficiently profound command of probability theory to cut through the nonsense. Now, certifiably, Murray Gell-Mann is a genius (and, likely, Peters). Gell-Mann discovered the subatomic particles he himself called quarks (which got him the Nobel). Peters said that when he presented the idea to Gell-Mann, \"he got it instantly.\" Claude Shannon, Ed Thorp, J. L. Kelly, and Harald Cram\u00e9r are, no doubt, geniuses - I can personally vouch for Thorp, who has an unmistakable clarity of mind combined with a depth of thinking that juts out in conversation. These people could get it without skin in the game. But economists, psychologists, and decision theorists have no geniuses among them (unless one counts the polymath Herb Simon, who did some psychology on the side), and odds are they never will. Adding people without fundamental insights does not sum up to insight; looking for clarity in these fields is like looking for aesthetic harmony in the cubicle of a self-employed computer hacker or the attic of a highly disorganized electrician."
+    "Even if their forecasts were true (they aren't), no individual can get the same returns as the market unless he has infinite pockets and no uncle points."
    ]
   },
   {
-   "begin": "1561.600",
+   "begin": "1289.640",
    "children": [],
-   "end": "1562.000",
-   "id": "f000076",
+   "end": "1294.240",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "This is conflating ensemble probability and time probability."
+   ]
+  },
+  {
+   "begin": "1294.240",
+   "children": [],
+   "end": "1315.040",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "If the investor has to eventually reduce his exposure because of losses, or because of retirement, or because he got divorced to marry his neighbor's wife, or because he suddenly developed a heroin addiction after his hospitalization for appendicitis, or because he changed his mind about life, his returns will be divorced from those of the market, period."
+   ]
+  },
+  {
+   "begin": "1315.040",
+   "children": [],
+   "end": "1325.560",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "Anyone who has survived in the risk-taking business more than a few years has some version of our by now familiar principle that \"in order to succeed, you must first survive.\""
+   ]
+  },
+  {
+   "begin": "1325.560",
+   "children": [],
+   "end": "1331.520",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "My own has been: \"never cross a river if it is on average four feet deep.\""
+   ]
+  },
+  {
+   "begin": "1331.520",
+   "children": [],
+   "end": "1342.440",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "I effectively organized all my life around the point that sequence matters and the presence of ruin disqualifies cost-benefit analyses; but it never hit me that the flaw in decision theory was so deep."
+   ]
+  },
+  {
+   "begin": "1342.440",
+   "children": [],
+   "end": "1351.720",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Until out of nowhere came a paper by the physicist Ole Peters, working with the great Murray Gell-Mann."
+   ]
+  },
+  {
+   "begin": "1351.720",
+   "children": [],
+   "end": "1367.520",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "They presented a version of the difference between ensemble and time probabilities with a thought experiment similar to mine above, and showed that just about everything in social science having to do with probability is flawed."
+   ]
+  },
+  {
+   "begin": "1367.520",
+   "children": [],
+   "end": "1368.680",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Deeply flawed."
+   ]
+  },
+  {
+   "begin": "1368.680",
+   "children": [],
+   "end": "1369.920",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "Very deeply flawed."
+   ]
+  },
+  {
+   "begin": "1369.920",
+   "children": [],
+   "end": "1372.960",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "Largely, terminally flawed."
+   ]
+  },
+  {
+   "begin": "1372.960",
+   "children": [],
+   "end": "1398.480",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "For, in the quarter millennia since an initial formulation of decision making under uncertainty by the mathematician Jacob Bernoulli, one that has since become standard, almost all people involved in the field have made the severe mistake of missing the effect of the difference between ensemble and time."
+   ]
+  },
+  {
+   "begin": "1398.480",
+   "children": [],
+   "end": "1398.800",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "Everyone?"
+   ]
+  },
+  {
+   "begin": "1398.800",
+   "children": [],
+   "end": "1409.960",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "Not quite: every economist maybe, but not everyone: the applied mathematicians Claude Shannon and Ed Thorp, and the physicist J."
+   ]
+  },
+  {
+   "begin": "1409.960",
+   "children": [],
+   "end": "1410.080",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "L."
+   ]
+  },
+  {
+   "begin": "1410.080",
+   "children": [],
+   "end": "1413.400",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "Kelly of the Kelly Criterion got it right."
+   ]
+  },
+  {
+   "begin": "1413.400",
+   "children": [],
+   "end": "1415.840",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "They also got it in a very simple way."
+   ]
+  },
+  {
+   "begin": "1415.840",
+   "children": [],
+   "end": "1423.160",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "The father of insurance mathematics, the Swedish applied mathematician Harald Cram\u00e9r, also got the point."
+   ]
+  },
+  {
+   "begin": "1423.160",
+   "children": [],
+   "end": "1435.000",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "And, more than two decades ago, practitioners such as Mark Spitznagel and myself built our entire business careers around it."
+   ]
+  },
+  {
+   "begin": "1435.000",
+   "children": [],
+   "end": "1453.360",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "(I mysteriously got it right in my writings and when I traded and made decisions, and detect deep inside when ergodicity is violated, but I never explicitly got Peters and Gell-Mann's mathematical structure - ergodicity is even discussed in Fooled by Randomness, two decades ago)."
+   ]
+  },
+  {
+   "begin": "1453.360",
+   "children": [],
+   "end": "1461.720",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Spitznagel and I even started an entire business to help investors eliminate uncle points so they could get the returns of the market."
+   ]
+  },
+  {
+   "begin": "1461.720",
+   "children": [],
+   "end": "1468.320",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "While I retired to do some flaneuring, Mark continued relentlessly (and successfully) at his Universa."
+   ]
+  },
+  {
+   "begin": "1468.320",
+   "children": [],
+   "end": "1480.840",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "Mark and I have been frustrated by economists who, not getting ergodicity, keep saying that worrying about the tails is \"irrational.\""
+   ]
+  },
+  {
+   "begin": "1480.840",
+   "children": [],
+   "end": "1483.760",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "The idea I just presented is very very simple."
+   ]
+  },
+  {
+   "begin": "1483.760",
+   "children": [],
+   "end": "1490.040",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "But how come nobody for 250 years quite got it?"
+   ]
+  },
+  {
+   "begin": "1490.040",
+   "children": [],
+   "end": "1492.880",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Lack of skin in the game, obviously."
+   ]
+  },
+  {
+   "begin": "1492.880",
+   "children": [],
+   "end": "1500.800",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "For it looks like you need a lot of intelligence to figure probabilistic things out when you don't have skin in the game."
+   ]
+  },
+  {
+   "begin": "1500.800",
+   "children": [],
+   "end": "1507.760",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "But for an overeducated nonpractitioner, these things are hard to figure out."
+   ]
+  },
+  {
+   "begin": "1507.760",
+   "children": [],
+   "end": "1519.280",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "Unless one is a genius, that is, has the clarity of mind to see through the mud, or has a sufficiently profound command of probability theory to cut through the nonsense."
+   ]
+  },
+  {
+   "begin": "1519.280",
+   "children": [],
+   "end": "1525.120",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "Now, certifiably, Murray Gell-Mann is a genius (and, likely, Peters)."
+   ]
+  },
+  {
+   "begin": "1525.120",
+   "children": [],
+   "end": "1531.320",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "Gell-Mann discovered the subatomic particles he himself called quarks (which got him the Nobel)."
+   ]
+  },
+  {
+   "begin": "1531.320",
+   "children": [],
+   "end": "1535.360",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "Peters said that when he presented the idea to Gell-Mann, \"he got it instantly.\""
+   ]
+  },
+  {
+   "begin": "1535.360",
+   "children": [],
+   "end": "1537.840",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "Claude Shannon, Ed Thorp, J."
+   ]
+  },
+  {
+   "begin": "1537.840",
+   "children": [],
+   "end": "1537.920",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "L."
+   ]
+  },
+  {
+   "begin": "1537.920",
+   "children": [],
+   "end": "1552.560",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "Kelly, and Harald Cram\u00e9r are, no doubt, geniuses - I can personally vouch for Thorp, who has an unmistakable clarity of mind combined with a depth of thinking that juts out in conversation."
+   ]
+  },
+  {
+   "begin": "1552.560",
+   "children": [],
+   "end": "1554.840",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "These people could get it without skin in the game."
+   ]
+  },
+  {
+   "begin": "1554.840",
+   "children": [],
+   "end": "1567.360",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "But economists, psychologists, and decision theorists have no geniuses among them (unless one counts the polymath Herb Simon, who did some psychology on the side), and odds are they never will."
+   ]
+  },
+  {
+   "begin": "1567.360",
+   "children": [],
+   "end": "1582.920",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "Adding people without fundamental insights does not sum up to insight; looking for clarity in these fields is like looking for aesthetic harmony in the cubicle of a self-employed computer hacker or the attic of a highly disorganized electrician."
+   ]
+  },
+  {
+   "begin": "1582.920",
+   "children": [],
+   "end": "1583.840",
+   "id": "f000223",
    "language": "eng",
    "lines": [
     "ERGODICITY"
    ]
   },
   {
-   "begin": "1562.000",
+   "begin": "1583.840",
    "children": [],
-   "end": "1589.360",
-   "id": "f000077",
+   "end": "1592.440",
+   "id": "f000224",
    "language": "eng",
    "lines": [
-    "To take stock: a situation is deemed non-ergodic when observed past probabilities do not apply to future processes. There is a \"stop\" somewhere, an absorbing barrier that prevents people with skin in the game from emerging from it - and to which the system will invariably tend. Let us call these situations \"ruin,\" as there is no reversibility away from the condition. The central problem is that if there is a possibility of ruin, cost-benefit analyses are no longer possible."
+    "To take stock: a situation is deemed non-ergodic when observed past probabilities do not apply to future processes."
    ]
   },
   {
-   "begin": "1589.360",
+   "begin": "1592.440",
    "children": [],
-   "end": "1642.440",
-   "id": "f000078",
+   "end": "1600.200",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "Consider a more extreme example than the casino experiment. Assume a collection of people play Russian roulette a single time for a million dollars - this is the central story in Fooled by Randomness. About five out of six will make money. If someone used a standard cost-benefit analysis, he would have claimed that one has an 83.33 percent chance of gains, for an \"expected\" average return per shot of $833,333. But if you keep playing Russian roulette, you will end up in the cemetery. Your expected return is\u2026not computable."
+    "There is a \"stop\" somewhere, an absorbing barrier that prevents people with skin in the game from emerging from it - and to which the system will invariably tend."
    ]
   },
   {
-   "begin": "1642.440",
+   "begin": "1600.200",
    "children": [],
-   "end": "1644.120",
-   "id": "f000079",
+   "end": "1605.840",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "Let us call these situations \"ruin,\" as there is no reversibility away from the condition."
+   ]
+  },
+  {
+   "begin": "1605.840",
+   "children": [],
+   "end": "1610.960",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "The central problem is that if there is a possibility of ruin, cost-benefit analyses are no longer possible."
+   ]
+  },
+  {
+   "begin": "1610.960",
+   "children": [],
+   "end": "1614.520",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "Consider a more extreme example than the casino experiment."
+   ]
+  },
+  {
+   "begin": "1614.520",
+   "children": [],
+   "end": "1623.240",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "Assume a collection of people play Russian roulette a single time for a million dollars - this is the central story in Fooled by Randomness."
+   ]
+  },
+  {
+   "begin": "1623.240",
+   "children": [],
+   "end": "1626.600",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "About five out of six will make money."
+   ]
+  },
+  {
+   "begin": "1626.600",
+   "children": [],
+   "end": "1647.360",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "If someone used a standard cost-benefit analysis, he would have claimed that one has an 83.33 percent chance of gains, for an \"expected\" average return per shot of $833,333."
+   ]
+  },
+  {
+   "begin": "1647.360",
+   "children": [],
+   "end": "1650.280",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "But if you keep playing Russian roulette, you will end up in the cemetery."
+   ]
+  },
+  {
+   "begin": "1650.280",
+   "children": [],
+   "end": "1654.200",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "Your expected return is\u2026not computable."
+   ]
+  },
+  {
+   "begin": "1654.200",
+   "children": [],
+   "end": "1655.160",
+   "id": "f000234",
    "language": "eng",
    "lines": [
     "REPETITION OF EXPOSURES"
    ]
   },
   {
-   "begin": "1644.120",
+   "begin": "1655.160",
    "children": [],
-   "end": "1698.720",
-   "id": "f000080",
+   "end": "1669.520",
+   "id": "f000235",
    "language": "eng",
    "lines": [
-    "Let us see why \"statistical testing\" and \"scientific\" statements are highly insufficient in the presence of both ruin problems and repetition of exposures. If one claimed that there is \"statistical evidence that a plane is safe,\" with a 98 percent confidence level (statistics are meaningless without such confidence bands), and acted on it, practically no experienced pilot would be alive today. In my war with the Monsanto machine, the advocates of genetically modified organisms (transgenics) kept countering me with benefit analyses (which were often bogus and doctored up), not tail risk analyses for repeated exposures."
+    "Let us see why \"statistical testing\" and \"scientific\" statements are highly insufficient in the presence of both ruin problems and repetition of exposures."
    ]
   },
   {
-   "begin": "1698.720",
+   "begin": "1669.520",
    "children": [],
-   "end": "1754.120",
-   "id": "f000081",
+   "end": "1689.080",
+   "id": "f000236",
    "language": "eng",
    "lines": [
-    "Psychologists determine our \"paranoia\" or \"risk aversion\" by subjecting a person to a single experiment - then declare that humans are rationally challenged, as there is an innate tendency to \"overestimate\" small probabilities. They manage to believe that their subjects will never ever again take any personal tail risk! Recall from the chapter on inequality that academics in social science are\u2026dynamically challenged. Nobody could see the grandmother-obvious inconsistency of such behavior with our ingrained daily life logic, which is remarkably more rigorous. Smoking a single cigarette is extremely benign, so a cost-benefit analysis would deem it irrational to give up so much pleasure for so little risk! But it is the act of smoking that kills, at a certain number of packs per year, or tens of thousand of cigarettes - in other words, repeated serial exposure."
+    "If one claimed that there is \"statistical evidence that a plane is safe,\" with a 98 percent confidence level (statistics are meaningless without such confidence bands), and acted on it, practically no experienced pilot would be alive today."
    ]
   },
   {
-   "begin": "1754.120",
+   "begin": "1689.080",
    "children": [],
-   "end": "1795.120",
-   "id": "f000082",
+   "end": "1704.400",
+   "id": "f000237",
    "language": "eng",
    "lines": [
-    "But things are even worse: in real life, every single bit of risk you take adds up to reduce your life expectancy. If you climb mountains and ride a motorcycle and hang around the mob and fly your own small plane and drink absinthe, and smoke cigarettes, and play parkour on Thursday night, your life expectancy is considerably reduced, although no single action will have a meaningful effect. This idea of repetition makes paranoia about some low-probability events, even that deemed \"pathological,\" perfectly rational."
+    "In my war with the Monsanto machine, the advocates of genetically modified organisms (transgenics) kept countering me with benefit analyses (which were often bogus and doctored up), not tail risk analyses for repeated exposures."
    ]
   },
   {
-   "begin": "1795.120",
+   "begin": "1704.400",
    "children": [],
-   "end": "1805.440",
-   "id": "f000083",
+   "end": "1718.960",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "Further, there is a twist. If medicine is progressively improving your life expectancy, you need to be even more paranoid. Think dynamically."
+    "Psychologists determine our \"paranoia\" or \"risk aversion\" by subjecting a person to a single experiment - then declare that humans are rationally challenged, as there is an innate tendency to \"overestimate\" small probabilities."
    ]
   },
   {
-   "begin": "1805.440",
+   "begin": "1718.960",
    "children": [],
-   "end": "1838.280",
-   "id": "f000084",
+   "end": "1722.960",
+   "id": "f000239",
    "language": "eng",
    "lines": [
-    "If you incur a tiny probability of ruin as a \"one-off\" risk, survive it, then do it again (another \"one-off\" deal), you will eventually go bust with a probability of one hundred percent. Confusion arises because it may seem that if the \"one-off\" risk is reasonable, then an additional one is also reasonable. This can be quantified by recognizing that the probability of ruin approaches 1 as the number of exposures to individually small risks, say one in ten thousand, increases."
+    "They manage to believe that their subjects will never ever again take any personal tail risk!"
    ]
   },
   {
-   "begin": "1838.280",
+   "begin": "1722.960",
    "children": [],
-   "end": "1915.000",
-   "id": "f000085",
+   "end": "1729.560",
+   "id": "f000240",
    "language": "eng",
    "lines": [
-    "The flaw in psychology papers is to believe that the subject doesn't take any other tail risks anywhere outside the experiment and, crucially, will never again take any risk at all. The idea in social science of \"loss aversion\" has not been thought through properly - it is not measurable the way it has been measured (if it is at all measurable). Say you ask a subject how much he would pay to insure a 1 percent probability of losing $100. You are trying to figure out how much he is \"overpaying\" for \"risk aversion\" or something even more foolish, \"loss aversion.\" But you cannot possibly ignore all the other financial risks he is taking: if he has a car parked outside that can be scratched, if he has a financial portfolio that can lose money, if he has a bakery that may risk a fine, if he has a child in college who may cost unexpectedly more, if he can be laid off, if he may be unexpectedly ill in the future. All these risks add up, and the attitude of the subject reflects them all. Ruin is indivisible and invariant to the source of randomness that may cause it."
+    "Recall from the chapter on inequality that academics in social science are\u2026dynamically challenged."
    ]
   },
   {
-   "begin": "1915.000",
+   "begin": "1729.560",
    "children": [],
-   "end": "1990.080",
-   "id": "f000086",
+   "end": "1738.120",
+   "id": "f000241",
    "language": "eng",
    "lines": [
-    "Another common error in the psychology literature concerns what is called \"mental accounting.\" The Thorp, Kelly, and Shannon school of information theory requires that, for an investment strategy to be ergodic and eventually capture the return of the market, agents increase their risks as they are winning, but contract after losses, a technique called \"playing with the house money.\" In practice, it is done by threshold, for ease of execution, not complicated rules: you start betting aggressively whenever you have a profit, never when you have a deficit, as if a switch was turned on or off. This method is practiced by probably every single trader who has survived. Now it happens that this dynamic strategy is deemed out of line by behavioral finance econophasters such as the creepy interventionist Richard Thaler, who, very ignorant of probability, calls this \"mental accounting\" a mistake (and, of course, invites government to \"nudge\" us away from it, and prevent strategies from being ergodic)."
+    "Nobody could see the grandmother-obvious inconsistency of such behavior with our ingrained daily life logic, which is remarkably more rigorous."
    ]
   },
   {
-   "begin": "1990.080",
+   "begin": "1738.120",
    "children": [],
-   "end": "2006.880",
-   "id": "f000087",
+   "end": "1749.560",
+   "id": "f000242",
    "language": "eng",
    "lines": [
-    "I believe that risk aversion does not exist: what we observe is, simply, a residual of ergodicity. People are, simply, trying to avoid financial suicide and take a certain attitude to tail risks."
+    "Smoking a single cigarette is extremely benign, so a cost-benefit analysis would deem it irrational to give up so much pleasure for so little risk!"
    ]
   },
   {
-   "begin": "2006.880",
+   "begin": "1749.560",
    "children": [],
-   "end": "2010.920",
-   "id": "f000088",
+   "end": "1763.760",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "But it is the act of smoking that kills, at a certain number of packs per year, or tens of thousand of cigarettes - in other words, repeated serial exposure."
+   ]
+  },
+  {
+   "begin": "1763.760",
+   "children": [],
+   "end": "1772.880",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "But things are even worse: in real life, every single bit of risk you take adds up to reduce your life expectancy."
+   ]
+  },
+  {
+   "begin": "1772.880",
+   "children": [],
+   "end": "1793.720",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "If you climb mountains and ride a motorcycle and hang around the mob and fly your own small plane and drink absinthe, and smoke cigarettes, and play parkour on Thursday night, your life expectancy is considerably reduced, although no single action will have a meaningful effect."
+   ]
+  },
+  {
+   "begin": "1793.720",
+   "children": [],
+   "end": "1802.920",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "This idea of repetition makes paranoia about some low-probability events, even that deemed \"pathological,\" perfectly rational."
+   ]
+  },
+  {
+   "begin": "1802.920",
+   "children": [],
+   "end": "1804.440",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "Further, there is a twist."
+   ]
+  },
+  {
+   "begin": "1804.440",
+   "children": [],
+   "end": "1810.040",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "If medicine is progressively improving your life expectancy, you need to be even more paranoid."
+   ]
+  },
+  {
+   "begin": "1810.040",
+   "children": [],
+   "end": "1810.880",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "Think dynamically."
+   ]
+  },
+  {
+   "begin": "1810.880",
+   "children": [],
+   "end": "1823.160",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "If you incur a tiny probability of ruin as a \"one-off\" risk, survive it, then do it again (another \"one-off\" deal), you will eventually go bust with a probability of one hundred percent."
+   ]
+  },
+  {
+   "begin": "1823.160",
+   "children": [],
+   "end": "1831.960",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "Confusion arises because it may seem that if the \"one-off\" risk is reasonable, then an additional one is also reasonable."
+   ]
+  },
+  {
+   "begin": "1831.960",
+   "children": [],
+   "end": "1846.920",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "This can be quantified by recognizing that the probability of ruin approaches 1 as the number of exposures to individually small risks, say one in ten thousand, increases."
+   ]
+  },
+  {
+   "begin": "1846.920",
+   "children": [],
+   "end": "1859.800",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "The flaw in psychology papers is to believe that the subject doesn't take any other tail risks anywhere outside the experiment and, crucially, will never again take any risk at all."
+   ]
+  },
+  {
+   "begin": "1859.800",
+   "children": [],
+   "end": "1869.000",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "The idea in social science of \"loss aversion\" has not been thought through properly - it is not measurable the way it has been measured (if it is at all measurable)."
+   ]
+  },
+  {
+   "begin": "1869.000",
+   "children": [],
+   "end": "1875.000",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "Say you ask a subject how much he would pay to insure a 1 percent probability of losing $100."
+   ]
+  },
+  {
+   "begin": "1875.000",
+   "children": [],
+   "end": "1881.720",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "You are trying to figure out how much he is \"overpaying\" for \"risk aversion\" or something even more foolish, \"loss aversion.\""
+   ]
+  },
+  {
+   "begin": "1881.720",
+   "children": [],
+   "end": "1907.200",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "But you cannot possibly ignore all the other financial risks he is taking: if he has a car parked outside that can be scratched, if he has a financial portfolio that can lose money, if he has a bakery that may risk a fine, if he has a child in college who may cost unexpectedly more, if he can be laid off, if he may be unexpectedly ill in the future."
+   ]
+  },
+  {
+   "begin": "1907.200",
+   "children": [],
+   "end": "1916.160",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "All these risks add up, and the attitude of the subject reflects them all."
+   ]
+  },
+  {
+   "begin": "1916.160",
+   "children": [],
+   "end": "1920.840",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "Ruin is indivisible and invariant to the source of randomness that may cause it."
+   ]
+  },
+  {
+   "begin": "1920.840",
+   "children": [],
+   "end": "1927.200",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "Another common error in the psychology literature concerns what is called \"mental accounting.\""
+   ]
+  },
+  {
+   "begin": "1927.200",
+   "children": [],
+   "end": "1946.680",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "The Thorp, Kelly, and Shannon school of information theory requires that, for an investment strategy to be ergodic and eventually capture the return of the market, agents increase their risks as they are winning, but contract after losses, a technique called \"playing with the house money.\""
+   ]
+  },
+  {
+   "begin": "1946.680",
+   "children": [],
+   "end": "1962.680",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "In practice, it is done by threshold, for ease of execution, not complicated rules: you start betting aggressively whenever you have a profit, never when you have a deficit, as if a switch was turned on or off."
+   ]
+  },
+  {
+   "begin": "1962.680",
+   "children": [],
+   "end": "1968.520",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "This method is practiced by probably every single trader who has survived."
+   ]
+  },
+  {
+   "begin": "1968.520",
+   "children": [],
+   "end": "2000.720",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Now it happens that this dynamic strategy is deemed out of line by behavioral finance econophasters such as the creepy interventionist Richard Thaler, who, very ignorant of probability, calls this \"mental accounting\" a mistake (and, of course, invites government to \"nudge\" us away from it, and prevent strategies from being ergodic)."
+   ]
+  },
+  {
+   "begin": "2000.720",
+   "children": [],
+   "end": "2009.480",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "I believe that risk aversion does not exist: what we observe is, simply, a residual of ergodicity."
+   ]
+  },
+  {
+   "begin": "2009.480",
+   "children": [],
+   "end": "2018.200",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "People are, simply, trying to avoid financial suicide and take a certain attitude to tail risks."
+   ]
+  },
+  {
+   "begin": "2018.200",
+   "children": [],
+   "end": "2024.080",
+   "id": "f000267",
    "language": "eng",
    "lines": [
     "But we do not need to be overly paranoid about ourselves; we need to shift some of our worries to bigger things."
    ]
   },
   {
-   "begin": "2010.920",
+   "begin": "2024.080",
    "children": [],
-   "end": "2011.960",
-   "id": "f000089",
+   "end": "2024.120",
+   "id": "f000268",
    "language": "eng",
    "lines": [
     "WHO IS \"YOU\"?"
    ]
   },
   {
-   "begin": "2011.960",
+   "begin": "2024.120",
    "children": [],
-   "end": "2027.880",
-   "id": "f000090",
+   "end": "2026.680",
+   "id": "f000269",
    "language": "eng",
    "lines": [
-    "Let us return to the notion of \"tribe.\" One of the defects modern education and thinking introduces is the illusion that each one of us is a single unit. In fact, I've sampled ninety people in seminars and asked them: \"what's the worst thing that can happen to you?\" Eighty-eight people answered \"my death.\""
+    "Let us return to the notion of \"tribe.\""
    ]
   },
   {
-   "begin": "2027.880",
+   "begin": "2026.680",
    "children": [],
-   "end": "2061.640",
-   "id": "f000091",
+   "end": "2034.040",
+   "id": "f000270",
    "language": "eng",
    "lines": [
-    "This can only be the worst-case situation for a psychopath. For after that, I asked those who deemed that their worst-case outcome was their own death: \"Is your death plus that of your children, nephews, cousins, cat, dogs, parakeet, and hamster (if you have any of the above) worse than just your death?\" Invariably, yes. \"Is your death plus your children, nephews, cousins (\u2026) plus all of humanity worse than just your death?\" Yes, of course. Then how can your death be the worst possible outcome?"
+    "One of the defects modern education and thinking introduces is the illusion that each one of us is a single unit."
    ]
   },
   {
-   "begin": "2061.640",
+   "begin": "2034.040",
    "children": [],
-   "end": "2069.240",
-   "id": "f000092",
+   "end": "2040.200",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "In fact, I've sampled ninety people in seminars and asked them: \"what's the worst thing that can happen to you?\""
+   ]
+  },
+  {
+   "begin": "2040.200",
+   "children": [],
+   "end": "2043.720",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "Eighty-eight people answered \"my death.\""
+   ]
+  },
+  {
+   "begin": "2043.720",
+   "children": [],
+   "end": "2049.120",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "This can only be the worst-case situation for a psychopath."
+   ]
+  },
+  {
+   "begin": "2049.120",
+   "children": [],
+   "end": "2071.480",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "For after that, I asked those who deemed that their worst-case outcome was their own death: \"Is your death plus that of your children, nephews, cousins, cat, dogs, parakeet, and hamster (if you have any of the above) worse than just your death?\""
+   ]
+  },
+  {
+   "begin": "2071.480",
+   "children": [],
+   "end": "2073.480",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "Invariably, yes."
+   ]
+  },
+  {
+   "begin": "2073.480",
+   "children": [],
+   "end": "2080.920",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "\"Is your death plus your children, nephews, cousins (\u2026) plus all of humanity worse than just your death?\""
+   ]
+  },
+  {
+   "begin": "2080.920",
+   "children": [],
+   "end": "2083.240",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "Yes, of course."
+   ]
+  },
+  {
+   "begin": "2083.240",
+   "children": [],
+   "end": "2087.000",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "Then how can your death be the worst possible outcome?"
+   ]
+  },
+  {
+   "begin": "2087.000",
+   "children": [],
+   "end": "2099.120",
+   "id": "f000279",
    "language": "eng",
    "lines": [
     "Unless you are perfectly narcissistic and psychopathic - even then - your worst-case scenario is never limited to the loss of only your life."
    ]
   },
   {
-   "begin": "2069.240",
+   "begin": "2099.120",
    "children": [],
-   "end": "2080.760",
-   "id": "f000093",
+   "end": "2104.800",
+   "id": "f000280",
    "language": "eng",
    "lines": [
-    "Thus, we see the point that individual ruin is not as big a deal as collective ruin. And of course ecocide, the irreversible destruction of our environment, is the big one to worry about."
+    "Thus, we see the point that individual ruin is not as big a deal as collective ruin."
    ]
   },
   {
-   "begin": "2080.760",
+   "begin": "2104.800",
    "children": [],
-   "end": "2100.040",
-   "id": "f000094",
+   "end": "2111.040",
+   "id": "f000281",
    "language": "eng",
    "lines": [
-    "To use the ergodic framework: my death at Russian roulette is not ergodic for me but it is ergodic for the system. The precautionary principle, as I formulated with a few colleagues, is precisely about the highest layer."
+    "And of course ecocide, the irreversible destruction of our environment, is the big one to worry about."
    ]
   },
   {
-   "begin": "2100.040",
+   "begin": "2111.040",
    "children": [],
-   "end": "2106.120",
-   "id": "f000095",
+   "end": "2119.120",
+   "id": "f000282",
    "language": "eng",
    "lines": [
-    "FIGURE 6. Taking personal risks to save the collective are \"courage\" and \"prudence\" since you are lowering risks for the collective."
+    "To use the ergodic framework: my death at Russian roulette is not ergodic for me but it is ergodic for the system."
    ]
   },
   {
-   "begin": "2106.120",
+   "begin": "2119.120",
    "children": [],
-   "end": "2136.160",
-   "id": "f000096",
+   "end": "2128.280",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "About every time I discuss the precautionary principle, some overeducated pundit suggests that \"we take risks by crossing the street,\" so why worry so much about the system? This sophistry usually causes a bit of anger on my part. Aside from the fact that the risk of being killed as a pedestrian is less than one in 47,000 years, the point is that my death is never the worst-case scenario unless it correlates to that of others."
+    "The precautionary principle, as I formulated with a few colleagues, is precisely about the highest layer."
    ]
   },
   {
-   "begin": "2136.160",
+   "begin": "2128.280",
    "children": [],
-   "end": "2140.720",
-   "id": "f000097",
+   "end": "2128.720",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "FIGURE 6."
+   ]
+  },
+  {
+   "begin": "2128.720",
+   "children": [],
+   "end": "2136.000",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "Taking personal risks to save the collective are \"courage\" and \"prudence\" since you are lowering risks for the collective."
+   ]
+  },
+  {
+   "begin": "2136.000",
+   "children": [],
+   "end": "2150.400",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "About every time I discuss the precautionary principle, some overeducated pundit suggests that \"we take risks by crossing the street,\" so why worry so much about the system?"
+   ]
+  },
+  {
+   "begin": "2150.400",
+   "children": [],
+   "end": "2154.120",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "This sophistry usually causes a bit of anger on my part."
+   ]
+  },
+  {
+   "begin": "2154.120",
+   "children": [],
+   "end": "2171.920",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "Aside from the fact that the risk of being killed as a pedestrian is less than one in 47,000 years, the point is that my death is never the worst-case scenario unless it correlates to that of others."
+   ]
+  },
+  {
+   "begin": "2171.920",
+   "children": [],
+   "end": "2177.040",
+   "id": "f000289",
    "language": "eng",
    "lines": [
     "I have a finite shelf life, humanity should have an infinite duration."
    ]
   },
   {
-   "begin": "2140.720",
+   "begin": "2177.040",
    "children": [],
-   "end": "2141.120",
-   "id": "f000098",
+   "end": "2177.280",
+   "id": "f000290",
    "language": "eng",
    "lines": [
     "Or,"
    ]
   },
   {
-   "begin": "2141.120",
+   "begin": "2177.280",
    "children": [],
-   "end": "2144.000",
-   "id": "f000099",
+   "end": "2179.960",
+   "id": "f000291",
    "language": "eng",
    "lines": [
     "I am renewable, not humanity or the ecosystem."
    ]
   },
   {
-   "begin": "2144.000",
+   "begin": "2179.960",
    "children": [],
-   "end": "2173.880",
-   "id": "f000100",
+   "end": "2198.680",
+   "id": "f000292",
    "language": "eng",
    "lines": [
-    "Even worse, as I have shown in Antifragile, the fragility of the system's components (provided they are renewable and replaceable) is required to ensure the solidity of the system as a whole. If humans were immortals, they would go extinct from an accident, or from a gradual buildup of misfitness. But shorter shelf life for humans allows genetic changes across generations to be in sync with the variability of the environment."
+    "Even worse, as I have shown in Antifragile, the fragility of the system's components (provided they are renewable and replaceable) is required to ensure the solidity of the system as a whole."
    ]
   },
   {
-   "begin": "2173.880",
+   "begin": "2198.680",
    "children": [],
-   "end": "2177.080",
-   "id": "f000101",
+   "end": "2207.040",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "If humans were immortals, they would go extinct from an accident, or from a gradual buildup of misfitness."
+   ]
+  },
+  {
+   "begin": "2207.040",
+   "children": [],
+   "end": "2216.400",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "But shorter shelf life for humans allows genetic changes across generations to be in sync with the variability of the environment."
+   ]
+  },
+  {
+   "begin": "2216.400",
+   "children": [],
+   "end": "2220.240",
+   "id": "f000295",
    "language": "eng",
    "lines": [
     "COURAGE AND PRECAUTION AREN'T OPPOSITES"
    ]
   },
   {
-   "begin": "2177.080",
+   "begin": "2220.240",
    "children": [],
-   "end": "2201.240",
-   "id": "f000102",
+   "end": "2224.320",
+   "id": "f000296",
    "language": "eng",
    "lines": [
-    "How can both courage and prudence be classical virtues? Virtue, as presented in Aristotle's Nicomachean Ethics, includes: sophrosyne (\u03c3\u03c9\u03c6\u03c1\u03bf\u03c3\u03cd\u03bd\u03b7), prudence, and a form of sound judgment he called more broadly phronesis. Aren't these inconsistent with courage?"
+    "How can both courage and prudence be classical virtues?"
    ]
   },
   {
-   "begin": "2201.240",
+   "begin": "2224.320",
    "children": [],
-   "end": "2206.760",
-   "id": "f000103",
+   "end": "2238.760",
+   "id": "f000297",
    "language": "eng",
    "lines": [
-    "In our framework, they are not at all. They are actually, as Fat Tony would say, the same ting. How?"
+    "Virtue, as presented in Aristotle's Nicomachean Ethics, includes: sophrosyne (\u03c3\u03c9\u03c6\u03c1\u03bf\u03c3\u03cd\u03bd\u03b7), prudence, and a form of sound judgment he called more broadly phronesis."
    ]
   },
   {
-   "begin": "2206.760",
+   "begin": "2238.760",
    "children": [],
-   "end": "2221.160",
-   "id": "f000104",
+   "end": "2242.000",
+   "id": "f000298",
    "language": "eng",
    "lines": [
-    "I can exercise courage to save a collection of kids from drowning, at the risk of my own life, and it would also correspond to a form of prudence. Were I to die, I would be sacrificing a lower layer in Figure 6 for the sake of a higher one."
+    "Aren't these inconsistent with courage?"
    ]
   },
   {
-   "begin": "2221.160",
+   "begin": "2242.000",
    "children": [],
-   "end": "2231.680",
-   "id": "f000105",
+   "end": "2244.600",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "In our framework, they are not at all."
+   ]
+  },
+  {
+   "begin": "2244.600",
+   "children": [],
+   "end": "2248.040",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "They are actually, as Fat Tony would say, the same ting."
+   ]
+  },
+  {
+   "begin": "2248.040",
+   "children": [],
+   "end": "2248.520",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "How?"
+   ]
+  },
+  {
+   "begin": "2248.520",
+   "children": [],
+   "end": "2257.600",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "I can exercise courage to save a collection of kids from drowning, at the risk of my own life, and it would also correspond to a form of prudence."
+   ]
+  },
+  {
+   "begin": "2257.600",
+   "children": [],
+   "end": "2262.680",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "Were I to die, I would be sacrificing a lower layer in Figure 6 for the sake of a higher one."
+   ]
+  },
+  {
+   "begin": "2262.680",
+   "children": [],
+   "end": "2274.040",
+   "id": "f000304",
    "language": "eng",
    "lines": [
     "Courage, according to the Greek ideal that Aristotle inherited from Homer (and conveyed by Solon, Pericles, and Thucydides) is never a selfish action:"
    ]
   },
   {
-   "begin": "2231.680",
+   "begin": "2274.040",
    "children": [],
-   "end": "2239.160",
-   "id": "f000106",
+   "end": "2279.280",
+   "id": "f000305",
    "language": "eng",
    "lines": [
     "Courage is when you sacrifice your own well-being for the sake of the survival of a layer higher than yours."
    ]
   },
   {
-   "begin": "2239.160",
+   "begin": "2279.280",
    "children": [],
-   "end": "2248.760",
-   "id": "f000107",
+   "end": "2283.200",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "Selfish courage is not courage. A foolish gambler is not committing an act of courage, especially if he is risking other people's funds or has a family to feed."
+    "Selfish courage is not courage."
    ]
   },
   {
-   "begin": "2248.760",
+   "begin": "2283.200",
    "children": [],
-   "end": "2250.920",
-   "id": "f000108",
+   "end": "2294.560",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "A foolish gambler is not committing an act of courage, especially if he is risking other people's funds or has a family to feed."
+   ]
+  },
+  {
+   "begin": "2294.560",
+   "children": [],
+   "end": "2295.840",
+   "id": "f000308",
    "language": "eng",
    "lines": [
     "RATIONALITY, AGAIN"
    ]
   },
   {
-   "begin": "2250.920",
+   "begin": "2295.840",
    "children": [],
-   "end": "2282.640",
-   "id": "f000109",
+   "end": "2307.080",
+   "id": "f000309",
    "language": "eng",
    "lines": [
-    "The last chapter reframed rationality in terms of actual decisions, not what are called \"beliefs,\" as these may be adapted to stimulate us in the most convincing way to avoid things that threaten systemic survival. If superstition is what it takes, not only is there absolutely no violation of the axioms of rationality there, but it would be technically irrational to stand in its way. If superstition is what's needed to satisfy ergodicity, let it be."
+    "The last chapter reframed rationality in terms of actual decisions, not what are called \"beliefs,\" as these may be adapted to stimulate us in the most convincing way to avoid things that threaten systemic survival."
    ]
   },
   {
-   "begin": "2282.640",
+   "begin": "2307.080",
    "children": [],
-   "end": "2349.160",
-   "id": "f000110",
+   "end": "2316.800",
+   "id": "f000310",
    "language": "eng",
    "lines": [
-    "Let us return to Warren Buffett. He did not make his billions by cost-benefit analysis; rather, he did so simply by establishing a high filter, then picking opportunities that pass such a threshold. \"The difference between successful people and really successful people is that really successful people say no to almost everything,\" he said. Likewise our wiring might be adapted to \"say no\" to tail risk. For there are a zillion ways to make money without taking tail risk. There are a zillion ways to solve problems (say, feed the world) without complicated technologies that entail fragility and an unknown possibility of tail blowup. Whenever I hear someone saying \"we need to take (tail) risks\" I know it is not coming from a surviving practitioner but from a finance academic or a banker - the latter, we saw, almost always blows up, usually with other people's money."
+    "If superstition is what it takes, not only is there absolutely no violation of the axioms of rationality there, but it would be technically irrational to stand in its way."
    ]
   },
   {
-   "begin": "2349.160",
+   "begin": "2316.800",
    "children": [],
-   "end": "2369.880",
-   "id": "f000111",
+   "end": "2321.680",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "Indeed, it doesn't cost us much to refuse some new shoddy technologies. It doesn't cost me much to go with my \"refined paranoia,\" even if wrong. For all it takes is for my paranoia to be right once, and it saves my life."
+    "If superstition is what's needed to satisfy ergodicity, let it be."
    ]
   },
   {
-   "begin": "2369.880",
+   "begin": "2321.680",
    "children": [],
-   "end": "2371.320",
-   "id": "f000112",
+   "end": "2323.360",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "Let us return to Warren Buffett."
+   ]
+  },
+  {
+   "begin": "2323.360",
+   "children": [],
+   "end": "2333.040",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "He did not make his billions by cost-benefit analysis; rather, he did so simply by establishing a high filter, then picking opportunities that pass such a threshold."
+   ]
+  },
+  {
+   "begin": "2333.040",
+   "children": [],
+   "end": "2345.400",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "\"The difference between successful people and really successful people is that really successful people say no to almost everything,\" he said."
+   ]
+  },
+  {
+   "begin": "2345.400",
+   "children": [],
+   "end": "2349.960",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "Likewise our wiring might be adapted to \"say no\" to tail risk."
+   ]
+  },
+  {
+   "begin": "2349.960",
+   "children": [],
+   "end": "2353.840",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "For there are a zillion ways to make money without taking tail risk."
+   ]
+  },
+  {
+   "begin": "2353.840",
+   "children": [],
+   "end": "2364.800",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "There are a zillion ways to solve problems (say, feed the world) without complicated technologies that entail fragility and an unknown possibility of tail blowup."
+   ]
+  },
+  {
+   "begin": "2364.800",
+   "children": [],
+   "end": "2382.600",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "Whenever I hear someone saying \"we need to take (tail) risks\" I know it is not coming from a surviving practitioner but from a finance academic or a banker - the latter, we saw, almost always blows up, usually with other people's money."
+   ]
+  },
+  {
+   "begin": "2382.600",
+   "children": [],
+   "end": "2389.680",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "Indeed, it doesn't cost us much to refuse some new shoddy technologies."
+   ]
+  },
+  {
+   "begin": "2389.680",
+   "children": [],
+   "end": "2394.040",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "It doesn't cost me much to go with my \"refined paranoia,\" even if wrong."
+   ]
+  },
+  {
+   "begin": "2394.040",
+   "children": [],
+   "end": "2397.920",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "For all it takes is for my paranoia to be right once, and it saves my life."
+   ]
+  },
+  {
+   "begin": "2397.920",
+   "children": [],
+   "end": "2398.440",
+   "id": "f000322",
    "language": "eng",
    "lines": [
     "LOVE SOME RISKS"
    ]
   },
   {
-   "begin": "2371.320",
+   "begin": "2398.440",
    "children": [],
-   "end": "2430.240",
-   "id": "f000113",
+   "end": "2413.720",
+   "id": "f000323",
    "language": "eng",
    "lines": [
-    "Antifragile shows how people confuse risk of ruin with variations and fluctuations - a simplification that violates a deeper, more rigorous logic of things. I make the case for risk loving, for systematic \"convex\" tinkering, and for taking a lot of risks that don't have tail risks but offer tail profits. Volatile things are not necessarily risky, and the reverse is also true. Jumping from a bench would be good for you and your bones, while falling from the twenty-second floor will never be so. Small injuries will be beneficial, never larger ones, those that have irreversible effects. Fearmongering about some classes of events is fearmongering; about others it is not. Risk and ruin are different tings."
+    "Antifragile shows how people confuse risk of ruin with variations and fluctuations - a simplification that violates a deeper, more rigorous logic of things."
    ]
   },
   {
-   "begin": "2430.240",
+   "begin": "2413.720",
    "children": [],
-   "end": "2431.960",
-   "id": "f000114",
+   "end": "2427.880",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "I make the case for risk loving, for systematic \"convex\" tinkering, and for taking a lot of risks that don't have tail risks but offer tail profits."
+   ]
+  },
+  {
+   "begin": "2427.880",
+   "children": [],
+   "end": "2431.800",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "Volatile things are not necessarily risky, and the reverse is also true."
+   ]
+  },
+  {
+   "begin": "2431.800",
+   "children": [],
+   "end": "2440.560",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "Jumping from a bench would be good for you and your bones, while falling from the twenty-second floor will never be so."
+   ]
+  },
+  {
+   "begin": "2440.560",
+   "children": [],
+   "end": "2446.600",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "Small injuries will be beneficial, never larger ones, those that have irreversible effects."
+   ]
+  },
+  {
+   "begin": "2446.600",
+   "children": [],
+   "end": "2450.800",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Fearmongering about some classes of events is fearmongering; about others it is not."
+   ]
+  },
+  {
+   "begin": "2450.800",
+   "children": [],
+   "end": "2453.920",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "Risk and ruin are different tings."
+   ]
+  },
+  {
+   "begin": "2453.920",
+   "children": [],
+   "end": "2456.880",
+   "id": "f000330",
    "language": "eng",
    "lines": [
     "NAIVE EMPIRICISM"
    ]
   },
   {
-   "begin": "2431.960",
+   "begin": "2456.880",
    "children": [],
-   "end": "2447.520",
-   "id": "f000115",
+   "end": "2459.080",
+   "id": "f000331",
    "language": "eng",
    "lines": [
-    "All risks are not equal. We often hear that \"Ebola is causing fewer deaths than people drowning in their bathtubs,\" or something of the sort, based on \"evidence.\" This is another class of problems that your grandmother can get, but the semi-educated cannot."
+    "All risks are not equal."
    ]
   },
   {
-   "begin": "2447.520",
+   "begin": "2459.080",
    "children": [],
-   "end": "2459.240",
-   "id": "f000116",
+   "end": "2467.280",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "We often hear that \"Ebola is causing fewer deaths than people drowning in their bathtubs,\" or something of the sort, based on \"evidence.\""
+   ]
+  },
+  {
+   "begin": "2467.280",
+   "children": [],
+   "end": "2473.760",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "This is another class of problems that your grandmother can get, but the semi-educated cannot."
+   ]
+  },
+  {
+   "begin": "2473.760",
+   "children": [],
+   "end": "2483.840",
+   "id": "f000334",
    "language": "eng",
    "lines": [
     "Never compare a multiplicative, systemic, and fat-tailed risk to a non-multiplicative, idiosyncratic, and thin-tailed one."
    ]
   },
   {
-   "begin": "2459.240",
+   "begin": "2483.840",
    "children": [],
-   "end": "2470.760",
-   "id": "f000117",
+   "end": "2489.120",
+   "id": "f000335",
    "language": "eng",
    "lines": [
-    "Recall that I worry about the correlation between the death of one person and that of another. So we need to be concerned with systemic effects: things that can affect more than one person should they happen."
+    "Recall that I worry about the correlation between the death of one person and that of another."
    ]
   },
   {
-   "begin": "2470.760",
+   "begin": "2489.120",
    "children": [],
-   "end": "2499.880",
-   "id": "f000118",
+   "end": "2496.520",
+   "id": "f000336",
    "language": "eng",
    "lines": [
-    "A refresher here. There are two categories in which random events fall: Mediocristan and Extremistan. Mediocristan is thin-tailed and affects the individual without correlation to the collective. Extremistan, by definition, affects many people. Hence Extremistan has a systemic effect that Mediocristan doesn't. Multiplicative risks - such as epidemics - are always from Extremistan. They may not be lethal (say, the flu), but they remain from Extremistan."
+    "So we need to be concerned with systemic effects: things that can affect more than one person should they happen."
    ]
   },
   {
-   "begin": "2499.880",
+   "begin": "2496.520",
    "children": [],
-   "end": "2500.960",
-   "id": "f000119",
+   "end": "2497.480",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "A refresher here."
+   ]
+  },
+  {
+   "begin": "2497.480",
+   "children": [],
+   "end": "2501.800",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "There are two categories in which random events fall: Mediocristan and Extremistan."
+   ]
+  },
+  {
+   "begin": "2501.800",
+   "children": [],
+   "end": "2507.120",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "Mediocristan is thin-tailed and affects the individual without correlation to the collective."
+   ]
+  },
+  {
+   "begin": "2507.120",
+   "children": [],
+   "end": "2512.440",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "Extremistan, by definition, affects many people."
+   ]
+  },
+  {
+   "begin": "2512.440",
+   "children": [],
+   "end": "2518.920",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Hence Extremistan has a systemic effect that Mediocristan doesn't."
+   ]
+  },
+  {
+   "begin": "2518.920",
+   "children": [],
+   "end": "2524.960",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "Multiplicative risks - such as epidemics - are always from Extremistan."
+   ]
+  },
+  {
+   "begin": "2524.960",
+   "children": [],
+   "end": "2529.760",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "They may not be lethal (say, the flu), but they remain from Extremistan."
+   ]
+  },
+  {
+   "begin": "2529.760",
+   "children": [],
+   "end": "2531.440",
+   "id": "f000344",
    "language": "eng",
    "lines": [
     "More technically:"
    ]
   },
   {
-   "begin": "2500.960",
+   "begin": "2531.440",
    "children": [],
-   "end": "2504.440",
-   "id": "f000120",
+   "end": "2536.040",
+   "id": "f000345",
    "language": "eng",
    "lines": [
     "Mediocristan risks are subjected to the Chernoff bound."
    ]
   },
   {
-   "begin": "2504.440",
+   "begin": "2536.040",
    "children": [],
-   "end": "2528.640",
-   "id": "f000121",
+   "end": "2539.200",
+   "id": "f000346",
    "language": "eng",
    "lines": [
-    "The Chernoff bound can be explained as follows. The probability that the number of people who drown in their bathtubs in the United States doubles next year - assuming no changes in population or bathtubs - is one per several trillions lifetimes of the universe. This cannot be said about the doubling of the number of people killed by terrorism over the same period."
+    "The Chernoff bound can be explained as follows."
    ]
   },
   {
-   "begin": "2528.640",
+   "begin": "2539.200",
    "children": [],
-   "end": "2625.800",
-   "id": "f000122",
+   "end": "2552.920",
+   "id": "f000347",
    "language": "eng",
    "lines": [
-    "Journalists and social scientists are pathologically prone to such nonsense - particularly those who think that a regression and a graph are sophisticated ways to approach a problem. Simply, they have been trained with tools for Mediocristan. So we often see the headline that many more American citizens slept with Kim Kardashian than died of Ebola. Or that more people were killed by their own furniture than by terrorism. Your grandmother's logic would debunk these claims. Just consider that: it is impossible for a billion people to sleep with Kim Kardashian (even her), but that there is a non-zero probability that a multiplicative process (a pandemic) causes such a number of Ebola deaths. Or even if such events were not multiplicative, say, terrorism, there is a probability of actions such as polluting the water supply that can cause extreme deviations. The other argument is one of feedback: if terrorism casualties are low, it is because of vigilance (we tend to search passengers before boarding planes), and the argument that such vigilance is superfluous indicates a severe flaw in reasoning. Your bathtub is not trying to kill you."
+    "The probability that the number of people who drown in their bathtubs in the United States doubles next year - assuming no changes in population or bathtubs - is one per several trillions lifetimes of the universe."
    ]
   },
   {
-   "begin": "2625.800",
+   "begin": "2552.920",
    "children": [],
-   "end": "2709.440",
-   "id": "f000123",
+   "end": "2557.800",
+   "id": "f000348",
    "language": "eng",
    "lines": [
-    "I was wondering why the point appears to be unnatural to many \"scientists\" (which includes policymakers), but natural to some other people, such as the probabilist Paul Embrechts. Simply, Embrechts looks at things from the tail. Embrechts studies a branch of probability called extreme value theory and is part of a group we call \"extremists\" - a narrow group of researchers who specialize, as I do, in extreme events. Well, Embrechts and his peers look at the difference between processes for extremes, never the ordinary. Do not confuse this with Extremistan: they study what happens for extremes, which includes both Extremistan and Mediocristan - it just happens that Mediocristan is milder than Extremistan. They classify what can happen \"in the tails\" according to the generalized extreme value distribution. Things are a lot - a lot - clearer in the tails. And things are a lot - a lot - clearer in probability than they are in words."
+    "This cannot be said about the doubling of the number of people killed by terrorism over the same period."
    ]
   },
   {
-   "begin": "2709.440",
+   "begin": "2557.800",
    "children": [],
-   "end": "2709.920",
-   "id": "f000124",
+   "end": "2576.080",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Journalists and social scientists are pathologically prone to such nonsense - particularly those who think that a regression and a graph are sophisticated ways to approach a problem."
+   ]
+  },
+  {
+   "begin": "2576.080",
+   "children": [],
+   "end": "2580.200",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "Simply, they have been trained with tools for Mediocristan."
+   ]
+  },
+  {
+   "begin": "2580.200",
+   "children": [],
+   "end": "2585.320",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "So we often see the headline that many more American citizens slept with Kim Kardashian than died of Ebola."
+   ]
+  },
+  {
+   "begin": "2585.320",
+   "children": [],
+   "end": "2589.080",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "Or that more people were killed by their own furniture than by terrorism."
+   ]
+  },
+  {
+   "begin": "2589.080",
+   "children": [],
+   "end": "2592.840",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "Your grandmother's logic would debunk these claims."
+   ]
+  },
+  {
+   "begin": "2592.840",
+   "children": [],
+   "end": "2609.920",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "Just consider that: it is impossible for a billion people to sleep with Kim Kardashian (even her), but that there is a non-zero probability that a multiplicative process (a pandemic) causes such a number of Ebola deaths."
+   ]
+  },
+  {
+   "begin": "2609.920",
+   "children": [],
+   "end": "2623.360",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "Or even if such events were not multiplicative, say, terrorism, there is a probability of actions such as polluting the water supply that can cause extreme deviations."
+   ]
+  },
+  {
+   "begin": "2623.360",
+   "children": [],
+   "end": "2636.000",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "The other argument is one of feedback: if terrorism casualties are low, it is because of vigilance (we tend to search passengers before boarding planes), and the argument that such vigilance is superfluous indicates a severe flaw in reasoning."
+   ]
+  },
+  {
+   "begin": "2636.000",
+   "children": [],
+   "end": "2637.920",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "Your bathtub is not trying to kill you."
+   ]
+  },
+  {
+   "begin": "2637.920",
+   "children": [],
+   "end": "2650.360",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "I was wondering why the point appears to be unnatural to many \"scientists\" (which includes policymakers), but natural to some other people, such as the probabilist Paul Embrechts."
+   ]
+  },
+  {
+   "begin": "2650.360",
+   "children": [],
+   "end": "2653.160",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "Simply, Embrechts looks at things from the tail."
+   ]
+  },
+  {
+   "begin": "2653.160",
+   "children": [],
+   "end": "2675.760",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "Embrechts studies a branch of probability called extreme value theory and is part of a group we call \"extremists\" - a narrow group of researchers who specialize, as I do, in extreme events."
+   ]
+  },
+  {
+   "begin": "2675.760",
+   "children": [],
+   "end": "2685.240",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "Well, Embrechts and his peers look at the difference between processes for extremes, never the ordinary."
+   ]
+  },
+  {
+   "begin": "2685.240",
+   "children": [],
+   "end": "2698.160",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "Do not confuse this with Extremistan: they study what happens for extremes, which includes both Extremistan and Mediocristan - it just happens that Mediocristan is milder than Extremistan."
+   ]
+  },
+  {
+   "begin": "2698.160",
+   "children": [],
+   "end": "2705.040",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "They classify what can happen \"in the tails\" according to the generalized extreme value distribution."
+   ]
+  },
+  {
+   "begin": "2705.040",
+   "children": [],
+   "end": "2709.360",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "Things are a lot - a lot - clearer in the tails."
+   ]
+  },
+  {
+   "begin": "2709.360",
+   "children": [],
+   "end": "2715.240",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "And things are a lot - a lot - clearer in probability than they are in words."
+   ]
+  },
+  {
+   "begin": "2715.240",
+   "children": [],
+   "end": "2715.680",
+   "id": "f000366",
    "language": "eng",
    "lines": [
     "SUMMARY"
    ]
   },
   {
-   "begin": "2709.920",
+   "begin": "2715.680",
    "children": [],
-   "end": "2713.400",
-   "id": "f000125",
+   "end": "2718.000",
+   "id": "f000367",
    "language": "eng",
    "lines": [
     "We close this chapter with a few summarizing lines."
    ]
   },
   {
-   "begin": "2713.400",
+   "begin": "2718.000",
    "children": [],
-   "end": "2715.680",
-   "id": "f000126",
+   "end": "2722.480",
+   "id": "f000368",
    "language": "eng",
    "lines": [
     "One may be risk loving yet completely averse to ruin."
    ]
   },
   {
-   "begin": "2715.680",
+   "begin": "2722.480",
    "children": [],
-   "end": "2718.000",
-   "id": "f000127",
+   "end": "2726.720",
+   "id": "f000369",
    "language": "eng",
    "lines": [
     "The central asymmetry of life is:"
    ]
   },
   {
-   "begin": "2718.000",
+   "begin": "2726.720",
    "children": [],
-   "end": "2726.360",
-   "id": "f000128",
+   "end": "2733.360",
+   "id": "f000370",
    "language": "eng",
    "lines": [
     "In a strategy that entails ruin, benefits never offset risks of ruin."
    ]
   },
   {
-   "begin": "2726.360",
+   "begin": "2733.360",
    "children": [],
-   "end": "2726.880",
-   "id": "f000129",
+   "end": "2734.320",
+   "id": "f000371",
    "language": "eng",
    "lines": [
     "Further:"
    ]
   },
   {
-   "begin": "2726.880",
+   "begin": "2734.320",
    "children": [],
-   "end": "2731.160",
-   "id": "f000130",
+   "end": "2736.880",
+   "id": "f000372",
    "language": "eng",
    "lines": [
     "Ruin and other changes in condition are different animals."
    ]
   },
   {
-   "begin": "2731.160",
+   "begin": "2736.880",
    "children": [],
-   "end": "2735.760",
-   "id": "f000131",
+   "end": "2741.920",
+   "id": "f000373",
    "language": "eng",
    "lines": [
     "Every single risk you take adds up to reduce your life expectancy."
    ]
   },
   {
-   "begin": "2735.760",
+   "begin": "2741.920",
    "children": [],
-   "end": "2736.880",
-   "id": "f000132",
+   "end": "2743.200",
+   "id": "f000374",
    "language": "eng",
    "lines": [
     "Finally:"
    ]
   },
   {
-   "begin": "2736.880",
+   "begin": "2743.200",
    "children": [],
-   "end": "2740.480",
-   "id": "f000133",
+   "end": "2747.520",
+   "id": "f000375",
    "language": "eng",
    "lines": [
     "Rationality is avoidance of systemic ruin."
    ]
   },
   {
-   "begin": "2740.480",
+   "begin": "2747.520",
    "children": [],
-   "end": "2741.920",
-   "id": "f000134",
+   "end": "2748.120",
+   "id": "f000376",
    "language": "eng",
    "lines": [
     "Epilogue"
    ]
   },
   {
-   "begin": "2741.920",
+   "begin": "2748.120",
    "children": [],
-   "end": "2747.760",
-   "id": "f000135",
+   "end": "2755.840",
+   "id": "f000377",
    "language": "eng",
    "lines": [
     "What Lindy Told Me"
    ]
   },
   {
-   "begin": "2747.760",
+   "begin": "2755.840",
    "children": [],
-   "end": "2806.720",
-   "id": "f000136",
+   "end": "2760.280",
+   "id": "f000378",
    "language": "eng",
    "lines": [
-    "Now, reader, comes the end of the journey - and a fifth installment of the Incerto. So while trying to summarize the book, with the obligatory distillation, I saw the reflection of my face in a restaurant's mirror: dominated by a whitish beard, and a defiant East-Med (East Mediterranean) Greco-Phoenician pride in aging. It was more than two and a half decades ago that I put pen to paper for the Incerto, before my beard turned gray. Lindy was telling me that, for a certain class of things, I had less to prove, less to explain, and less to theorize. I had overheard someone in the restaurant saying emphatically, \"It is what it is,\" and the phrase kept repeating itself in my head."
+    "Now, reader, comes the end of the journey - and a fifth installment of the Incerto."
+   ]
+  },
+  {
+   "begin": "2760.280",
+   "children": [],
+   "end": "2778.000",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "So while trying to summarize the book, with the obligatory distillation, I saw the reflection of my face in a restaurant's mirror: dominated by a whitish beard, and a defiant East-Med (East Mediterranean) Greco-Phoenician pride in aging."
+   ]
+  },
+  {
+   "begin": "2778.000",
+   "children": [],
+   "end": "2785.960",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "It was more than two and a half decades ago that I put pen to paper for the Incerto, before my beard turned gray."
+   ]
+  },
+  {
+   "begin": "2785.960",
+   "children": [],
+   "end": "2794.840",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "Lindy was telling me that, for a certain class of things, I had less to prove, less to explain, and less to theorize."
+   ]
+  },
+  {
+   "begin": "2794.840",
+   "children": [],
+   "end": "2806.720",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "I had overheard someone in the restaurant saying emphatically, \"It is what it is,\" and the phrase kept repeating itself in my head."
    ]
   },
   {
    "begin": "2806.720",
    "children": [],
-   "end": "2810.280",
-   "id": "f000137",
+   "end": "2809.240",
+   "id": "f000383",
    "language": "eng",
    "lines": [
-    "No summary this time, no summary anymore. Per Lindy:"
+    "No summary this time, no summary anymore."
    ]
   },
   {
-   "begin": "2810.280",
+   "begin": "2809.240",
    "children": [],
-   "end": "2823.880",
-   "id": "f000138",
+   "end": "2810.320",
+   "id": "f000384",
    "language": "eng",
    "lines": [
-    "When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion."
+    "Per Lindy:"
+   ]
+  },
+  {
+   "begin": "2810.320",
+   "children": [],
+   "end": "2815.480",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "When the beard (or hair) is black, heed the reasoning, but ignore the conclusion."
+   ]
+  },
+  {
+   "begin": "2815.480",
+   "children": [],
+   "end": "2818.680",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "When the beard is gray, consider both reasoning and conclusion."
+   ]
+  },
+  {
+   "begin": "2818.680",
+   "children": [],
+   "end": "2823.880",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "When the beard is white, skip the reasoning, but mind the conclusion."
    ]
   },
   {
    "begin": "2823.880",
    "children": [],
-   "end": "2829.960",
-   "id": "f000139",
+   "end": "2829.880",
+   "id": "f000388",
    "language": "eng",
    "lines": [
     "So let me finish this book with a (long) maxim, via negativa style:"
    ]
   },
   {
-   "begin": "2829.960",
+   "begin": "2829.880",
    "children": [],
-   "end": "2831.840",
-   "id": "f000140",
+   "end": "2831.680",
+   "id": "f000389",
    "language": "eng",
    "lines": [
     "No muscles without strength,"
    ]
   },
   {
-   "begin": "2831.840",
+   "begin": "2831.680",
    "children": [],
-   "end": "2833.680",
-   "id": "f000141",
+   "end": "2833.560",
+   "id": "f000390",
    "language": "eng",
    "lines": [
     "friendship without trust,"
    ]
   },
   {
-   "begin": "2833.680",
+   "begin": "2833.560",
    "children": [],
-   "end": "2835.560",
-   "id": "f000142",
+   "end": "2836.120",
+   "id": "f000391",
    "language": "eng",
    "lines": [
     "opinion without consequence,"
    ]
   },
   {
-   "begin": "2835.560",
+   "begin": "2836.120",
    "children": [],
-   "end": "2836.520",
-   "id": "f000143",
+   "end": "2839.200",
+   "id": "f000392",
    "language": "eng",
    "lines": [
     "change without aesthetics,"
    ]
   },
   {
-   "begin": "2836.520",
+   "begin": "2839.200",
    "children": [],
-   "end": "2838.360",
-   "id": "f000144",
+   "end": "2840.400",
+   "id": "f000393",
    "language": "eng",
    "lines": [
     "age without values,"
    ]
   },
   {
-   "begin": "2838.360",
+   "begin": "2840.400",
    "children": [],
-   "end": "2839.240",
-   "id": "f000145",
+   "end": "2841.520",
+   "id": "f000394",
    "language": "eng",
    "lines": [
     "life without effort,"
    ]
   },
   {
-   "begin": "2839.240",
+   "begin": "2841.520",
    "children": [],
-   "end": "2840.280",
-   "id": "f000146",
+   "end": "2843.000",
+   "id": "f000395",
    "language": "eng",
    "lines": [
     "water without thirst,"
    ]
   },
   {
-   "begin": "2840.280",
+   "begin": "2843.000",
    "children": [],
-   "end": "2841.760",
-   "id": "f000147",
+   "end": "2844.040",
+   "id": "f000396",
    "language": "eng",
    "lines": [
     "food without nourishment,"
    ]
   },
   {
-   "begin": "2841.760",
+   "begin": "2844.040",
    "children": [],
-   "end": "2844.080",
-   "id": "f000148",
+   "end": "2846.200",
+   "id": "f000397",
    "language": "eng",
    "lines": [
     "love without sacrifice,"
    ]
   },
   {
-   "begin": "2844.080",
+   "begin": "2846.200",
    "children": [],
-   "end": "2845.840",
-   "id": "f000149",
+   "end": "2847.520",
+   "id": "f000398",
    "language": "eng",
    "lines": [
     "power without fairness,"
    ]
   },
   {
-   "begin": "2845.840",
+   "begin": "2847.520",
    "children": [],
-   "end": "2847.520",
-   "id": "f000150",
+   "end": "2848.960",
+   "id": "f000399",
    "language": "eng",
    "lines": [
     "facts without rigor,"
    ]
   },
   {
-   "begin": "2847.520",
+   "begin": "2848.960",
    "children": [],
-   "end": "2849.200",
-   "id": "f000151",
+   "end": "2852.120",
+   "id": "f000400",
    "language": "eng",
    "lines": [
     "statistics without logic,"
    ]
   },
   {
-   "begin": "2849.200",
+   "begin": "2852.120",
    "children": [],
-   "end": "2852.120",
-   "id": "f000152",
+   "end": "2855.440",
+   "id": "f000401",
    "language": "eng",
    "lines": [
     "mathematics without proof,"
    ]
   },
   {
-   "begin": "2852.120",
+   "begin": "2855.440",
    "children": [],
-   "end": "2854.200",
-   "id": "f000153",
+   "end": "2857.280",
+   "id": "f000402",
    "language": "eng",
    "lines": [
     "teaching without experience,"
    ]
   },
   {
-   "begin": "2854.200",
+   "begin": "2857.280",
    "children": [],
-   "end": "2856.120",
-   "id": "f000154",
+   "end": "2858.520",
+   "id": "f000403",
    "language": "eng",
    "lines": [
     "politeness without warmth,"
    ]
   },
   {
-   "begin": "2856.120",
+   "begin": "2858.520",
    "children": [],
-   "end": "2858.560",
-   "id": "f000155",
+   "end": "2861.200",
+   "id": "f000404",
    "language": "eng",
    "lines": [
     "values without embodiment,"
    ]
   },
   {
-   "begin": "2858.560",
+   "begin": "2861.200",
    "children": [],
-   "end": "2861.680",
-   "id": "f000156",
+   "end": "2863.320",
+   "id": "f000405",
    "language": "eng",
    "lines": [
     "degrees without erudition,"
    ]
   },
   {
-   "begin": "2861.680",
+   "begin": "2863.320",
    "children": [],
-   "end": "2866.080",
-   "id": "f000157",
+   "end": "2866.840",
+   "id": "f000406",
    "language": "eng",
    "lines": [
     "militarism without fortitude,"
    ]
   },
   {
-   "begin": "2866.080",
+   "begin": "2866.840",
    "children": [],
-   "end": "2868.800",
-   "id": "f000158",
+   "end": "2868.840",
+   "id": "f000407",
    "language": "eng",
    "lines": [
     "progress without civilization,"
    ]
   },
   {
-   "begin": "2868.800",
+   "begin": "2868.840",
    "children": [],
-   "end": "2871.400",
-   "id": "f000159",
+   "end": "2870.640",
+   "id": "f000408",
    "language": "eng",
    "lines": [
     "friendship without investment,"
    ]
   },
   {
-   "begin": "2871.400",
+   "begin": "2870.640",
    "children": [],
-   "end": "2872.840",
-   "id": "f000160",
+   "end": "2872.320",
+   "id": "f000409",
    "language": "eng",
    "lines": [
     "virtue without risk,"
    ]
   },
   {
-   "begin": "2872.840",
+   "begin": "2872.320",
    "children": [],
    "end": "2874.880",
-   "id": "f000161",
+   "id": "f000410",
    "language": "eng",
    "lines": [
     "probability without ergodicity,"
@@ -1613,18 +4103,18 @@
   {
    "begin": "2874.880",
    "children": [],
-   "end": "2876.920",
-   "id": "f000162",
+   "end": "2876.800",
+   "id": "f000411",
    "language": "eng",
    "lines": [
     "wealth without exposure,"
    ]
   },
   {
-   "begin": "2876.920",
+   "begin": "2876.800",
    "children": [],
    "end": "2879.320",
-   "id": "f000163",
+   "id": "f000412",
    "language": "eng",
    "lines": [
     "complication without depth,"
@@ -1633,58 +4123,58 @@
   {
    "begin": "2879.320",
    "children": [],
-   "end": "2883.680",
-   "id": "f000164",
+   "end": "2883.600",
+   "id": "f000413",
    "language": "eng",
    "lines": [
     "fluency without content,"
    ]
   },
   {
-   "begin": "2883.680",
+   "begin": "2883.600",
    "children": [],
-   "end": "2886.200",
-   "id": "f000165",
+   "end": "2886.160",
+   "id": "f000414",
    "language": "eng",
    "lines": [
     "decision without asymmetry,"
    ]
   },
   {
-   "begin": "2886.200",
+   "begin": "2886.160",
    "children": [],
-   "end": "2888.520",
-   "id": "f000166",
+   "end": "2888.400",
+   "id": "f000415",
    "language": "eng",
    "lines": [
     "science without skepticism,"
    ]
   },
   {
-   "begin": "2888.520",
+   "begin": "2888.400",
    "children": [],
-   "end": "2890.480",
-   "id": "f000167",
+   "end": "2890.360",
+   "id": "f000416",
    "language": "eng",
    "lines": [
     "religion without tolerance,"
    ]
   },
   {
-   "begin": "2890.480",
+   "begin": "2890.360",
    "children": [],
-   "end": "2893.440",
-   "id": "f000168",
+   "end": "2893.360",
+   "id": "f000417",
    "language": "eng",
    "lines": [
     "and, most of all:"
    ]
   },
   {
-   "begin": "2893.440",
+   "begin": "2893.360",
    "children": [],
    "end": "2895.640",
-   "id": "f000169",
+   "id": "f000418",
    "language": "eng",
    "lines": [
     "nothing without skin in the game."
@@ -1693,261 +4183,591 @@
   {
    "begin": "2895.640",
    "children": [],
-   "end": "2897.920",
-   "id": "f000170",
+   "end": "2899.200",
+   "id": "f000419",
    "language": "eng",
    "lines": [
     "And thank you for reading my book."
    ]
   },
   {
-   "begin": "2897.920",
+   "begin": "2899.200",
    "children": [],
-   "end": "2898.600",
-   "id": "f000171",
+   "end": "2900.240",
+   "id": "f000420",
    "language": "eng",
    "lines": [
     "Glossary"
    ]
   },
   {
-   "begin": "2898.600",
+   "begin": "2900.240",
    "children": [],
-   "end": "2917.480",
-   "id": "f000172",
+   "end": "2913.280",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "Rent Seeking: trying to use protective regulations or \"rights\" to derive income without adding anything to economic activity, without increasing the wealth of others. As Fat Tony would define it, it is like being forced to pay protection money to the Mafia without getting the economic benefits of protection."
+    "Rent Seeking: trying to use protective regulations or \"rights\" to derive income without adding anything to economic activity, without increasing the wealth of others."
    ]
   },
   {
-   "begin": "2917.480",
+   "begin": "2913.280",
    "children": [],
-   "end": "2948.920",
-   "id": "f000173",
+   "end": "2927.280",
+   "id": "f000422",
    "language": "eng",
    "lines": [
-    "Revelation of Preferences: the theory, originating with Paul Samuelson (initially in the context of choice of public goods), that agents do not have full access to the reasoning behind their actions; actions are observables, while thought is not, which prevents the latter from being used for rigorous scientific investigation. In economics, experiments require an actual expenditure by the agent. Fat Tony's summary is \"tawk is always cheap.\""
+    "As Fat Tony would define it, it is like being forced to pay protection money to the Mafia without getting the economic benefits of protection."
    ]
   },
   {
-   "begin": "2948.920",
+   "begin": "2927.280",
    "children": [],
-   "end": "2974.800",
-   "id": "f000174",
+   "end": "2952.600",
+   "id": "f000423",
    "language": "eng",
    "lines": [
-    "Regulatory Capture: situations where regulations end up being \"gamed\" by an agent, often in divergence from the original intent of the regulation. Some bureaucrats and businesspersons may owe part of their income to protective regulations and franchises, and lobby for them. Note that regulations are easier to put in than to correct and remove."
+    "Revelation of Preferences: the theory, originating with Paul Samuelson (initially in the context of choice of public goods), that agents do not have full access to the reasoning behind their actions; actions are observables, while thought is not, which prevents the latter from being used for rigorous scientific investigation."
    ]
   },
   {
-   "begin": "2974.800",
+   "begin": "2952.600",
    "children": [],
-   "end": "2999.040",
-   "id": "f000175",
+   "end": "2959.320",
+   "id": "f000424",
    "language": "eng",
    "lines": [
-    "Scientism: the belief that science looks\u2026like science, with too much emphasis on the cosmetic aspects, rather than its skeptical machinery. It prevails in domains with administrators judging contributions according to metrics. It also prevails in domains left to people who talk about science without \"doing,\" such as journalists and schoolteachers."
+    "In economics, experiments require an actual expenditure by the agent."
    ]
   },
   {
-   "begin": "2999.040",
+   "begin": "2959.320",
+   "children": [],
+   "end": "2962.400",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "Fat Tony's summary is \"tawk is always cheap.\""
+   ]
+  },
+  {
+   "begin": "2962.400",
+   "children": [],
+   "end": "2977.200",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "Regulatory Capture: situations where regulations end up being \"gamed\" by an agent, often in divergence from the original intent of the regulation."
+   ]
+  },
+  {
+   "begin": "2977.200",
+   "children": [],
+   "end": "2987.320",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "Some bureaucrats and businesspersons may owe part of their income to protective regulations and franchises, and lobby for them."
+   ]
+  },
+  {
+   "begin": "2987.320",
+   "children": [],
+   "end": "2993.320",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "Note that regulations are easier to put in than to correct and remove."
+   ]
+  },
+  {
+   "begin": "2993.320",
+   "children": [],
+   "end": "3001.600",
+   "id": "f000429",
+   "language": "eng",
+   "lines": [
+    "Scientism: the belief that science looks\u2026like science, with too much emphasis on the cosmetic aspects, rather than its skeptical machinery."
+   ]
+  },
+  {
+   "begin": "3001.600",
    "children": [],
    "end": "3007.160",
-   "id": "f000176",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "It prevails in domains with administrators judging contributions according to metrics."
+   ]
+  },
+  {
+   "begin": "3007.160",
+   "children": [],
+   "end": "3012.240",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "It also prevails in domains left to people who talk about science without \"doing,\" such as journalists and schoolteachers."
+   ]
+  },
+  {
+   "begin": "3012.240",
+   "children": [],
+   "end": "3019.880",
+   "id": "f000432",
    "language": "eng",
    "lines": [
     "Naive Rationalism: Belief that we have access to what makes the world work and that what we don't understand doesn't exist."
    ]
   },
   {
-   "begin": "3007.160",
+   "begin": "3019.880",
    "children": [],
-   "end": "3009.240",
-   "id": "f000177",
+   "end": "3024.520",
+   "id": "f000433",
    "language": "eng",
    "lines": [
     "Intellectual Yet Idiot: an idiot."
    ]
   },
   {
-   "begin": "3009.240",
+   "begin": "3024.520",
    "children": [],
-   "end": "3025.840",
-   "id": "f000178",
+   "end": "3040.280",
+   "id": "f000434",
    "language": "eng",
    "lines": [
     "Pseudo-rationalism: 1) focusing on the rationality of a belief rather than its consequences, 2) the use of bad probabilistic models to naively decry people's \"irrationality\" when they engage in a certain class of actions."
    ]
   },
   {
-   "begin": "3025.840",
+   "begin": "3040.280",
    "children": [],
-   "end": "3035.360",
-   "id": "f000179",
+   "end": "3055.320",
+   "id": "f000435",
    "language": "eng",
    "lines": [
     "Agency Problem: misalignment of interest between the agent and the principal, say between the car salesman and you (the potential owner), or between the doctor and the patient."
    ]
   },
   {
-   "begin": "3035.360",
+   "begin": "3055.320",
    "children": [],
-   "end": "3061.120",
-   "id": "f000180",
+   "end": "3066.960",
+   "id": "f000436",
    "language": "eng",
    "lines": [
-    "Bob Rubin Trade: payoff in a skewed domain where the benefits are visible (and rewarded with some compensation) and the detriment is rare (and unpunished owing to absence of skin in the game). Can be generalized to politics, anything where the penalty is weak and the victims are abstract and distributed (say taxpayers or shareholders)."
+    "Bob Rubin Trade: payoff in a skewed domain where the benefits are visible (and rewarded with some compensation) and the detriment is rare (and unpunished owing to absence of skin in the game)."
    ]
   },
   {
-   "begin": "3061.120",
+   "begin": "3066.960",
    "children": [],
-   "end": "3074.320",
-   "id": "f000181",
+   "end": "3080.040",
+   "id": "f000437",
    "language": "eng",
    "lines": [
-    "Interventionista: someone who causes fragility because he thinks he understands what's going on. He is not exposed to the filter and discipline of skin in the game. Also, usually lacks sense of humor."
+    "Can be generalized to politics, anything where the penalty is weak and the victims are abstract and distributed (say taxpayers or shareholders)."
    ]
   },
   {
-   "begin": "3074.320",
+   "begin": "3080.040",
    "children": [],
-   "end": "3096.040",
-   "id": "f000182",
+   "end": "3086.920",
+   "id": "f000438",
    "language": "eng",
    "lines": [
-    "Green Lumber Fallacy: mistaking the source of important or even necessary knowledge - the greenness of lumber - for another, less visible from the outside, less tractable one. How theoreticians impute wrong weights to what one should know in a certain business, or, more generally, how many things we call \"relevant knowledge\" aren't so much so."
+    "Interventionista: someone who causes fragility because he thinks he understands what's going on."
    ]
   },
   {
-   "begin": "3096.040",
+   "begin": "3086.920",
    "children": [],
-   "end": "3111.680",
-   "id": "f000183",
+   "end": "3091.120",
+   "id": "f000439",
    "language": "eng",
    "lines": [
-    "Lecturing-Birds-How-to-Fly Effect: inverting the arrow of knowledge to read academia \u279d practice, or education \u279d wealth, to make it look as though technology owes more to institutional science than it actually does. See Antifragile."
+    "He is not exposed to the filter and discipline of skin in the game."
    ]
   },
   {
-   "begin": "3111.680",
+   "begin": "3091.120",
    "children": [],
-   "end": "3138.320",
-   "id": "f000184",
+   "end": "3094.080",
+   "id": "f000440",
    "language": "eng",
    "lines": [
-    "Lindy Effect: when a technology, idea, corporation, or anything nonperishable has an increase in life expectancy with every additional day of survival - unlike perishable items (such as humans, cats, dogs, economic theories, and tomatoes). So a book that has been a hundred years in print is likely to stay in print another hundred years - provided its sales remain healthy."
+    "Also, usually lacks sense of humor."
    ]
   },
   {
-   "begin": "3138.320",
+   "begin": "3094.080",
    "children": [],
-   "end": "3168.040",
-   "id": "f000185",
+   "end": "3103.400",
+   "id": "f000441",
    "language": "eng",
    "lines": [
-    "Ergodicity: In our context here, ergodicity holds when a collection of players have the same statistical properties (particularly expectation) as a single player over time. Ensemble probabilities are similar to time probabilities. Absence of ergodicity makes the risk properties not directly transferable from observed probability to the payoff of a strategy subjected to ruin (or any absorbing barrier or \"uncle point\") - in other words, not probabilistically sustainable."
+    "Green Lumber Fallacy: mistaking the source of important or even necessary knowledge - the greenness of lumber - for another, less visible from the outside, less tractable one."
    ]
   },
   {
-   "begin": "3168.040",
+   "begin": "3103.400",
    "children": [],
-   "end": "3180.680",
-   "id": "f000186",
+   "end": "3115.200",
+   "id": "f000442",
    "language": "eng",
    "lines": [
-    "Mediocristan: a process dominated by the mediocre, with few extreme successes or failures (say, income for a dentist). No single observation can meaningfully affect the aggregate. Also called \"thin-tailed,\" or member of the Gaussian family of distributions."
+    "How theoreticians impute wrong weights to what one should know in a certain business, or, more generally, how many things we call \"relevant knowledge\" aren't so much so."
    ]
   },
   {
-   "begin": "3180.680",
+   "begin": "3115.200",
+   "children": [],
+   "end": "3127.400",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "Lecturing-Birds-How-to-Fly Effect: inverting the arrow of knowledge to read academia \u279d practice, or education \u279d wealth, to make it look as though technology owes more to institutional science than it actually does."
+   ]
+  },
+  {
+   "begin": "3127.400",
+   "children": [],
+   "end": "3130.200",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "See Antifragile."
+   ]
+  },
+  {
+   "begin": "3130.200",
+   "children": [],
+   "end": "3144.920",
+   "id": "f000445",
+   "language": "eng",
+   "lines": [
+    "Lindy Effect: when a technology, idea, corporation, or anything nonperishable has an increase in life expectancy with every additional day of survival - unlike perishable items (such as humans, cats, dogs, economic theories, and tomatoes)."
+   ]
+  },
+  {
+   "begin": "3144.920",
+   "children": [],
+   "end": "3152.520",
+   "id": "f000446",
+   "language": "eng",
+   "lines": [
+    "So a book that has been a hundred years in print is likely to stay in print another hundred years - provided its sales remain healthy."
+   ]
+  },
+  {
+   "begin": "3152.520",
+   "children": [],
+   "end": "3161.160",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "Ergodicity: In our context here, ergodicity holds when a collection of players have the same statistical properties (particularly expectation) as a single player over time."
+   ]
+  },
+  {
+   "begin": "3161.160",
+   "children": [],
+   "end": "3165.600",
+   "id": "f000448",
+   "language": "eng",
+   "lines": [
+    "Ensemble probabilities are similar to time probabilities."
+   ]
+  },
+  {
+   "begin": "3165.600",
+   "children": [],
+   "end": "3181.720",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    "Absence of ergodicity makes the risk properties not directly transferable from observed probability to the payoff of a strategy subjected to ruin (or any absorbing barrier or \"uncle point\") - in other words, not probabilistically sustainable."
+   ]
+  },
+  {
+   "begin": "3181.720",
+   "children": [],
+   "end": "3191.520",
+   "id": "f000450",
+   "language": "eng",
+   "lines": [
+    "Mediocristan: a process dominated by the mediocre, with few extreme successes or failures (say, income for a dentist)."
+   ]
+  },
+  {
+   "begin": "3191.520",
    "children": [],
    "end": "3194.480",
-   "id": "f000187",
+   "id": "f000451",
    "language": "eng",
    "lines": [
-    "Extremistan: a process where the total can be conceivably impacted by a single observation (say, income for a writer). Also called \"fat-tailed.\" Includes the fractal, or power-law, family of distributions. See subexponentiality in the Appendix."
+    "No single observation can meaningfully affect the aggregate."
    ]
   },
   {
    "begin": "3194.480",
    "children": [],
-   "end": "3225.240",
-   "id": "f000188",
+   "end": "3200.600",
+   "id": "f000452",
    "language": "eng",
    "lines": [
-    "Minority Rule: an asymmetry by which the behavior of the total is dictated by the preferences of a minority. Smokers can be in smoke-free areas but nonsmokers cannot be in smoking ones, so nonsmokers will prevail, not because they are initially a majority, but because they are asymmetric. It is held by the author that languages, ethics, and (some) religions spread by minority rule."
+    "Also called \"thin-tailed,\" or member of the Gaussian family of distributions."
    ]
   },
   {
-   "begin": "3225.240",
+   "begin": "3200.600",
    "children": [],
-   "end": "3258.360",
-   "id": "f000189",
+   "end": "3210.960",
+   "id": "f000453",
    "language": "eng",
    "lines": [
-    "Via Negativa: in theology and philosophy, the focus on what something is not, an indirect definition, deemed less prone to fallacies than via positiva. In action, it is a recipe for what to avoid, what not to do - subtraction, not addition, works better in domains with multiplicative and unpredictable side effects. In medicine, stopping someone from smoking has fewer adverse effects than giving pills and treatments."
+    "Extremistan: a process where the total can be conceivably impacted by a single observation (say, income for a writer)."
    ]
   },
   {
-   "begin": "3258.360",
+   "begin": "3210.960",
    "children": [],
-   "end": "3278.120",
-   "id": "f000190",
+   "end": "3212.720",
+   "id": "f000454",
    "language": "eng",
    "lines": [
-    "Scalability: The qualities of entities change, often abruptly, when they get smaller or larger: cities are different from large states, continents are very different from islands. Collective behavior switches when the size of the groups increases, an argument for localism and against unfettered globalism."
+    "Also called \"fat-tailed.\""
    ]
   },
   {
-   "begin": "3278.120",
+   "begin": "3212.720",
    "children": [],
-   "end": "3311.520",
-   "id": "f000191",
+   "end": "3218.120",
+   "id": "f000455",
    "language": "eng",
    "lines": [
-    "Intellectual Monoculture: Journalists, academics, and other slaves without skin in the game in a given subject converge to a \"bien pensant\" mode that can be manipulated and often resists empirical backing. The reason is that penalty from divergence is often penalized with labels such as \"Putinist,\" \"baby killer,\" or \"racist\" (children are always used by charlatans as a sensationalist argument). This is similar to the way ecological diversity decreases when an island gets larger (see The Black Swan)."
+    "Includes the fractal, or power-law, family of distributions."
    ]
   },
   {
-   "begin": "3311.520",
+   "begin": "3218.120",
    "children": [],
-   "end": "3350.440",
-   "id": "f000192",
+   "end": "3221.560",
+   "id": "f000456",
    "language": "eng",
    "lines": [
-    "Virtue Merchandising: the debasing of virtue by using it as a marketing strategy. Classically, virtue needs to be kept private, which clashes with modern \"save the environment\"-style messages. Virtue merchandisers are often hypocrites. Further, virtue devoid of courage, sacrifice, and skin in the game is never virtue. Virtue merchandising is similar to simony, which in the Middle Ages allowed someone of means to buy ecclesiastical positions or indulgences, to expunge his or her sins by payment."
+    "See subexponentiality in the Appendix."
    ]
   },
   {
-   "begin": "3350.440",
+   "begin": "3221.560",
    "children": [],
-   "end": "3358.560",
-   "id": "f000193",
+   "end": "3228.760",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "Minority Rule: an asymmetry by which the behavior of the total is dictated by the preferences of a minority."
+   ]
+  },
+  {
+   "begin": "3228.760",
+   "children": [],
+   "end": "3247.680",
+   "id": "f000458",
+   "language": "eng",
+   "lines": [
+    "Smokers can be in smoke-free areas but nonsmokers cannot be in smoking ones, so nonsmokers will prevail, not because they are initially a majority, but because they are asymmetric."
+   ]
+  },
+  {
+   "begin": "3247.680",
+   "children": [],
+   "end": "3254.480",
+   "id": "f000459",
+   "language": "eng",
+   "lines": [
+    "It is held by the author that languages, ethics, and (some) religions spread by minority rule."
+   ]
+  },
+  {
+   "begin": "3254.480",
+   "children": [],
+   "end": "3264.280",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "Via Negativa: in theology and philosophy, the focus on what something is not, an indirect definition, deemed less prone to fallacies than via positiva."
+   ]
+  },
+  {
+   "begin": "3264.280",
+   "children": [],
+   "end": "3278.720",
+   "id": "f000461",
+   "language": "eng",
+   "lines": [
+    "In action, it is a recipe for what to avoid, what not to do - subtraction, not addition, works better in domains with multiplicative and unpredictable side effects."
+   ]
+  },
+  {
+   "begin": "3278.720",
+   "children": [],
+   "end": "3288.040",
+   "id": "f000462",
+   "language": "eng",
+   "lines": [
+    "In medicine, stopping someone from smoking has fewer adverse effects than giving pills and treatments."
+   ]
+  },
+  {
+   "begin": "3288.040",
+   "children": [],
+   "end": "3297.640",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "Scalability: The qualities of entities change, often abruptly, when they get smaller or larger: cities are different from large states, continents are very different from islands."
+   ]
+  },
+  {
+   "begin": "3297.640",
+   "children": [],
+   "end": "3304.520",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "Collective behavior switches when the size of the groups increases, an argument for localism and against unfettered globalism."
+   ]
+  },
+  {
+   "begin": "3304.520",
+   "children": [],
+   "end": "3318.320",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "Intellectual Monoculture: Journalists, academics, and other slaves without skin in the game in a given subject converge to a \"bien pensant\" mode that can be manipulated and often resists empirical backing."
+   ]
+  },
+  {
+   "begin": "3318.320",
+   "children": [],
+   "end": "3329.800",
+   "id": "f000466",
+   "language": "eng",
+   "lines": [
+    "The reason is that penalty from divergence is often penalized with labels such as \"Putinist,\" \"baby killer,\" or \"racist\" (children are always used by charlatans as a sensationalist argument)."
+   ]
+  },
+  {
+   "begin": "3329.800",
+   "children": [],
+   "end": "3335.200",
+   "id": "f000467",
+   "language": "eng",
+   "lines": [
+    "This is similar to the way ecological diversity decreases when an island gets larger (see The Black Swan)."
+   ]
+  },
+  {
+   "begin": "3335.200",
+   "children": [],
+   "end": "3340.840",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "Virtue Merchandising: the debasing of virtue by using it as a marketing strategy."
+   ]
+  },
+  {
+   "begin": "3340.840",
+   "children": [],
+   "end": "3348.440",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "Classically, virtue needs to be kept private, which clashes with modern \"save the environment\"-style messages."
+   ]
+  },
+  {
+   "begin": "3348.440",
+   "children": [],
+   "end": "3353.240",
+   "id": "f000470",
+   "language": "eng",
+   "lines": [
+    "Virtue merchandisers are often hypocrites."
+   ]
+  },
+  {
+   "begin": "3353.240",
+   "children": [],
+   "end": "3359.480",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "Further, virtue devoid of courage, sacrifice, and skin in the game is never virtue."
+   ]
+  },
+  {
+   "begin": "3359.480",
+   "children": [],
+   "end": "3371.560",
+   "id": "f000472",
+   "language": "eng",
+   "lines": [
+    "Virtue merchandising is similar to simony, which in the Middle Ages allowed someone of means to buy ecclesiastical positions or indulgences, to expunge his or her sins by payment."
+   ]
+  },
+  {
+   "begin": "3371.560",
+   "children": [],
+   "end": "3375.360",
+   "id": "f000473",
    "language": "eng",
    "lines": [
     "Golden Rule (symmetry): Treat others the way you would like them to treat you."
    ]
   },
   {
-   "begin": "3358.560",
+   "begin": "3375.360",
    "children": [],
-   "end": "3377.920",
-   "id": "f000194",
+   "end": "3379.760",
+   "id": "f000474",
    "language": "eng",
    "lines": [
-    "Silver Rule (negative golden rule): Do not do to others what you would not like them to do to you. Note the difference from the Golden Rule, as the silver one prevents busybodies from attempting to run your life."
+    "Silver Rule (negative golden rule): Do not do to others what you would not like them to do to you."
    ]
   },
   {
-   "begin": "3377.920",
+   "begin": "3379.760",
    "children": [],
-   "end": "3398.080",
-   "id": "f000195",
+   "end": "3384.720",
+   "id": "f000475",
    "language": "eng",
    "lines": [
-    "Principle of Charity: Exercise symmetry in intellectual debates; represent the argument of the opponent as accurately as you would like yours to be represented. The opposite of \"strawman.\""
+    "Note the difference from the Golden Rule, as the silver one prevents busybodies from attempting to run your life."
+   ]
+  },
+  {
+   "begin": "3384.720",
+   "children": [],
+   "end": "3393.480",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "Principle of Charity: Exercise symmetry in intellectual debates; represent the argument of the opponent as accurately as you would like yours to be represented."
+   ]
+  },
+  {
+   "begin": "3393.480",
+   "children": [],
+   "end": "3398.080",
+   "id": "f000477",
+   "language": "eng",
+   "lines": [
+    "The opposite of \"strawman.\""
    ]
   }
  ]
